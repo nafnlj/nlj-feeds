@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-13T04:26:12.551Z</updated>
+    <updated>2023-04-13T04:31:59.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1195,27 +1195,6 @@ https://thenewleafjournal.com/keyboard-shortcut-typos-ice-vs-ice/
 #newspaper #typo #macro #shortcut #ice #immigrationlaw]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sarcasm about Putin’s long speeches]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=16875</id>
-        <link href="https://thenewleafjournal.com/leaf/sarcasm-about-putins-long-speeches/"/>
-        <updated>2023-03-14T16:29:18.000Z</updated>
-        <summary type="html"><![CDATA[Mr. Eugene Volokh published an article titled Vladimir Putin, Better Than Any Psychotherapist. In the article, Mr. Volokh, with the aid […]
-Possibly related posts (relevancy may vary...):
-
-Justin and Justina review 2022 at the NLJ
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-1914 Moral Story For Children on Responsibility
-The Poetry of Charlotte Becker - Early Twentieth Century…
-Benjamin Harrison's Memorable July 4, 1888
-The New Leaf Journal Celebrates Its First Birthday
-The al|together and Insani Visual Novel Translations
-Calvin Coolidge's July 4, 1918 Remarks in Fairhaven
-The Enigmatic Life and Death of Emperor Otho]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
