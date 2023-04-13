@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nafnlj.github.io/nlj-feeds/index.html</id>
-    <title>osmos::feed</title>
-    <updated>2023-04-13T01:42:22.563Z</updated>
+    <id>https://nafnlj.github.io/nljfeeds/index.html</id>
+    <title>New Leaf Journal Feeds</title>
+    <updated>2023-04-13T01:57:05.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="https://nafnlj.github.io/nlj-feeds/index.html"/>
-    <link rel="self" href="https://nafnlj.github.io/nlj-feeds/feed.atom"/>
+    <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
+    <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo & Mark Caserta "Dorothea" (Taylor Swift) COVID-19 Pandemic Home Recording 2020]]></title>
+        <id>https://www.youtube.com/watch?v=I_KV7GjXFLY</id>
+        <link href="https://www.youtube.com/watch?v=I_KV7GjXFLY"/>
+        <updated>2023-04-12T19:59:06.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How the Finnish get by without small talk]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19474</id>
@@ -91,6 +100,38 @@ An Introduction to RSS and Other Feed Formats]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo "Mondrian" COVID-19 Pandemic Home Recording 2020]]></title>
+        <id>https://www.youtube.com/watch?v=pm8xQbZmnjI</id>
+        <link href="https://www.youtube.com/watch?v=pm8xQbZmnjI"/>
+        <updated>2023-04-10T21:33:52.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110175415116200976</id>
+        <link href="https://linuxrocks.online/@nafnlj/110175415116200976"/>
+        <updated>2023-04-10T16:16:59.000Z</updated>
+        <summary type="html"><![CDATA[In a 2019 interview, a representative of the Czech-based Seznam search engine (interesting Czech-based project with its own crawler) discussed the challenges of indexing English-language sites due to the fact that many block all crawlers except Google.  Being a supporter of independent search indexes, I wrote a brief PSA for webmasters on the subject of allowing independent search engines with their own crawlers.  In addition to Seznam, I singled out @Mojeek , InfoTiger, and Marginalia Search as being worth whitelisting for sites with generally restrictive robots.txt rules.
+https://thenewleafjournal.com/whitelisting-independent-search-crawlers/
+#searchengine #search #indexing #bots #webmaster]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Unique Phil Mickelson Article]]></title>
+        <id>https://newleafannex.bearblog.dev/my-unique-phil-mickelson-article/</id>
+        <link href="https://newleafannex.bearblog.dev/my-unique-phil-mickelson-article/"/>
+        <updated>2023-04-10T16:10:12.688Z</updated>
+        <summary type="html"><![CDATA[The tagline of my main project, The New Leaf Journal, is "where the leaves are perennially virid." As I explained in a post on the inspiration for the tagline, the slogan gets at two ideas. The first is that I try to write evergreen articles. The second is that I try to produce unique articles worth your time. There is no shortage of writing online. Some of the writing even comes from the keyboards of human beings writing in a language they are fluent in. While I try to bring a fresh perspective to all of my articles, I cannot always say that my topics are unique. However, I published a short "leaflet" aside yesterday which I think is unique.
+I used to regularly watch professional golf. While I have not watched much golf in several years, I stay somewhat abreast of the goings on. Back in 2…]]></summary>
+        <author>
+            <name>The New Leaf Annex</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mickelson finishes second in Masters at 52]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19487</id>
         <link href="https://thenewleafjournal.com/leaf/mickelson-finishes-second-in-masters-at-52/"/>
@@ -130,6 +171,17 @@ The Angel Next Door Spoils Me Rotten - Anime Review
 My Glass Cannon is Tankier than Expected 〜 Lysithea-Fire…]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire Emblem Tiki overtakes Tsuki ga Kirei at the NLJ]]></title>
+        <id>https://newleafannex.bearblog.dev/tiki-tsuki-nlj/</id>
+        <link href="https://newleafannex.bearblog.dev/tiki-tsuki-nlj/"/>
+        <updated>2023-04-09T03:42:14.421Z</updated>
+        <summary type="html"><![CDATA[On March 14, 2021, I published a lengthy research article titled The Mystery of Sōseki and Tsuki ga Kirei. In that post, I collected English-language sources on a certain legend that Natsume Sōseki had suggested "tsuki ga kirei" (the Moon is beautiful) as a Japanese translation for "I love you." I had learned about the tsuki ga kirei legend from the excellent 2017 anime series (it featured in my decade review, Tsuki ga Kirei, and while it is likely a work of fiction (I knew that going into my research project), the phrase is aesthetically elegant.
+(Note before continuing: All of my page view statistics come from Koko Analytics, an entirely local and privacy-friendly analytics plugin for WordPress. It sacrifices a bit in accuracy for privacy, but my comparison of its recorded Google refers …]]></summary>
+        <author>
+            <name>The New Leaf Annex</name>
         </author>
     </entry>
     <entry>
@@ -196,6 +248,52 @@ I published four regular articles and six short posts…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo & Co. "Rachel's Hymn" Live at Montague Open Streets 9/24/22]]></title>
+        <id>https://www.youtube.com/watch?v=VLtKTDb5_7I</id>
+        <link href="https://www.youtube.com/watch?v=VLtKTDb5_7I"/>
+        <updated>2023-04-08T04:50:44.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo & Co. "Skinner Box Blues" Live at Montague Open Streets 9/24/22]]></title>
+        <id>https://www.youtube.com/watch?v=InP77E0WkUw</id>
+        <link href="https://www.youtube.com/watch?v=InP77E0WkUw"/>
+        <updated>2023-04-08T04:40:54.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo & Co. "Jocasta" Live at 5th Avenue Open Streets 9/17/22]]></title>
+        <id>https://www.youtube.com/watch?v=xXuT7l1P7JI</id>
+        <link href="https://www.youtube.com/watch?v=xXuT7l1P7JI"/>
+        <updated>2023-04-08T03:50:31.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo & Co. "Please Jump Out Your Window" Live at Montague Open Streets 9/24/22]]></title>
+        <id>https://www.youtube.com/watch?v=zRgjfu2mSv0</id>
+        <link href="https://www.youtube.com/watch?v=zRgjfu2mSv0"/>
+        <updated>2023-04-08T03:31:39.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bear Blog analytics and Romania]]></title>
+        <id>https://newleafannex.bearblog.dev/bearblog-analytics-romania/</id>
+        <link href="https://newleafannex.bearblog.dev/bearblog-analytics-romania/"/>
+        <updated>2023-04-08T03:18:36.977Z</updated>
+        <summary type="html"><![CDATA[I took a look at my Bear Blog analytics. Unsurprisingly given my small number of posts and the fact that I tend to reserve my best content for The New Leaf Journal (I largely leave quality determinations to others), I only have a handful of Bear Blog readers. From this small sample, I have noted that a majority of my readers are based in Romania. Nearly all of the referrals are from Bear Blog (not surprising). Are there a large number of Bear Blog users and readers in Romania or are people using VPNs? The sample size is too small for me to make much of it. I personally use Mullvad VPN, but I set the location to New York instead of Romania.]]></summary>
+        <author>
+            <name>The New Leaf Annex</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Poor assumptions about new NYC subways]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19472</id>
         <link href="https://thenewleafjournal.com/leafbud/poor-assumptions-about-new-nyc-subways/"/>
@@ -259,6 +357,56 @@ Performing Site-Specific Searches With DuckDuckGo]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110152685669286144</id>
+        <link href="https://linuxrocks.online/@nafnlj/110152685669286144"/>
+        <updated>2023-04-06T15:56:35.000Z</updated>
+        <summary type="html"><![CDATA[If you decide to read Shooting Star Hill (see previous post in thread), I also wrote a separate, spoiler-filled story analysis piece.
+https://thenewleafjournal.com/visual-novel-analysis-shooting-star-hill/
+#visualnovel #visualnovels #visualnovelreview]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110152682195975227</id>
+        <link href="https://linuxrocks.online/@nafnlj/110152682195975227"/>
+        <updated>2023-04-06T15:55:42.000Z</updated>
+        <summary type="html"><![CDATA[My review of Shooting Star Hill, the official English version of the freeware 2005 Japanese visual novel, Hoshi no Furu Oka. It tells the story of a lonely (alien?) girl and the boy who wants to befriend her.  I enjoyed Shooting Star Hill and it is one of the better entries from the review project that I am doing. It takes about one hour to read and remains free to download and run. Linux users should either run the Windows version under WINE or replace the old Linux ONScripter-EN executable that comes with the game with the most recent build (links and instructions in article).
+(Note: I should really replace those old screenshots with borderless screenshots... someday.)
+https://thenewleafjournal.com/visual-novel-review-shooting-star-hill/
+#visualnovel #visualnovels #visualnovelreview #onscripter]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tweaking Handy Reading]]></title>
+        <id>https://newleafannex.bearblog.dev/tweaking-handy-reading/</id>
+        <link href="https://newleafannex.bearblog.dev/tweaking-handy-reading/"/>
+        <updated>2023-04-06T15:36:38.088Z</updated>
+        <summary type="html"><![CDATA[In my previous post, I offered my very early impressions of a free and open source Android feed reader and read-it-later app called Handy Reading. My early impressions were very favorable because, by combining feed reading and read-it-later into a local app, it perfectly suits my reading-flow (see my post on combining feeds with a read-it-later solution). However, I had one pressing issue with Handy Reading:
+Handy Reading re-fetches old, previously seen articles from a small number of feeds, which is a bit annoying.
+Two days later, I think that I have tentatively resolved the issue. By default, Handy Reading has a short "keep old articles" time. It seems that if a feed is offering old articles outside the scope of Handy Reading's kept article time, it will re-fetch those old articles and display them is new even if you have already marked them as read in the app. Fortunately, Handy Reading allows you to set the keep old articles period on a feed-by-feed basis. I have been doing that with the offending feeds and so far the results have been good.
+Provided no new issues pop up, I will try a few additional features of Handy Reading before proceeding to a review. One issue that I am particularly interested in is testing its import/export functionality, since that proved to be an issue with my previous solution -- Flym DecSync. I recently talked to one Mastodon user who reported that Handy Reading does not handle Mastodon feeds, which is true. While I hope this is fixed, it is not a priority for me since I do not use my feed reader for social feeds.]]></summary>
+        <author>
+            <name>The New Leaf Annex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110146977888462180</id>
+        <link href="https://linuxrocks.online/@nafnlj/110146977888462180"/>
+        <updated>2023-04-05T15:45:01.000Z</updated>
+        <summary type="html"><![CDATA[While I may have an ongoing struggle with Bing, I found an article about an even worse problem -- being incorrectly flagged by Google Safe Browsing.  (Not wanting to tempt fate, I only wrote a short post on the matter.)
+https://thenewleafjournal.com/leafbud/website-blocked-by-google-safe-browsing/
+#google #bing #googlesafebrowsing #webmaster]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Refilling Water Gel Sunscreen Bottle]]></title>
         <id>https://thenewleafjournal.com/?p=19449</id>
         <link href="https://thenewleafjournal.com/refilling-water-gel-sunscreen-bottle/"/>
@@ -298,6 +446,18 @@ Anime Recommendations of the Decade (2011-20)
 Persona 4 Golden Digital Artbook Review (Steam)]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110142764215728403</id>
+        <link href="https://linuxrocks.online/@nafnlj/110142764215728403"/>
+        <updated>2023-04-04T21:53:25.000Z</updated>
+        <summary type="html"><![CDATA[I describe an interesting (fortunately minor) issue I had with my WordPress caching plugin, WP Super Cache, and disabling two types of lazy loading.  Certain changes or updates seem to restore lazy loading, requiring me to manually flush the cache.  The issue is easy to resolve... fortunately much easier than back in June 2020  when Bluehost (we're no longer with Bluehost) had some terrible server side caching that cached a plugin-cached version of my homepage from a week earlier (that was fun because I had no idea what I was doing in June 2020, I have a 33.4% idea of what I am doing now).
+https://thenewleafjournal.com/wp-super-cache-preload-and-lazy-loading/
+#wordpress #caching #wordpressplugin #blog]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
         </author>
     </entry>
     <entry>
@@ -385,6 +545,53 @@ Peekier Search Engine Review]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Handy Reading from F-Droid: Early Impressions]]></title>
+        <id>https://newleafannex.bearblog.dev/handy-reading-fdroid-early-impressions/</id>
+        <link href="https://newleafannex.bearblog.dev/handy-reading-fdroid-early-impressions/"/>
+        <updated>2023-04-03T18:01:09.014Z</updated>
+        <summary type="html"><![CDATA[I had been using DecSync, a decentralized cross-device synchronization solution designed to work with Syncthing, with RSS readers on my LineageOS and Linux devices for about one year. I planned to write a full review of DecSync for RSS. However, by the time I finally sat down to write my DecSync review, I had already moved from using DecSync for feeds to Handy Reading, a free and open source feed reader and read-it-later app for Android. Handy Reading, a fork of the no-longer-maintained Flym feed reader, is available on F-Droid. The Flym link is notable for me since I had been using a different Flym fork, Flym DecSync, prior to switching.
+I am very impressed with Handy Reading two weeks in. It does not have the prettiest UI (compares unfavorably to Feeder in this respect), but it is good e…]]></summary>
+        <author>
+            <name>The New Leaf Annex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110135445209277655</id>
+        <link href="https://linuxrocks.online/@nafnlj/110135445209277655"/>
+        <updated>2023-04-03T14:52:08.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft wants students to use an app that asks them to talk about their feelings in school with a Microsoft cartoon monster.  Their feelings will then be shared with teachers (and Microsotf?) This app is touted as not only being for young children, but also college students.  I had some... concerns.  You can read my concerns, but you won't find them on Bing or DuckDuckGo because Microsoft continues to blacklist us with no explanation.
+https://thenewleafjournal.com/the-dangers-of-adapting-school-to-tech/
+#microsoft #education #privacy #classroom]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110130264585032458</id>
+        <link href="https://linuxrocks.online/@nafnlj/110130264585032458"/>
+        <updated>2023-04-02T16:54:36.000Z</updated>
+        <summary type="html"><![CDATA[With the aid of a 1896 magazine article and other resources, I tell the story of an August 1860 miniature painting of a then-presidential candidate named Abraham Lincoln.
+https://thenewleafjournal.com/the-story-behind-a-miniature-painting-of-abraham-lincoln/
+#art #painting #minature #abrahamlincoln #lincoln #ushistory #history]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Related posts in WordPress]]></title>
+        <id>https://newleafannex.bearblog.dev/related-posts-in-wordpress/</id>
+        <link href="https://newleafannex.bearblog.dev/related-posts-in-wordpress/"/>
+        <updated>2023-04-02T16:50:37.438Z</updated>
+        <summary type="html"><![CDATA[My online writing website, The New Leaf Journal was de-indexed by Bing back in January. The initial de-indexing inspired me to look into ways to improve the site. While I think I accomplished that, nothing had to do with resolving the mysterious Bing issue, which remains unexplained on Bing's Webmaster Console and apparently inapplicable to every other search engine crawler.
+One thing I have considered in improving the site is streamlining. That is, I am working to slim The New Leaf Journal down (it was fairly slim to begin with, however) and use WordPress's native functionality in lieu of plugins wherever possible ("possible" is limited by my lack of php knowledge and coding ability, however).
+We used a solid WordPress plugin called Contextual Related Posts to handle related posts. It add…]]></summary>
+        <author>
+            <name>The New Leaf Annex</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Heights in “The Dangers of My Heart” Anime]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19433</id>
         <link href="https://thenewleafjournal.com/leaf/heights-in-the-dangers-of-my-heart-anime/"/>
@@ -403,6 +610,18 @@ Justin & Justina: The Most-Read New Leaf Journal Content of…
 The Angel Next Door Spoils Me Rotten - Anime Review]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110125149193637694</id>
+        <link href="https://linuxrocks.online/@nafnlj/110125149193637694"/>
+        <updated>2023-04-01T19:13:42.000Z</updated>
+        <summary type="html"><![CDATA[In the spirit of April Fools, I revisit one of the better video game magazine April Fools jokes:  Unlocking Sonic and Tails in Super Smash Brothers Melee. Now there are many references to the joke, but I how many from people who read that issue of EGM when it was released?
+https://thenewleafjournal.com/april-fools-sonic-and-tails-in-ssb-melee/
+#sega #aprilfools #sonic #nintendo #egm #ssbm]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
         </author>
     </entry>
     <entry>
@@ -439,6 +658,18 @@ The Old Leaf Journal
 Most-turned leaves of the newslet…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110121182304884310</id>
+        <link href="https://linuxrocks.online/@nafnlj/110121182304884310"/>
+        <updated>2023-04-01T02:24:52.000Z</updated>
+        <summary type="html"><![CDATA[Recapping the month that was in March 2023 at The New Leaf Journal.
+https://thenewleafjournal.com/march-2023-at-the-new-leaf-journal/
+#newleafjournal #blogging #writing]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
         </author>
     </entry>
     <entry>
@@ -505,6 +736,30 @@ The Nice Boat 〜 A Look Back at the School Days Anime]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110118576809955379</id>
+        <link href="https://linuxrocks.online/@nafnlj/110118576809955379"/>
+        <updated>2023-03-31T15:22:15.000Z</updated>
+        <summary type="html"><![CDATA[Part of why I chose Angel Next Door Spoils Me Rotten for a review was because my earlier post on the series, which dealt with my trying to figure out where I had heard its primary ending song before (answer: S1 of Teasing Master Takagi-san) did relatively well by our modest, Bing-blacklisted standards.  If that quaint article could do well, why not a full review?
+https://thenewleafjournal.com/familiar-song-in-angel-next-door-anime/
+#anime #animesong #tenshisama]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110118568993081131</id>
+        <link href="https://linuxrocks.online/@nafnlj/110118568993081131"/>
+        <updated>2023-03-31T15:20:16.000Z</updated>
+        <summary type="html"><![CDATA[I decided to take a stab at writing a couple of anime reviews each season. First up is my excessively long review of The Angel Next Door Spoils Me Rotten, written for both people who haven't watched the series and those who have.  In addition to offering a general (largely spoiler-free) summary and my impressions, I also explain how I think the series should be understood.  Final verdict:  While not without some faults in writing (I  introduce my concept of "two-by-four story-telling) and production quality control, charming on the whole and better than its absurdly long light novel title would indicate.
+https://thenewleafjournal.com/the-angel-next-door-spoils-me-rotten-anime-review/
+#anime #animereview #tenshisama]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bonner’s “The Tired Eagles”]]></title>
         <id>https://thenewleafjournal.com/?p=19411</id>
         <link href="https://thenewleafjournal.com/bonners-the-tired-eagles/"/>
@@ -544,6 +799,19 @@ Justin & Justina: The Most-Read New Leaf Journal Content of…
 The al|together and Insani Visual Novel Translations]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110113547850050367</id>
+        <link href="https://linuxrocks.online/@nafnlj/110113547850050367"/>
+        <updated>2023-03-30T18:03:19.000Z</updated>
+        <summary type="html"><![CDATA[I reviewed DecSync, a very useful utility which allows for syncing contacts, calendars, tasks, and RSS feeds/read states without a server -- generally using Syncthing.
+https://thenewleafjournal.com/decsync-review/
+I personally use DecSync for contacts, calendars, and tasks, and I used it for feeds for about one year. It works well and is an interesting project, but note that clients and implementations are primarily for Android and Linux (I use it with EndeavourOS and LineageOS).
+#syncthing #decsync #rss #contacts #tasks #opensource #fdroid #linux]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
         </author>
     </entry>
     <entry>
@@ -652,6 +920,19 @@ I published four regular articles since mailing newsletter 12…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110079237023024793</id>
+        <link href="https://linuxrocks.online/@nafnlj/110079237023024793"/>
+        <updated>2023-03-24T16:37:37.000Z</updated>
+        <summary type="html"><![CDATA[I am supposed to syndicate my Saturday newsletters to the parent site on Mondays. Friday is close to Monday, right?
+In any event, the newsletter (as usual) features 10 links to interesting articles from around the web in addition to news and notes from The New Leaf Journal.
+https://thenewleafjournal.com/letter/127/
+#writing #blog #aroundtheweb #links]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXXVII]]></title>
         <id>https://thenewleafjournal.com/?post_type=letter&amp;p=19366</id>
         <link href="https://thenewleafjournal.com/letter/127/"/>
@@ -715,6 +996,24 @@ Lateral thinking to extend game console life-cycles]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Seen in Carroll Gardens, Brooklyn, a week or two before St. Patrick's Day. I am not sure what to make of the inflatable leprechaun, so I submit to the jury.
+
+Article: https://thenewleafjournal.com/inflatable-st-patricks-day-leprechaun/
+
+#stpatricksday #nyc #brooklyn #carrollgardens #inflatable #pixel3a #pixel3axl #thenewleafjournal #newleafjournal]]></title>
+        <id>https://pixelfed.social/p/nafnlj/543843600157356897</id>
+        <link href="https://pixelfed.social/p/nafnlj/543843600157356897"/>
+        <updated>2023-03-21T17:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Seen in Carroll Gardens, Brooklyn, a week or two before St. Patrick's Day. I am not sure what to make of the inflatable leprechaun, so I submit to the jury.<br />
+<br />
+Article: <a href="https://thenewleafjournal.com/inflatable-st-patricks-day-leprechaun/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/inflatable-st-patricks-day-leprechaun/</a><br />
+<br />
+<a href="https://pixelfed.social/discover/tags/stpatricksday?src=hash" title="#stpatricksday" class="u-url hashtag" rel="external nofollow noopener">#stpatricksday</a> <a href="https://pixelfed.social/discover/tags/nyc?src=hash" title="#nyc" class="u-url hashtag" rel="external nofollow noopener">#nyc</a> <a href="https://pixelfed.social/discover/tags/brooklyn?src=hash" title="#brooklyn" class="u-url hashtag" rel="external nofollow noopener">#brooklyn</a> <a href="https://pixelfed.social/discover/tags/carrollgardens?src=hash" title="#carrollgardens" class="u-url hashtag" rel="external nofollow noopener">#carrollgardens</a> <a href="https://pixelfed.social/discover/tags/inflatable?src=hash" title="#inflatable" class="u-url hashtag" rel="external nofollow noopener">#inflatable</a> <a href="https://pixelfed.social/discover/tags/pixel3a?src=hash" title="#pixel3a" class="u-url hashtag" rel="external nofollow noopener">#pixel3a</a> <a href="https://pixelfed.social/discover/tags/pixel3axl?src=hash" title="#pixel3axl" class="u-url hashtag" rel="external nofollow noopener">#pixel3axl</a> <a href="https://pixelfed.social/discover/tags/thenewleafjournal?src=hash" title="#thenewleafjournal" class="u-url hashtag" rel="external nofollow noopener">#thenewleafjournal</a> <a href="https://pixelfed.social/discover/tags/newleafjournal?src=hash" title="#newleafjournal" class="u-url hashtag" rel="external nofollow noopener">#newleafjournal</a>]]></summary>
+        <author>
+            <name>nafnlj on Pixelfed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Yoshi’s Story at 25]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=18558</id>
         <link href="https://thenewleafjournal.com/leaf/yoshis-story-at-25/"/>
@@ -736,6 +1035,18 @@ io [Christmas Eve] - Visual Novel Review]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110061897128257005</id>
+        <link href="https://linuxrocks.online/@nafnlj/110061897128257005"/>
+        <updated>2023-03-21T15:07:52.000Z</updated>
+        <summary type="html"><![CDATA[A 2015 article on read-it-later apps inspired me to write an essay on combining a feed reader with a read-it-later app to replace social media and services like Google News and Apple news for online reading (note READING only... I recall this having been a point of confusion regarding my 2021 article on RSS as a Facebook alternative). While I have never been much of a social media or algorithimic news reader, I do describe how I approach feeds and read-it-later and offer recommendations. 
+https://thenewleafjournal.com/feeds-and-read-it-later-for-online-reading/
+#rss #atom #feeds #readitlater #socialmedia #googlenews #applenews #algorithms #productivity #writing]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CCP opposes US bans on property purchases]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=17638</id>
         <link href="https://thenewleafjournal.com/leafbud/ccp-opposes-us-bans-on-property-purchases/"/>
@@ -754,6 +1065,18 @@ DRM and losing the quality you paid for
 The Misleading DRM E-Book Buy Button]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110046334991294089</id>
+        <link href="https://linuxrocks.online/@nafnlj/110046334991294089"/>
+        <updated>2023-03-18T21:10:12.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Consumer Product Safety Commission determined that carbon monoxide monitors by GLBSUNION and CUZMAK, readily available on Amazon, are defective.  One character in my fictional dialogue is distraught by the news.  If we can't trust GLBSUNION and CUZMAK, just who can we trust?
+https://thenewleafjournal.com/if-you-cant-trust-glbsunion-and-cuzmak/
+#amazon #china #humor #productsafety #dialogue]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
         </author>
     </entry>
     <entry>
@@ -819,6 +1142,29 @@ ACE Academy - Visual Novel Review
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110039438647599100</id>
+        <link href="https://linuxrocks.online/@nafnlj/110039438647599100"/>
+        <updated>2023-03-17T15:56:22.000Z</updated>
+        <summary type="html"><![CDATA[If anyone has an idea of why sound worked when running ONScripter-EN games on top of WINE but not the native Linux binaries without loading the three ALSA kernel modules I ultimately loaded, I would be interested in a technical explanation.]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110039431627417464</id>
+        <link href="https://linuxrocks.online/@nafnlj/110039431627417464"/>
+        <updated>2023-03-17T15:54:35.000Z</updated>
+        <summary type="html"><![CDATA[I have several old ONScripter-EN and KiriKiri visual novels that use MIDI files for sound. I thought I had resolved my difficulties on Linux, but I had an issue where sound would work running the games under WINE but not when running the native Linux versions of ONScripter-EN games (note the KiriKiri games have no Linux version). Back into the Arch Wiki I went... I eventually resolved the issue with a proper Fluidsynth configuration and loading three kernel modules. This is the long saga (note I did this on EndeavourOS, but the issues should be generally applicable for those of you interested in the issue on Linux).
+https://thenewleafjournal.com/midi-sound-for-games-on-arch-based-distro/
+(Note all of these steps are in the Arch Wiki.  To the extent this is a "guide" -- consider it one only in that I highlight an issue and point people to where I found the solution.)
+#visualnovels #visualnovel #midi #fluidsynth #arch #archwiki #linux #endeavouros]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXXVI]]></title>
         <id>https://thenewleafjournal.com/?post_type=letter&amp;p=16985</id>
         <link href="https://thenewleafjournal.com/letter/126/"/>
@@ -837,6 +1183,18 @@ The New Leaf Journal Twitter
 The Newsletter Leaf Journal VIII]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110022938231616849</id>
+        <link href="https://linuxrocks.online/@nafnlj/110022938231616849"/>
+        <updated>2023-03-14T18:00:06.000Z</updated>
+        <summary type="html"><![CDATA[If you write regularly about U.S. immigration law and border security, you will likely need to type "ICE" more often than "ice" -- but even the best border reporter may occasionally need to put something on ice.  In such cases, a convenient shortcut can become an invitation to a typo.  Thanks to my subscribing to several Washington Times RSS feeds, I caught one such typo before it was corrected.
+https://thenewleafjournal.com/keyboard-shortcut-typos-ice-vs-ice/
+#newspaper #typo #macro #shortcut #ice #immigrationlaw]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
         </author>
     </entry>
     <entry>
