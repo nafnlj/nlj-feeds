@@ -3,12 +3,18 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-cacheUrl: https://nafnlj.github.io/nlj-feeds/cache.json
+cacheUrl: https://nafnlj.github.io/nljfeeds/cache.json
 sources:
   - href: https://thenewleafjournal.com/feed
   - href: https://thenewleafjournal.com/leaf/feed
   - href: https://thenewleafjournal.com/leafbud/feed
   - href: https://thenewleafjournal.com/letter/feed
   - href: https://buttondown.email/newsletterleafjournal/rss
-
-# Update
+  - href: https://newleafannex.bearblog.dev/feed/
+  - href: https://pixelfed.social/users/nafnlj.atom
+  - href: https://linuxrocks.online/@nafnlj.rss
+  - href: https://hypothes.is/stream.atom?user=nafnlj
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA
+  
+  # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
+siteTitle: "New Leaf Journal Feeds"
