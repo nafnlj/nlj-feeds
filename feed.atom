@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-13T04:31:59.332Z</updated>
+    <updated>2023-04-13T14:40:12.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Motion controls in Mario Kart Wii]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19493</id>
+        <link href="https://thenewleafjournal.com/leafbud/motion-controls-in-mario-kart-wii/"/>
+        <updated>2023-04-13T14:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo Life asked readers whether they used motion controls in Mario Kart Wii.  I had (probably still have) the plastic steering […]
+Possibly related posts (relevancy may vary...):
+
+History of the Mario Party Gloves
+The Two Decade Mario Party Finally Ends
+Mario Party's Joystick-Wrecking Rotation Games
+Zero Gravity Foreshadowing in Super Mario Sunshine
+The Aborted Nintendo-Minnesota Lottery Scheme
+On Nintendo's Pro-User Cartridge-First Strategy
+Nintendo Power's 1999 Yoshi in Pokémon April Fools Prank
+Lateral thinking to extend game console life-cycles
+The Enigmatic Life and Death of Emperor Otho]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Midjourney Exports CCP Censorship]]></title>
+        <id>https://thenewleafjournal.com/?p=19515</id>
+        <link href="https://thenewleafjournal.com/midjourney-exports-ccp-censorship/"/>
+        <updated>2023-04-13T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Against the tendency of purportedly American companies to export CCP censorship abroad.
+Possibly related posts (relevancy may vary...):
+
+The Downstream Effects of Bing's Tiananmen Square Censorship
+Bing's and DuckDuckGo's CCP Problem
+A 2021 List of Alternative Search Engines and Search…
+Importance of Bing Indexing For Alt Search
+Emojis, Corporations, and Censorship
+Google's Mysterious Pro-Chinese Government Errors
+CCP opposes US bans on property purchases
+Review Of Night of the Forget-Me-Nots, a Freeware Horror…
+Microsoft Open Sources Emojis]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victor V. Gurbo & Mark Caserta "Dorothea" (Taylor Swift) COVID-19 Pandemic Home Recording 2020]]></title>
         <id>https://www.youtube.com/watch?v=I_KV7GjXFLY</id>
@@ -1160,39 +1202,6 @@ ACE Academy - Visual Novel Review
 https://thenewleafjournal.com/midi-sound-for-games-on-arch-based-distro/
 (Note all of these steps are in the Arch Wiki.  To the extent this is a "guide" -- consider it one only in that I highlight an issue and point people to where I found the solution.)
 #visualnovels #visualnovel #midi #fluidsynth #arch #archwiki #linux #endeavouros]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXVI]]></title>
-        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=16985</id>
-        <link href="https://thenewleafjournal.com/letter/126/"/>
-        <updated>2023-03-14T20:22:21.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 126th edition of The Newsletter Leaf Journal, the official newsletter of The New Leaf Journal. We mailed the […]
-Possibly related posts (relevancy may vary...):
-
-The Newsletter Leaf Journal at 100
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin and Justina review 2022 at the NLJ
-The New Leaf Journal Celebrates Its First Birthday
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The New Leaf Journal Newsletter
-How to Find Substack RSS Feeds and Other Notes
-The New Leaf Journal Twitter
-The Newsletter Leaf Journal VIII]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110022938231616849</id>
-        <link href="https://linuxrocks.online/@nafnlj/110022938231616849"/>
-        <updated>2023-03-14T18:00:06.000Z</updated>
-        <summary type="html"><![CDATA[If you write regularly about U.S. immigration law and border security, you will likely need to type "ICE" more often than "ice" -- but even the best border reporter may occasionally need to put something on ice.  In such cases, a convenient shortcut can become an invitation to a typo.  Thanks to my subscribing to several Washington Times RSS feeds, I caught one such typo before it was corrected.
-https://thenewleafjournal.com/keyboard-shortcut-typos-ice-vs-ice/
-#newspaper #typo #macro #shortcut #ice #immigrationlaw]]></summary>
         <author>
             <name>N.A. Ferrell</name>
         </author>

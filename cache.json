@@ -6,6 +6,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=19515",
+          "author": "Nicholas A. Ferrell",
+          "description": "Against the tendency of purportedly American companies to export CCP censorship abroad.\nPossibly related posts (relevancy may vary...):\n\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nBing's and DuckDuckGo's CCP Problem\nA 2021 List of Alternative Search Engines and Search…\nImportance of Bing Indexing For Alt Search\nEmojis, Corporations, and Censorship\nGoogle's Mysterious Pro-Chinese Government Errors\nCCP opposes US bans on property purchases\nReview Of Night of the Forget-Me-Nots, a Freeware Horror…\nMicrosoft Open Sources Emojis",
+          "link": "https://thenewleafjournal.com/midjourney-exports-ccp-censorship/",
+          "publishedOn": "2023-04-13T10:30:00.000Z",
+          "wordCount": 2907,
+          "title": "Midjourney Exports CCP Censorship",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=19495",
           "author": "Nicholas A. Ferrell",
           "description": "I review an anime series primarily for its interesting concept... but it is a decent series in its own right, granting its faults.\nPossibly related posts (relevancy may vary...):\n\nThe Best of Anime in 2022: Year in Review\nThe Best Anime Series of 2021\nHeight differences in anime romances\nAnime Recommendations of the Decade (2011-20)\nThe Angel Next Door Spoils Me Rotten - Anime Review\nWhat Makes a Depressing Anime? Discussion and Selection.\nThe Nice Boat 〜 A Look Back at the School Days Anime\nThe al|together and Insani Visual Novel Translations\nJustin & Justina: The Most-Read New Leaf Journal Content of…",
@@ -220,6 +230,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19493",
+          "author": "Nicholas A. Ferrell",
+          "description": "Nintendo Life asked readers whether they used motion controls in Mario Kart Wii.  I had (probably still have) the plastic steering […]\nPossibly related posts (relevancy may vary...):\n\nHistory of the Mario Party Gloves\nThe Two Decade Mario Party Finally Ends\nMario Party's Joystick-Wrecking Rotation Games\nZero Gravity Foreshadowing in Super Mario Sunshine\nThe Aborted Nintendo-Minnesota Lottery Scheme\nOn Nintendo's Pro-User Cartridge-First Strategy\nNintendo Power's 1999 Yoshi in Pokémon April Fools Prank\nLateral thinking to extend game console life-cycles\nThe Enigmatic Life and Death of Emperor Otho",
+          "link": "https://thenewleafjournal.com/leafbud/motion-controls-in-mario-kart-wii/",
+          "publishedOn": "2023-04-13T14:00:22.000Z",
+          "wordCount": 1469,
+          "title": "Motion controls in Mario Kart Wii",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19474",
           "author": "Nicholas A. Ferrell",
           "description": "I came across a 2018 article published in BBC titled How the Finnish survive without small talk. I am by no […]\nPossibly related posts (relevancy may vary...):\n\nThe Small Web, Artisanal Content, and Humane Design\nThe Enigmatic Life and Death of Emperor Otho\nThe Angel Next Door Spoils Me Rotten - Anime Review\nThe Best of Anime in 2022: Year in Review\nWasteful talk show subsidies in New York\nJustin and Justina review 2022 at the NLJ\nOur Pixelfed Review in Finnish Wikipedia\nA 2021 List of Alternative Search Engines and Search…\nVisual Novel Analysis - Shooting Star Hill",
@@ -374,16 +394,6 @@
           "publishedOn": "2023-03-24T16:34:30.000Z",
           "wordCount": 2964,
           "title": "Newsletter Leaf Journal CXXVII",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=letter&p=16985",
-          "author": "Nicholas A. Ferrell",
-          "description": "Welcome to the 126th edition of The Newsletter Leaf Journal, the official newsletter of The New Leaf Journal. We mailed the […]\nPossibly related posts (relevancy may vary...):\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe New Leaf Journal Twitter\nThe Newsletter Leaf Journal VIII",
-          "link": "https://thenewleafjournal.com/letter/126/",
-          "publishedOn": "2023-03-14T20:22:21.000Z",
-          "wordCount": 2687,
-          "title": "Newsletter Leaf Journal CXXVI",
           "imageUrl": null
         }
       ]
@@ -690,16 +700,6 @@
           "description": "I have several old ONScripter-EN and KiriKiri visual novels that use MIDI files for sound. I thought I had resolved my difficulties on Linux, but I had an issue where sound would work running the games under WINE but not when running the native Linux versions of ONScripter-EN games (note the KiriKiri games have no Linux version). Back into the Arch Wiki I went... I eventually resolved the issue with a proper Fluidsynth configuration and loading three kernel modules. This is the long saga (note I did this on EndeavourOS, but the issues should be generally applicable for those of you interested in the issue on Linux).\nhttps://thenewleafjournal.com/midi-sound-for-games-on-arch-based-distro/\n(Note all of these steps are in the Arch Wiki.  To the extent this is a \"guide\" -- consider it one only in that I highlight an issue and point people to where I found the solution.)\n#visualnovels #visualnovel #midi #fluidsynth #arch #archwiki #linux #endeavouros",
           "link": "https://linuxrocks.online/@nafnlj/110039431627417464",
           "publishedOn": "2023-03-17T15:54:35.000Z",
-          "wordCount": 119,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110022938231616849",
-          "author": null,
-          "description": "If you write regularly about U.S. immigration law and border security, you will likely need to type \"ICE\" more often than \"ice\" -- but even the best border reporter may occasionally need to put something on ice.  In such cases, a convenient shortcut can become an invitation to a typo.  Thanks to my subscribing to several Washington Times RSS feeds, I caught one such typo before it was corrected.\nhttps://thenewleafjournal.com/keyboard-shortcut-typos-ice-vs-ice/\n#newspaper #typo #macro #shortcut #ice #immigrationlaw",
-          "link": "https://linuxrocks.online/@nafnlj/110022938231616849",
-          "publishedOn": "2023-03-14T18:00:06.000Z",
           "wordCount": 119,
           "title": "Untitled",
           "imageUrl": null
