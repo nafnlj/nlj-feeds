@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-14T09:12:14.792Z</updated>
+    <updated>2023-04-14T14:11:10.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rapid-Fire My Clueless First Friend Anime]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19512</id>
+        <link href="https://thenewleafjournal.com/leaf/rapid-fire-my-clueless-first-friend-anime/"/>
+        <updated>2023-04-14T14:00:25.000Z</updated>
+        <summary type="html"><![CDATA[I recently finished the second episode of the currenly-airing My Clueless First Friend anime. This series, set in a fifth grade […]
+Possibly related posts...
+
+The Best of Anime in 2022: Year in Review
+The Best Anime Series of 2021
+Anime Recommendations of the Decade (2011-20)
+Height differences in anime romances
+Tiki paralogue trick in Fire Emblem Engage
+What Makes a Depressing Anime? Discussion and Selection.
+The Angel Next Door Spoils Me Rotten - Anime Review
+The Nice Boat 〜 A Look Back at the School Days Anime
+The Great Chelsea Fire of 1908 - 114 Years Later]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ghostwriter-Pandoc Issue and Fix]]></title>
         <id>https://newleafannex.bearblog.dev/ghostwriter-pandoc-issue-and-fix/</id>
