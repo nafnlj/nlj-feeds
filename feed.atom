@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-14T03:00:33.643Z</updated>
+    <updated>2023-04-14T09:12:14.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ghostwriter-Pandoc Issue and Fix]]></title>
+        <id>https://newleafannex.bearblog.dev/ghostwriter-pandoc-issue-and-fix/</id>
+        <link href="https://newleafannex.bearblog.dev/ghostwriter-pandoc-issue-and-fix/"/>
+        <updated>2023-04-13T22:09:05.023Z</updated>
+        <summary type="html"><![CDATA[I use the Ghostwriter markdown editor (see my Ghostwriter review) to draft articles for The New Leaf Journal and briefs and memoranda for my day job as a legal research specialist. In both cases, I have to convert my documents from markdown. I convert New Leaf Journal articles to .odt for editing while I convert my legal work to to .docx. (See my article on my New Leaf Journal workflow.)
+Since switching to Linux in 2020, I have used Arch-based Linux distributions. I began using Ghostwriter on Manjaro after my experiences using markdown to compose 
+our Buttondown-powered newsletters inspired me to begin working in markdown. I moved from Manjaro to Arch's closer cousin, EndeavourOS, in August 2022, where I remain today.
+Ghostwriter has generally worked for me without issues. Early on, I had an issue with it sometimes not connecting to Pandoc, but that went away at some point. Since KDE took over development of Ghostwriter things were largely flawless. However, a few days ago, I noticed after updating either Pandoc or KDE (I did not catch which) that Ghostwriter was no longer recognizing Pandoc as a conversion option. This was a mild problem for me because I never took the time to learn the Pandoc CLI syntax (I really should get around to that). I could use MultiMarkdown to convert to .odt, but that vitiated many of my markdown formatting choices.
+However, before I had to deal with the issue for a work project, Pandoc returned as a conversion option after something was updated. Problem solved. It only proved to be a pain in the case of one somewhat long article wherein I had to re-do some of my formatting in Libre Office Writer.
+If you enjoy strange Ghostwriter issues, take a trip back in time to learn about a segfault issue I had on a fresh Manjaro install in 2021.]]></summary>
+        <author>
+            <name>The New Leaf Annex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Odd email to my @newleafjournal address]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19514</id>

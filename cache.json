@@ -461,6 +461,16 @@
       "siteUrl": "https://newleafannex.bearblog.dev/",
       "articles": [
         {
+          "id": "https://newleafannex.bearblog.dev/ghostwriter-pandoc-issue-and-fix/",
+          "author": null,
+          "description": "I use the Ghostwriter markdown editor (see my Ghostwriter review) to draft articles for The New Leaf Journal and briefs and memoranda for my day job as a legal research specialist. In both cases, I have to convert my documents from markdown. I convert New Leaf Journal articles to .odt for editing while I convert my legal work to to .docx. (See my article on my New Leaf Journal workflow.)\nSince switching to Linux in 2020, I have used Arch-based Linux distributions. I began using Ghostwriter on Manjaro after my experiences using markdown to compose \nour Buttondown-powered newsletters inspired me to begin working in markdown. I moved from Manjaro to Arch's closer cousin, EndeavourOS, in August 2022, where I remain today.\nGhostwriter has generally worked for me without issues. Early on, I had an issue with it sometimes not connecting to Pandoc, but that went away at some point. Since KDE took over development of Ghostwriter things were largely flawless. However, a few days ago, I noticed after updating either Pandoc or KDE (I did not catch which) that Ghostwriter was no longer recognizing Pandoc as a conversion option. This was a mild problem for me because I never took the time to learn the Pandoc CLI syntax (I really should get around to that). I could use MultiMarkdown to convert to .odt, but that vitiated many of my markdown formatting choices.\nHowever, before I had to deal with the issue for a work project, Pandoc returned as a conversion option after something was updated. Problem solved. It only proved to be a pain in the case of one somewhat long article wherein I had to re-do some of my formatting in Libre Office Writer.\nIf you enjoy strange Ghostwriter issues, take a trip back in time to learn about a segfault issue I had on a fresh Manjaro install in 2021.",
+          "link": "https://newleafannex.bearblog.dev/ghostwriter-pandoc-issue-and-fix/",
+          "publishedOn": "2023-04-13T22:09:05.023Z",
+          "wordCount": 708,
+          "title": "Ghostwriter-Pandoc Issue and Fix",
+          "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
+        },
+        {
           "id": "https://newleafannex.bearblog.dev/my-unique-phil-mickelson-article/",
           "author": null,
           "description": "The tagline of my main project, The New Leaf Journal, is \"where the leaves are perennially virid.\" As I explained in a post on the inspiration for the tagline, the slogan gets at two ideas. The first is that I try to write evergreen articles. The second is that I try to produce unique articles worth your time. There is no shortage of writing online. Some of the writing even comes from the keyboards of human beings writing in a language they are fluent in. While I try to bring a fresh perspective to all of my articles, I cannot always say that my topics are unique. However, I published a short \"leaflet\" aside yesterday which I think is unique.\nI used to regularly watch professional golf. While I have not watched much golf in several years, I stay somewhat abreast of the goings on. Back in 2…",
