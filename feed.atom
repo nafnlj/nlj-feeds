@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-14T14:11:10.120Z</updated>
+    <updated>2023-04-14T18:14:53.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110197722612640494</id>
+        <link href="https://linuxrocks.online/@nafnlj/110197722612640494"/>
+        <updated>2023-04-14T14:50:04.000Z</updated>
+        <summary type="html"><![CDATA[On April 12, 1908, the Great Chelsea Fire in Boston, Massachusetts destroyed a large chunk of the city.  Last year, I came across a June 1908 book on the fire and summarized its contents, along with original photos, in an article.
+https://thenewleafjournal.com/the-great-chelsea-fire-of-1908-114-years-later/
+#history #photography]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rapid-Fire My Clueless First Friend Anime]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19512</id>
