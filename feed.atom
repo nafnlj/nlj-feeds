@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-13T14:40:12.694Z</updated>
+    <updated>2023-04-14T01:00:37.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Odd email to my @newleafjournal address]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19514</id>
+        <link href="https://thenewleafjournal.com/leaf/odd-email-to-my-newleafjournal-address/"/>
+        <updated>2023-04-13T21:30:38.000Z</updated>
+        <summary type="html"><![CDATA[I received a very peculiar email at my @newleafjournal address (see contact page).  This is not the first strange email I […]
+Possibly related posts...
+
+Two Independence Day-Themed Pokémon Battles: Ferrell vs…
+Recording a Test New Leaf Journal Pokémon Sword and Shield…
+Learning How to Change a Twitter Username
+The Enigmatic Life and Death of Emperor Otho
+Suspicious Email Claiming Bitcoin Scam
+The Pokémon Special Split in Generation 2 - Statistics and…
+The New Leaf Journal Newsletter
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+History of the Mario Party Gloves]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110192123680688227</id>
+        <link href="https://linuxrocks.online/@nafnlj/110192123680688227"/>
+        <updated>2023-04-13T15:06:11.000Z</updated>
+        <summary type="html"><![CDATA[They say that the problem is always caching, but what kind of caching?  I briefly describe a small visual display issue on my WordPress site that I resolved by clearing our Redis cache.
+https://thenewleafjournal.com/leaf/wp-redis-object-cache-and-link-hover-color/
+#wordpress #wordpressplugin #redis #objectcache #caching]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Motion controls in Mario Kart Wii]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19493</id>

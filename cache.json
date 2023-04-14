@@ -143,6 +143,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=19514",
+          "author": "Nicholas A. Ferrell",
+          "description": "I received a very peculiar email at my @newleafjournal address (see contact page).  This is not the first strange email I […]\nPossibly related posts...\n\nTwo Independence Day-Themed Pokémon Battles: Ferrell vs…\nRecording a Test New Leaf Journal Pokémon Sword and Shield…\nLearning How to Change a Twitter Username\nThe Enigmatic Life and Death of Emperor Otho\nSuspicious Email Claiming Bitcoin Scam\nThe Pokémon Special Split in Generation 2 - Statistics and…\nThe New Leaf Journal Newsletter\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nHistory of the Mario Party Gloves",
+          "link": "https://thenewleafjournal.com/leaf/odd-email-to-my-newleafjournal-address/",
+          "publishedOn": "2023-04-13T21:30:38.000Z",
+          "wordCount": 1424,
+          "title": "Odd email to my @newleafjournal address",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=19483",
           "author": "Nicholas A. Ferrell",
           "description": "I posted a Leaflet the other day on a nineteenth century man named Hyacinth, noting that it is not a name […]\nPossibly related posts (relevancy may vary...):\n\nTiki paralogue trick in Fire Emblem Engage\nMy Glass Cannon is Tankier than Expected 〜 Lysithea-Fire…\nThe Great Chelsea Fire of 1908 - 114 Years Later\nFixing a WP Custom Post Type Permalink Error\nGrape Hyacinths at the Botanic Garden\nFire Emblem Engage's VTuber Hair Designer\nHyacinth is an uncommon name these days\nTeaching the Art of the Video Game Snafu\n\"Uncle Susan is a Wolf\" - A Graffiti Photo and Research…",
@@ -534,6 +544,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110192123680688227",
+          "author": null,
+          "description": "They say that the problem is always caching, but what kind of caching?  I briefly describe a small visual display issue on my WordPress site that I resolved by clearing our Redis cache.\nhttps://thenewleafjournal.com/leaf/wp-redis-object-cache-and-link-hover-color/\n#wordpress #wordpressplugin #redis #objectcache #caching",
+          "link": "https://linuxrocks.online/@nafnlj/110192123680688227",
+          "publishedOn": "2023-04-13T15:06:11.000Z",
+          "wordCount": 121,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/110175415116200976",
           "author": null,
