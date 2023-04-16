@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-16T13:16:53.684Z</updated>
+    <updated>2023-04-16T18:17:54.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110209143284861710</id>
+        <link href="https://linuxrocks.online/@nafnlj/110209143284861710"/>
+        <updated>2023-04-16T15:14:30.000Z</updated>
+        <summary type="html"><![CDATA[1954 years to the day (April 16, 69 AD), the Roman Emperor Otho ended his brief reign by his own hand rather than continue in a Civil War for the throne against Vilettlius. Otho's seemingly noble(-ish) end captured the imagination of Roman historians in light of the fact he had previously been noted for his relationship to Nero, having serious debt problems, and seizing the throne by murdering his predecessor in January 69.  I wrote a very long article about the enigmatic life and death of Otho, focusing on comparing four Roman historian accounts and their different opinions on the matter.
+https://thenewleafjournal.com/ancient-accounts-on-the-enigmatic-life-and-death-of-emperor-otho/
+#history #romanempire #romanhistory #romanemperor #otho #yearoffouremperors]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXXXI 〜 Resplendent]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/131/</id>
