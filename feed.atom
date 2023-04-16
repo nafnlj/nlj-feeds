@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-15T23:14:23.716Z</updated>
+    <updated>2023-04-16T13:16:53.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1273,50 +1273,6 @@ Leaves from the week that was
 I published th…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ends newspaper and magazine subscriptions]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=17384</id>
-        <link href="https://thenewleafjournal.com/leafbud/amazon-ends-newspaper-and-magazine-subscriptions/"/>
-        <updated>2023-03-17T17:49:21.000Z</updated>
-        <summary type="html"><![CDATA[From “Amazon calls it quits on newspaper and magazine subscriptions for Kindle and print” Laura Hazard Owen for Nieman Lab.  March […]
-Possibly related posts (relevancy may vary...):
-
-The Enigmatic Life and Death of Emperor Otho
-The Poetry of Charlotte Becker - Early Twentieth Century…
-The Thin Digital Line Between "Buy" and "Rent"
-Anime Recommendations of the Decade (2011-20)
-A Sensible Invention - Bicycle Newspaper Rack for Paperboys
-The Best of Anime in 2022: Year in Review
-Four May Issues of The Nursery Magazine (1873-81)
-ACE Academy - Visual Novel Review
-1892 Reports on First Year of Basketball]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110039438647599100</id>
-        <link href="https://linuxrocks.online/@nafnlj/110039438647599100"/>
-        <updated>2023-03-17T15:56:22.000Z</updated>
-        <summary type="html"><![CDATA[If anyone has an idea of why sound worked when running ONScripter-EN games on top of WINE but not the native Linux binaries without loading the three ALSA kernel modules I ultimately loaded, I would be interested in a technical explanation.]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110039431627417464</id>
-        <link href="https://linuxrocks.online/@nafnlj/110039431627417464"/>
-        <updated>2023-03-17T15:54:35.000Z</updated>
-        <summary type="html"><![CDATA[I have several old ONScripter-EN and KiriKiri visual novels that use MIDI files for sound. I thought I had resolved my difficulties on Linux, but I had an issue where sound would work running the games under WINE but not when running the native Linux versions of ONScripter-EN games (note the KiriKiri games have no Linux version). Back into the Arch Wiki I went... I eventually resolved the issue with a proper Fluidsynth configuration and loading three kernel modules. This is the long saga (note I did this on EndeavourOS, but the issues should be generally applicable for those of you interested in the issue on Linux).
-https://thenewleafjournal.com/midi-sound-for-games-on-arch-based-distro/
-(Note all of these steps are in the Arch Wiki.  To the extent this is a "guide" -- consider it one only in that I highlight an issue and point people to where I found the solution.)
-#visualnovels #visualnovel #midi #fluidsynth #arch #archwiki #linux #endeavouros]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>

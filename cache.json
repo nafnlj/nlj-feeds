@@ -358,16 +358,6 @@
           "wordCount": 1474,
           "title": "Knock-off anime figures on AliExpress",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=17384",
-          "author": "Nicholas A. Ferrell",
-          "description": "From “Amazon calls it quits on newspaper and magazine subscriptions for Kindle and print” Laura Hazard Owen for Nieman Lab.  March […]\nPossibly related posts (relevancy may vary...):\n\nThe Enigmatic Life and Death of Emperor Otho\nThe Poetry of Charlotte Becker - Early Twentieth Century…\nThe Thin Digital Line Between \"Buy\" and \"Rent\"\nAnime Recommendations of the Decade (2011-20)\nA Sensible Invention - Bicycle Newspaper Rack for Paperboys\nThe Best of Anime in 2022: Year in Review\nFour May Issues of The Nursery Magazine (1873-81)\nACE Academy - Visual Novel Review\n1892 Reports on First Year of Basketball",
-          "link": "https://thenewleafjournal.com/leafbud/amazon-ends-newspaper-and-magazine-subscriptions/",
-          "publishedOn": "2023-03-17T17:49:21.000Z",
-          "wordCount": 1485,
-          "title": "Amazon ends newspaper and magazine subscriptions",
-          "imageUrl": null
         }
       ]
     },
@@ -751,26 +741,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110046334991294089",
           "publishedOn": "2023-03-18T21:10:12.000Z",
           "wordCount": 118,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110039438647599100",
-          "author": null,
-          "description": "If anyone has an idea of why sound worked when running ONScripter-EN games on top of WINE but not the native Linux binaries without loading the three ALSA kernel modules I ultimately loaded, I would be interested in a technical explanation.",
-          "link": "https://linuxrocks.online/@nafnlj/110039438647599100",
-          "publishedOn": "2023-03-17T15:56:22.000Z",
-          "wordCount": 122,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110039431627417464",
-          "author": null,
-          "description": "I have several old ONScripter-EN and KiriKiri visual novels that use MIDI files for sound. I thought I had resolved my difficulties on Linux, but I had an issue where sound would work running the games under WINE but not when running the native Linux versions of ONScripter-EN games (note the KiriKiri games have no Linux version). Back into the Arch Wiki I went... I eventually resolved the issue with a proper Fluidsynth configuration and loading three kernel modules. This is the long saga (note I did this on EndeavourOS, but the issues should be generally applicable for those of you interested in the issue on Linux).\nhttps://thenewleafjournal.com/midi-sound-for-games-on-arch-based-distro/\n(Note all of these steps are in the Arch Wiki.  To the extent this is a \"guide\" -- consider it one only in that I highlight an issue and point people to where I found the solution.)\n#visualnovels #visualnovel #midi #fluidsynth #arch #archwiki #linux #endeavouros",
-          "link": "https://linuxrocks.online/@nafnlj/110039431627417464",
-          "publishedOn": "2023-03-17T15:54:35.000Z",
-          "wordCount": 119,
           "title": "Untitled",
           "imageUrl": null
         }
