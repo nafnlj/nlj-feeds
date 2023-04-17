@@ -6,6 +6,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=19523",
+          "author": "Nicholas A. Ferrell",
+          "description": "Justin and Justina discuss a Consumer Reports study revealing troubling levels of cadmium and lead in some dark chocolate brands.\nPossibly related posts...\n\nJustin and Justina review 2022 at the NLJ\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin & Justina 〜 4th of July Grill Sacrifices to the…\nJustin & Justina: Most-Read NLJ Content of 2020\nJustin and Justina 〜 Merry Christmas. Who checks the mail…\nThe Quince Shortage - Justin and Justina\nJustin and Justina 〜 Convincing a Google Devotee to Try…\nApril Fools With Justin and Justina\nJustin and Justina 〜 A Christmas Card For Valentine's Day",
+          "link": "https://thenewleafjournal.com/on-character-and-dark-chocolate-safety/",
+          "publishedOn": "2023-04-17T13:19:00.000Z",
+          "wordCount": 1763,
+          "title": "On character and dark chocolate safety",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=19515",
           "author": "Nicholas A. Ferrell",
           "description": "Against the tendency of purportedly American companies to export CCP censorship abroad.\nPossibly related posts (relevancy may vary...):\n\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nBing's and DuckDuckGo's CCP Problem\nA 2021 List of Alternative Search Engines and Search…\nImportance of Bing Indexing For Alt Search\nEmojis, Corporations, and Censorship\nGoogle's Mysterious Pro-Chinese Government Errors\nCCP opposes US bans on property purchases\nReview Of Night of the Forget-Me-Nots, a Freeware Horror…\nMicrosoft Open Sources Emojis",
@@ -348,16 +358,6 @@
           "wordCount": 1483,
           "title": "CCP opposes US bans on property purchases",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=17572",
-          "author": "Nicholas A. Ferrell",
-          "description": "Mr. Ruben Schade published a humorous blog post on March 1, 2023, titled AliExpress anime and electronics comments. I will refer […]\nPossibly related posts (relevancy may vary...):\n\nThe Best of Anime in 2022: Year in Review\nThe Best Anime Series of 2021\nAnime Recommendations of the Decade (2011-20)\nHeight differences in anime romances\nWhat Makes a Depressing Anime? Discussion and Selection.\nThe Angel Next Door Spoils Me Rotten - Anime Review\nThe Nice Boat 〜 A Look Back at the School Days Anime\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nUsagi Drop 〜 A Complicated Anime Pick",
-          "link": "https://thenewleafjournal.com/leafbud/knock-off-anime-figures-on-aliexpress/",
-          "publishedOn": "2023-03-18T16:50:30.000Z",
-          "wordCount": 1474,
-          "title": "Knock-off anime figures on AliExpress",
-          "imageUrl": null
         }
       ]
     },
@@ -452,16 +452,6 @@
           "wordCount": 2231,
           "title": "Newsletter Leaf Journal CXXVIII 〜 Spring moonlight 〜",
           "imageUrl": "https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/fe3ca945-6277-43a0-8dbf-522cfd67bf44.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/127/",
-          "author": null,
-          "description": "Welcome to the 127th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. Our final winter (for northern hemisphere readers) newsletter does not cover our busiest week, but we do have some long-form content to share with you along with interesting links from around the web and our usual assortment of news and notes. Without further ado, let’s start the newsletter.\nTable of contents\nLeaves from the week that was\nLeaves from around the web\nThe Old Leaf Journal\nMost-turned leaves of the week\nNews leaf journal\nNotable leaf journal\nTaking leaf\nLeaves from the week that was\nI published th…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/127/",
-          "publishedOn": "2023-03-18T16:38:51.000Z",
-          "wordCount": 2103,
-          "title": "Newsletter Leaf Journal CXXVII 〜 Newsletter tech 〜",
-          "imageUrl": "https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/e383c1f3-c047-4e3f-8e09-65d23c730e40.png"
         }
       ]
     },
@@ -741,16 +731,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110061897128257005",
           "publishedOn": "2023-03-21T15:07:52.000Z",
           "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110046334991294089",
-          "author": null,
-          "description": "The U.S. Consumer Product Safety Commission determined that carbon monoxide monitors by GLBSUNION and CUZMAK, readily available on Amazon, are defective.  One character in my fictional dialogue is distraught by the news.  If we can't trust GLBSUNION and CUZMAK, just who can we trust?\nhttps://thenewleafjournal.com/if-you-cant-trust-glbsunion-and-cuzmak/\n#amazon #china #humor #productsafety #dialogue",
-          "link": "https://linuxrocks.online/@nafnlj/110046334991294089",
-          "publishedOn": "2023-03-18T21:10:12.000Z",
-          "wordCount": 118,
           "title": "Untitled",
           "imageUrl": null
         }

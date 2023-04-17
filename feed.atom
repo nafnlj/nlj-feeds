@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-16T23:14:37.252Z</updated>
+    <updated>2023-04-17T13:19:15.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On character and dark chocolate safety]]></title>
+        <id>https://thenewleafjournal.com/?p=19523</id>
+        <link href="https://thenewleafjournal.com/on-character-and-dark-chocolate-safety/"/>
+        <updated>2023-04-17T13:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Justin and Justina discuss a Consumer Reports study revealing troubling levels of cadmium and lead in some dark chocolate brands.
+Possibly related posts...
+
+Justin and Justina review 2022 at the NLJ
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin & Justina 〜 4th of July Grill Sacrifices to the…
+Justin & Justina: Most-Read NLJ Content of 2020
+Justin and Justina 〜 Merry Christmas. Who checks the mail…
+The Quince Shortage - Justin and Justina
+Justin and Justina 〜 Convincing a Google Devotee to Try…
+April Fools With Justin and Justina
+Justin and Justina 〜 A Christmas Card For Valentine's Day]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110209143284861710</id>
@@ -1232,59 +1253,6 @@ DRM and losing the quality you paid for
 The Misleading DRM E-Book Buy Button]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110046334991294089</id>
-        <link href="https://linuxrocks.online/@nafnlj/110046334991294089"/>
-        <updated>2023-03-18T21:10:12.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Consumer Product Safety Commission determined that carbon monoxide monitors by GLBSUNION and CUZMAK, readily available on Amazon, are defective.  One character in my fictional dialogue is distraught by the news.  If we can't trust GLBSUNION and CUZMAK, just who can we trust?
-https://thenewleafjournal.com/if-you-cant-trust-glbsunion-and-cuzmak/
-#amazon #china #humor #productsafety #dialogue]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knock-off anime figures on AliExpress]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=17572</id>
-        <link href="https://thenewleafjournal.com/leafbud/knock-off-anime-figures-on-aliexpress/"/>
-        <updated>2023-03-18T16:50:30.000Z</updated>
-        <summary type="html"><![CDATA[Mr. Ruben Schade published a humorous blog post on March 1, 2023, titled AliExpress anime and electronics comments. I will refer […]
-Possibly related posts (relevancy may vary...):
-
-The Best of Anime in 2022: Year in Review
-The Best Anime Series of 2021
-Anime Recommendations of the Decade (2011-20)
-Height differences in anime romances
-What Makes a Depressing Anime? Discussion and Selection.
-The Angel Next Door Spoils Me Rotten - Anime Review
-The Nice Boat 〜 A Look Back at the School Days Anime
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Usagi Drop 〜 A Complicated Anime Pick]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXVII 〜 Newsletter tech 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/127/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/127/"/>
-        <updated>2023-03-18T16:38:51.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 127th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. Our final winter (for northern hemisphere readers) newsletter does not cover our busiest week, but we do have some long-form content to share with you along with interesting links from around the web and our usual assortment of news and notes. Without further ado, let’s start the newsletter.
-Table of contents
-Leaves from the week that was
-Leaves from around the web
-The Old Leaf Journal
-Most-turned leaves of the week
-News leaf journal
-Notable leaf journal
-Taking leaf
-Leaves from the week that was
-I published th…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>
