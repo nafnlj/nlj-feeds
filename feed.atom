@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-17T23:15:11.564Z</updated>
+    <updated>2023-04-18T13:19:41.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1232,27 +1232,6 @@ https://thenewleafjournal.com/feeds-and-read-it-later-for-online-reading/
 #rss #atom #feeds #readitlater #socialmedia #googlenews #applenews #algorithms #productivity #writing]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CCP opposes US bans on property purchases]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=17638</id>
-        <link href="https://thenewleafjournal.com/leafbud/ccp-opposes-us-bans-on-property-purchases/"/>
-        <updated>2023-03-19T16:00:38.000Z</updated>
-        <summary type="html"><![CDATA[From a February 10, 2023 Washington Times report on the Chinese Communist Party’s reaction to some U.S. states moving to limit […]
-Possibly related posts (relevancy may vary...):
-
-Justin and Justina review 2022 at the NLJ
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-The Thin Digital Line Between "Buy" and "Rent"
-The New Leaf Journal Celebrates Its First Birthday
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-Stadia and the Value of Owning Games
-Calvin Coolidge's 1922 "Better Homes" Remarks
-DRM and losing the quality you paid for
-The Misleading DRM E-Book Buy Button]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
