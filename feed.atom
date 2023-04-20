@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-19T23:15:20.254Z</updated>
+    <updated>2023-04-20T13:19:27.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bunt home run glitch in Bases Loaded]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19528</id>
+        <link href="https://thenewleafjournal.com/leaf/bunt-home-run-glitch-in-bases-loaded/"/>
+        <updated>2023-04-20T10:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Shumplations recently published a translation of a 2011 interview with a former manager at Jaleco who went by Y-san.  I was […]
+Possibly related posts...
+
+Calvin Coolidge's 1922 "Better Homes" Remarks
+Bill's Secret Garden - A Pokémon Generation 1 Urban Legend
+Herbert Hoover's Better Homes Remarks: "The Home as an…
+Justin and Justina review 2022 at the NLJ
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Applying Coolidge's Remarks on the Home to the Digital Home
+Introducing the 1922 Better Homes in America Demonstration…
+On Improving the Environment For Gaming On Linux
+The Poetry of Charlotte Becker - Early Twentieth Century…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On character and dark chocolate safety]]></title>
         <id>https://thenewleafjournal.com/?p=19523</id>
@@ -1181,57 +1202,6 @@ Justin & Justina: The Most-Read New Leaf Journal Content of…
 Lateral thinking to extend game console life-cycles]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seen in Carroll Gardens, Brooklyn, a week or two before St. Patrick's Day. I am not sure what to make of the inflatable leprechaun, so I submit to the jury.
-
-Article: https://thenewleafjournal.com/inflatable-st-patricks-day-leprechaun/
-
-#stpatricksday #nyc #brooklyn #carrollgardens #inflatable #pixel3a #pixel3axl #thenewleafjournal #newleafjournal]]></title>
-        <id>https://pixelfed.social/p/nafnlj/543843600157356897</id>
-        <link href="https://pixelfed.social/p/nafnlj/543843600157356897"/>
-        <updated>2023-03-21T17:20:18.000Z</updated>
-        <summary type="html"><![CDATA[Seen in Carroll Gardens, Brooklyn, a week or two before St. Patrick's Day. I am not sure what to make of the inflatable leprechaun, so I submit to the jury.<br />
-<br />
-Article: <a href="https://thenewleafjournal.com/inflatable-st-patricks-day-leprechaun/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/inflatable-st-patricks-day-leprechaun/</a><br />
-<br />
-<a href="https://pixelfed.social/discover/tags/stpatricksday?src=hash" title="#stpatricksday" class="u-url hashtag" rel="external nofollow noopener">#stpatricksday</a> <a href="https://pixelfed.social/discover/tags/nyc?src=hash" title="#nyc" class="u-url hashtag" rel="external nofollow noopener">#nyc</a> <a href="https://pixelfed.social/discover/tags/brooklyn?src=hash" title="#brooklyn" class="u-url hashtag" rel="external nofollow noopener">#brooklyn</a> <a href="https://pixelfed.social/discover/tags/carrollgardens?src=hash" title="#carrollgardens" class="u-url hashtag" rel="external nofollow noopener">#carrollgardens</a> <a href="https://pixelfed.social/discover/tags/inflatable?src=hash" title="#inflatable" class="u-url hashtag" rel="external nofollow noopener">#inflatable</a> <a href="https://pixelfed.social/discover/tags/pixel3a?src=hash" title="#pixel3a" class="u-url hashtag" rel="external nofollow noopener">#pixel3a</a> <a href="https://pixelfed.social/discover/tags/pixel3axl?src=hash" title="#pixel3axl" class="u-url hashtag" rel="external nofollow noopener">#pixel3axl</a> <a href="https://pixelfed.social/discover/tags/thenewleafjournal?src=hash" title="#thenewleafjournal" class="u-url hashtag" rel="external nofollow noopener">#thenewleafjournal</a> <a href="https://pixelfed.social/discover/tags/newleafjournal?src=hash" title="#newleafjournal" class="u-url hashtag" rel="external nofollow noopener">#newleafjournal</a>]]></summary>
-        <author>
-            <name>nafnlj on Pixelfed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yoshi’s Story at 25]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=18558</id>
-        <link href="https://thenewleafjournal.com/leaf/yoshis-story-at-25/"/>
-        <updated>2023-03-21T16:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Yoshi’s Story, a fun little Nintendo 64 game, was released on December 21, 1997. I had planned to write a little […]
-Possibly related posts (relevancy may vary...):
-
-Nintendo Power's 1999 Yoshi in Pokémon April Fools Prank
-Kaori After Story - Visual Novel Review
-Justin and Justina review 2022 at the NLJ
-ACE Academy - Visual Novel Review
-The Two Decade Mario Party Finally Ends
-Video Game Stories and Standing the Test of Time
-Analysis of the From the Bottom of the Heart (Negaeba)…
-Card Hero and games on limited hardware
-io [Christmas Eve] - Visual Novel Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110061897128257005</id>
-        <link href="https://linuxrocks.online/@nafnlj/110061897128257005"/>
-        <updated>2023-03-21T15:07:52.000Z</updated>
-        <summary type="html"><![CDATA[A 2015 article on read-it-later apps inspired me to write an essay on combining a feed reader with a read-it-later app to replace social media and services like Google News and Apple news for online reading (note READING only... I recall this having been a point of confusion regarding my 2021 article on RSS as a Facebook alternative). While I have never been much of a social media or algorithimic news reader, I do describe how I approach feeds and read-it-later and offer recommendations. 
-https://thenewleafjournal.com/feeds-and-read-it-later-for-online-reading/
-#rss #atom #feeds #readitlater #socialmedia #googlenews #applenews #algorithms #productivity #writing]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>

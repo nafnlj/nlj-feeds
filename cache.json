@@ -153,6 +153,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=19528",
+          "author": "Nicholas A. Ferrell",
+          "description": "Shumplations recently published a translation of a 2011 interview with a former manager at Jaleco who went by Y-san.  I was […]\nPossibly related posts...\n\nCalvin Coolidge's 1922 \"Better Homes\" Remarks\nBill's Secret Garden - A Pokémon Generation 1 Urban Legend\nHerbert Hoover's Better Homes Remarks: \"The Home as an…\nJustin and Justina review 2022 at the NLJ\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nApplying Coolidge's Remarks on the Home to the Digital Home\nIntroducing the 1922 Better Homes in America Demonstration…\nOn Improving the Environment For Gaming On Linux\nThe Poetry of Charlotte Becker - Early Twentieth Century…",
+          "link": "https://thenewleafjournal.com/leaf/bunt-home-run-glitch-in-bases-loaded/",
+          "publishedOn": "2023-04-20T10:16:37.000Z",
+          "wordCount": 1562,
+          "title": "Bunt home run glitch in Bases Loaded",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=19512",
           "author": "Nicholas A. Ferrell",
           "description": "I recently finished the second episode of the currenly-airing My Clueless First Friend anime. This series, set in a fifth grade […]\nPossibly related posts...\n\nThe Best of Anime in 2022: Year in Review\nThe Best Anime Series of 2021\nAnime Recommendations of the Decade (2011-20)\nHeight differences in anime romances\nTiki paralogue trick in Fire Emblem Engage\nWhat Makes a Depressing Anime? Discussion and Selection.\nThe Angel Next Door Spoils Me Rotten - Anime Review\nThe Nice Boat 〜 A Look Back at the School Days Anime\nThe Great Chelsea Fire of 1908 - 114 Years Later",
@@ -240,16 +250,6 @@
           "publishedOn": "2023-03-30T11:19:18.000Z",
           "wordCount": 1548,
           "title": "Public schools and harmful education fads",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=18558",
-          "author": "Nicholas A. Ferrell",
-          "description": "Yoshi’s Story, a fun little Nintendo 64 game, was released on December 21, 1997. I had planned to write a little […]\nPossibly related posts (relevancy may vary...):\n\nNintendo Power's 1999 Yoshi in Pokémon April Fools Prank\nKaori After Story - Visual Novel Review\nJustin and Justina review 2022 at the NLJ\nACE Academy - Visual Novel Review\nThe Two Decade Mario Party Finally Ends\nVideo Game Stories and Standing the Test of Time\nAnalysis of the From the Bottom of the Heart (Negaeba)…\nCard Hero and games on limited hardware\nio [Christmas Eve] - Visual Novel Review",
-          "link": "https://thenewleafjournal.com/leaf/yoshis-story-at-25/",
-          "publishedOn": "2023-03-21T16:30:05.000Z",
-          "wordCount": 1647,
-          "title": "Yoshi’s Story at 25",
           "imageUrl": null
         }
       ]
@@ -526,18 +526,7 @@
       "title": "nafnlj on Pixelfed",
       "feedUrl": "https://pixelfed.social/users/nafnlj.atom",
       "siteUrl": "https://pixelfed.social/nafnlj",
-      "articles": [
-        {
-          "id": "https://pixelfed.social/p/nafnlj/543843600157356897",
-          "author": null,
-          "description": "Seen in Carroll Gardens, Brooklyn, a week or two before St. Patrick's Day. I am not sure what to make of the inflatable leprechaun, so I submit to the jury.<br />\n<br />\nArticle: <a href=\"https://thenewleafjournal.com/inflatable-st-patricks-day-leprechaun/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/inflatable-st-patricks-day-leprechaun/</a><br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/stpatricksday?src=hash\" title=\"#stpatricksday\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#stpatricksday</a> <a href=\"https://pixelfed.social/discover/tags/nyc?src=hash\" title=\"#nyc\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#nyc</a> <a href=\"https://pixelfed.social/discover/tags/brooklyn?src=hash\" title=\"#brooklyn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklyn</a> <a href=\"https://pixelfed.social/discover/tags/carrollgardens?src=hash\" title=\"#carrollgardens\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#carrollgardens</a> <a href=\"https://pixelfed.social/discover/tags/inflatable?src=hash\" title=\"#inflatable\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#inflatable</a> <a href=\"https://pixelfed.social/discover/tags/pixel3a?src=hash\" title=\"#pixel3a\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pixel3a</a> <a href=\"https://pixelfed.social/discover/tags/pixel3axl?src=hash\" title=\"#pixel3axl\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pixel3axl</a> <a href=\"https://pixelfed.social/discover/tags/thenewleafjournal?src=hash\" title=\"#thenewleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#thenewleafjournal</a> <a href=\"https://pixelfed.social/discover/tags/newleafjournal?src=hash\" title=\"#newleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#newleafjournal</a>",
-          "link": "https://pixelfed.social/p/nafnlj/543843600157356897",
-          "publishedOn": "2023-03-21T17:20:18.000Z",
-          "wordCount": null,
-          "title": "Seen in Carroll Gardens, Brooklyn, a week or two before St. Patrick's Day. I am not sure what to make of the inflatable leprechaun, so I submit to the jury.\n\nArticle: https://thenewleafjournal.com/inflatable-st-patricks-day-leprechaun/\n\n#stpatricksday #nyc #brooklyn #carrollgardens #inflatable #pixel3a #pixel3axl #thenewleafjournal #newleafjournal",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "N.A. Ferrell",
@@ -711,16 +700,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110079237023024793",
           "publishedOn": "2023-03-24T16:37:37.000Z",
           "wordCount": 119,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110061897128257005",
-          "author": null,
-          "description": "A 2015 article on read-it-later apps inspired me to write an essay on combining a feed reader with a read-it-later app to replace social media and services like Google News and Apple news for online reading (note READING only... I recall this having been a point of confusion regarding my 2021 article on RSS as a Facebook alternative). While I have never been much of a social media or algorithimic news reader, I do describe how I approach feeds and read-it-later and offer recommendations. \nhttps://thenewleafjournal.com/feeds-and-read-it-later-for-online-reading/\n#rss #atom #feeds #readitlater #socialmedia #googlenews #applenews #algorithms #productivity #writing",
-          "link": "https://linuxrocks.online/@nafnlj/110061897128257005",
-          "publishedOn": "2023-03-21T15:07:52.000Z",
-          "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
         }
