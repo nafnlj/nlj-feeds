@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-21T18:18:50.944Z</updated>
+    <updated>2023-04-21T23:14:44.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT vs Contract Cheating Writers]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19536</id>
+        <link href="https://thenewleafjournal.com/leafbud/chatgpt-vs-contract-cheating-writers/"/>
+        <updated>2023-04-21T21:14:18.000Z</updated>
+        <summary type="html"><![CDATA[Many keyboard keys have been pressed on the effect of AI text generation tools on various industries. I offered my two […]
+Possibly related posts...
+
+Reviewing "Calculator the Game" - A FOSS PWA Math Game For…
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+DHS Horse Appropriations and CBP Horse Patrol
+The Enigmatic Life and Death of Emperor Otho
+The Mystery of Sōseki and Tsuki ga Kirei
+Reviewing Buddy Simulator 1984 for Switch
+Setting Up SoloKeys with Peppermint OS
+The Japanese Citizenship Requirement for Sumo Stablemasters
+An Essay on Productivity, Production, and Productive Leisure]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXXXI]]></title>
+        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=19533</id>
+        <link href="https://thenewleafjournal.com/letter/newsletter-leaf-journal-cxxxi/"/>
+        <updated>2023-04-21T20:59:16.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the (syndicated) version of Newsletter Leaf Journal 131. I am a bit late in syndicating our Saturday newsletter this […]
+Possibly related posts...
+
+The Newsletter Leaf Journal at 100
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin and Justina review 2022 at the NLJ
+The New Leaf Journal Celebrates Its First Birthday
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The New Leaf Journal Newsletter
+How to Find Substack RSS Feeds and Other Notes
+The Newsletter Leaf Journal VIII
+An Introduction to RSS and Other Feed Formats]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bunt home run glitch in Bases Loaded]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19528</id>
