@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-22T18:17:58.696Z</updated>
+    <updated>2023-04-22T23:14:43.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXXXII 〜 News & taxes 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/132/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/132/"/>
+        <updated>2023-04-22T23:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 132nd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. This past week was a bit slow at The New Leaf Journal on account of my having to do my taxes, finishing a couple of work assignments, and having problems with my right wrist. Nevertheless, I did publish a few new articles, and this humble newsletter will come with your usual assortment of links from around the web and other news and notes.
+Table of contents
+New leaves from the week that was
+Leaves from around the web
+The Old Leaf Journal
+Most-turned leaves of the newsletter week
+News leaf journal
+Notable leaf …]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Syncing Umineko When They Cry With Syncthing]]></title>
         <id>https://thenewleafjournal.com/?p=19538</id>
