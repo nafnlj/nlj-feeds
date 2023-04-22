@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-21T23:14:44.215Z</updated>
+    <updated>2023-04-22T13:17:00.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Syncing Umineko When They Cry With Syncthing]]></title>
+        <id>https://thenewleafjournal.com/?p=19538</id>
+        <link href="https://thenewleafjournal.com/syncing-umineko-when-they-cry-with-syncthing/"/>
+        <updated>2023-04-22T01:38:10.000Z</updated>
+        <summary type="html"><![CDATA[No need for video game cloud saves if you know how to use Syncthing (sometimes, probably).
+Possibly related posts...
+
+DecSync Review
+Justin and Justina review 2022 at the NLJ
+Transferring Photos From My BlackBerry Classic Using KDE…
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+Installing and Running Bodhi Linux on a 2007 MacBook
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+The Enigmatic Life and Death of Emperor Otho
+At Summer's End vs A Dream of Summer
+The New Leaf Journal Celebrates Its First Birthday]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT vs Contract Cheating Writers]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19536</id>
@@ -1200,27 +1221,6 @@ The New Leaf Journal Newsletter
 How to Find Substack RSS Feeds and Other Notes
 The New Leaf Journal Twitter
 The Newsletter Leaf Journal VIII]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok says it never shared data with CCP]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19312</id>
-        <link href="https://thenewleafjournal.com/leafbud/tiktok-says-it-never-shared-data-with-ccp/"/>
-        <updated>2023-03-23T15:27:58.000Z</updated>
-        <summary type="html"><![CDATA[From Mr. Ryan Lovelace at the Washington Times about TikTok’s upcoming testimony to Congress (article): ‘TikTok has never shared, or received […]
-Possibly related posts (relevancy may vary...):
-
-The Best of Anime in 2022: Year in Review
-Justin and Justina review 2022 at the NLJ
-A Look at ProxiTok, a TikTok Frontend
-On Children, TikTok, and Social Media Stardom
-The al|together and Insani Visual Novel Translations
-Capo vs Capo, a TikTok Debacle
-The Best Anime Series of 2021
-io [Christmas Eve] - Visual Novel Review
-Tik Tok for TikTok on Federal Government Devices]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
