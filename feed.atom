@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-22T23:14:43.203Z</updated>
+    <updated>2023-04-23T13:17:01.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1206,40 +1206,6 @@ Leaves from the week that was
 I published four regular articles since mailing newsletter 12…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110079237023024793</id>
-        <link href="https://linuxrocks.online/@nafnlj/110079237023024793"/>
-        <updated>2023-03-24T16:37:37.000Z</updated>
-        <summary type="html"><![CDATA[I am supposed to syndicate my Saturday newsletters to the parent site on Mondays. Friday is close to Monday, right?
-In any event, the newsletter (as usual) features 10 links to interesting articles from around the web in addition to news and notes from The New Leaf Journal.
-https://thenewleafjournal.com/letter/127/
-#writing #blog #aroundtheweb #links]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXVII]]></title>
-        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=19366</id>
-        <link href="https://thenewleafjournal.com/letter/127/"/>
-        <updated>2023-03-24T16:34:30.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the (syndicated) 127th edition of The Newsletter Leaf Journal, the official newsletter of your favorite online writing magazine (at […]
-Possibly related posts (relevancy may vary...):
-
-The Newsletter Leaf Journal at 100
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin and Justina review 2022 at the NLJ
-The New Leaf Journal Celebrates Its First Birthday
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The New Leaf Journal Newsletter
-How to Find Substack RSS Feeds and Other Notes
-The New Leaf Journal Twitter
-The Newsletter Leaf Journal VIII]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
