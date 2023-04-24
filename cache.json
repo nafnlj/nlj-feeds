@@ -260,6 +260,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19545",
+          "author": "Nicholas A. Ferrell",
+          "description": "On April 22, 2023, the New York Post published a report titled Crazed man arrested for attack on walker in Central […]\nPossibly related posts...\n\nJustin and Justina review 2022 at the NLJ\nThe Best of Anime in 2022: Year in Review\nEGM's 2001 Sega Neptune April Fools Joke\nNintendo Power's 1999 Yoshi in Pokémon April Fools Prank\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nThe al|together and Insani Visual Novel Translations\nFlood of Tears - Visual Novel Review\nOldest Golfers to Contend for Majors Between the 1968 and…",
+          "link": "https://thenewleafjournal.com/leafbud/so-called-crazed-man-selects-target/",
+          "publishedOn": "2023-04-24T11:30:26.000Z",
+          "wordCount": 1493,
+          "title": "So-called “crazed man” selects target",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19536",
           "author": "Nicholas A. Ferrell",
           "description": "Many keyboard keys have been pressed on the effect of AI text generation tools on various industries. I offered my two […]\nPossibly related posts...\n\nReviewing \"Calculator the Game\" - A FOSS PWA Math Game For…\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nDHS Horse Appropriations and CBP Horse Patrol\nThe Enigmatic Life and Death of Emperor Otho\nThe Mystery of Sōseki and Tsuki ga Kirei\nReviewing Buddy Simulator 1984 for Switch\nSetting Up SoloKeys with Peppermint OS\nThe Japanese Citizenship Requirement for Sumo Stablemasters\nAn Essay on Productivity, Production, and Productive Leisure",
@@ -442,16 +452,6 @@
           "wordCount": 2328,
           "title": "Newsletter Leaf Journal CXXIX 〜 Not an April Fool 〜",
           "imageUrl": "https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/8f037c64-7494-4bff-9778-309ce0fc4461.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/128/",
-          "author": null,
-          "description": "Welcome to the 128th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. Today’s newsletter features links to our latest articles, links from around the web, and an interesting New Leaf Journal historical note about the moon that always waxes (in our rankings, at least).\nWithout further ado, let’s get to the content.\nTable of contents\nLeaves from the week that was\nLeaves from around the web\nThe Old Leaf Journal\nMost-turned leaves of the week\nNews leaf journal\nNotable leaf journal\nTaking leaf\nLeaves from the week that was\nI published four regular articles since mailing newsletter 12…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/128/",
-          "publishedOn": "2023-03-26T00:35:30.000Z",
-          "wordCount": 2231,
-          "title": "Newsletter Leaf Journal CXXVIII 〜 Spring moonlight 〜",
-          "imageUrl": "https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/fe3ca945-6277-43a0-8dbf-522cfd67bf44.png"
         }
       ]
     },

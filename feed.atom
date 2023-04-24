@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-23T23:14:37.749Z</updated>
+    <updated>2023-04-24T13:19:17.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[So-called “crazed man” selects target]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19545</id>
+        <link href="https://thenewleafjournal.com/leafbud/so-called-crazed-man-selects-target/"/>
+        <updated>2023-04-24T11:30:26.000Z</updated>
+        <summary type="html"><![CDATA[On April 22, 2023, the New York Post published a report titled Crazed man arrested for attack on walker in Central […]
+Possibly related posts...
+
+Justin and Justina review 2022 at the NLJ
+The Best of Anime in 2022: Year in Review
+EGM's 2001 Sega Neptune April Fools Joke
+Nintendo Power's 1999 Yoshi in Pokémon April Fools Prank
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+The al|together and Insani Visual Novel Translations
+Flood of Tears - Visual Novel Review
+Oldest Golfers to Contend for Majors Between the 1968 and…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110249031716940844</id>
@@ -1197,27 +1218,6 @@ Social media on government phones
 A TikTok Story Where TikTok Isn't the Biggest Problem]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXVIII 〜 Spring moonlight 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/128/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/128/"/>
-        <updated>2023-03-26T00:35:30.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 128th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. Today’s newsletter features links to our latest articles, links from around the web, and an interesting New Leaf Journal historical note about the moon that always waxes (in our rankings, at least).
-Without further ado, let’s get to the content.
-Table of contents
-Leaves from the week that was
-Leaves from around the web
-The Old Leaf Journal
-Most-turned leaves of the week
-News leaf journal
-Notable leaf journal
-Taking leaf
-Leaves from the week that was
-I published four regular articles since mailing newsletter 12…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>
