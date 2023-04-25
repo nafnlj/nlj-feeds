@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-25T13:19:02.768Z</updated>
+    <updated>2023-04-25T18:18:47.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The story of our Bing blacklisting]]></title>
+        <id>https://thenewleafjournal.com/?p=19577</id>
+        <link href="https://thenewleafjournal.com/the-story-of-our-bing-blacklisting/"/>
+        <updated>2023-04-25T16:55:28.000Z</updated>
+        <summary type="html"><![CDATA[An in-depth look at the outside world from Bing Jail.
+Possibly related posts...
+
+Bing's and DuckDuckGo's CCP Problem
+Importance of Bing Indexing For Alt Search
+The Downstream Effects of Bing's Tiananmen Square Censorship
+A 2021 List of Alternative Search Engines and Search…
+Kaori After Story - Visual Novel Review
+Query for Bing on blacklisting and ChatGPT
+An In-Depth Look at Norton Safe Search
+ACE Academy - Visual Novel Review
+Justin and Justina review 2022 at the NLJ]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anime romantic comedy gimmicks…]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19570</id>
