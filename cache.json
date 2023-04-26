@@ -6,6 +6,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=19572",
+          "author": "Nicholas A. Ferrell",
+          "description": "A heartbroken anime girl is recovering from her jerk boyfriend breaking up with her to be with another woman. But what if I told you she needs to end her toxic relationship with Windows?\nPossibly related posts...\n\nOn Improving the Environment For Gaming On Linux\nThe Mystery of Sōseki and Tsuki ga Kirei\nInstalling and Running Bodhi Linux on a 2007 MacBook\nAnime Recommendations of the Decade (2011-20)\nFlood of Tears - Visual Novel Review\nKaori After Story - Visual Novel Review\nGoing From ONScripter Visual Novel .exe to Native Linux\nWhat is an \"Android Alternative\"?\nThe Poetry of Charlotte Becker - Early Twentieth Century…",
+          "link": "https://thenewleafjournal.com/leveling-up-yamada-kun-at-lv999-to-linux/",
+          "publishedOn": "2023-04-26T12:30:00.000Z",
+          "wordCount": 2736,
+          "title": "Leveling up Yamada-kun at Lv999 to Linux",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/04/yamada-linux-1_u.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=19577",
           "author": "Nicholas A. Ferrell",
           "description": "An in-depth look at the outside world from Bing Jail.\nPossibly related posts...\n\nBing's and DuckDuckGo's CCP Problem\nImportance of Bing Indexing For Alt Search\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nA 2021 List of Alternative Search Engines and Search…\nKaori After Story - Visual Novel Review\nQuery for Bing on blacklisting and ChatGPT\nAn In-Depth Look at Norton Safe Search\nACE Academy - Visual Novel Review\nJustin and Justina review 2022 at the NLJ",
@@ -153,16 +163,6 @@
           "publishedOn": "2023-03-30T18:00:10.000Z",
           "wordCount": 5489,
           "title": "DecSync Review",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=19371",
-          "author": "Nicholas A. Ferrell",
-          "description": "Justin discovers a provision lurking in the hidden, unwritten, U.S. immigration laws.\nPossibly related posts (relevancy may vary...):\n\nJustin and Justina review 2022 at the NLJ\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin & Justina 〜 4th of July Grill Sacrifices to the…\nJustin & Justina: Most-Read NLJ Content of 2020\nThe Quince Shortage - Justin and Justina\nJustin and Justina 〜 Merry Christmas. Who checks the mail…\nJustin and Justina 〜 Convincing a Google Devotee to Try…\nApril Fools With Justin and Justina\nDialogue: Alpacas, Virus Cures, and Paca Plus",
-          "link": "https://thenewleafjournal.com/the-hang-glider-citizenship-provision/",
-          "publishedOn": "2023-03-27T21:25:45.000Z",
-          "wordCount": 2678,
-          "title": "The Hang Glider Citizenship Provision",
           "imageUrl": null
         }
       ]

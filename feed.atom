@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-25T23:14:47.751Z</updated>
+    <updated>2023-04-26T13:19:11.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Leveling up Yamada-kun at Lv999 to Linux]]></title>
+        <id>https://thenewleafjournal.com/?p=19572</id>
+        <link href="https://thenewleafjournal.com/leveling-up-yamada-kun-at-lv999-to-linux/"/>
+        <updated>2023-04-26T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A heartbroken anime girl is recovering from her jerk boyfriend breaking up with her to be with another woman. But what if I told you she needs to end her toxic relationship with Windows?
+Possibly related posts...
+
+On Improving the Environment For Gaming On Linux
+The Mystery of Sōseki and Tsuki ga Kirei
+Installing and Running Bodhi Linux on a 2007 MacBook
+Anime Recommendations of the Decade (2011-20)
+Flood of Tears - Visual Novel Review
+Kaori After Story - Visual Novel Review
+Going From ONScripter Visual Novel .exe to Native Linux
+What is an "Android Alternative"?
+The Poetry of Charlotte Becker - Early Twentieth Century…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The story of our Bing blacklisting]]></title>
         <id>https://thenewleafjournal.com/?p=19577</id>
@@ -1237,27 +1258,6 @@ Anna Jarvis and the Origin of Mother's Day in the United…
 Four May Issues of The Nursery Magazine (1873-81)
 Hair Color Dress Code Rules in Japan
 Analysis of the From the Bottom of the Heart (Negaeba)…]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hang Glider Citizenship Provision]]></title>
-        <id>https://thenewleafjournal.com/?p=19371</id>
-        <link href="https://thenewleafjournal.com/the-hang-glider-citizenship-provision/"/>
-        <updated>2023-03-27T21:25:45.000Z</updated>
-        <summary type="html"><![CDATA[Justin discovers a provision lurking in the hidden, unwritten, U.S. immigration laws.
-Possibly related posts (relevancy may vary...):
-
-Justin and Justina review 2022 at the NLJ
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin & Justina 〜 4th of July Grill Sacrifices to the…
-Justin & Justina: Most-Read NLJ Content of 2020
-The Quince Shortage - Justin and Justina
-Justin and Justina 〜 Merry Christmas. Who checks the mail…
-Justin and Justina 〜 Convincing a Google Devotee to Try…
-April Fools With Justin and Justina
-Dialogue: Alpacas, Virus Cures, and Paca Plus]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
