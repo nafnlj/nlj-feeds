@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-27T13:19:11.663Z</updated>
+    <updated>2023-04-27T18:18:54.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nevada’s very old Bristlecone Pines]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19612</id>
+        <link href="https://thenewleafjournal.com/leaf/nevadas-very-old-bristlecone-pines/"/>
+        <updated>2023-04-27T17:05:17.000Z</updated>
+        <summary type="html"><![CDATA[While we are The New Leaf Journal, our focus on perennially virid content leads us to appreciate trees and leaves of […]
+Possibly related posts...
+
+Four May Issues of The Nursery Magazine (1873-81)
+Installing and Running Bodhi Linux on a 2007 MacBook
+The Best of Anime in 2022: Year in Review
+On Children, TikTok, and Social Media Stardom
+The Enigmatic Life and Death of Emperor Otho
+Benjamin Harrison's Memorable July 4, 1888
+Reviewing FrogFind: A Search Engine For Vintage Computers
+Quince recipes from Mary Eales's receipts
+Oldest Golfers to Contend for Majors Between the 1968 and…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PocketBook InkPad Color 2 brings a faster processor, IPX8 rating, and more storage (7.8 inch eReader) - Liliputing]]></title>
+        <id>https://hypothes.is/a/5YeSROUKEe2BBZv3_Im23A</id>
+        <link href="https://hypothes.is/a/5YeSROUKEe2BBZv3_Im23A"/>
+        <updated>2023-04-27T14:50:48.020Z</updated>
+        <summary type="html"><![CDATA[For example, the older model had a 1 GHz dual-core processor, while the new version has a 1.8 GHz quad-core chip. Since the company is tight-lipped about exactly which processors are powering these devices, it’s hard to make an apples-to-apples comparison, but it sure sounds like the new model should be a bit more responsive.Both models have just 1GB of RAM, but the original InkPad Color had just 16GB of built-in storage, while the new model has twice as much. That said, it seems like the company might have omitted one feature when building the new model: there’s no longer a microSD card reader.
+I have the original PocketBook InkPad color and I generally like it. Most of the improvements in V2 would be welcome (albeit well short of prompting me to upgrade), but dropping the microSD card slot is a bad move.  The article suggests that this may have been done to increase the tablet's water resistance, but I will take the SD card over being able to submerge my e-reader in 2 meters of water.]]></summary>
+        <author>
+            <name>Hypothesis Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110271184127902234</id>
+        <link href="https://linuxrocks.online/@nafnlj/110271184127902234"/>
+        <updated>2023-04-27T14:12:18.000Z</updated>
+        <summary type="html"><![CDATA[The New Leaf Journal was blacklisted from appearing in Bing's search results on January 14 and then fully removed from Bing's index in March.  The reasons for our blacklisting/de-indexing appear to be unknown to every other search engine with its own index, including Google, Brave, Mojeek, Yandex, Seznam, InfoTiger, and Marginalia... only Bing.  I read an article by a different webmaster who described almost identical Bing problems.  That post inspired me to chronicle our ongoing Bing ban.  (Note:  The worst effect has not been Bing itself, but losing DuckDuckGo, from which we received many more referrals than Bing).
+https://thenewleafjournal.com/the-story-of-our-bing-blacklisting/
+#bing #microsoft #searchengine #search #blog]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Leaf Journal Third Birthday Reader]]></title>
         <id>https://thenewleafjournal.com/?p=19595</id>

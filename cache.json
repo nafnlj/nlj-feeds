@@ -183,6 +183,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=19612",
+          "author": "Nicholas A. Ferrell",
+          "description": "While we are The New Leaf Journal, our focus on perennially virid content leads us to appreciate trees and leaves of […]\nPossibly related posts...\n\nFour May Issues of The Nursery Magazine (1873-81)\nInstalling and Running Bodhi Linux on a 2007 MacBook\nThe Best of Anime in 2022: Year in Review\nOn Children, TikTok, and Social Media Stardom\nThe Enigmatic Life and Death of Emperor Otho\nBenjamin Harrison's Memorable July 4, 1888\nReviewing FrogFind: A Search Engine For Vintage Computers\nQuince recipes from Mary Eales's receipts\nOldest Golfers to Contend for Majors Between the 1968 and…",
+          "link": "https://thenewleafjournal.com/leaf/nevadas-very-old-bristlecone-pines/",
+          "publishedOn": "2023-04-27T17:05:17.000Z",
+          "wordCount": 1629,
+          "title": "Nevada’s very old Bristlecone Pines",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=19528",
           "author": "Nicholas A. Ferrell",
           "description": "Shumplations recently published a translation of a 2011 interview with a former manager at Jaleco who went by Y-san.  I was […]\nPossibly related posts...\n\nCalvin Coolidge's 1922 \"Better Homes\" Remarks\nBill's Secret Garden - A Pokémon Generation 1 Urban Legend\nHerbert Hoover's Better Homes Remarks: \"The Home as an…\nJustin and Justina review 2022 at the NLJ\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nApplying Coolidge's Remarks on the Home to the Digital Home\nIntroducing the 1922 Better Homes in America Demonstration…\nOn Improving the Environment For Gaming On Linux\nThe Poetry of Charlotte Becker - Early Twentieth Century…",
@@ -594,6 +604,16 @@
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
         {
+          "id": "https://linuxrocks.online/@nafnlj/110271184127902234",
+          "author": null,
+          "description": "The New Leaf Journal was blacklisted from appearing in Bing's search results on January 14 and then fully removed from Bing's index in March.  The reasons for our blacklisting/de-indexing appear to be unknown to every other search engine with its own index, including Google, Brave, Mojeek, Yandex, Seznam, InfoTiger, and Marginalia... only Bing.  I read an article by a different webmaster who described almost identical Bing problems.  That post inspired me to chronicle our ongoing Bing ban.  (Note:  The worst effect has not been Bing itself, but losing DuckDuckGo, from which we received many more referrals than Bing).\nhttps://thenewleafjournal.com/the-story-of-our-bing-blacklisting/\n#bing #microsoft #searchengine #search #blog",
+          "link": "https://linuxrocks.online/@nafnlj/110271184127902234",
+          "publishedOn": "2023-04-27T14:12:18.000Z",
+          "wordCount": 119,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxrocks.online/@nafnlj/110265883096358086",
           "author": null,
           "description": "I came across a very dry Christmas Tree on the sidewalk in APRIL 2021. While moving on from a Christmas Tree can be a pain, I thought that April seemed a bit excessive even by procrastination standards.\nhttps://thenewleafjournal.com/a-rather-dry-christmas-tree-in-brooklyn-heights-in-april/\n#spring #christmastree #procrastination #nyc #brooklynheights",
@@ -779,7 +799,18 @@
       "title": "Hypothesis Stream",
       "feedUrl": "https://hypothes.is/stream.atom?user=nafnlj",
       "siteUrl": "https://hypothes.is/stream",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://hypothes.is/a/5YeSROUKEe2BBZv3_Im23A",
+          "author": null,
+          "description": "For example, the older model had a 1 GHz dual-core processor, while the new version has a 1.8 GHz quad-core chip. Since the company is tight-lipped about exactly which processors are powering these devices, it’s hard to make an apples-to-apples comparison, but it sure sounds like the new model should be a bit more responsive.Both models have just 1GB of RAM, but the original InkPad Color had just 16GB of built-in storage, while the new model has twice as much. That said, it seems like the company might have omitted one feature when building the new model: there’s no longer a microSD card reader.\nI have the original PocketBook InkPad color and I generally like it. Most of the improvements in V2 would be welcome (albeit well short of prompting me to upgrade), but dropping the microSD card slot is a bad move.  The article suggests that this may have been done to increase the tablet's water resistance, but I will take the SD card over being able to submerge my e-reader in 2 meters of water.",
+          "link": "https://hypothes.is/a/5YeSROUKEe2BBZv3_Im23A",
+          "publishedOn": "2023-04-27T14:50:48.020Z",
+          "wordCount": 18,
+          "title": "PocketBook InkPad Color 2 brings a faster processor, IPX8 rating, and more storage (7.8 inch eReader) - Liliputing",
+          "imageUrl": "/assets/images/share-image.png"
+        }
+      ]
     },
     {
       "title": "Victor V. Gurbo",
