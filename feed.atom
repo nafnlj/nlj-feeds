@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-27T23:15:57.590Z</updated>
+    <updated>2023-04-28T13:17:50.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Duck on Brooklyn Bridge Park Pier 5]]></title>
+        <id>https://thenewleafjournal.com/?p=19622</id>
+        <link href="https://thenewleafjournal.com/duck-on-brooklyn-bridge-park-pier-5/"/>
+        <updated>2023-04-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Four photos of a serene, wet, brown duck standing on Pier 5 of Brooklyn Bridge Park.
+Possibly related posts...
+
+Bird in Review 〜 Mandarin Duck
+Duck and Duckling Rescue Stories From Around the Web
+The NYPD's Duck Family Rescue in Midtown Manhattan
+Falcon Sighting at Brooklyn Bridge Park
+A Trip Across Brooklyn's Summit Street Bridge
+Freedom Tower in the Fog From the Brooklyn Bridge
+The Brooklyn Bridge's Mysterious Cobweb Lane
+Four May Issues of The Nursery Magazine (1873-81)
+The al|together and Insani Visual Novel Translations]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nevada’s very old Bristlecone Pines]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19612</id>
