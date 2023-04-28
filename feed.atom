@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-28T18:18:12.576Z</updated>
+    <updated>2023-04-28T23:14:32.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bing blacklisting update]]></title>
+        <id>https://newleafannex.bearblog.dev/bing-blacklisting-update/</id>
+        <link href="https://newleafannex.bearblog.dev/bing-blacklisting-update/"/>
+        <updated>2023-04-28T18:28:22.470Z</updated>
+        <summary type="html"><![CDATA[I have published two posts hear on Bear Blog about my main website project, The New Leaf Journal, having been blacklisted by Bing.
+De-indexed from Bing (1.17.23)
+Bing de-indexing update (1.18.23)
+The Bing blacklisting not only persists, but has also become worse. I discovered in the Bing Webmaster Console that all of The New Leaf Journal's pages had been purged from Bing's index.
+I subscribe to an RSS feed for Hacker News Page 1 in my feed reader. I saw an article titled Bing Jail a few days ago which caught my attention. In that post, a webmaster described his Bing blacklisting experience. I found that it was almost identical to my experience, right down to his site having been blacklisted in January 2023 and his pages being removed from Bing's index in March. He noted that several other …]]></summary>
+        <author>
+            <name>The New Leaf Annex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110277085696192165</id>
