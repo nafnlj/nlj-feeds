@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-29T18:17:31.206Z</updated>
+    <updated>2023-04-29T23:14:14.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fairy kingdoms, gnome kingdoms, GNOME?]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19635</id>
+        <link href="https://thenewleafjournal.com/leafbud/fairy-kingdoms-gnome-kingdoms-gnome/"/>
+        <updated>2023-04-29T19:00:29.000Z</updated>
+        <summary type="html"><![CDATA[From Building a Fairy Kingdom in Britain (JSTOR Daily): In the late sixteenth century, people across Britain became obsessed with fairies, […]
+Possibly related posts...
+
+Fairy Tricycle Promotion from 1895 Harper's Round Table
+Bonner's "In Dreamland" Bedtime Story
+The Best of Anime in 2022: Year in Review
+Recording a Test New Leaf Journal Pokémon Sword and Shield…
+Historic Districts and Looming Tall Buildings
+Two Independence Day-Themed Pokémon Battles: Ferrell vs…
+The Great Chelsea Fire of 1908 - 114 Years Later
+Boat playground seen from Brooklyn Bridge
+On Finding Money In Your Coat Pocket 〜 A Justin and Justina…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXXXIII 〜 New leaf cake 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/133/</id>
