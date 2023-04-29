@@ -164,26 +164,6 @@
           "wordCount": 1828,
           "title": "Bonner’s “The Tired Eagles”",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=19393",
-          "author": "Nicholas A. Ferrell",
-          "description": "A comprehensive review of the recently completed anime series, \"The Angel Next Door Spoils Me Rotten\"\nPossibly related posts (relevancy may vary...):\n\nThe Best of Anime in 2022: Year in Review\nFamiliar song in Angel Next Door anime\nThe Best Anime Series of 2021\nAnime Recommendations of the Decade (2011-20)\nHeight differences in anime romances\nWhat Makes a Depressing Anime? Discussion and Selection.\nThe Nice Boat 〜 A Look Back at the School Days Anime\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nThe al|together and Insani Visual Novel Translations",
-          "link": "https://thenewleafjournal.com/the-angel-next-door-spoils-me-rotten-anime-review/",
-          "publishedOn": "2023-03-30T21:47:49.000Z",
-          "wordCount": 9257,
-          "title": "The Angel Next Door Spoils Me Rotten – Anime Review",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=19381",
-          "author": "Nicholas A. Ferrell",
-          "description": "Reviewing a tool for cross-device syncing contacts, calendars, tasks, and feeds locally with Syncthing instead of a central server or service.\nPossibly related posts (relevancy may vary...):\n\nThe al|together and Insani Visual Novel Translations\nThe New Leaf Journal Celebrates Its First Birthday\nJustin and Justina review 2022 at the NLJ\nACE Academy - Visual Novel Review\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nKaori After Story - Visual Novel Review\nThe Poor Little Bird - Visual Novel Review\nPlain Song - Visual Novel Review\nThe Newsletter Leaf Journal at 100",
-          "link": "https://thenewleafjournal.com/decsync-review/",
-          "publishedOn": "2023-03-30T18:00:10.000Z",
-          "wordCount": 5489,
-          "title": "DecSync Review",
-          "imageUrl": null
         }
       ]
     },
@@ -300,16 +280,6 @@
           "publishedOn": "2023-03-31T16:00:05.000Z",
           "wordCount": 1656,
           "title": "April Fools not big in Japan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=19377",
-          "author": "Nicholas A. Ferrell",
-          "description": "I quote myself from my article on the dangers of adapting tech to the classroom: The education industry has had a […]\nPossibly related posts (relevancy may vary...):\n\nThe Enigmatic Life and Death of Emperor Otho\nTokyo High Schools Change Hair Color Dress Code Policies\nHistory of Thanksgiving Proclamations in the Philippines\nThe dangers of adapting school to tech\n1892 Reports on First Year of Basketball\nAnna Jarvis and the Origin of Mother's Day in the United…\nFour May Issues of The Nursery Magazine (1873-81)\nHair Color Dress Code Rules in Japan\nAnalysis of the From the Bottom of the Heart (Negaeba)…",
-          "link": "https://thenewleafjournal.com/leaf/public-schools-and-harmful-education-fads/",
-          "publishedOn": "2023-03-30T11:19:18.000Z",
-          "wordCount": 1548,
-          "title": "Public schools and harmful education fads",
           "imageUrl": null
         }
       ]
@@ -831,16 +801,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110118568993081131",
           "publishedOn": "2023-03-31T15:20:16.000Z",
           "wordCount": 123,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110113547850050367",
-          "author": null,
-          "description": "I reviewed DecSync, a very useful utility which allows for syncing contacts, calendars, tasks, and RSS feeds/read states without a server -- generally using Syncthing.\nhttps://thenewleafjournal.com/decsync-review/\nI personally use DecSync for contacts, calendars, and tasks, and I used it for feeds for about one year. It works well and is an interesting project, but note that clients and implementations are primarily for Android and Linux (I use it with EndeavourOS and LineageOS).\n#syncthing #decsync #rss #contacts #tasks #opensource #fdroid #linux",
-          "link": "https://linuxrocks.online/@nafnlj/110113547850050367",
-          "publishedOn": "2023-03-30T18:03:19.000Z",
-          "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
         }
