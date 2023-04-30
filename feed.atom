@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-29T23:14:14.176Z</updated>
+    <updated>2023-04-30T13:16:13.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brave Search is now Bing-free]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19639</id>
+        <link href="https://thenewleafjournal.com/leafbud/brave-search-is-now-bing-free/"/>
+        <updated>2023-04-30T12:30:44.000Z</updated>
+        <summary type="html"><![CDATA[From Brave’s news announcement: Every Web search result seen in Brave Search is now served by our own index. We’ve removed […]
+Possibly related posts...
+
+A 2021 List of Alternative Search Engines and Search…
+The story of our Bing blacklisting
+Brave and DuckDuckGo Timer Search Shortcuts
+The Downstream Effects of Bing's Tiananmen Square Censorship
+An In-Depth Look at Norton Safe Search
+Importance of Bing Indexing For Alt Search
+Bing's and DuckDuckGo's CCP Problem
+Review of Wutsearch, a Search Engine Launchpad
+Peekier Search Engine Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXXXIII]]></title>
+        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=19637</id>
+        <link href="https://thenewleafjournal.com/letter/133/"/>
+        <updated>2023-04-30T10:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the (syndicated) version of the 133rd edition of The Newsletter Leaf Journal. I (e)mailed the flagship edition of the […]
+Possibly related posts...
+
+The Newsletter Leaf Journal at 100
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin and Justina review 2022 at the NLJ
+The New Leaf Journal Celebrates Its First Birthday
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The New Leaf Journal Newsletter
+How to Find Substack RSS Feeds and Other Notes
+The Newsletter Leaf Journal VIII
+New Leaf Journal Third Birthday Reader]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fairy kingdoms, gnome kingdoms, GNOME?]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19635</id>
@@ -1358,93 +1400,6 @@ The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
 Justin & Justina: Most-Read NLJ Content of 2020
 Flood of Tears - Visual Novel Review
 The al|together and Insani Visual Novel Translations]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXVIII]]></title>
-        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=19421</id>
-        <link href="https://thenewleafjournal.com/letter/128/"/>
-        <updated>2023-03-31T19:24:37.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the (syndicated) version of Newsletter Leaf Journal 128. I originally mailed the newsletter on March 25, 2023 (see original).  […]
-Possibly related posts (relevancy may vary...):
-
-The Newsletter Leaf Journal at 100
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin and Justina review 2022 at the NLJ
-The New Leaf Journal Celebrates Its First Birthday
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The New Leaf Journal Newsletter
-How to Find Substack RSS Feeds and Other Notes
-The New Leaf Journal Twitter
-The Newsletter Leaf Journal VIII]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[April Fools not big in Japan]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19418</id>
-        <link href="https://thenewleafjournal.com/leaf/april-fools-not-big-in-japan/"/>
-        <updated>2023-03-31T16:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Following Japanese anime gives one a vague idea of which Western holidays and traditions caught on in Japan. For example, you […]
-Possibly related posts (relevancy may vary...):
-
-The Best of Anime in 2022: Year in Review
-Anime Recommendations of the Decade (2011-20)
-Justin and Justina review 2022 at the NLJ
-The Mystery of Sōseki and Tsuki ga Kirei
-The Best Anime Series of 2021
-The Japanese Citizenship Requirement for Sumo Stablemasters
-Height differences in anime romances
-What Makes a Depressing Anime? Discussion and Selection.
-The Nice Boat 〜 A Look Back at the School Days Anime]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110118576809955379</id>
-        <link href="https://linuxrocks.online/@nafnlj/110118576809955379"/>
-        <updated>2023-03-31T15:22:15.000Z</updated>
-        <summary type="html"><![CDATA[Part of why I chose Angel Next Door Spoils Me Rotten for a review was because my earlier post on the series, which dealt with my trying to figure out where I had heard its primary ending song before (answer: S1 of Teasing Master Takagi-san) did relatively well by our modest, Bing-blacklisted standards.  If that quaint article could do well, why not a full review?
-https://thenewleafjournal.com/familiar-song-in-angel-next-door-anime/
-#anime #animesong #tenshisama]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110118568993081131</id>
-        <link href="https://linuxrocks.online/@nafnlj/110118568993081131"/>
-        <updated>2023-03-31T15:20:16.000Z</updated>
-        <summary type="html"><![CDATA[I decided to take a stab at writing a couple of anime reviews each season. First up is my excessively long review of The Angel Next Door Spoils Me Rotten, written for both people who haven't watched the series and those who have.  In addition to offering a general (largely spoiler-free) summary and my impressions, I also explain how I think the series should be understood.  Final verdict:  While not without some faults in writing (I  introduce my concept of "two-by-four story-telling) and production quality control, charming on the whole and better than its absurdly long light novel title would indicate.
-https://thenewleafjournal.com/the-angel-next-door-spoils-me-rotten-anime-review/
-#anime #animereview #tenshisama]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bonner’s “The Tired Eagles”]]></title>
-        <id>https://thenewleafjournal.com/?p=19411</id>
-        <link href="https://thenewleafjournal.com/bonners-the-tired-eagles/"/>
-        <updated>2023-03-31T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A children's story on the exhaustion of staying still.
-Possibly related posts (relevancy may vary...):
-
-Short Bio of Mary Graham Bonner
-Bonner's "In Dreamland" Bedtime Story
-The Tame Canary Bird (Bonner)
-Installing and Running Bodhi Linux on a 2007 MacBook
-Replacing soundbar and re-configuring universal remote for…
-Height differences in anime romances
-Fixing a WP Custom Post Type Permalink Error
-Running ONScripter-En in Linux Visual Novel Directory
-Old Games, MIDI, and EndeavourOS]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>

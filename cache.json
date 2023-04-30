@@ -154,16 +154,6 @@
           "wordCount": 3200,
           "title": "March 2023 at The New Leaf Journal",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=19411",
-          "author": "Nicholas A. Ferrell",
-          "description": "A children's story on the exhaustion of staying still.\nPossibly related posts (relevancy may vary...):\n\nShort Bio of Mary Graham Bonner\nBonner's \"In Dreamland\" Bedtime Story\nThe Tame Canary Bird (Bonner)\nInstalling and Running Bodhi Linux on a 2007 MacBook\nReplacing soundbar and re-configuring universal remote for…\nHeight differences in anime romances\nFixing a WP Custom Post Type Permalink Error\nRunning ONScripter-En in Linux Visual Novel Directory\nOld Games, MIDI, and EndeavourOS",
-          "link": "https://thenewleafjournal.com/bonners-the-tired-eagles/",
-          "publishedOn": "2023-03-31T14:30:00.000Z",
-          "wordCount": 1828,
-          "title": "Bonner’s “The Tired Eagles”",
-          "imageUrl": null
         }
       ]
     },
@@ -271,16 +261,6 @@
           "wordCount": 1736,
           "title": "Heights in “The Dangers of My Heart” Anime",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=19418",
-          "author": "Nicholas A. Ferrell",
-          "description": "Following Japanese anime gives one a vague idea of which Western holidays and traditions caught on in Japan. For example, you […]\nPossibly related posts (relevancy may vary...):\n\nThe Best of Anime in 2022: Year in Review\nAnime Recommendations of the Decade (2011-20)\nJustin and Justina review 2022 at the NLJ\nThe Mystery of Sōseki and Tsuki ga Kirei\nThe Best Anime Series of 2021\nThe Japanese Citizenship Requirement for Sumo Stablemasters\nHeight differences in anime romances\nWhat Makes a Depressing Anime? Discussion and Selection.\nThe Nice Boat 〜 A Look Back at the School Days Anime",
-          "link": "https://thenewleafjournal.com/leaf/april-fools-not-big-in-japan/",
-          "publishedOn": "2023-03-31T16:00:05.000Z",
-          "wordCount": 1656,
-          "title": "April Fools not big in Japan",
-          "imageUrl": null
         }
       ]
     },
@@ -289,6 +269,16 @@
       "feedUrl": "https://thenewleafjournal.com/leafbud/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19639",
+          "author": "Nicholas A. Ferrell",
+          "description": "From Brave’s news announcement: Every Web search result seen in Brave Search is now served by our own index. We’ve removed […]\nPossibly related posts...\n\nA 2021 List of Alternative Search Engines and Search…\nThe story of our Bing blacklisting\nBrave and DuckDuckGo Timer Search Shortcuts\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nAn In-Depth Look at Norton Safe Search\nImportance of Bing Indexing For Alt Search\nBing's and DuckDuckGo's CCP Problem\nReview of Wutsearch, a Search Engine Launchpad\nPeekier Search Engine Review",
+          "link": "https://thenewleafjournal.com/leafbud/brave-search-is-now-bing-free/",
+          "publishedOn": "2023-04-30T12:30:44.000Z",
+          "wordCount": 1454,
+          "title": "Brave Search is now Bing-free",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19635",
           "author": "Nicholas A. Ferrell",
@@ -417,6 +407,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=letter&p=19637",
+          "author": "Nicholas A. Ferrell",
+          "description": "Welcome to the (syndicated) version of the 133rd edition of The Newsletter Leaf Journal. I (e)mailed the flagship edition of the […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe Newsletter Leaf Journal VIII\nNew Leaf Journal Third Birthday Reader",
+          "link": "https://thenewleafjournal.com/letter/133/",
+          "publishedOn": "2023-04-30T10:00:10.000Z",
+          "wordCount": 3234,
+          "title": "Newsletter Leaf Journal CXXXIII",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=letter&p=19610",
           "author": "Nicholas A. Ferrell",
           "description": "Welcome to the (syndicated) version of Newsletter Leaf Journal issue 132.  We mailed the original newsletter on Saturday, April 22, 2023.  […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nNew Leaf Journal Third Birthday Reader\nThe Newsletter Leaf Journal VIII",
@@ -454,16 +454,6 @@
           "publishedOn": "2023-04-04T02:37:05.000Z",
           "wordCount": 3153,
           "title": "Newsletter Leaf Journal CXXIX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=letter&p=19421",
-          "author": "Nicholas A. Ferrell",
-          "description": "Welcome to the (syndicated) version of Newsletter Leaf Journal 128. I originally mailed the newsletter on March 25, 2023 (see original).  […]\nPossibly related posts (relevancy may vary...):\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe New Leaf Journal Twitter\nThe Newsletter Leaf Journal VIII",
-          "link": "https://thenewleafjournal.com/letter/128/",
-          "publishedOn": "2023-03-31T19:24:37.000Z",
-          "wordCount": 3096,
-          "title": "Newsletter Leaf Journal CXXVIII",
           "imageUrl": null
         }
       ]
@@ -811,26 +801,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110121182304884310",
           "publishedOn": "2023-04-01T02:24:52.000Z",
           "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110118576809955379",
-          "author": null,
-          "description": "Part of why I chose Angel Next Door Spoils Me Rotten for a review was because my earlier post on the series, which dealt with my trying to figure out where I had heard its primary ending song before (answer: S1 of Teasing Master Takagi-san) did relatively well by our modest, Bing-blacklisted standards.  If that quaint article could do well, why not a full review?\nhttps://thenewleafjournal.com/familiar-song-in-angel-next-door-anime/\n#anime #animesong #tenshisama",
-          "link": "https://linuxrocks.online/@nafnlj/110118576809955379",
-          "publishedOn": "2023-03-31T15:22:15.000Z",
-          "wordCount": 122,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110118568993081131",
-          "author": null,
-          "description": "I decided to take a stab at writing a couple of anime reviews each season. First up is my excessively long review of The Angel Next Door Spoils Me Rotten, written for both people who haven't watched the series and those who have.  In addition to offering a general (largely spoiler-free) summary and my impressions, I also explain how I think the series should be understood.  Final verdict:  While not without some faults in writing (I  introduce my concept of \"two-by-four story-telling) and production quality control, charming on the whole and better than its absurdly long light novel title would indicate.\nhttps://thenewleafjournal.com/the-angel-next-door-spoils-me-rotten-anime-review/\n#anime #animereview #tenshisama",
-          "link": "https://linuxrocks.online/@nafnlj/110118568993081131",
-          "publishedOn": "2023-03-31T15:20:16.000Z",
-          "wordCount": 123,
           "title": "Untitled",
           "imageUrl": null
         }
