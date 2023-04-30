@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-04-30T13:16:13.496Z</updated>
+    <updated>2023-04-30T18:17:24.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110288388287614590</id>
+        <link href="https://linuxrocks.online/@nafnlj/110288388287614590"/>
+        <updated>2023-04-30T15:07:32.000Z</updated>
+        <summary type="html"><![CDATA[See also -- a follow-up article featuring re-touched versions of the flyover photos.
+https://thenewleafjournal.com/a-second-look-at-the-april-new-york-city-flyover/
+#flyover #planes #nyc #brooklyn #blueangels #thunderbirds]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110288385512851204</id>
+        <link href="https://linuxrocks.online/@nafnlj/110288385512851204"/>
+        <updated>2023-04-30T15:06:50.000Z</updated>
+        <summary type="html"><![CDATA[My three photos of an April 28, 2020 Blue Angels-Thunderbird joint-flyover of New York City, taken from Columbia Street Waterfront District in Brooklyn, NY. In light of the fact that my only camera was my BlackBerry Classic, the photos were a bit better than I would have expected under the circumstances.
+https://thenewleafjournal.com/seeing-the-blue-angels-and-thunderbirds-from-columbia-street-waterfront-district/
+#flyover #planes #nyc #brooklyn #blueangels #thunderbirds]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brave Search is now Bing-free]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19639</id>
@@ -1369,39 +1393,6 @@ The Old Leaf Journal
 Most-turned leaves of the newslet…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110121182304884310</id>
-        <link href="https://linuxrocks.online/@nafnlj/110121182304884310"/>
-        <updated>2023-04-01T02:24:52.000Z</updated>
-        <summary type="html"><![CDATA[Recapping the month that was in March 2023 at The New Leaf Journal.
-https://thenewleafjournal.com/march-2023-at-the-new-leaf-journal/
-#newleafjournal #blogging #writing]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[March 2023 at The New Leaf Journal]]></title>
-        <id>https://thenewleafjournal.com/?p=19422</id>
-        <link href="https://thenewleafjournal.com/march-2023-at-the-new-leaf-journal/"/>
-        <updated>2023-04-01T02:08:36.000Z</updated>
-        <summary type="html"><![CDATA[Let's see what was happening at The New Leaf Journal in March 2023.
-Possibly related posts (relevancy may vary...):
-
-The New Leaf Journal Celebrates Its First Birthday
-Justin and Justina review 2022 at the NLJ
-The Newsletter Leaf Journal at 100
-The New Leaf Journal Twitter
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-Justin & Justina: Most-Read NLJ Content of 2020
-Flood of Tears - Visual Novel Review
-The al|together and Insani Visual Novel Translations]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
