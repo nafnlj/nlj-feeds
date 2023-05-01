@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-01T13:17:42.200Z</updated>
+    <updated>2023-05-01T18:18:43.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rose at the Brooklyn Botanic Garden (2007)]]></title>
+        <id>https://thenewleafjournal.com/?p=19818</id>
+        <link href="https://thenewleafjournal.com/rose-at-the-brooklyn-botanic-garden-2007/"/>
+        <updated>2023-05-01T15:57:19.000Z</updated>
+        <summary type="html"><![CDATA[My 2007 photo of a rose at the Brooklyn Botanic Garden.
+Possibly related posts...
+
+The Poetry of Charlotte Becker - Early Twentieth Century…
+Lizzie Deas' "The Christmas Rose"
+Farming Gold Roses for Money in Animal Crossing
+The Glowing Pink Rose of Grace Court in Brooklyn Heights
+Justin and Justina review 2022 at the NLJ
+The Brown Leaf Turtle
+Bill's Secret Garden - A Pokémon Generation 1 Urban Legend
+The Brown Leaf in the Water on an Early Spring Day
+Installing and Running Bodhi Linux on a 2007 MacBook]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I use Nomacs as my photo viewer on all of my Linux computers. I like it because it is easy to manage and make light edits to photos. I resize photos (usually such that the largest dimension is 800 px) for publication in The New Leaf Journal.  Nomacs provides a side-by-side screen of the original and new photo in the save dialogue.  Something about this one...
+
+(Note:  I only had an 800 px version of this, so I used Upscayl to make it bigger for Pixelfed, which may make the text look a little off.)
+
+Associated article:
+https://thenewleafjournal.com/inflatable-colorful-easter-egg-bunny-thing/
+
+#linux #nomacs #upscayl #photoedits #inflatable #easter #newleafjournal #thenewleafjournal #eyes #oddeyes]]></title>
+        <id>https://pixelfed.social/p/nafnlj/558662755625608954</id>
+        <link href="https://pixelfed.social/p/nafnlj/558662755625608954"/>
+        <updated>2023-05-01T14:46:20.000Z</updated>
+        <summary type="html"><![CDATA[I use Nomacs as my photo viewer on all of my Linux computers. I like it because it is easy to manage and make light edits to photos. I resize photos (usually such that the largest dimension is 800 px) for publication in The New Leaf Journal.  Nomacs provides a side-by-side screen of the original and new photo in the save dialogue.  Something about this one...<br />
+<br />
+(Note:  I only had an 800 px version of this, so I used Upscayl to make it bigger for Pixelfed, which may make the text look a little off.)<br />
+<br />
+Associated article:<br />
+<a href="https://thenewleafjournal.com/inflatable-colorful-easter-egg-bunny-thing/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/inflatable-colorful-easter-egg-bunny-thing/</a><br />
+<br />
+<a href="https://pixelfed.social/discover/tags/linux?src=hash" title="#linux" class="u-url hashtag" rel="external nofollow noopener">#linux</a> <a href="https://pixelfed.social/discover/tags/nomacs?src=hash" title="#nomacs" class="u-url hashtag" rel="external nofollow noopener">#nomacs</a> <a href="https://pixelfed.social/discover/tags/upscayl?src=hash" title="#upscayl" class="u-url hashtag" rel="external nofollow noopener">#upscayl</a> <a href="https://pixelfed.social/discover/tags/photoedits?src=hash" title="#photoedits" class="u-url hashtag" rel="external nofollow noopener">#photoedits</a> <a href="https://pixelfed.social/discover/tags/inflatable?src=hash" title="#inflatable" class="u-url hashtag" rel="external nofollow noopener">#inflatable</a> <a href="https://pixelfed.social/discover/tags/easter?src=hash" title="#easter" class="u-url hashtag" rel="external nofollow noopener">#easter</a> <a href="https://pixelfed.social/discover/tags/newleafjournal?src=hash" title="#newleafjournal" class="u-url hashtag" rel="external nofollow noopener">#newleafjournal</a> <a href="https://pixelfed.social/discover/tags/thenewleafjournal?src=hash" title="#thenewleafjournal" class="u-url hashtag" rel="external nofollow noopener">#thenewleafjournal</a> <a href="https://pixelfed.social/discover/tags/eyes?src=hash" title="#eyes" class="u-url hashtag" rel="external nofollow noopener">#eyes</a> <a href="https://pixelfed.social/discover/tags/oddeyes?src=hash" title="#oddeyes" class="u-url hashtag" rel="external nofollow noopener">#oddeyes</a>]]></summary>
+        <author>
+            <name>nafnlj on Pixelfed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110293761336264424</id>
+        <link href="https://linuxrocks.online/@nafnlj/110293761336264424"/>
+        <updated>2023-05-01T13:53:59.000Z</updated>
+        <summary type="html"><![CDATA[Re-printing "Blue Violets," an 1880 poem by a certain "K.V.M" first published in Harper's Young People.
+https://thenewleafjournal.com/blue-violets-an-1880-childrens-poem/
+#flowers #violets #spring #poem #poetry]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[April 2023 at The New Leaf Journal]]></title>
         <id>https://thenewleafjournal.com/?p=19641</id>
