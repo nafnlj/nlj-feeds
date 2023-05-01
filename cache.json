@@ -6,6 +6,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=19641",
+          "author": "Nicholas A. Ferrell",
+          "description": "April 2023 has come to a close. The end of the month means a new entry in our month-in-review series, which […]\nPossibly related posts...\n\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal at 100\nThe Best of Anime in 2022: Year in Review\nJustin and Justina review 2022 at the NLJ\nThe New Leaf Journal Twitter\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe story of our Bing blacklisting\nA 2021 List of Alternative Search Engines and Search…",
+          "link": "https://thenewleafjournal.com/april-2023-at-the-new-leaf-journal/",
+          "publishedOn": "2023-05-01T03:03:12.000Z",
+          "wordCount": 3486,
+          "title": "April 2023 at The New Leaf Journal",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=19622",
           "author": "Nicholas A. Ferrell",
           "description": "Four photos of a serene, wet, brown duck standing on Pier 5 of Brooklyn Bridge Park.\nPossibly related posts...\n\nBird in Review 〜 Mandarin Duck\nDuck and Duckling Rescue Stories From Around the Web\nThe NYPD's Duck Family Rescue in Midtown Manhattan\nFalcon Sighting at Brooklyn Bridge Park\nA Trip Across Brooklyn's Summit Street Bridge\nFreedom Tower in the Fog From the Brooklyn Bridge\nThe Brooklyn Bridge's Mysterious Cobweb Lane\nFour May Issues of The Nursery Magazine (1873-81)\nThe al|together and Insani Visual Novel Translations",
@@ -133,16 +143,6 @@
           "publishedOn": "2023-04-04T19:28:27.000Z",
           "wordCount": 1990,
           "title": "WP Super Cache Preload and Lazy Loading",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=19425",
-          "author": "Nicholas A. Ferrell",
-          "description": "Contrary to EGM's 2002 April Fools claims, Sonic and Tails were not, in fact, in SSB Melee (but they may have almost been)\nPossibly related posts (relevancy may vary...):\n\nEGM's 2001 Sega Neptune April Fools Joke\nSega of Japan's Yukawa Dreamcast Commercials\nJustin and Justina review 2022 at the NLJ\nThe al|together and Insani Visual Novel Translations\nThe Enigmatic Life and Death of Emperor Otho\nAnime Recommendations of the Decade (2011-20)\nImagination in Pokémon Red and Blue\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nJustin & Justina: The Most-Read New Leaf Journal Content of…",
-          "link": "https://thenewleafjournal.com/april-fools-sonic-and-tails-in-ssb-melee/",
-          "publishedOn": "2023-04-01T19:11:27.000Z",
-          "wordCount": 2798,
-          "title": "April Fools, Sonic and Tails in SSB Melee",
           "imageUrl": null
         }
       ]
@@ -492,16 +492,6 @@
           "wordCount": 2182,
           "title": "Newsletter Leaf Journal CXXX 〜 Easter Egg cache 〜",
           "imageUrl": "https://buttondown.email/static/images/icons/icon-square@400.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/129/",
-          "author": null,
-          "description": "Welcome to the 129th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the editor of The New Leaf Journal, Nicholas A. Ferrell. We recently had our Saturday newsletters fall on Christmas Eve and New Years Eve just a few months ago. Today we land on April Fools. While I published a few articles about olden April Fools pranks in 2021 and 2022, I am not much of an April Fools person myself. Thus, you can enjoy your regular newsletter content without fearing a prank, but I will have some April Fools-related links for your weekend reading.\nTable of contents\nLeaves from the week that was\nLeaves from around the web\nThe Old Leaf Journal\nMost-turned leaves of the newslet…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/129/",
-          "publishedOn": "2023-04-01T18:47:52.000Z",
-          "wordCount": 2328,
-          "title": "Newsletter Leaf Journal CXXIX 〜 Not an April Fool 〜",
-          "imageUrl": "https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/8f037c64-7494-4bff-9778-309ce0fc4461.png"
         }
       ]
     },
@@ -791,16 +781,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110130264585032458",
           "publishedOn": "2023-04-02T16:54:36.000Z",
           "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110125149193637694",
-          "author": null,
-          "description": "In the spirit of April Fools, I revisit one of the better video game magazine April Fools jokes:  Unlocking Sonic and Tails in Super Smash Brothers Melee. Now there are many references to the joke, but I how many from people who read that issue of EGM when it was released?\nhttps://thenewleafjournal.com/april-fools-sonic-and-tails-in-ssb-melee/\n#sega #aprilfools #sonic #nintendo #egm #ssbm",
-          "link": "https://linuxrocks.online/@nafnlj/110125149193637694",
-          "publishedOn": "2023-04-01T19:13:42.000Z",
-          "wordCount": 122,
           "title": "Untitled",
           "imageUrl": null
         }
