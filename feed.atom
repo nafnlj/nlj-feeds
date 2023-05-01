@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-01T18:18:43.700Z</updated>
+    <updated>2023-05-01T23:16:47.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft supports right to repair bill]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19808</id>
+        <link href="https://thenewleafjournal.com/leafbud/microsoft-supports-right-to-repair-bill/"/>
+        <updated>2023-05-01T18:30:44.000Z</updated>
+        <summary type="html"><![CDATA[From a report in Grist: Typically, when consumer tech companies reach out to lawmakers concerning right-to-repair bills — which seek to […]
+Possibly related posts...
+
+Bill's Secret Garden - A Pokémon Generation 1 Urban Legend
+Bing's and DuckDuckGo's CCP Problem
+The dangers of adapting school to tech
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+The story of our Bing blacklisting
+History of the Mario Party Gloves
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+Justin and Justina 〜 Blinded by Headlights
+Query for Bing on blacklisting and ChatGPT]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rose at the Brooklyn Botanic Garden (2007)]]></title>
         <id>https://thenewleafjournal.com/?p=19818</id>
