@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-02T13:19:00.633Z</updated>
+    <updated>2023-05-02T18:18:30.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My photo of a rose at New York City's Brooklyn Botanic Garden. I took this photo on March 27, 2007, with my Nikon D40 DLSR camera (an older one from the collection).
+
+Article:
+https://thenewleafjournal.com/rose-at-the-brooklyn-botanic-garden-2007/
+
+I did not understand the value of keeping my own data back in 2007 (I was in high school way back when). I uploaded those photos to Picasa (dating myself) and my only copies were on Google Photos (I remember when Picasa transmogrified). I did Google Takeout before I cleared my photo accounts, but my 2007 photos were low res. Fortunately, I have Upscayl as a free and open source solution for restoring my low-res Google'd photos to something resembling their former glory.
+
+#nyc #brooklyn #brooklynbotanicgarden #flowers #flower #rose #nikond40 #picasa #thenewleafjournal #newleafjournal]]></title>
+        <id>https://pixelfed.social/p/nafnlj/559030787841054944</id>
+        <link href="https://pixelfed.social/p/nafnlj/559030787841054944"/>
+        <updated>2023-05-02T15:08:46.000Z</updated>
+        <summary type="html"><![CDATA[My photo of a rose at New York City's Brooklyn Botanic Garden. I took this photo on March 27, 2007, with my Nikon D40 DLSR camera (an older one from the collection).<br />
+<br />
+Article:<br />
+<a href="https://thenewleafjournal.com/rose-at-the-brooklyn-botanic-garden-2007/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/rose-at-the-brooklyn-botanic-garden-2007/</a><br />
+<br />
+I did not understand the value of keeping my own data back in 2007 (I was in high school way back when). I uploaded those photos to Picasa (dating myself) and my only copies were on Google Photos (I remember when Picasa transmogrified). I did Google Takeout before I cleared my photo accounts, but my 2007 photos were low res. Fortunately, I have Upscayl as a free and open source solution for restoring my low-res Google'd photos to something resembling their former glory.<br />
+<br />
+<a href="https://pixelfed.social/discover/tags/nyc?src=hash" title="#nyc" class="u-url hashtag" rel="external nofollow noopener">#nyc</a> <a href="https://pixelfed.social/discover/tags/brooklyn?src=hash" title="#brooklyn" class="u-url hashtag" rel="external nofollow noopener">#brooklyn</a> <a href="https://pixelfed.social/discover/tags/brooklynbotanicgarden?src=hash" title="#brooklynbotanicgarden" class="u-url hashtag" rel="external nofollow noopener">#brooklynbotanicgarden</a> <a href="https://pixelfed.social/discover/tags/flowers?src=hash" title="#flowers" class="u-url hashtag" rel="external nofollow noopener">#flowers</a> <a href="https://pixelfed.social/discover/tags/flower?src=hash" title="#flower" class="u-url hashtag" rel="external nofollow noopener">#flower</a> <a href="https://pixelfed.social/discover/tags/rose?src=hash" title="#rose" class="u-url hashtag" rel="external nofollow noopener">#rose</a> <a href="https://pixelfed.social/discover/tags/nikond40?src=hash" title="#nikond40" class="u-url hashtag" rel="external nofollow noopener">#nikond40</a> <a href="https://pixelfed.social/discover/tags/picasa?src=hash" title="#picasa" class="u-url hashtag" rel="external nofollow noopener">#picasa</a> <a href="https://pixelfed.social/discover/tags/thenewleafjournal?src=hash" title="#thenewleafjournal" class="u-url hashtag" rel="external nofollow noopener">#thenewleafjournal</a> <a href="https://pixelfed.social/discover/tags/newleafjournal?src=hash" title="#newleafjournal" class="u-url hashtag" rel="external nofollow noopener">#newleafjournal</a>]]></summary>
+        <author>
+            <name>nafnlj on Pixelfed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thoughts on a (maybe) Bing escape story]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19854</id>
