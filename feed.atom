@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-01T23:16:47.865Z</updated>
+    <updated>2023-05-02T13:19:00.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thoughts on a (maybe) Bing escape story]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19854</id>
+        <link href="https://thenewleafjournal.com/leaf/thoughts-on-a-maybe-bing-escape-story/"/>
+        <updated>2023-05-01T23:26:08.000Z</updated>
+        <summary type="html"><![CDATA[A post by blogger/webmaster Dariusz Więckiewicz about his site being arbitrarily banned by Bing inspired me to share our own Bing […]
+Possibly related posts...
+
+The story of our Bing blacklisting
+Naver Webmaster Trials and Tribulations
+Experiences in the Yandex Webmaster Portal
+Discovering Google Webmaster Integrates With Search
+Bing's and DuckDuckGo's CCP Problem
+Importance of Bing Indexing For Alt Search
+Removing pages from Yandex Turbo
+The Downstream Effects of Bing's Tiananmen Square Censorship
+A 2021 List of Alternative Search Engines and Search…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft supports right to repair bill]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19808</id>
@@ -1399,51 +1420,6 @@ https://thenewleafjournal.com/the-dangers-of-adapting-school-to-tech/
 #microsoft #education #privacy #classroom]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110130264585032458</id>
-        <link href="https://linuxrocks.online/@nafnlj/110130264585032458"/>
-        <updated>2023-04-02T16:54:36.000Z</updated>
-        <summary type="html"><![CDATA[With the aid of a 1896 magazine article and other resources, I tell the story of an August 1860 miniature painting of a then-presidential candidate named Abraham Lincoln.
-https://thenewleafjournal.com/the-story-behind-a-miniature-painting-of-abraham-lincoln/
-#art #painting #minature #abrahamlincoln #lincoln #ushistory #history]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Related posts in WordPress]]></title>
-        <id>https://newleafannex.bearblog.dev/related-posts-in-wordpress/</id>
-        <link href="https://newleafannex.bearblog.dev/related-posts-in-wordpress/"/>
-        <updated>2023-04-02T16:50:37.438Z</updated>
-        <summary type="html"><![CDATA[My online writing website, The New Leaf Journal was de-indexed by Bing back in January. The initial de-indexing inspired me to look into ways to improve the site. While I think I accomplished that, nothing had to do with resolving the mysterious Bing issue, which remains unexplained on Bing's Webmaster Console and apparently inapplicable to every other search engine crawler.
-One thing I have considered in improving the site is streamlining. That is, I am working to slim The New Leaf Journal down (it was fairly slim to begin with, however) and use WordPress's native functionality in lieu of plugins wherever possible ("possible" is limited by my lack of php knowledge and coding ability, however).
-We used a solid WordPress plugin called Contextual Related Posts to handle related posts. It add…]]></summary>
-        <author>
-            <name>The New Leaf Annex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heights in “The Dangers of My Heart” Anime]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19433</id>
-        <link href="https://thenewleafjournal.com/leaf/heights-in-the-dangers-of-my-heart-anime/"/>
-        <updated>2023-04-02T16:15:56.000Z</updated>
-        <summary type="html"><![CDATA[I published an article on anime romances with stark height/size differences between the dramatic personae on February 22. April 1 saw […]
-Possibly related posts (relevancy may vary...):
-
-The Best of Anime in 2022: Year in Review
-The Best Anime Series of 2021
-Analysis of the From the Bottom of the Heart (Negaeba)…
-Height differences in anime romances
-Anime Recommendations of the Decade (2011-20)
-Visual Novel Review: From the Bottom of the Heart (Negaeba)
-What Makes a Depressing Anime? Discussion and Selection.
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-The Angel Next Door Spoils Me Rotten - Anime Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>

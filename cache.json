@@ -163,6 +163,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=19854",
+          "author": "Nicholas A. Ferrell",
+          "description": "A post by blogger/webmaster Dariusz Więckiewicz about his site being arbitrarily banned by Bing inspired me to share our own Bing […]\nPossibly related posts...\n\nThe story of our Bing blacklisting\nNaver Webmaster Trials and Tribulations\nExperiences in the Yandex Webmaster Portal\nDiscovering Google Webmaster Integrates With Search\nBing's and DuckDuckGo's CCP Problem\nImportance of Bing Indexing For Alt Search\nRemoving pages from Yandex Turbo\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nA 2021 List of Alternative Search Engines and Search…",
+          "link": "https://thenewleafjournal.com/leaf/thoughts-on-a-maybe-bing-escape-story/",
+          "publishedOn": "2023-05-01T23:26:08.000Z",
+          "wordCount": 1764,
+          "title": "Thoughts on a (maybe) Bing escape story",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=19606",
           "author": "Nicholas A. Ferrell",
           "description": "I use a mini Beelink PC with the GNOME edition of Fedora with my TV (see discussing in my article on […]\nPossibly related posts...\n\nBrave and DuckDuckGo Timer Search Shortcuts\nOn Improving the Environment For Gaming On Linux\nCreating a Search Engine Shortcut For Google Timer\nInstalling and Running Bodhi Linux on a 2007 MacBook\nThe Two Decade Mario Party Finally Ends\nHistory of the Mario Party Gloves\nRunning ONScripter-En in Linux Visual Novel Directory\nRead the Fine Print - Buying a Cheap Mini PC For a Home…\nGoing From ONScripter Visual Novel .exe to Native Linux",
@@ -250,16 +260,6 @@
           "publishedOn": "2023-04-05T03:04:42.000Z",
           "wordCount": 1652,
           "title": "St. Francis College Finalizes Former Campus Sale",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=19433",
-          "author": "Nicholas A. Ferrell",
-          "description": "I published an article on anime romances with stark height/size differences between the dramatic personae on February 22. April 1 saw […]\nPossibly related posts (relevancy may vary...):\n\nThe Best of Anime in 2022: Year in Review\nThe Best Anime Series of 2021\nAnalysis of the From the Bottom of the Heart (Negaeba)…\nHeight differences in anime romances\nAnime Recommendations of the Decade (2011-20)\nVisual Novel Review: From the Bottom of the Heart (Negaeba)\nWhat Makes a Depressing Anime? Discussion and Selection.\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nThe Angel Next Door Spoils Me Rotten - Anime Review",
-          "link": "https://thenewleafjournal.com/leaf/heights-in-the-dangers-of-my-heart-anime/",
-          "publishedOn": "2023-04-02T16:15:56.000Z",
-          "wordCount": 1736,
-          "title": "Heights in “The Dangers of My Heart” Anime",
           "imageUrl": null
         }
       ]
@@ -589,16 +589,6 @@
           "wordCount": 819,
           "title": "Handy Reading from F-Droid: Early Impressions",
           "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
-        },
-        {
-          "id": "https://newleafannex.bearblog.dev/related-posts-in-wordpress/",
-          "author": null,
-          "description": "My online writing website, The New Leaf Journal was de-indexed by Bing back in January. The initial de-indexing inspired me to look into ways to improve the site. While I think I accomplished that, nothing had to do with resolving the mysterious Bing issue, which remains unexplained on Bing's Webmaster Console and apparently inapplicable to every other search engine crawler.\nOne thing I have considered in improving the site is streamlining. That is, I am working to slim The New Leaf Journal down (it was fairly slim to begin with, however) and use WordPress's native functionality in lieu of plugins wherever possible (\"possible\" is limited by my lack of php knowledge and coding ability, however).\nWe used a solid WordPress plugin called Contextual Related Posts to handle related posts. It add…",
-          "link": "https://newleafannex.bearblog.dev/related-posts-in-wordpress/",
-          "publishedOn": "2023-04-02T16:50:37.438Z",
-          "wordCount": 910,
-          "title": "Related posts in WordPress",
-          "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
         }
       ]
     },
@@ -810,16 +800,6 @@
           "description": "Microsoft wants students to use an app that asks them to talk about their feelings in school with a Microsoft cartoon monster.  Their feelings will then be shared with teachers (and Microsotf?) This app is touted as not only being for young children, but also college students.  I had some... concerns.  You can read my concerns, but you won't find them on Bing or DuckDuckGo because Microsoft continues to blacklist us with no explanation.\nhttps://thenewleafjournal.com/the-dangers-of-adapting-school-to-tech/\n#microsoft #education #privacy #classroom",
           "link": "https://linuxrocks.online/@nafnlj/110135445209277655",
           "publishedOn": "2023-04-03T14:52:08.000Z",
-          "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110130264585032458",
-          "author": null,
-          "description": "With the aid of a 1896 magazine article and other resources, I tell the story of an August 1860 miniature painting of a then-presidential candidate named Abraham Lincoln.\nhttps://thenewleafjournal.com/the-story-behind-a-miniature-painting-of-abraham-lincoln/\n#art #painting #minature #abrahamlincoln #lincoln #ushistory #history",
-          "link": "https://linuxrocks.online/@nafnlj/110130264585032458",
-          "publishedOn": "2023-04-02T16:54:36.000Z",
           "wordCount": 121,
           "title": "Untitled",
           "imageUrl": null
