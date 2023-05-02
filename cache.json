@@ -6,6 +6,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=19884",
+          "author": "Nicholas A. Ferrell",
+          "description": "The Peekier search tool, once reviewed by The New Leaf Journal, is no more (or so the fact it redirects to Kagi suggests).\nPossibly related posts...\n\nPeekier Search Engine Review\nA 2021 List of Alternative Search Engines and Search…\nAn In-Depth Look at Norton Safe Search\nBrave and DuckDuckGo Timer Search Shortcuts\nReview of Wutsearch, a Search Engine Launchpad\nImportance of Bing Indexing For Alt Search\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nWallabag Custom Search Engine Shortcuts\nAdding custom search shortcut for Wayback Machine",
+          "link": "https://thenewleafjournal.com/peekier-redirects-to-kagi-search/",
+          "publishedOn": "2023-05-02T22:08:09.000Z",
+          "wordCount": 2739,
+          "title": "Peekier redirects to Kagi Search",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/05/nlj-peekier-link-hover.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=19818",
           "author": "Nicholas A. Ferrell",
           "description": "My 2007 photo of a rose at the Brooklyn Botanic Garden.\nPossibly related posts...\n\nThe Poetry of Charlotte Becker - Early Twentieth Century…\nLizzie Deas' \"The Christmas Rose\"\nFarming Gold Roses for Money in Animal Crossing\nThe Glowing Pink Rose of Grace Court in Brooklyn Heights\nJustin and Justina review 2022 at the NLJ\nThe Brown Leaf Turtle\nBill's Secret Garden - A Pokémon Generation 1 Urban Legend\nThe Brown Leaf in the Water on an Early Spring Day\nInstalling and Running Bodhi Linux on a 2007 MacBook",
@@ -270,6 +280,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19882",
+          "author": "Nicholas A. Ferrell",
+          "description": "As of uBlock Origin version 1.49.2, you can now install the extension for Mozilla Thunderbird (see release version). The extension page […]\nPossibly related posts...\n\nFrom AUR to Mainline Arch Thunderbird\nAn In-Depth Look at Norton Safe Search\nDecSync Review\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nPokémon Cursor Theme For Linux and Windows\nPeekier Search Engine Review\nThe al|together and Insani Visual Novel Translations\nA Look at ProxiTok, a TikTok Frontend\nInstalling and Running Bodhi Linux on a 2007 MacBook",
+          "link": "https://thenewleafjournal.com/leafbud/ublock-origin-available-for-thunderbird/",
+          "publishedOn": "2023-05-02T19:08:43.000Z",
+          "wordCount": 1385,
+          "title": "uBlock Origin Available for Thunderbird",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19808",
           "author": "Nicholas A. Ferrell",
           "description": "From a report in Grist: Typically, when consumer tech companies reach out to lawmakers concerning right-to-repair bills — which seek to […]\nPossibly related posts...\n\nBill's Secret Garden - A Pokémon Generation 1 Urban Legend\nBing's and DuckDuckGo's CCP Problem\nThe dangers of adapting school to tech\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nThe story of our Bing blacklisting\nHistory of the Mario Party Gloves\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nJustin and Justina 〜 Blinded by Headlights\nQuery for Bing on blacklisting and ChatGPT",
@@ -521,6 +541,16 @@
       "siteUrl": "https://newleafannex.bearblog.dev/",
       "articles": [
         {
+          "id": "https://newleafannex.bearblog.dev/thunderbird-available-as-ubo-addon/",
+          "author": null,
+          "description": "As of uBlock Origin version 1.49.2, you can now install the extension for Mozilla Thunderbird (see release version). The extension page on Thunderbird Add-ons states that it works with Thunderbird version 91.0 and higher. I use uBlock Origin with Firefox and I also use Thunderbird as my desktop email client (see my article on using Thunderbird with DecSync). I installed uBlock Origin on Thunderbird and restored my settings from my set-up on Firefox. The installation and export worked perfectly, but the non-uBlock Origin filter lists that I have enabled did not update (I am not sure if that is a general issue, but not important in my case). Consider this a PSA for Thunderbird users. If you want an aesthetic Thunderbird set-up, see my short post on the Two Little Birds theme.",
+          "link": "https://newleafannex.bearblog.dev/thunderbird-available-as-ubo-addon/",
+          "publishedOn": "2023-05-02T19:18:10.544Z",
+          "wordCount": 547,
+          "title": "Thunderbird Available as uBlock Origin Add-on",
+          "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
+        },
+        {
           "id": "https://newleafannex.bearblog.dev/bing-blacklisting-update/",
           "author": null,
           "description": "I have published two posts hear on Bear Blog about my main website project, The New Leaf Journal, having been blacklisted by Bing.\nDe-indexed from Bing (1.17.23)\nBing de-indexing update (1.18.23)\nThe Bing blacklisting not only persists, but has also become worse. I discovered in the Bing Webmaster Console that all of The New Leaf Journal's pages had been purged from Bing's index.\nI subscribe to an RSS feed for Hacker News Page 1 in my feed reader. I saw an article titled Bing Jail a few days ago which caught my attention. In that post, a webmaster described his Bing blacklisting experience. I found that it was almost identical to my experience, right down to his site having been blacklisted in January 2023 and his pages being removed from Bing's index in March. He noted that several other …",
@@ -634,6 +664,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110300669958511180",
+          "author": null,
+          "description": "uBlock Origin is now available as a Thunderbird Add-on (as of version 1.49.2). I use Thunderbird, so I installed the Add-on and imported by uBO settings from my Firefox set-up. Everything worked but for one point -- the non-uBlock Origin blocklists are not updating for me in Thunderbird (not an issue for me, but worth noting -- have not looked into why yet).\nhttps://thenewleafjournal.com/leafbud/ublock-origin-available-for-thunderbird/\n#thunderbird #ublockorigin #extensions #addons #adblocking",
+          "link": "https://linuxrocks.online/@nafnlj/110300669958511180",
+          "publishedOn": "2023-05-02T19:10:56.000Z",
+          "wordCount": 120,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/110293761336264424",
           "author": null,

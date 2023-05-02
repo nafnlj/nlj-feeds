@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-02T18:18:30.399Z</updated>
+    <updated>2023-05-02T23:14:14.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Peekier redirects to Kagi Search]]></title>
+        <id>https://thenewleafjournal.com/?p=19884</id>
+        <link href="https://thenewleafjournal.com/peekier-redirects-to-kagi-search/"/>
+        <updated>2023-05-02T22:08:09.000Z</updated>
+        <summary type="html"><![CDATA[The Peekier search tool, once reviewed by The New Leaf Journal, is no more (or so the fact it redirects to Kagi suggests).
+Possibly related posts...
+
+Peekier Search Engine Review
+A 2021 List of Alternative Search Engines and Search…
+An In-Depth Look at Norton Safe Search
+Brave and DuckDuckGo Timer Search Shortcuts
+Review of Wutsearch, a Search Engine Launchpad
+Importance of Bing Indexing For Alt Search
+The Downstream Effects of Bing's Tiananmen Square Censorship
+Wallabag Custom Search Engine Shortcuts
+Adding custom search shortcut for Wayback Machine]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunderbird Available as uBlock Origin Add-on]]></title>
+        <id>https://newleafannex.bearblog.dev/thunderbird-available-as-ubo-addon/</id>
+        <link href="https://newleafannex.bearblog.dev/thunderbird-available-as-ubo-addon/"/>
+        <updated>2023-05-02T19:18:10.544Z</updated>
+        <summary type="html"><![CDATA[As of uBlock Origin version 1.49.2, you can now install the extension for Mozilla Thunderbird (see release version). The extension page on Thunderbird Add-ons states that it works with Thunderbird version 91.0 and higher. I use uBlock Origin with Firefox and I also use Thunderbird as my desktop email client (see my article on using Thunderbird with DecSync). I installed uBlock Origin on Thunderbird and restored my settings from my set-up on Firefox. The installation and export worked perfectly, but the non-uBlock Origin filter lists that I have enabled did not update (I am not sure if that is a general issue, but not important in my case). Consider this a PSA for Thunderbird users. If you want an aesthetic Thunderbird set-up, see my short post on the Two Little Birds theme.]]></summary>
+        <author>
+            <name>The New Leaf Annex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110300669958511180</id>
+        <link href="https://linuxrocks.online/@nafnlj/110300669958511180"/>
+        <updated>2023-05-02T19:10:56.000Z</updated>
+        <summary type="html"><![CDATA[uBlock Origin is now available as a Thunderbird Add-on (as of version 1.49.2). I use Thunderbird, so I installed the Add-on and imported by uBO settings from my Firefox set-up. Everything worked but for one point -- the non-uBlock Origin blocklists are not updating for me in Thunderbird (not an issue for me, but worth noting -- have not looked into why yet).
+https://thenewleafjournal.com/leafbud/ublock-origin-available-for-thunderbird/
+#thunderbird #ublockorigin #extensions #addons #adblocking]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uBlock Origin Available for Thunderbird]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19882</id>
+        <link href="https://thenewleafjournal.com/leafbud/ublock-origin-available-for-thunderbird/"/>
+        <updated>2023-05-02T19:08:43.000Z</updated>
+        <summary type="html"><![CDATA[As of uBlock Origin version 1.49.2, you can now install the extension for Mozilla Thunderbird (see release version). The extension page […]
+Possibly related posts...
+
+From AUR to Mainline Arch Thunderbird
+An In-Depth Look at Norton Safe Search
+DecSync Review
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+Pokémon Cursor Theme For Linux and Windows
+Peekier Search Engine Review
+The al|together and Insani Visual Novel Translations
+A Look at ProxiTok, a TikTok Frontend
+Installing and Running Bodhi Linux on a 2007 MacBook]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My photo of a rose at New York City's Brooklyn Botanic Garden. I took this photo on March 27, 2007, with my Nikon D40 DLSR camera (an older one from the collection).
 
