@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-02T23:14:14.494Z</updated>
+    <updated>2023-05-03T13:18:02.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The end of Peekier Search]]></title>
+        <id>https://newleafannex.bearblog.dev/end-of-peekier-search/</id>
+        <link href="https://newleafannex.bearblog.dev/end-of-peekier-search/"/>
+        <updated>2023-05-03T02:01:50.086Z</updated>
+        <summary type="html"><![CDATA[I reviewed a niche search engine (or more aptly put, Bing front-end) called Peekier in February 2022. My Peekier review turned out to be a relatively successful post (by The New Leaf Journal's standards). The last time I had used Peekier before May 2, 2023, was in mid-January of 2023. This is because I have generally refrained from using Bing-based search after Bing arbitrarily blacklisted my project and removed it from its index. I ran a search through Peekier on May 2 as part of my day job working on U.S. immigration law research. My Peekier search unexpectedly redirected to the home page for Kagi Search. After determining that Peekier was indeed dead, I wrote an article on Peekier's demise and then updated my Peekier review to note that the charming little search tool is no more. While I am not certain of the circumstances of Peekier's downfall or why it now redirects to Kagi Search, the last Internet Archive capture of Peekier's home page came on February 19, 2023. The next capture on February 26, 2023, shows the Kagi Search redirect was in place.]]></summary>
+        <author>
+            <name>The New Leaf Annex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peekier redirects to Kagi Search]]></title>
         <id>https://thenewleafjournal.com/?p=19884</id>
@@ -1464,50 +1474,6 @@ The New Leaf Journal Twitter
 The Newsletter Leaf Journal VIII]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Website blocked by Google Safe Browsing]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19438</id>
-        <link href="https://thenewleafjournal.com/leafbud/website-blocked-by-google-safe-browsing/"/>
-        <updated>2023-04-03T19:08:07.000Z</updated>
-        <summary type="html"><![CDATA[From Mr. Stephen Brennan on his blog: What happened: for some reason, my site got onto a list called ‘Google Safe […]
-Possibly related posts (relevancy may vary...):
-
-An In-Depth Look at Norton Safe Search
-Recommended F-Droid FOSS Apps For Android-Based Devices…
-Custom Search Shortcut For Norton Safe Web
-The Quiet End of Google Bookmarks
-A 2021 List of Alternative Search Engines and Search…
-Creating a Search Engine Shortcut For Google Timer
-Importance of Bing Indexing For Alt Search
-Query for Bing on blacklisting and ChatGPT
-Peekier Search Engine Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handy Reading from F-Droid: Early Impressions]]></title>
-        <id>https://newleafannex.bearblog.dev/handy-reading-fdroid-early-impressions/</id>
-        <link href="https://newleafannex.bearblog.dev/handy-reading-fdroid-early-impressions/"/>
-        <updated>2023-04-03T18:01:09.014Z</updated>
-        <summary type="html"><![CDATA[I had been using DecSync, a decentralized cross-device synchronization solution designed to work with Syncthing, with RSS readers on my LineageOS and Linux devices for about one year. I planned to write a full review of DecSync for RSS. However, by the time I finally sat down to write my DecSync review, I had already moved from using DecSync for feeds to Handy Reading, a free and open source feed reader and read-it-later app for Android. Handy Reading, a fork of the no-longer-maintained Flym feed reader, is available on F-Droid. The Flym link is notable for me since I had been using a different Flym fork, Flym DecSync, prior to switching.
-I am very impressed with Handy Reading two weeks in. It does not have the prettiest UI (compares unfavorably to Feeder in this respect), but it is good e…]]></summary>
-        <author>
-            <name>The New Leaf Annex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110135445209277655</id>
-        <link href="https://linuxrocks.online/@nafnlj/110135445209277655"/>
-        <updated>2023-04-03T14:52:08.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft wants students to use an app that asks them to talk about their feelings in school with a Microsoft cartoon monster.  Their feelings will then be shared with teachers (and Microsotf?) This app is touted as not only being for young children, but also college students.  I had some... concerns.  You can read my concerns, but you won't find them on Bing or DuckDuckGo because Microsoft continues to blacklist us with no explanation.
-https://thenewleafjournal.com/the-dangers-of-adapting-school-to-tech/
-#microsoft #education #privacy #classroom]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>

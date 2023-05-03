@@ -418,16 +418,6 @@
           "wordCount": 1418,
           "title": "Potential WWE-UFC merger and branding",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19438",
-          "author": "Nicholas A. Ferrell",
-          "description": "From Mr. Stephen Brennan on his blog: What happened: for some reason, my site got onto a list called ‘Google Safe […]\nPossibly related posts (relevancy may vary...):\n\nAn In-Depth Look at Norton Safe Search\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nCustom Search Shortcut For Norton Safe Web\nThe Quiet End of Google Bookmarks\nA 2021 List of Alternative Search Engines and Search…\nCreating a Search Engine Shortcut For Google Timer\nImportance of Bing Indexing For Alt Search\nQuery for Bing on blacklisting and ChatGPT\nPeekier Search Engine Review",
-          "link": "https://thenewleafjournal.com/leafbud/website-blocked-by-google-safe-browsing/",
-          "publishedOn": "2023-04-03T19:08:07.000Z",
-          "wordCount": 1505,
-          "title": "Website blocked by Google Safe Browsing",
-          "imageUrl": null
         }
       ]
     },
@@ -541,6 +531,16 @@
       "siteUrl": "https://newleafannex.bearblog.dev/",
       "articles": [
         {
+          "id": "https://newleafannex.bearblog.dev/end-of-peekier-search/",
+          "author": null,
+          "description": "I reviewed a niche search engine (or more aptly put, Bing front-end) called Peekier in February 2022. My Peekier review turned out to be a relatively successful post (by The New Leaf Journal's standards). The last time I had used Peekier before May 2, 2023, was in mid-January of 2023. This is because I have generally refrained from using Bing-based search after Bing arbitrarily blacklisted my project and removed it from its index. I ran a search through Peekier on May 2 as part of my day job working on U.S. immigration law research. My Peekier search unexpectedly redirected to the home page for Kagi Search. After determining that Peekier was indeed dead, I wrote an article on Peekier's demise and then updated my Peekier review to note that the charming little search tool is no more. While I am not certain of the circumstances of Peekier's downfall or why it now redirects to Kagi Search, the last Internet Archive capture of Peekier's home page came on February 19, 2023. The next capture on February 26, 2023, shows the Kagi Search redirect was in place.",
+          "link": "https://newleafannex.bearblog.dev/end-of-peekier-search/",
+          "publishedOn": "2023-05-03T02:01:50.086Z",
+          "wordCount": 588,
+          "title": "The end of Peekier Search",
+          "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
+        },
+        {
           "id": "https://newleafannex.bearblog.dev/thunderbird-available-as-ubo-addon/",
           "author": null,
           "description": "As of uBlock Origin version 1.49.2, you can now install the extension for Mozilla Thunderbird (see release version). The extension page on Thunderbird Add-ons states that it works with Thunderbird version 91.0 and higher. I use uBlock Origin with Firefox and I also use Thunderbird as my desktop email client (see my article on using Thunderbird with DecSync). I installed uBlock Origin on Thunderbird and restored my settings from my set-up on Firefox. The installation and export worked perfectly, but the non-uBlock Origin filter lists that I have enabled did not update (I am not sure if that is a general issue, but not important in my case). Consider this a PSA for Thunderbird users. If you want an aesthetic Thunderbird set-up, see my short post on the Two Little Birds theme.",
@@ -608,16 +608,6 @@
           "publishedOn": "2023-04-06T15:36:38.088Z",
           "wordCount": 664,
           "title": "Tweaking Handy Reading",
-          "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
-        },
-        {
-          "id": "https://newleafannex.bearblog.dev/handy-reading-fdroid-early-impressions/",
-          "author": null,
-          "description": "I had been using DecSync, a decentralized cross-device synchronization solution designed to work with Syncthing, with RSS readers on my LineageOS and Linux devices for about one year. I planned to write a full review of DecSync for RSS. However, by the time I finally sat down to write my DecSync review, I had already moved from using DecSync for feeds to Handy Reading, a free and open source feed reader and read-it-later app for Android. Handy Reading, a fork of the no-longer-maintained Flym feed reader, is available on F-Droid. The Flym link is notable for me since I had been using a different Flym fork, Flym DecSync, prior to switching.\nI am very impressed with Handy Reading two weeks in. It does not have the prettiest UI (compares unfavorably to Feeder in this respect), but it is good e…",
-          "link": "https://newleafannex.bearblog.dev/handy-reading-fdroid-early-impressions/",
-          "publishedOn": "2023-04-03T18:01:09.014Z",
-          "wordCount": 819,
-          "title": "Handy Reading from F-Droid: Early Impressions",
           "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
         }
       ]
@@ -841,16 +831,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110142764215728403",
           "publishedOn": "2023-04-04T21:53:25.000Z",
           "wordCount": 118,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110135445209277655",
-          "author": null,
-          "description": "Microsoft wants students to use an app that asks them to talk about their feelings in school with a Microsoft cartoon monster.  Their feelings will then be shared with teachers (and Microsotf?) This app is touted as not only being for young children, but also college students.  I had some... concerns.  You can read my concerns, but you won't find them on Bing or DuckDuckGo because Microsoft continues to blacklist us with no explanation.\nhttps://thenewleafjournal.com/the-dangers-of-adapting-school-to-tech/\n#microsoft #education #privacy #classroom",
-          "link": "https://linuxrocks.online/@nafnlj/110135445209277655",
-          "publishedOn": "2023-04-03T14:52:08.000Z",
-          "wordCount": 121,
           "title": "Untitled",
           "imageUrl": null
         }
