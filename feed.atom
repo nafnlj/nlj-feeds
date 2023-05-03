@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-03T18:18:27.137Z</updated>
+    <updated>2023-05-03T23:14:51.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Links to English Ubunchu manga chapters]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19916</id>
+        <link href="https://thenewleafjournal.com/leafbud/links-to-english-ubunchu-manga-chapters/"/>
+        <updated>2023-05-03T20:22:32.000Z</updated>
+        <summary type="html"><![CDATA[I like anime. Anime is often based on Japanese manga. I use Linux. But until I learned about a very cozy […]
+Possibly related posts...
+
+Usagi Drop 〜 A Complicated Anime Pick
+The Best of Anime in 2022: Year in Review
+Syncing Umineko When They Cry With Syncthing
+Anime Recommendations of the Decade (2011-20)
+Visual Novel Review: May Sky
+The Mystery of Sōseki and Tsuki ga Kirei
+The Best Anime Series of 2021
+DRM and losing the quality you paid for
+The al|together and Insani Visual Novel Translations]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110305359179089333</id>

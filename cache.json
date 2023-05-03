@@ -280,6 +280,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19916",
+          "author": "Nicholas A. Ferrell",
+          "description": "I like anime. Anime is often based on Japanese manga. I use Linux. But until I learned about a very cozy […]\nPossibly related posts...\n\nUsagi Drop 〜 A Complicated Anime Pick\nThe Best of Anime in 2022: Year in Review\nSyncing Umineko When They Cry With Syncthing\nAnime Recommendations of the Decade (2011-20)\nVisual Novel Review: May Sky\nThe Mystery of Sōseki and Tsuki ga Kirei\nThe Best Anime Series of 2021\nDRM and losing the quality you paid for\nThe al|together and Insani Visual Novel Translations",
+          "link": "https://thenewleafjournal.com/leafbud/links-to-english-ubunchu-manga-chapters/",
+          "publishedOn": "2023-05-03T20:22:32.000Z",
+          "wordCount": 1365,
+          "title": "Links to English Ubunchu manga chapters",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19882",
           "author": "Nicholas A. Ferrell",
           "description": "As of uBlock Origin version 1.49.2, you can now install the extension for Mozilla Thunderbird (see release version). The extension page […]\nPossibly related posts...\n\nFrom AUR to Mainline Arch Thunderbird\nAn In-Depth Look at Norton Safe Search\nDecSync Review\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nPokémon Cursor Theme For Linux and Windows\nPeekier Search Engine Review\nThe al|together and Insani Visual Novel Translations\nA Look at ProxiTok, a TikTok Frontend\nInstalling and Running Bodhi Linux on a 2007 MacBook",
