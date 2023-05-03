@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-03T13:18:02.055Z</updated>
+    <updated>2023-05-03T18:18:27.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110305359179089333</id>
+        <link href="https://linuxrocks.online/@nafnlj/110305359179089333"/>
+        <updated>2023-05-03T15:03:28.000Z</updated>
+        <summary type="html"><![CDATA[My December 1, 2010 (according to the file date) attempt to draw a "truth tree" turned into a mushroom cloud (but it really is supposed to be a tree).
+https://thenewleafjournal.com/an-unclear-and-indistinct-idea-of-a-truth-tree/
+#philosophy #humor #anecdote #descartes #microsoftpaint]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The end of Peekier Search]]></title>
         <id>https://newleafannex.bearblog.dev/end-of-peekier-search/</id>
@@ -1451,27 +1463,6 @@ The Best of Anime in 2022: Year in Review
 The al|together and Insani Visual Novel Translations
 Immigration Issues in NYPD Chinese Agent Case
 The Angel Next Door Spoils Me Rotten - Anime Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXIX]]></title>
-        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=19441</id>
-        <link href="https://thenewleafjournal.com/letter/129/"/>
-        <updated>2023-04-04T02:37:05.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the syndicated version of the 129th Newsletter Leaf Journal. For once, I syndicated our Saturday newsletter on Monday (which […]
-Possibly related posts (relevancy may vary...):
-
-The Newsletter Leaf Journal at 100
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin and Justina review 2022 at the NLJ
-The New Leaf Journal Celebrates Its First Birthday
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The New Leaf Journal Newsletter
-How to Find Substack RSS Feeds and Other Notes
-The New Leaf Journal Twitter
-The Newsletter Leaf Journal VIII]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
