@@ -154,16 +154,6 @@
           "wordCount": 1890,
           "title": "Refilling Water Gel Sunscreen Bottle",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=19445",
-          "author": "Nicholas A. Ferrell",
-          "description": "The New Leaf Journal, like much of the internet, is powered by WordPress. Unlike much of the internet, however, I work […]\nPossibly related posts (relevancy may vary...):\n\nQuince recipes from Mary Eales's receipts\nThe New Leaf Journal Celebrates Its First Birthday\nThe Enigmatic Life and Death of Emperor Otho\nThe Newsletter Leaf Journal at 100\nThe al|together and Insani Visual Novel Translations\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nApril Fools, Sonic and Tails in SSB Melee\nThe New Leaf Journal Twitter",
-          "link": "https://thenewleafjournal.com/wp-super-cache-preload-and-lazy-loading/",
-          "publishedOn": "2023-04-04T19:28:27.000Z",
-          "wordCount": 1990,
-          "title": "WP Super Cache Preload and Lazy Loading",
-          "imageUrl": null
         }
       ]
     },
@@ -172,6 +162,16 @@
       "feedUrl": "https://thenewleafjournal.com/leaf/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=19920",
+          "author": "Nicholas A. Ferrell",
+          "description": "I run the EndeavourOS operating system with the XFCE desktop environment on my main desktop. After discovering Ulauncher while installing Bodhi […]\nPossibly related posts...\n\nReviewing the Ulauncher Markdown Table Creator\nInstalling and Running Bodhi Linux on a 2007 MacBook\nMIDI sound for games on Arch-based distro\nThe Newsletter Leaf Journal at 100\nRunning ONScripter-En in Linux Visual Novel Directory\n1897 Magazine Offer - Pocket Kodak and Kodak No. 4 Bulls-Eye…\nOld Games, MIDI, and EndeavourOS\nFrom mullvad-vpn-cli to mullvad-vpn-bin\nTeaching the Art of the Video Game Snafu",
+          "link": "https://thenewleafjournal.com/leaf/ulauncher-stops-launching-for-me/",
+          "publishedOn": "2023-05-04T11:00:33.000Z",
+          "wordCount": 1432,
+          "title": "Ulauncher stops launching for me",
+          "imageUrl": null
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=19854",
           "author": "Nicholas A. Ferrell",
@@ -417,16 +417,6 @@
           "publishedOn": "2023-04-07T18:40:20.000Z",
           "wordCount": 1409,
           "title": "Poor assumptions about new NYC subways",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19444",
-          "author": "Nicholas A. Ferrell",
-          "description": "From a CNBC report: Vince McMahon’s World Wrestling Entertainment is in advanced talks to be sold to Ari Emanuel’s Endeavor Group, […]\nPossibly related posts (relevancy may vary...):\n\nThe Enigmatic Life and Death of Emperor Otho\nACE Academy - Visual Novel Review\nHistory of the Mario Party Gloves\nBing's and DuckDuckGo's CCP Problem\nAnime Recommendations of the Decade (2011-20)\nThe Best of Anime in 2022: Year in Review\nThe al|together and Insani Visual Novel Translations\nImmigration Issues in NYPD Chinese Agent Case\nThe Angel Next Door Spoils Me Rotten - Anime Review",
-          "link": "https://thenewleafjournal.com/leafbud/potential-wwe-ufc-merger-and-branding/",
-          "publishedOn": "2023-04-04T12:24:23.000Z",
-          "wordCount": 1418,
-          "title": "Potential WWE-UFC merger and branding",
           "imageUrl": null
         }
       ]
@@ -831,16 +821,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110146977888462180",
           "publishedOn": "2023-04-05T15:45:01.000Z",
           "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110142764215728403",
-          "author": null,
-          "description": "I describe an interesting (fortunately minor) issue I had with my WordPress caching plugin, WP Super Cache, and disabling two types of lazy loading.  Certain changes or updates seem to restore lazy loading, requiring me to manually flush the cache.  The issue is easy to resolve... fortunately much easier than back in June 2020  when Bluehost (we're no longer with Bluehost) had some terrible server side caching that cached a plugin-cached version of my homepage from a week earlier (that was fun because I had no idea what I was doing in June 2020, I have a 33.4% idea of what I am doing now).\nhttps://thenewleafjournal.com/wp-super-cache-preload-and-lazy-loading/\n#wordpress #caching #wordpressplugin #blog",
-          "link": "https://linuxrocks.online/@nafnlj/110142764215728403",
-          "publishedOn": "2023-04-04T21:53:25.000Z",
-          "wordCount": 118,
           "title": "Untitled",
           "imageUrl": null
         }

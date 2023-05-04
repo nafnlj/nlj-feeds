@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-03T23:14:51.708Z</updated>
+    <updated>2023-05-04T13:18:37.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ulauncher stops launching for me]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19920</id>
+        <link href="https://thenewleafjournal.com/leaf/ulauncher-stops-launching-for-me/"/>
+        <updated>2023-05-04T11:00:33.000Z</updated>
+        <summary type="html"><![CDATA[I run the EndeavourOS operating system with the XFCE desktop environment on my main desktop. After discovering Ulauncher while installing Bodhi […]
+Possibly related posts...
+
+Reviewing the Ulauncher Markdown Table Creator
+Installing and Running Bodhi Linux on a 2007 MacBook
+MIDI sound for games on Arch-based distro
+The Newsletter Leaf Journal at 100
+Running ONScripter-En in Linux Visual Novel Directory
+1897 Magazine Offer - Pocket Kodak and Kodak No. 4 Bulls-Eye…
+Old Games, MIDI, and EndeavourOS
+From mullvad-vpn-cli to mullvad-vpn-bin
+Teaching the Art of the Video Game Snafu]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Links to English Ubunchu manga chapters]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19916</id>
@@ -1430,60 +1451,6 @@ The Enigmatic Life and Death of Emperor Otho
 St. Francis sells Brooklyn Heights campus
 Anime Recommendations of the Decade (2011-20)
 Persona 4 Golden Digital Artbook Review (Steam)]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110142764215728403</id>
-        <link href="https://linuxrocks.online/@nafnlj/110142764215728403"/>
-        <updated>2023-04-04T21:53:25.000Z</updated>
-        <summary type="html"><![CDATA[I describe an interesting (fortunately minor) issue I had with my WordPress caching plugin, WP Super Cache, and disabling two types of lazy loading.  Certain changes or updates seem to restore lazy loading, requiring me to manually flush the cache.  The issue is easy to resolve... fortunately much easier than back in June 2020  when Bluehost (we're no longer with Bluehost) had some terrible server side caching that cached a plugin-cached version of my homepage from a week earlier (that was fun because I had no idea what I was doing in June 2020, I have a 33.4% idea of what I am doing now).
-https://thenewleafjournal.com/wp-super-cache-preload-and-lazy-loading/
-#wordpress #caching #wordpressplugin #blog]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WP Super Cache Preload and Lazy Loading]]></title>
-        <id>https://thenewleafjournal.com/?p=19445</id>
-        <link href="https://thenewleafjournal.com/wp-super-cache-preload-and-lazy-loading/"/>
-        <updated>2023-04-04T19:28:27.000Z</updated>
-        <summary type="html"><![CDATA[The New Leaf Journal, like much of the internet, is powered by WordPress. Unlike much of the internet, however, I work […]
-Possibly related posts (relevancy may vary...):
-
-Quince recipes from Mary Eales's receipts
-The New Leaf Journal Celebrates Its First Birthday
-The Enigmatic Life and Death of Emperor Otho
-The Newsletter Leaf Journal at 100
-The al|together and Insani Visual Novel Translations
-Justin and Justina review 2022 at the NLJ
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-April Fools, Sonic and Tails in SSB Melee
-The New Leaf Journal Twitter]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Potential WWE-UFC merger and branding]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19444</id>
-        <link href="https://thenewleafjournal.com/leafbud/potential-wwe-ufc-merger-and-branding/"/>
-        <updated>2023-04-04T12:24:23.000Z</updated>
-        <summary type="html"><![CDATA[From a CNBC report: Vince McMahon’s World Wrestling Entertainment is in advanced talks to be sold to Ari Emanuel’s Endeavor Group, […]
-Possibly related posts (relevancy may vary...):
-
-The Enigmatic Life and Death of Emperor Otho
-ACE Academy - Visual Novel Review
-History of the Mario Party Gloves
-Bing's and DuckDuckGo's CCP Problem
-Anime Recommendations of the Decade (2011-20)
-The Best of Anime in 2022: Year in Review
-The al|together and Insani Visual Novel Translations
-Immigration Issues in NYPD Chinese Agent Case
-The Angel Next Door Spoils Me Rotten - Anime Review]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
