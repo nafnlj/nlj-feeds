@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-04T13:18:37.330Z</updated>
+    <updated>2023-05-04T18:18:38.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110311176747089855</id>
+        <link href="https://linuxrocks.online/@nafnlj/110311176747089855"/>
+        <updated>2023-05-04T15:42:57.000Z</updated>
+        <summary type="html"><![CDATA[A collection of 2021 duck and duckling rescue stories from around the web (storm drains appear to be a great struggle for ducklings).
+https://thenewleafjournal.com/duck-and-duckling-rescue-stories-from-around-the-web/
+#duck #birds #firefighters #police #stormdrain]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ulauncher stops launching for me]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19920</id>
@@ -1430,27 +1442,6 @@ Recommended F-Droid FOSS Apps For Android-Based Devices…
 In Support of the Lawsuit Against NYC Dining Sheds
 Examining the-Man-With-the-Hose
 Recording a Test New Leaf Journal Pokémon Sword and Shield…]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[St. Francis College Finalizes Former Campus Sale]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19454</id>
-        <link href="https://thenewleafjournal.com/leaf/st-francis-college-finalizes-former-campus-sale/"/>
-        <updated>2023-04-05T03:04:42.000Z</updated>
-        <summary type="html"><![CDATA[I have published many articles featuring Brooklyn Heights photos and reflections here at The New Leaf Journal. I posted a bit […]
-Possibly related posts (relevancy may vary...):
-
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-CUNY Un-Persons A Successful Alum
-ACE Academy - Visual Novel Review
-Justin and Justina review 2022 at the NLJ
-Golf and Immigration: Matter of Masters
-The Enigmatic Life and Death of Emperor Otho
-St. Francis sells Brooklyn Heights campus
-Anime Recommendations of the Decade (2011-20)
-Persona 4 Golden Digital Artbook Review (Steam)]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
