@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-04T23:15:53.440Z</updated>
+    <updated>2023-05-05T13:18:11.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Webster’s Second and Danganronpa 3]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19929</id>
+        <link href="https://thenewleafjournal.com/leaf/websters-second-and-danganronpa-3/"/>
+        <updated>2023-05-05T12:00:13.000Z</updated>
+        <summary type="html"><![CDATA[My good friend and New Leaf Journal colleague, Victor V. Gurbo, came to visit today. We are slowly playing through Danganronpa […]
+Possibly related posts...
+
+Nineteenth Century Autumn Dress Trends
+The Enigmatic Life and Death of Emperor Otho
+A Turnip-Shaped Study of the Word "Napiform"
+Whyever Do The Cicadas Cry - A Study of a Word
+New Leaf Spring Content, New and Old
+Bird in Review 〜 Australian Grass Parakeet
+Anime Recommendations of the Decade (2011-20)
+NLJ Recommendations From Around the Web IV
+The Best of Anime in 2022: Year in Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110311176747089855</id>
@@ -1411,39 +1432,6 @@ Two days later, I think that I have tentatively resolved the issue. By default, 
 Provided no new issues pop up, I will try a few additional features of Handy Reading before proceeding to a review. One issue that I am particularly interested in is testing its import/export functionality, since that proved to be an issue with my previous solution -- Flym DecSync. I recently talked to one Mastodon user who reported that Handy Reading does not handle Mastodon feeds, which is true. While I hope this is fixed, it is not a priority for me since I do not use my feed reader for social feeds.]]></summary>
         <author>
             <name>The New Leaf Annex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110146977888462180</id>
-        <link href="https://linuxrocks.online/@nafnlj/110146977888462180"/>
-        <updated>2023-04-05T15:45:01.000Z</updated>
-        <summary type="html"><![CDATA[While I may have an ongoing struggle with Bing, I found an article about an even worse problem -- being incorrectly flagged by Google Safe Browsing.  (Not wanting to tempt fate, I only wrote a short post on the matter.)
-https://thenewleafjournal.com/leafbud/website-blocked-by-google-safe-browsing/
-#google #bing #googlesafebrowsing #webmaster]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refilling Water Gel Sunscreen Bottle]]></title>
-        <id>https://thenewleafjournal.com/?p=19449</id>
-        <link href="https://thenewleafjournal.com/refilling-water-gel-sunscreen-bottle/"/>
-        <updated>2023-04-05T12:18:00.000Z</updated>
-        <summary type="html"><![CDATA[A positive review of a particular sunscreen brand and its easy-to-use re-fill pouches (mostly about what I great job I did on the re-fill).
-Possibly related posts (relevancy may vary...):
-
-"Cooking for Invalids" - Recipes For the Bedridden From…
-The NYC Outdoor Dining Standing Water Crisis
-Quince recipes from Mary Eales's receipts
-The Pokémon Special Split in Generation 2 - Statistics and…
-Japanese Environment in PoL, Lutris, and Bottles
-Recommended F-Droid FOSS Apps For Android-Based Devices…
-In Support of the Lawsuit Against NYC Dining Sheds
-Examining the-Man-With-the-Hose
-Recording a Test New Leaf Journal Pokémon Sword and Shield…]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
