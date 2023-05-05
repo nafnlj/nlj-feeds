@@ -635,6 +635,16 @@
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
         {
+          "id": "https://linuxrocks.online/@nafnlj/110316824472149013",
+          "author": null,
+          "description": "I reviewed a niche search tool called Peekier in February 2022. Peekier, like many \"alternative\" search, was mostly a Bing front-end. However, it came with a strong, straightforward privacy policy (albeit with a bit of Cloudflare required .js to run) and a unique way of presenting search results as preview thumbnails.  However, I discovered the other day that Peekier is no more -- its URL redirects to Kagi Search as of late February.  I took a look at the demise of Peekier.\nhttps://thenewleafjournal.com/peekier-redirects-to-kagi-search/\n#search #searchengine #peekier #kagi #bing",
+          "link": "https://linuxrocks.online/@nafnlj/110316824472149013",
+          "publishedOn": "2023-05-05T15:39:14.000Z",
+          "wordCount": 121,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxrocks.online/@nafnlj/110311176747089855",
           "author": null,
           "description": "A collection of 2021 duck and duckling rescue stories from around the web (storm drains appear to be a great struggle for ducklings).\nhttps://thenewleafjournal.com/duck-and-duckling-rescue-stories-from-around-the-web/\n#duck #birds #firefighters #police #stormdrain",
