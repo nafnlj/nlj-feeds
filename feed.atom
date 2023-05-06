@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-05T23:15:23.417Z</updated>
+    <updated>2023-05-06T13:16:03.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1385,65 +1385,6 @@ Four May Issues of The Nursery Magazine (1873-81)
 Justin & Justina: Most-Read NLJ Content of 2020]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On whitelisting independent search crawlers]]></title>
-        <id>https://thenewleafjournal.com/?p=19458</id>
-        <link href="https://thenewleafjournal.com/whitelisting-independent-search-crawlers/"/>
-        <updated>2023-04-06T16:49:56.000Z</updated>
-        <summary type="html"><![CDATA[Making the case for whitelisting Seznam and other good crawlers from independent index search engines.
-Possibly related posts (relevancy may vary...):
-
-A 2021 List of Alternative Search Engines and Search…
-An In-Depth Look at Norton Safe Search
-Brave and DuckDuckGo Timer Search Shortcuts
-The Downstream Effects of Bing's Tiananmen Square Censorship
-Importance of Bing Indexing For Alt Search
-Peekier Search Engine Review
-Wallabag Custom Search Engine Shortcuts
-Review of Wutsearch, a Search Engine Launchpad
-Performing Site-Specific Searches With DuckDuckGo]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110152685669286144</id>
-        <link href="https://linuxrocks.online/@nafnlj/110152685669286144"/>
-        <updated>2023-04-06T15:56:35.000Z</updated>
-        <summary type="html"><![CDATA[If you decide to read Shooting Star Hill (see previous post in thread), I also wrote a separate, spoiler-filled story analysis piece.
-https://thenewleafjournal.com/visual-novel-analysis-shooting-star-hill/
-#visualnovel #visualnovels #visualnovelreview]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110152682195975227</id>
-        <link href="https://linuxrocks.online/@nafnlj/110152682195975227"/>
-        <updated>2023-04-06T15:55:42.000Z</updated>
-        <summary type="html"><![CDATA[My review of Shooting Star Hill, the official English version of the freeware 2005 Japanese visual novel, Hoshi no Furu Oka. It tells the story of a lonely (alien?) girl and the boy who wants to befriend her.  I enjoyed Shooting Star Hill and it is one of the better entries from the review project that I am doing. It takes about one hour to read and remains free to download and run. Linux users should either run the Windows version under WINE or replace the old Linux ONScripter-EN executable that comes with the game with the most recent build (links and instructions in article).
-(Note: I should really replace those old screenshots with borderless screenshots... someday.)
-https://thenewleafjournal.com/visual-novel-review-shooting-star-hill/
-#visualnovel #visualnovels #visualnovelreview #onscripter]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tweaking Handy Reading]]></title>
-        <id>https://newleafannex.bearblog.dev/tweaking-handy-reading/</id>
-        <link href="https://newleafannex.bearblog.dev/tweaking-handy-reading/"/>
-        <updated>2023-04-06T15:36:38.088Z</updated>
-        <summary type="html"><![CDATA[In my previous post, I offered my very early impressions of a free and open source Android feed reader and read-it-later app called Handy Reading. My early impressions were very favorable because, by combining feed reading and read-it-later into a local app, it perfectly suits my reading-flow (see my post on combining feeds with a read-it-later solution). However, I had one pressing issue with Handy Reading:
-Handy Reading re-fetches old, previously seen articles from a small number of feeds, which is a bit annoying.
-Two days later, I think that I have tentatively resolved the issue. By default, Handy Reading has a short "keep old articles" time. It seems that if a feed is offering old articles outside the scope of Handy Reading's kept article time, it will re-fetch those old articles and display them is new even if you have already marked them as read in the app. Fortunately, Handy Reading allows you to set the keep old articles period on a feed-by-feed basis. I have been doing that with the offending feeds and so far the results have been good.
-Provided no new issues pop up, I will try a few additional features of Handy Reading before proceeding to a review. One issue that I am particularly interested in is testing its import/export functionality, since that proved to be an issue with my previous solution -- Flym DecSync. I recently talked to one Mastodon user who reported that Handy Reading does not handle Mastodon feeds, which is true. While I hope this is fixed, it is not a priority for me since I do not use my feed reader for social feeds.]]></summary>
-        <author>
-            <name>The New Leaf Annex</name>
         </author>
     </entry>
 </feed>

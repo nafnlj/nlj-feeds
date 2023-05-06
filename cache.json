@@ -134,16 +134,6 @@
           "wordCount": 1729,
           "title": "Inflatable colorful Easter egg bunny thing",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=19458",
-          "author": "Nicholas A. Ferrell",
-          "description": "Making the case for whitelisting Seznam and other good crawlers from independent index search engines.\nPossibly related posts (relevancy may vary...):\n\nA 2021 List of Alternative Search Engines and Search…\nAn In-Depth Look at Norton Safe Search\nBrave and DuckDuckGo Timer Search Shortcuts\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nImportance of Bing Indexing For Alt Search\nPeekier Search Engine Review\nWallabag Custom Search Engine Shortcuts\nReview of Wutsearch, a Search Engine Launchpad\nPerforming Site-Specific Searches With DuckDuckGo",
-          "link": "https://thenewleafjournal.com/whitelisting-independent-search-crawlers/",
-          "publishedOn": "2023-04-06T16:49:56.000Z",
-          "wordCount": 2327,
-          "title": "On whitelisting independent search crawlers",
-          "imageUrl": null
         }
       ]
     },
@@ -579,16 +569,6 @@
           "wordCount": 525,
           "title": "Bear Blog analytics and Romania",
           "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
-        },
-        {
-          "id": "https://newleafannex.bearblog.dev/tweaking-handy-reading/",
-          "author": null,
-          "description": "In my previous post, I offered my very early impressions of a free and open source Android feed reader and read-it-later app called Handy Reading. My early impressions were very favorable because, by combining feed reading and read-it-later into a local app, it perfectly suits my reading-flow (see my post on combining feeds with a read-it-later solution). However, I had one pressing issue with Handy Reading:\nHandy Reading re-fetches old, previously seen articles from a small number of feeds, which is a bit annoying.\nTwo days later, I think that I have tentatively resolved the issue. By default, Handy Reading has a short \"keep old articles\" time. It seems that if a feed is offering old articles outside the scope of Handy Reading's kept article time, it will re-fetch those old articles and display them is new even if you have already marked them as read in the app. Fortunately, Handy Reading allows you to set the keep old articles period on a feed-by-feed basis. I have been doing that with the offending feeds and so far the results have been good.\nProvided no new issues pop up, I will try a few additional features of Handy Reading before proceeding to a review. One issue that I am particularly interested in is testing its import/export functionality, since that proved to be an issue with my previous solution -- Flym DecSync. I recently talked to one Mastodon user who reported that Handy Reading does not handle Mastodon feeds, which is true. While I hope this is fixed, it is not a priority for me since I do not use my feed reader for social feeds.",
-          "link": "https://newleafannex.bearblog.dev/tweaking-handy-reading/",
-          "publishedOn": "2023-04-06T15:36:38.088Z",
-          "wordCount": 664,
-          "title": "Tweaking Handy Reading",
-          "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
         }
       ]
     },
@@ -800,26 +780,6 @@
           "description": "In a 2019 interview, a representative of the Czech-based Seznam search engine (interesting Czech-based project with its own crawler) discussed the challenges of indexing English-language sites due to the fact that many block all crawlers except Google.  Being a supporter of independent search indexes, I wrote a brief PSA for webmasters on the subject of allowing independent search engines with their own crawlers.  In addition to Seznam, I singled out @Mojeek , InfoTiger, and Marginalia Search as being worth whitelisting for sites with generally restrictive robots.txt rules.\nhttps://thenewleafjournal.com/whitelisting-independent-search-crawlers/\n#searchengine #search #indexing #bots #webmaster",
           "link": "https://linuxrocks.online/@nafnlj/110175415116200976",
           "publishedOn": "2023-04-10T16:16:59.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110152685669286144",
-          "author": null,
-          "description": "If you decide to read Shooting Star Hill (see previous post in thread), I also wrote a separate, spoiler-filled story analysis piece.\nhttps://thenewleafjournal.com/visual-novel-analysis-shooting-star-hill/\n#visualnovel #visualnovels #visualnovelreview",
-          "link": "https://linuxrocks.online/@nafnlj/110152685669286144",
-          "publishedOn": "2023-04-06T15:56:35.000Z",
-          "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110152682195975227",
-          "author": null,
-          "description": "My review of Shooting Star Hill, the official English version of the freeware 2005 Japanese visual novel, Hoshi no Furu Oka. It tells the story of a lonely (alien?) girl and the boy who wants to befriend her.  I enjoyed Shooting Star Hill and it is one of the better entries from the review project that I am doing. It takes about one hour to read and remains free to download and run. Linux users should either run the Windows version under WINE or replace the old Linux ONScripter-EN executable that comes with the game with the most recent build (links and instructions in article).\n(Note: I should really replace those old screenshots with borderless screenshots... someday.)\nhttps://thenewleafjournal.com/visual-novel-review-shooting-star-hill/\n#visualnovel #visualnovels #visualnovelreview #onscripter",
-          "link": "https://linuxrocks.online/@nafnlj/110152682195975227",
-          "publishedOn": "2023-04-06T15:55:42.000Z",
           "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
