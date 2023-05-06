@@ -6,6 +6,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=19941",
+          "author": "Nicholas A. Ferrell",
+          "description": "My 2007 photograph of two ducks in a drizzle at the Brooklyn Botanic Garden.\nPossibly related posts...\n\nBird in Review 〜 Mandarin Duck\nDuck and Duckling Rescue Stories From Around the Web\nJustin and Justina review 2022 at the NLJ\nThe NYPD's Duck Family Rescue in Midtown Manhattan\nInstalling and Running Bodhi Linux on a 2007 MacBook\nRose at the Brooklyn Botanic Garden (2007)\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nThe New Leaf Journal Celebrates Its First Birthday\nThe Poetry of Charlotte Becker - Early Twentieth Century…",
+          "link": "https://thenewleafjournal.com/two-ducks-in-a-drizzle-at-the-bbg-2007/",
+          "publishedOn": "2023-05-06T16:36:36.000Z",
+          "wordCount": 1604,
+          "title": "Two ducks in a drizzle at the BBG (2007)",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/05/bbg-ducks-07.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=19884",
           "author": "Nicholas A. Ferrell",
           "description": "The Peekier search tool, once reviewed by The New Leaf Journal, is no more (or so the fact it redirects to Kagi suggests).\nPossibly related posts...\n\nPeekier Search Engine Review\nA 2021 List of Alternative Search Engines and Search…\nAn In-Depth Look at Norton Safe Search\nBrave and DuckDuckGo Timer Search Shortcuts\nReview of Wutsearch, a Search Engine Launchpad\nImportance of Bing Indexing For Alt Search\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nWallabag Custom Search Engine Shortcuts\nAdding custom search shortcut for Wayback Machine",
@@ -241,16 +251,6 @@
           "wordCount": 1745,
           "title": "Mickelson finishes second in Masters at 52",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=19465",
-          "author": "Nicholas A. Ferrell",
-          "description": "All links at The New Leaf Journal are a shade of blue.  Back in January, I set up the site so […]\nPossibly related posts (relevancy may vary...):\n\nQuince recipes from Mary Eales's receipts\nThe al|together and Insani Visual Novel Translations\nThe Enigmatic Life and Death of Emperor Otho\nThe New Leaf Journal Celebrates Its First Birthday\nA 2021 List of Alternative Search Engines and Search…\nTokyo High Schools Change Hair Color Dress Code Policies\nOldest Golfers to Contend for Majors Between the 1968 and…\nFour May Issues of The Nursery Magazine (1873-81)\nJustin & Justina: Most-Read NLJ Content of 2020",
-          "link": "https://thenewleafjournal.com/leaf/wp-redis-object-cache-and-link-hover-color/",
-          "publishedOn": "2023-04-07T01:53:32.000Z",
-          "wordCount": 1458,
-          "title": "WP Redis Object Cache and Link Hover Color",
-          "imageUrl": null
         }
       ]
     },
@@ -454,6 +454,16 @@
       "siteUrl": "https://buttondown.email/newsletterleafjournal",
       "articles": [
         {
+          "id": "https://buttondown.email/newsletterleafjournal/archive/134/",
+          "author": null,
+          "description": "Welcome to the 134th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.\nI hoped to welcome May with style, but I have been a bit busy this week with work-work and behind-the-scenes New Leaf Journal work. But I do have some interesting articles, links from around the web, and news and notes to share in this week’s edition of your favorite (I hope…) weekly newsletter.\nTable of contents\nLeaves from the week that was\nLeaves from around the web\nThe Old Leaf Journal\nMost-turned leaves of the newsletter week\nNews leaf journal\nNotable leaf journal\nTaking leaf\nLeaves from the week that was\nI publish…",
+          "link": "https://buttondown.email/newsletterleafjournal/archive/134/",
+          "publishedOn": "2023-05-06T16:20:56.000Z",
+          "wordCount": 2654,
+          "title": "Newsletter Leaf Journal CXXXIV 〜 Newsletter gauntlet 〜",
+          "imageUrl": "https://buttondown.imgix.net/images/db8ed510-5a1d-4931-970e-61464a40dc27.png"
+        },
+        {
           "id": "https://buttondown.email/newsletterleafjournal/archive/133/",
           "author": null,
           "description": "Welcome to the 133rd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.\nApril 27 marked the third birthday of The New Leaf Journal. I made sure that we had plenty of new articles for our birthday week. Below, you will find links to our newest articles along with twelve links from around the web and other news and notes.\nTable of contents\nLeaves from the birthday week that was\nLeaves from around the web\nThe Old Birthday Leaf Journal\nMost turned leaves of the birthday week\nNews leaf journal\nNotable leaf journal\nTaking leaf\nLeaves from the birthday week that was\nI published five regu…",
@@ -614,6 +624,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110322752018375744",
+          "author": null,
+          "description": "Published three years to the day -- my NLJ colleague, Victor V. Gurbo, wrote about the history of Love Henry, a classic folk ballad. In addition to writing about the history, he included a link to his Love Henry rendition with fellow Brooklyn NYC musician, Mark Caserta.\nhttps://thenewleafjournal.com/the-quarantine-sessions-love-henry/\n#music #folkmusic #lovehenry #bobdylan #history",
+          "link": "https://linuxrocks.online/@nafnlj/110322752018375744",
+          "publishedOn": "2023-05-06T16:46:41.000Z",
+          "wordCount": 121,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/110316824472149013",
           "author": null,
