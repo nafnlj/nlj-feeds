@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-07T13:16:32.102Z</updated>
+    <updated>2023-05-07T18:17:33.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Another photo from my spring 2007 set -- two ducks standing in the drizzle at New York City's Brooklyn Botanic Garden.
+
+Article:
+https://thenewleafjournal.com/two-ducks-in-a-drizzle-at-the-bbg-2007/
+
+#nyc #brooklyn #brooklynbotanicgarden #brooklynbotanicgardens #bbg #birds #duck #ducks #pond #rain #raindrops #nikond40 #thenewleafjournal #newleafjournal]]></title>
+        <id>https://pixelfed.social/p/nafnlj/560837935273010252</id>
+        <link href="https://pixelfed.social/p/nafnlj/560837935273010252"/>
+        <updated>2023-05-07T14:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Another photo from my spring 2007 set -- two ducks standing in the drizzle at New York City's Brooklyn Botanic Garden.<br />
+<br />
+Article:<br />
+<a href="https://thenewleafjournal.com/two-ducks-in-a-drizzle-at-the-bbg-2007/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/two-ducks-in-a-drizzle-at-the-bbg-2007/</a><br />
+<br />
+<a href="https://pixelfed.social/discover/tags/nyc?src=hash" title="#nyc" class="u-url hashtag" rel="external nofollow noopener">#nyc</a> <a href="https://pixelfed.social/discover/tags/brooklyn?src=hash" title="#brooklyn" class="u-url hashtag" rel="external nofollow noopener">#brooklyn</a> <a href="https://pixelfed.social/discover/tags/brooklynbotanicgarden?src=hash" title="#brooklynbotanicgarden" class="u-url hashtag" rel="external nofollow noopener">#brooklynbotanicgarden</a> <a href="https://pixelfed.social/discover/tags/brooklynbotanicgardens?src=hash" title="#brooklynbotanicgardens" class="u-url hashtag" rel="external nofollow noopener">#brooklynbotanicgardens</a> <a href="https://pixelfed.social/discover/tags/bbg?src=hash" title="#bbg" class="u-url hashtag" rel="external nofollow noopener">#bbg</a> <a href="https://pixelfed.social/discover/tags/birds?src=hash" title="#birds" class="u-url hashtag" rel="external nofollow noopener">#birds</a> <a href="https://pixelfed.social/discover/tags/duck?src=hash" title="#duck" class="u-url hashtag" rel="external nofollow noopener">#duck</a> <a href="https://pixelfed.social/discover/tags/ducks?src=hash" title="#ducks" class="u-url hashtag" rel="external nofollow noopener">#ducks</a> <a href="https://pixelfed.social/discover/tags/pond?src=hash" title="#pond" class="u-url hashtag" rel="external nofollow noopener">#pond</a> <a href="https://pixelfed.social/discover/tags/rain?src=hash" title="#rain" class="u-url hashtag" rel="external nofollow noopener">#rain</a> <a href="https://pixelfed.social/discover/tags/raindrops?src=hash" title="#raindrops" class="u-url hashtag" rel="external nofollow noopener">#raindrops</a> <a href="https://pixelfed.social/discover/tags/nikond40?src=hash" title="#nikond40" class="u-url hashtag" rel="external nofollow noopener">#nikond40</a> <a href="https://pixelfed.social/discover/tags/thenewleafjournal?src=hash" title="#thenewleafjournal" class="u-url hashtag" rel="external nofollow noopener">#thenewleafjournal</a> <a href="https://pixelfed.social/discover/tags/newleafjournal?src=hash" title="#newleafjournal" class="u-url hashtag" rel="external nofollow noopener">#newleafjournal</a>]]></summary>
+        <author>
+            <name>nafnlj on Pixelfed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110322752018375744</id>
@@ -1351,52 +1371,6 @@ Leaves from the week that was
 I published four regular articles and six short posts…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victor V. Gurbo & Co. "Rachel's Hymn" Live at Montague Open Streets 9/24/22]]></title>
-        <id>https://www.youtube.com/watch?v=VLtKTDb5_7I</id>
-        <link href="https://www.youtube.com/watch?v=VLtKTDb5_7I"/>
-        <updated>2023-04-08T04:50:44.000Z</updated>
-        <author>
-            <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victor V. Gurbo & Co. "Skinner Box Blues" Live at Montague Open Streets 9/24/22]]></title>
-        <id>https://www.youtube.com/watch?v=InP77E0WkUw</id>
-        <link href="https://www.youtube.com/watch?v=InP77E0WkUw"/>
-        <updated>2023-04-08T04:40:54.000Z</updated>
-        <author>
-            <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victor V. Gurbo & Co. "Jocasta" Live at 5th Avenue Open Streets 9/17/22]]></title>
-        <id>https://www.youtube.com/watch?v=xXuT7l1P7JI</id>
-        <link href="https://www.youtube.com/watch?v=xXuT7l1P7JI"/>
-        <updated>2023-04-08T03:50:31.000Z</updated>
-        <author>
-            <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victor V. Gurbo & Co. "Please Jump Out Your Window" Live at Montague Open Streets 9/24/22]]></title>
-        <id>https://www.youtube.com/watch?v=zRgjfu2mSv0</id>
-        <link href="https://www.youtube.com/watch?v=zRgjfu2mSv0"/>
-        <updated>2023-04-08T03:31:39.000Z</updated>
-        <author>
-            <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bear Blog analytics and Romania]]></title>
-        <id>https://newleafannex.bearblog.dev/bearblog-analytics-romania/</id>
-        <link href="https://newleafannex.bearblog.dev/bearblog-analytics-romania/"/>
-        <updated>2023-04-08T03:18:36.977Z</updated>
-        <summary type="html"><![CDATA[I took a look at my Bear Blog analytics. Unsurprisingly given my small number of posts and the fact that I tend to reserve my best content for The New Leaf Journal (I largely leave quality determinations to others), I only have a handful of Bear Blog readers. From this small sample, I have noted that a majority of my readers are based in Romania. Nearly all of the referrals are from Bear Blog (not surprising). Are there a large number of Bear Blog users and readers in Romania or are people using VPNs? The sample size is too small for me to make much of it. I personally use Mullvad VPN, but I set the location to New York instead of Romania.]]></summary>
-        <author>
-            <name>The New Leaf Annex</name>
         </author>
     </entry>
 </feed>
