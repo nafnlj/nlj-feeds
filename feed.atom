@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-06T23:14:57.220Z</updated>
+    <updated>2023-05-07T13:16:32.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1397,27 +1397,6 @@ I published four regular articles and six short posts…]]></summary>
         <summary type="html"><![CDATA[I took a look at my Bear Blog analytics. Unsurprisingly given my small number of posts and the fact that I tend to reserve my best content for The New Leaf Journal (I largely leave quality determinations to others), I only have a handful of Bear Blog readers. From this small sample, I have noted that a majority of my readers are based in Romania. Nearly all of the referrals are from Bear Blog (not surprising). Are there a large number of Bear Blog users and readers in Romania or are people using VPNs? The sample size is too small for me to make much of it. I personally use Mullvad VPN, but I set the location to New York instead of Romania.]]></summary>
         <author>
             <name>The New Leaf Annex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poor assumptions about new NYC subways]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19472</id>
-        <link href="https://thenewleafjournal.com/leafbud/poor-assumptions-about-new-nyc-subways/"/>
-        <updated>2023-04-07T18:40:20.000Z</updated>
-        <summary type="html"><![CDATA[On March 18, 2023, the New York Post reported on problems on the recently launched modern R211 New York City Subway […]
-Possibly related posts (relevancy may vary...):
-
-The Poor Little Bird - Visual Novel Review
-Justin and Justina review 2022 at the NLJ
-The New Leaf Journal Celebrates Its First Birthday
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Freedom Tower in the Fog From the Brooklyn Bridge
-Wasteful talk show subsidies in New York
-The al|together and Insani Visual Novel Translations
-On NYC Curfews and Essential Workers
-Anime Recommendations of the Decade (2011-20)]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
