@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-07T23:14:13.996Z</updated>
+    <updated>2023-05-08T13:18:35.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[House centipede on my rocking chair]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19974</id>
+        <link href="https://thenewleafjournal.com/leaf/house-centipede-on-my-rocking-chair/"/>
+        <updated>2023-05-08T12:00:17.000Z</updated>
+        <summary type="html"><![CDATA[I was watching an episode of Mix from my bed on Saturday night (Sunday morning to be technical). The back of […]
+Possibly related posts...
+
+Our Friend the House Centipede
+When President Coolidge Spared a Raccoon From Thanksgiving…
+Bonner's "The Tired Eagles"
+The Mint Bike in the Melting Snow of Brooklyn
+The Story of Billy Possum, President Hoover's Pet Opossum
+The Best of Anime in 2022: Year in Review
+Bird in Review 〜 The Nonpareil
+The Arrival of Sparrows in the United States
+The Story of the Herald Square Carrier Pigeons]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Another photo from my spring 2007 set -- two ducks standing in the drizzle at New York City's Brooklyn Botanic Garden.
 
@@ -1308,69 +1329,6 @@ My Glass Cannon is Tankier than Expected 〜 Lysithea-Fire…]]></summary>
 (Note before continuing: All of my page view statistics come from Koko Analytics, an entirely local and privacy-friendly analytics plugin for WordPress. It sacrifices a bit in accuracy for privacy, but my comparison of its recorded Google refers …]]></summary>
         <author>
             <name>The New Leaf Annex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyacinth is an uncommon name these days]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19473</id>
-        <link href="https://thenewleafjournal.com/leafbud/hyacinth-is-an-uncommon-name-these-days/"/>
-        <updated>2023-04-08T18:42:04.000Z</updated>
-        <summary type="html"><![CDATA[From Nancy Lasselle’s Washington Novels (Matthew Willis for JSTOR Daily.  April 7, 2023): Nancy Laselle (née Polke) was born in Indiana […]
-Possibly related posts (relevancy may vary...):
-
-The Nice Boat 〜 A Look Back at the School Days Anime
-Masonic Portrait of George Washington
-Washington's 1789 Thanksgiving Proclamation
-A Children's Poem on George Washington
-Grape Hyacinths at the Botanic Garden
-An 1882 Children's Independence Day Poem
-"Washington's Birthday" Poem by Sangster
-Anna Jarvis and the Origin of Mother's Day in the United…
-1892 Reports on First Year of Basketball]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflatable colorful Easter egg bunny thing]]></title>
-        <id>https://thenewleafjournal.com/?p=19475</id>
-        <link href="https://thenewleafjournal.com/inflatable-colorful-easter-egg-bunny-thing/"/>
-        <updated>2023-04-08T16:41:06.000Z</updated>
-        <summary type="html"><![CDATA[I remain undecided whether to interpret this as an inflatable egg dressed as a bunny, a bunny dressed as an egg, or a hitherto undiscovered egg-bunny.
-Possibly related posts (relevancy may vary...):
-
-Inflatable Carrot and Easter Bunnies in Brooklyn
-When President Coolidge Spared a Raccoon From Thanksgiving…
-The Enigmatic Life and Death of Emperor Otho
-The Best of Anime in 2022: Year in Review
-Recommended F-Droid FOSS Apps For Android-Based Devices…
-On Improving the Environment For Gaming On Linux
-Anime Recommendations of the Decade (2011-20)
-Analysis of the From the Bottom of the Heart (Negaeba)…
-The Angel Next Door Spoils Me Rotten - Anime Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXX 〜 Easter Egg cache 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/newsletter-leaf-journal/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/newsletter-leaf-journal/"/>
-        <updated>2023-04-08T16:26:45.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 130th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.
-We had a relatively normal week at The New Leaf Journal with a mix of regular articles and short posts. Below, you will find our recap of the week that was at The New Leaf Journal along with links from around the web and other news and notes.
-Table of contents
-Leaves from the week that was
-Leaves from around the web
-The Old Leaf Journal
-Most-turned leaves of the newsletter week
-News leaf journal
-Notable leaf journal
-Taking leaf
-Leaves from the week that was
-I published four regular articles and six short posts…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>

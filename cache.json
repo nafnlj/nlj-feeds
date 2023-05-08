@@ -134,16 +134,6 @@
           "wordCount": 5123,
           "title": "Anime Review: Endo and Kobayashi Live!",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=19475",
-          "author": "Nicholas A. Ferrell",
-          "description": "I remain undecided whether to interpret this as an inflatable egg dressed as a bunny, a bunny dressed as an egg, or a hitherto undiscovered egg-bunny.\nPossibly related posts (relevancy may vary...):\n\nInflatable Carrot and Easter Bunnies in Brooklyn\nWhen President Coolidge Spared a Raccoon From Thanksgiving…\nThe Enigmatic Life and Death of Emperor Otho\nThe Best of Anime in 2022: Year in Review\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nOn Improving the Environment For Gaming On Linux\nAnime Recommendations of the Decade (2011-20)\nAnalysis of the From the Bottom of the Heart (Negaeba)…\nThe Angel Next Door Spoils Me Rotten - Anime Review",
-          "link": "https://thenewleafjournal.com/inflatable-colorful-easter-egg-bunny-thing/",
-          "publishedOn": "2023-04-08T16:41:06.000Z",
-          "wordCount": 1729,
-          "title": "Inflatable colorful Easter egg bunny thing",
-          "imageUrl": null
         }
       ]
     },
@@ -152,6 +142,16 @@
       "feedUrl": "https://thenewleafjournal.com/leaf/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=19974",
+          "author": "Nicholas A. Ferrell",
+          "description": "I was watching an episode of Mix from my bed on Saturday night (Sunday morning to be technical). The back of […]\nPossibly related posts...\n\nOur Friend the House Centipede\nWhen President Coolidge Spared a Raccoon From Thanksgiving…\nBonner's \"The Tired Eagles\"\nThe Mint Bike in the Melting Snow of Brooklyn\nThe Story of Billy Possum, President Hoover's Pet Opossum\nThe Best of Anime in 2022: Year in Review\nBird in Review 〜 The Nonpareil\nThe Arrival of Sparrows in the United States\nThe Story of the Herald Square Carrier Pigeons",
+          "link": "https://thenewleafjournal.com/leaf/house-centipede-on-my-rocking-chair/",
+          "publishedOn": "2023-05-08T12:00:17.000Z",
+          "wordCount": 1388,
+          "title": "House centipede on my rocking chair",
+          "imageUrl": null
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=19929",
           "author": "Nicholas A. Ferrell",
@@ -378,16 +378,6 @@
           "wordCount": 1561,
           "title": "Rent-a-Girlfriend S3 to introduce new character…",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19473",
-          "author": "Nicholas A. Ferrell",
-          "description": "From Nancy Lasselle’s Washington Novels (Matthew Willis for JSTOR Daily.  April 7, 2023): Nancy Laselle (née Polke) was born in Indiana […]\nPossibly related posts (relevancy may vary...):\n\nThe Nice Boat 〜 A Look Back at the School Days Anime\nMasonic Portrait of George Washington\nWashington's 1789 Thanksgiving Proclamation\nA Children's Poem on George Washington\nGrape Hyacinths at the Botanic Garden\nAn 1882 Children's Independence Day Poem\n\"Washington's Birthday\" Poem by Sangster\nAnna Jarvis and the Origin of Mother's Day in the United…\n1892 Reports on First Year of Basketball",
-          "link": "https://thenewleafjournal.com/leafbud/hyacinth-is-an-uncommon-name-these-days/",
-          "publishedOn": "2023-04-08T18:42:04.000Z",
-          "wordCount": 1399,
-          "title": "Hyacinth is an uncommon name these days",
-          "imageUrl": null
         }
       ]
     },
@@ -482,16 +472,6 @@
           "wordCount": 2178,
           "title": "Newsletter Leaf Journal CXXXI 〜 Resplendent",
           "imageUrl": "https://buttondown.imgix.net/images/f764372c-462f-4894-88c7-8e48c7d1d68d.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/newsletter-leaf-journal/",
-          "author": null,
-          "description": "Welcome to the 130th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.\nWe had a relatively normal week at The New Leaf Journal with a mix of regular articles and short posts. Below, you will find our recap of the week that was at The New Leaf Journal along with links from around the web and other news and notes.\nTable of contents\nLeaves from the week that was\nLeaves from around the web\nThe Old Leaf Journal\nMost-turned leaves of the newsletter week\nNews leaf journal\nNotable leaf journal\nTaking leaf\nLeaves from the week that was\nI published four regular articles and six short posts…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/newsletter-leaf-journal/",
-          "publishedOn": "2023-04-08T16:26:45.000Z",
-          "wordCount": 2182,
-          "title": "Newsletter Leaf Journal CXXX 〜 Easter Egg cache 〜",
-          "imageUrl": "https://buttondown.email/static/images/icons/icon-square@400.png"
         }
       ]
     },
