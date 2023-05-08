@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-08T13:18:35.711Z</updated>
+    <updated>2023-05-08T18:17:57.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXXXIV]]></title>
+        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=19939</id>
+        <link href="https://thenewleafjournal.com/letter/newsletter-leaf-journal-cxxxiv/"/>
+        <updated>2023-05-08T16:06:25.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the syndicated 134th edition of The Newsletter Leaf Journal. I threw down the gauntlet with our May 6 mailing (see […]
+Possibly related posts...
+
+The Newsletter Leaf Journal at 100
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin and Justina review 2022 at the NLJ
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The New Leaf Journal Celebrates Its First Birthday
+The New Leaf Journal Newsletter
+How to Find Substack RSS Feeds and Other Notes
+The Newsletter Leaf Journal VIII
+New Leaf Journal Third Birthday Reader]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[House centipede on my rocking chair]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19974</id>
@@ -1318,17 +1339,6 @@ The Angel Next Door Spoils Me Rotten - Anime Review
 My Glass Cannon is Tankier than Expected 〜 Lysithea-Fire…]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire Emblem Tiki overtakes Tsuki ga Kirei at the NLJ]]></title>
-        <id>https://newleafannex.bearblog.dev/tiki-tsuki-nlj/</id>
-        <link href="https://newleafannex.bearblog.dev/tiki-tsuki-nlj/"/>
-        <updated>2023-04-09T03:42:14.421Z</updated>
-        <summary type="html"><![CDATA[On March 14, 2021, I published a lengthy research article titled The Mystery of Sōseki and Tsuki ga Kirei. In that post, I collected English-language sources on a certain legend that Natsume Sōseki had suggested "tsuki ga kirei" (the Moon is beautiful) as a Japanese translation for "I love you." I had learned about the tsuki ga kirei legend from the excellent 2017 anime series (it featured in my decade review, Tsuki ga Kirei, and while it is likely a work of fiction (I knew that going into my research project), the phrase is aesthetically elegant.
-(Note before continuing: All of my page view statistics come from Koko Analytics, an entirely local and privacy-friendly analytics plugin for WordPress. It sacrifices a bit in accuracy for privacy, but my comparison of its recorded Google refers …]]></summary>
-        <author>
-            <name>The New Leaf Annex</name>
         </author>
     </entry>
 </feed>
