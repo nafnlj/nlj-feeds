@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-08T23:15:50.740Z</updated>
+    <updated>2023-05-09T13:36:53.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WP ACF Vulnerability Patched]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19985</id>
+        <link href="https://thenewleafjournal.com/leafbud/wp-acf-vulnerability-patched/"/>
+        <updated>2023-05-09T11:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Advanced Custom Fields is one of the most-used WordPress plugins. It has security vulnerabilities from time to time like many other […]
+Possibly related posts...
+
+Wallabag Custom Search Engine Shortcuts
+Brave and DuckDuckGo Timer Search Shortcuts
+An In-Depth Look at Norton Safe Search
+Fixing a WP Custom Post Type Permalink Error
+EnBizCard Review - FOSS Digital Business Cards
+Adding custom search shortcut for Wayback Machine
+Custom Search Shortcut For Norton Safe Web
+A Look at ProxiTok, a TikTok Frontend
+Naver Webmaster Trials and Tribulations]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXXXIV]]></title>
         <id>https://thenewleafjournal.com/?post_type=letter&amp;p=19939</id>
@@ -1316,27 +1337,6 @@ Visual Novel Review: May Sky
 The Best of Anime in 2022: Year in Review
 Four May Issues of The Nursery Magazine (1873-81)
 The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rent-a-Girlfriend S3 to introduce new character…]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=16331</id>
-        <link href="https://thenewleafjournal.com/leafbud/rent-a-girlfriend-s3-to-introduce-new-character/"/>
-        <updated>2023-04-09T15:40:54.000Z</updated>
-        <summary type="html"><![CDATA[I previously wrote about how I will watch the upcoming third season of the Rent-a-Girlfriend anime, either on account of inertia […]
-Possibly related posts (relevancy may vary...):
-
-The Best of Anime in 2022: Year in Review
-ACE Academy - Visual Novel Review
-The True Story of Jimmy McMillan and a (Too) Long Line at…
-Rent-A-Girlfriend S3 to air in July 2023
-The Enigmatic Life and Death of Emperor Otho
-Kaori After Story - Visual Novel Review
-Review of the Original Persona 4 Artbook
-The Angel Next Door Spoils Me Rotten - Anime Review
-My Glass Cannon is Tankier than Expected 〜 Lysithea-Fire…]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>

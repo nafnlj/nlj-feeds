@@ -260,6 +260,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19985",
+          "author": "Nicholas A. Ferrell",
+          "description": "Advanced Custom Fields is one of the most-used WordPress plugins. It has security vulnerabilities from time to time like many other […]\nPossibly related posts...\n\nWallabag Custom Search Engine Shortcuts\nBrave and DuckDuckGo Timer Search Shortcuts\nAn In-Depth Look at Norton Safe Search\nFixing a WP Custom Post Type Permalink Error\nEnBizCard Review - FOSS Digital Business Cards\nAdding custom search shortcut for Wayback Machine\nCustom Search Shortcut For Norton Safe Web\nA Look at ProxiTok, a TikTok Frontend\nNaver Webmaster Trials and Tribulations",
+          "link": "https://thenewleafjournal.com/leafbud/wp-acf-vulnerability-patched/",
+          "publishedOn": "2023-05-09T11:30:54.000Z",
+          "wordCount": 1521,
+          "title": "WP ACF Vulnerability Patched",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19916",
           "author": "Nicholas A. Ferrell",
           "description": "I like anime. Anime is often based on Japanese manga. I use Linux. But until I learned about a very cozy […]\nPossibly related posts...\n\nUsagi Drop 〜 A Complicated Anime Pick\nThe Best of Anime in 2022: Year in Review\nSyncing Umineko When They Cry With Syncthing\nAnime Recommendations of the Decade (2011-20)\nVisual Novel Review: May Sky\nThe Mystery of Sōseki and Tsuki ga Kirei\nThe Best Anime Series of 2021\nDRM and losing the quality you paid for\nThe al|together and Insani Visual Novel Translations",
@@ -367,16 +377,6 @@
           "publishedOn": "2023-04-12T14:30:24.000Z",
           "wordCount": 1355,
           "title": "How the Finnish get by without small talk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=16331",
-          "author": "Nicholas A. Ferrell",
-          "description": "I previously wrote about how I will watch the upcoming third season of the Rent-a-Girlfriend anime, either on account of inertia […]\nPossibly related posts (relevancy may vary...):\n\nThe Best of Anime in 2022: Year in Review\nACE Academy - Visual Novel Review\nThe True Story of Jimmy McMillan and a (Too) Long Line at…\nRent-A-Girlfriend S3 to air in July 2023\nThe Enigmatic Life and Death of Emperor Otho\nKaori After Story - Visual Novel Review\nReview of the Original Persona 4 Artbook\nThe Angel Next Door Spoils Me Rotten - Anime Review\nMy Glass Cannon is Tankier than Expected 〜 Lysithea-Fire…",
-          "link": "https://thenewleafjournal.com/leafbud/rent-a-girlfriend-s3-to-introduce-new-character/",
-          "publishedOn": "2023-04-09T15:40:54.000Z",
-          "wordCount": 1561,
-          "title": "Rent-a-Girlfriend S3 to introduce new character…",
           "imageUrl": null
         }
       ]
