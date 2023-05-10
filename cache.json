@@ -519,16 +519,6 @@
           "wordCount": 708,
           "title": "Ghostwriter-Pandoc Issue and Fix",
           "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
-        },
-        {
-          "id": "https://newleafannex.bearblog.dev/my-unique-phil-mickelson-article/",
-          "author": null,
-          "description": "The tagline of my main project, The New Leaf Journal, is \"where the leaves are perennially virid.\" As I explained in a post on the inspiration for the tagline, the slogan gets at two ideas. The first is that I try to write evergreen articles. The second is that I try to produce unique articles worth your time. There is no shortage of writing online. Some of the writing even comes from the keyboards of human beings writing in a language they are fluent in. While I try to bring a fresh perspective to all of my articles, I cannot always say that my topics are unique. However, I published a short \"leaflet\" aside yesterday which I think is unique.\nI used to regularly watch professional golf. While I have not watched much golf in several years, I stay somewhat abreast of the goings on. Back in 2…",
-          "link": "https://newleafannex.bearblog.dev/my-unique-phil-mickelson-article/",
-          "publishedOn": "2023-04-10T16:10:12.688Z",
-          "wordCount": 909,
-          "title": "My Unique Phil Mickelson Article",
-          "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
         }
       ]
     },
@@ -753,16 +743,6 @@
           "wordCount": 121,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110175415116200976",
-          "author": null,
-          "description": "In a 2019 interview, a representative of the Czech-based Seznam search engine (interesting Czech-based project with its own crawler) discussed the challenges of indexing English-language sites due to the fact that many block all crawlers except Google.  Being a supporter of independent search indexes, I wrote a brief PSA for webmasters on the subject of allowing independent search engines with their own crawlers.  In addition to Seznam, I singled out @Mojeek , InfoTiger, and Marginalia Search as being worth whitelisting for sites with generally restrictive robots.txt rules.\nhttps://thenewleafjournal.com/whitelisting-independent-search-crawlers/\n#searchengine #search #indexing #bots #webmaster",
-          "link": "https://linuxrocks.online/@nafnlj/110175415116200976",
-          "publishedOn": "2023-04-10T16:16:59.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -789,6 +769,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aWZa0BE1fQU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aWZa0BE1fQU",
+          "publishedOn": "2023-05-10T04:00:33.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo & Co. \"The Bartender Has Been Drinking\" Live at the Lustre Pearl Rainey (4/16/22)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=I_KV7GjXFLY",
           "author": null,
           "description": "",
@@ -796,16 +786,6 @@
           "publishedOn": "2023-04-12T19:59:06.000Z",
           "wordCount": null,
           "title": "Victor V. Gurbo & Mark Caserta \"Dorothea\" (Taylor Swift) COVID-19 Pandemic Home Recording 2020",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pm8xQbZmnjI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pm8xQbZmnjI",
-          "publishedOn": "2023-04-10T21:33:52.000Z",
-          "wordCount": null,
-          "title": "Victor V. Gurbo \"Mondrian\" COVID-19 Pandemic Home Recording 2020",
           "imageUrl": null
         }
       ]
