@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-10T18:31:37.649Z</updated>
+    <updated>2023-05-10T23:15:17.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The NCCIH’s AI-like melatonin-COVID note]]></title>
+        <id>https://thenewleafjournal.com/?p=19991</id>
+        <link href="https://thenewleafjournal.com/the-nccihs-ai-like-melatonin-covid-note/"/>
+        <updated>2023-05-10T22:29:28.000Z</updated>
+        <summary type="html"><![CDATA[The NCCIH's answer to a question about whether melatonin prevents or treats a certain virus raises tangential questions.
+Possibly related posts...
+
+History of Thanksgiving Proclamations in the Philippines
+Trying National Park Typeface
+Noncitizen Nationals as Immigrant Visa Petitioners
+Dialogue: Alpacas, Virus Cures, and Paca Plus
+Reviewing the HALOmask and är Mask
+NLJ Recommendations From Around the Web III
+Benjamin Harrison's Memorable July 4, 1888
+Washington's 1789 Thanksgiving Proclamation
+Against Chinese Government Propaganda]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victor V. Gurbo & Co. "The Bartender Has Been Drinking" Live at the Lustre Pearl Rainey (4/16/22)]]></title>
         <id>https://www.youtube.com/watch?v=aWZa0BE1fQU</id>
