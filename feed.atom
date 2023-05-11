@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-11T13:18:12.677Z</updated>
+    <updated>2023-05-11T18:18:06.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing our Osmosfeed Aggregator]]></title>
+        <id>https://thenewleafjournal.com/?p=20003</id>
+        <link href="https://thenewleafjournal.com/introducing-our-osmosfeed-aggregator/"/>
+        <updated>2023-05-11T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing the newest member of The New Leaf Journal family:  An Osmosfeed-powered aggregator called New Leaf Journal Feeds.
+Possibly related posts...
+
+Introducing "The Quarantine Sessions"
+Justin and Justina review 2022 at the NLJ
+Introducing Leaflets Microposts and Activity Stream
+History of Thanksgiving Proclamations in the Philippines
+The Best of Anime in 2022: Year in Review
+Reviewing Koko Analytics: A Simple Privacy-Friendly…
+The Newsletter Leaf Journal at 100
+Save the Date - Visual Novel Review
+The Questionable NYC Mayoral Campaign About Page of Maya…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thoughts on WordPress Categories and Tags]]></title>
         <id>https://thenewleafjournal.com/?p=20000</id>

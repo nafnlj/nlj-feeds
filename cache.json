@@ -6,6 +6,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20003",
+          "author": "Nicholas A. Ferrell",
+          "description": "Introducing the newest member of The New Leaf Journal family:  An Osmosfeed-powered aggregator called New Leaf Journal Feeds.\nPossibly related posts...\n\nIntroducing \"The Quarantine Sessions\"\nJustin and Justina review 2022 at the NLJ\nIntroducing Leaflets Microposts and Activity Stream\nHistory of Thanksgiving Proclamations in the Philippines\nThe Best of Anime in 2022: Year in Review\nReviewing Koko Analytics: A Simple Privacy-Friendly…\nThe Newsletter Leaf Journal at 100\nSave the Date - Visual Novel Review\nThe Questionable NYC Mayoral Campaign About Page of Maya…",
+          "link": "https://thenewleafjournal.com/introducing-our-osmosfeed-aggregator/",
+          "publishedOn": "2023-05-11T17:30:00.000Z",
+          "wordCount": 2660,
+          "title": "Introducing our Osmosfeed Aggregator",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20000",
           "author": "Nicholas A. Ferrell",
           "description": "Mr. Jeff Starr, the WordPress developer behind the Wutsearch Search Engine launchpad and a couple of plugins that we use at The […]\nPossibly related posts...\n\nReview of Wutsearch, a Search Engine Launchpad\nOn the humans.txt File\nSearching for the Figure Behind the Blob Dylan Tags in NYC…\nOldest Golfers to Contend for Majors Between the 1968 and…\nBookmark: Death of Feedburner?\nWholesale category reassessment\nReply to 10 ways to ruin a website\nAround the Web 〜 Alternative Software and Services Resources\nThe Quarantine Sessions: Covering The Beatles",
