@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-10T23:15:17.136Z</updated>
+    <updated>2023-05-11T13:18:12.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thoughts on WordPress Categories and Tags]]></title>
+        <id>https://thenewleafjournal.com/?p=20000</id>
+        <link href="https://thenewleafjournal.com/thoughts-on-wordpress-categories-and-tags/"/>
+        <updated>2023-05-11T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Mr. Jeff Starr, the WordPress developer behind the Wutsearch Search Engine launchpad and a couple of plugins that we use at The […]
+Possibly related posts...
+
+Review of Wutsearch, a Search Engine Launchpad
+On the humans.txt File
+Searching for the Figure Behind the Blob Dylan Tags in NYC…
+Oldest Golfers to Contend for Majors Between the 1968 and…
+Bookmark: Death of Feedburner?
+Wholesale category reassessment
+Reply to 10 ways to ruin a website
+Around the Web 〜 Alternative Software and Services Resources
+The Quarantine Sessions: Covering The Beatles]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The NCCIH’s AI-like melatonin-COVID note]]></title>
         <id>https://thenewleafjournal.com/?p=19991</id>
@@ -1272,27 +1293,6 @@ What Makes a Depressing Anime? Discussion and Selection.
 The Nice Boat 〜 A Look Back at the School Days Anime
 The al|together and Insani Visual Novel Translations
 Justin & Justina: The Most-Read New Leaf Journal Content of…]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyacinth as a name in Fire Emblem Engage]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19483</id>
-        <link href="https://thenewleafjournal.com/leaf/hyacinth-as-a-name-in-fire-emblem-engage/"/>
-        <updated>2023-04-11T15:30:42.000Z</updated>
-        <summary type="html"><![CDATA[I posted a Leaflet the other day on a nineteenth century man named Hyacinth, noting that it is not a name […]
-Possibly related posts (relevancy may vary...):
-
-Tiki paralogue trick in Fire Emblem Engage
-My Glass Cannon is Tankier than Expected 〜 Lysithea-Fire…
-The Great Chelsea Fire of 1908 - 114 Years Later
-Fixing a WP Custom Post Type Permalink Error
-Grape Hyacinths at the Botanic Garden
-Fire Emblem Engage's VTuber Hair Designer
-Hyacinth is an uncommon name these days
-Teaching the Art of the Video Game Snafu
-"Uncle Susan is a Wolf" - A Graffiti Photo and Research…]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
