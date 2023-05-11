@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-11T18:18:06.908Z</updated>
+    <updated>2023-05-11T23:14:57.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On the Google Nexus 7 (2013) Tablet]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20011</id>
+        <link href="https://thenewleafjournal.com/leaf/on-the-google-nexus-7-2013-tablet/"/>
+        <updated>2023-05-11T21:10:30.000Z</updated>
+        <summary type="html"><![CDATA[From Pixy Misa at Ambient Irony (post): The 2013 model was not only one of the best tablets available at the […]
+Possibly related posts...
+
+Installing Ubuntu Touch on a Google Nexus 7 (2013)
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+Defective second-hand graphics cards
+Installing LineageOS on a 2013 Nexus 7 (Wi-Fi)
+Review of /e/ - An Android Alternative For Mobile Phones
+Saving Internet Archive URLs in Wallabag
+A BlackBerry-esque mini Linux computer...
+Fixing Wallabag connect issue on Nexus 7
+The Quiet End of Google Bookmarks]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing our Osmosfeed Aggregator]]></title>
         <id>https://thenewleafjournal.com/?p=20003</id>
