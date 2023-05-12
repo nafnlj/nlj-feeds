@@ -154,16 +154,6 @@
           "wordCount": 2907,
           "title": "Midjourney Exports CCP Censorship",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=19495",
-          "author": "Nicholas A. Ferrell",
-          "description": "I review an anime series primarily for its interesting concept... but it is a decent series in its own right, granting its faults.\nPossibly related posts (relevancy may vary...):\n\nThe Best of Anime in 2022: Year in Review\nThe Best Anime Series of 2021\nHeight differences in anime romances\nAnime Recommendations of the Decade (2011-20)\nThe Angel Next Door Spoils Me Rotten - Anime Review\nWhat Makes a Depressing Anime? Discussion and Selection.\nThe Nice Boat 〜 A Look Back at the School Days Anime\nThe al|together and Insani Visual Novel Translations\nJustin & Justina: The Most-Read New Leaf Journal Content of…",
-          "link": "https://thenewleafjournal.com/anime-review-endo-and-kobayashi-live/",
-          "publishedOn": "2023-04-12T12:45:00.000Z",
-          "wordCount": 5123,
-          "title": "Anime Review: Endo and Kobayashi Live!",
-          "imageUrl": null
         }
       ]
     },
@@ -280,6 +270,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20016",
+          "author": "Nicholas A. Ferrell",
+          "description": "From a report by Mr. Brad Matthews of The Washington Times: A viral TikTok recipe, wherein ice cream is wrapped in […]\nPossibly related posts...\n\nFutaba Igarashi's Hair Is Naturally Green?\nHeight differences in anime romances\nA Look at ProxiTok, a TikTok Frontend\nOn Children, TikTok, and Social Media Stardom\nCapo vs Capo, a TikTok Debacle\nCrossing Paths With \"The Most Annoying People In the World\"\nTik Tok for TikTok on Federal Government Devices\nHistory of the Mario Party Gloves\nFlood of Tears - Visual Novel Review",
+          "link": "https://thenewleafjournal.com/leafbud/annoying-tiktok-story-reminds-me-of-snack/",
+          "publishedOn": "2023-05-12T12:50:54.000Z",
+          "wordCount": 1405,
+          "title": "Annoying TikTok story reminds me of snack",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19985",
           "author": "Nicholas A. Ferrell",
           "description": "Advanced Custom Fields is one of the most-used WordPress plugins. It has security vulnerabilities from time to time like many other […]\nPossibly related posts...\n\nWallabag Custom Search Engine Shortcuts\nBrave and DuckDuckGo Timer Search Shortcuts\nAn In-Depth Look at Norton Safe Search\nFixing a WP Custom Post Type Permalink Error\nEnBizCard Review - FOSS Digital Business Cards\nAdding custom search shortcut for Wayback Machine\nCustom Search Shortcut For Norton Safe Web\nA Look at ProxiTok, a TikTok Frontend\nNaver Webmaster Trials and Tribulations",
@@ -387,16 +387,6 @@
           "publishedOn": "2023-04-13T14:00:22.000Z",
           "wordCount": 1469,
           "title": "Motion controls in Mario Kart Wii",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19474",
-          "author": "Nicholas A. Ferrell",
-          "description": "I came across a 2018 article published in BBC titled How the Finnish survive without small talk. I am by no […]\nPossibly related posts (relevancy may vary...):\n\nThe Small Web, Artisanal Content, and Humane Design\nThe Enigmatic Life and Death of Emperor Otho\nThe Angel Next Door Spoils Me Rotten - Anime Review\nThe Best of Anime in 2022: Year in Review\nWasteful talk show subsidies in New York\nJustin and Justina review 2022 at the NLJ\nOur Pixelfed Review in Finnish Wikipedia\nA 2021 List of Alternative Search Engines and Search…\nVisual Novel Analysis - Shooting Star Hill",
-          "link": "https://thenewleafjournal.com/leafbud/how-the-finnish-get-by-without-small-talk/",
-          "publishedOn": "2023-04-12T14:30:24.000Z",
-          "wordCount": 1355,
-          "title": "How the Finnish get by without small talk",
           "imageUrl": null
         }
       ]
@@ -796,16 +786,6 @@
           "publishedOn": "2023-05-10T04:00:33.000Z",
           "wordCount": null,
           "title": "Victor V. Gurbo & Co. \"The Bartender Has Been Drinking\" Live at the Lustre Pearl Rainey (4/16/22)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=I_KV7GjXFLY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=I_KV7GjXFLY",
-          "publishedOn": "2023-04-12T19:59:06.000Z",
-          "wordCount": null,
-          "title": "Victor V. Gurbo & Mark Caserta \"Dorothea\" (Taylor Swift) COVID-19 Pandemic Home Recording 2020",
           "imageUrl": null
         }
       ]
