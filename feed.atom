@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-12T23:13:52.159Z</updated>
+    <updated>2023-05-13T13:16:08.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1215,75 +1215,6 @@ What Makes a Depressing Anime? Discussion and Selection.
 The Angel Next Door Spoils Me Rotten - Anime Review
 The Nice Boat 〜 A Look Back at the School Days Anime
 The Great Chelsea Fire of 1908 - 114 Years Later]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghostwriter-Pandoc Issue and Fix]]></title>
-        <id>https://newleafannex.bearblog.dev/ghostwriter-pandoc-issue-and-fix/</id>
-        <link href="https://newleafannex.bearblog.dev/ghostwriter-pandoc-issue-and-fix/"/>
-        <updated>2023-04-13T22:09:05.023Z</updated>
-        <summary type="html"><![CDATA[I use the Ghostwriter markdown editor (see my Ghostwriter review) to draft articles for The New Leaf Journal and briefs and memoranda for my day job as a legal research specialist. In both cases, I have to convert my documents from markdown. I convert New Leaf Journal articles to .odt for editing while I convert my legal work to to .docx. (See my article on my New Leaf Journal workflow.)
-Since switching to Linux in 2020, I have used Arch-based Linux distributions. I began using Ghostwriter on Manjaro after my experiences using markdown to compose 
-our Buttondown-powered newsletters inspired me to begin working in markdown. I moved from Manjaro to Arch's closer cousin, EndeavourOS, in August 2022, where I remain today.
-Ghostwriter has generally worked for me without issues. Early on, I had an issue with it sometimes not connecting to Pandoc, but that went away at some point. Since KDE took over development of Ghostwriter things were largely flawless. However, a few days ago, I noticed after updating either Pandoc or KDE (I did not catch which) that Ghostwriter was no longer recognizing Pandoc as a conversion option. This was a mild problem for me because I never took the time to learn the Pandoc CLI syntax (I really should get around to that). I could use MultiMarkdown to convert to .odt, but that vitiated many of my markdown formatting choices.
-However, before I had to deal with the issue for a work project, Pandoc returned as a conversion option after something was updated. Problem solved. It only proved to be a pain in the case of one somewhat long article wherein I had to re-do some of my formatting in Libre Office Writer.
-If you enjoy strange Ghostwriter issues, take a trip back in time to learn about a segfault issue I had on a fresh Manjaro install in 2021.]]></summary>
-        <author>
-            <name>The New Leaf Annex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odd email to my @newleafjournal address]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19514</id>
-        <link href="https://thenewleafjournal.com/leaf/odd-email-to-my-newleafjournal-address/"/>
-        <updated>2023-04-13T21:30:38.000Z</updated>
-        <summary type="html"><![CDATA[I received a very peculiar email at my @newleafjournal address (see contact page).  This is not the first strange email I […]
-Possibly related posts...
-
-Two Independence Day-Themed Pokémon Battles: Ferrell vs…
-Recording a Test New Leaf Journal Pokémon Sword and Shield…
-Learning How to Change a Twitter Username
-The Enigmatic Life and Death of Emperor Otho
-Suspicious Email Claiming Bitcoin Scam
-The Pokémon Special Split in Generation 2 - Statistics and…
-The New Leaf Journal Newsletter
-Recommended F-Droid FOSS Apps For Android-Based Devices…
-History of the Mario Party Gloves]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110192123680688227</id>
-        <link href="https://linuxrocks.online/@nafnlj/110192123680688227"/>
-        <updated>2023-04-13T15:06:11.000Z</updated>
-        <summary type="html"><![CDATA[They say that the problem is always caching, but what kind of caching?  I briefly describe a small visual display issue on my WordPress site that I resolved by clearing our Redis cache.
-https://thenewleafjournal.com/leaf/wp-redis-object-cache-and-link-hover-color/
-#wordpress #wordpressplugin #redis #objectcache #caching]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motion controls in Mario Kart Wii]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19493</id>
-        <link href="https://thenewleafjournal.com/leafbud/motion-controls-in-mario-kart-wii/"/>
-        <updated>2023-04-13T14:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo Life asked readers whether they used motion controls in Mario Kart Wii.  I had (probably still have) the plastic steering […]
-Possibly related posts (relevancy may vary...):
-
-History of the Mario Party Gloves
-The Two Decade Mario Party Finally Ends
-Mario Party's Joystick-Wrecking Rotation Games
-Zero Gravity Foreshadowing in Super Mario Sunshine
-The Aborted Nintendo-Minnesota Lottery Scheme
-On Nintendo's Pro-User Cartridge-First Strategy
-Nintendo Power's 1999 Yoshi in Pokémon April Fools Prank
-Lateral thinking to extend game console life-cycles
-The Enigmatic Life and Death of Emperor Otho]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
