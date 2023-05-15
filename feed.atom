@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-15T13:18:55.593Z</updated>
+    <updated>2023-05-15T18:18:44.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Installing GrapheneOS on a Google Pixel 6a]]></title>
+        <id>https://thenewleafjournal.com/?p=20046</id>
+        <link href="https://thenewleafjournal.com/installing-grapheneos-on-a-google-pixel-6a/"/>
+        <updated>2023-05-15T16:29:28.000Z</updated>
+        <summary type="html"><![CDATA[Using GrapheneOS's handy web installer to put the hardened Android Open Source Project fork on a Google Pixel 6a phone.
+Possibly related posts...
+
+Installing and Running Bodhi Linux on a 2007 MacBook
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+Review of /e/ - An Android Alternative For Mobile Phones
+Review of the Teracube 2e Smartphone
+Installing LineageOS on a 2013 Nexus 7 (Wi-Fi)
+Installing Ubuntu Touch on a Google Nexus 7 (2013)
+The Quiet End of Google Bookmarks
+Creating a Search Engine Shortcut For Google Timer
+A 2021 List of Alternative Search Engines and Search…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXXXV]]></title>
+        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20028</id>
+        <link href="https://thenewleafjournal.com/letter/newsletter-leaf-journal-cxxxv/"/>
+        <updated>2023-05-15T16:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the syndicated version of Newsletter Leaf Journal CXXXV. I mailed the original on Saturday, May 13, 2023. This newsletter […]
+Possibly related posts...
+
+The Newsletter Leaf Journal at 100
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin and Justina review 2022 at the NLJ
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The New Leaf Journal Celebrates Its First Birthday
+The New Leaf Journal Newsletter
+How to Find Substack RSS Feeds and Other Notes
+The Newsletter Leaf Journal VIII
+New Leaf Journal Third Birthday Reader]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Alvinston (Canada) Honey Bee]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20030</id>

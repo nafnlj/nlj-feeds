@@ -6,6 +6,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20046",
+          "author": "Nicholas A. Ferrell",
+          "description": "Using GrapheneOS's handy web installer to put the hardened Android Open Source Project fork on a Google Pixel 6a phone.\nPossibly related posts...\n\nInstalling and Running Bodhi Linux on a 2007 MacBook\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nReview of /e/ - An Android Alternative For Mobile Phones\nReview of the Teracube 2e Smartphone\nInstalling LineageOS on a 2013 Nexus 7 (Wi-Fi)\nInstalling Ubuntu Touch on a Google Nexus 7 (2013)\nThe Quiet End of Google Bookmarks\nCreating a Search Engine Shortcut For Google Timer\nA 2021 List of Alternative Search Engines and Search…",
+          "link": "https://thenewleafjournal.com/installing-grapheneos-on-a-google-pixel-6a/",
+          "publishedOn": "2023-05-15T16:29:28.000Z",
+          "wordCount": 4168,
+          "title": "Installing GrapheneOS on a Google Pixel 6a",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/05/grapheneos-flashing-pixel6a.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20003",
           "author": "Nicholas A. Ferrell",
           "description": "Introducing the newest member of The New Leaf Journal family:  An Osmosfeed-powered aggregator called New Leaf Journal Feeds.\nPossibly related posts...\n\nIntroducing \"The Quarantine Sessions\"\nJustin and Justina review 2022 at the NLJ\nIntroducing Leaflets Microposts and Activity Stream\nHistory of Thanksgiving Proclamations in the Philippines\nThe Best of Anime in 2022: Year in Review\nReviewing Koko Analytics: A Simple Privacy-Friendly…\nThe Newsletter Leaf Journal at 100\nSave the Date - Visual Novel Review\nThe Questionable NYC Mayoral Campaign About Page of Maya…",
@@ -366,6 +376,16 @@
       "feedUrl": "https://thenewleafjournal.com/letter/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=letter&p=20028",
+          "author": "Nicholas A. Ferrell",
+          "description": "Welcome to the syndicated version of Newsletter Leaf Journal CXXXV. I mailed the original on Saturday, May 13, 2023. This newsletter […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Celebrates Its First Birthday\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe Newsletter Leaf Journal VIII\nNew Leaf Journal Third Birthday Reader",
+          "link": "https://thenewleafjournal.com/letter/newsletter-leaf-journal-cxxxv/",
+          "publishedOn": "2023-05-15T16:00:29.000Z",
+          "wordCount": 2844,
+          "title": "Newsletter Leaf Journal CXXXV",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=letter&p=19939",
           "author": "Nicholas A. Ferrell",
