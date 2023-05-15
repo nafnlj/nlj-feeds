@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-14T23:14:59.475Z</updated>
+    <updated>2023-05-15T13:18:55.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Alvinston (Canada) Honey Bee]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20030</id>
+        <link href="https://thenewleafjournal.com/leafbud/the-alvinston-canada-honey-bee/"/>
+        <updated>2023-05-15T13:00:24.000Z</updated>
+        <summary type="html"><![CDATA[I subscribe to the Atlas Obscura  (link to feed). Sometimes it is not quite clear from the description what the link […]
+Possibly related posts...
+
+The American Bee Journal World's Fair Report
+Against Twitter as a Content Curator
+Proposals for Fact-Checking Reform
+Height differences in anime romances
+The Trees Leaf in May
+When President Coolidge Spared a Raccoon From Thanksgiving…
+The Poetry of Charlotte Becker - Early Twentieth Century…
+Babylon Bee on sushi being a prank
+Using Web Archives To Get Around CAPTCHAs]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victor V. Gurbo & Co. "The Bartender Has Been Drinking" Live at the Lustre Pearl Rainey (4/16/22)]]></title>
         <id>https://www.youtube.com/watch?v=gSB1bdig6PE</id>
@@ -1195,38 +1216,6 @@ Justin and Justina 〜 A Christmas Card For Valentine's Day]]></summary>
         <summary type="html"><![CDATA[1954 years to the day (April 16, 69 AD), the Roman Emperor Otho ended his brief reign by his own hand rather than continue in a Civil War for the throne against Vilettlius. Otho's seemingly noble(-ish) end captured the imagination of Roman historians in light of the fact he had previously been noted for his relationship to Nero, having serious debt problems, and seizing the throne by murdering his predecessor in January 69.  I wrote a very long article about the enigmatic life and death of Otho, focusing on comparing four Roman historian accounts and their different opinions on the matter.
 https://thenewleafjournal.com/ancient-accounts-on-the-enigmatic-life-and-death-of-emperor-otho/
 #history #romanempire #romanhistory #romanemperor #otho #yearoffouremperors]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXXI 〜 Resplendent]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/131/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/131/"/>
-        <updated>2023-04-15T15:47:29.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 131st edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.  In addition to our usual assortment of links from the week that was at the NLJ and links from around the web, I will introduce a new addition to the site, not previously discussed on The New Leaf Journal, in our News Leaf Journal section.
-Table of contents
-New leaves from the week that was
-Leaves from around the web
-The Old Leaf Journal
-Most-turned leaves of the newsletter week
-News leaf journal
-Notable leaf journal
-Taking leaf
-Leaves from the week that was
-I published three regular articles since mailing new…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110203409340580074</id>
-        <link href="https://linuxrocks.online/@nafnlj/110203409340580074"/>
-        <updated>2023-04-15T14:56:17.000Z</updated>
-        <summary type="html"><![CDATA[Shawn Respert was one of the best college basketball players of the early 90s, winning NCAA player of the year in 1995. After going 8th overall in the 1995 NBA Draft, he had a short, uneventful, five-year career with four different teams. While college success by no means guarantees professional success, some of Respert's troubles were linked to the fact he was diagnosed with stomach cancer during his first season (he went into remission in his second season).  What prompted my article was the story of his response. Respert opted to keep his diagnosis secret, not only from the public, but also from his family -- even when he was being criticized in local media for his poor play.  He resolved to only tell his story after his playing career was over in order to ensure that no one could say, succeed or fail, that he made any excuses (to be sure, he had a decent one).
-https://thenewleafjournal.com/playing-through-cancer-in-silence-shawn-resperts-nba-story/
-#nba #basketball #sports #cancer]]></summary>
         <author>
             <name>N.A. Ferrell</name>
         </author>

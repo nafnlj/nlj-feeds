@@ -240,6 +240,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20030",
+          "author": "Nicholas A. Ferrell",
+          "description": "I subscribe to the Atlas Obscura  (link to feed). Sometimes it is not quite clear from the description what the link […]\nPossibly related posts...\n\nThe American Bee Journal World's Fair Report\nAgainst Twitter as a Content Curator\nProposals for Fact-Checking Reform\nHeight differences in anime romances\nThe Trees Leaf in May\nWhen President Coolidge Spared a Raccoon From Thanksgiving…\nThe Poetry of Charlotte Becker - Early Twentieth Century…\nBabylon Bee on sushi being a prank\nUsing Web Archives To Get Around CAPTCHAs",
+          "link": "https://thenewleafjournal.com/leafbud/the-alvinston-canada-honey-bee/",
+          "publishedOn": "2023-05-15T13:00:24.000Z",
+          "wordCount": 1389,
+          "title": "The Alvinston (Canada) Honey Bee",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20016",
           "author": "Nicholas A. Ferrell",
           "description": "From a report by Mr. Brad Matthews of The Washington Times: A viral TikTok recipe, wherein ice cream is wrapped in […]\nPossibly related posts...\n\nFutaba Igarashi's Hair Is Naturally Green?\nHeight differences in anime romances\nA Look at ProxiTok, a TikTok Frontend\nOn Children, TikTok, and Social Media Stardom\nCapo vs Capo, a TikTok Debacle\nCrossing Paths With \"The Most Annoying People In the World\"\nTik Tok for TikTok on Federal Government Devices\nHistory of the Mario Party Gloves\nFlood of Tears - Visual Novel Review",
@@ -442,16 +452,6 @@
           "wordCount": 1741,
           "title": "Newsletter Leaf Journal CXXXII 〜 News & taxes 〜",
           "imageUrl": "https://buttondown.imgix.net/images/384c12be-bb14-4a40-bcb6-85bba93664f8.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/131/",
-          "author": null,
-          "description": "Welcome to the 131st edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.  In addition to our usual assortment of links from the week that was at the NLJ and links from around the web, I will introduce a new addition to the site, not previously discussed on The New Leaf Journal, in our News Leaf Journal section.\nTable of contents\nNew leaves from the week that was\nLeaves from around the web\nThe Old Leaf Journal\nMost-turned leaves of the newsletter week\nNews leaf journal\nNotable leaf journal\nTaking leaf\nLeaves from the week that was\nI published three regular articles since mailing new…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/131/",
-          "publishedOn": "2023-04-15T15:47:29.000Z",
-          "wordCount": 2178,
-          "title": "Newsletter Leaf Journal CXXXI 〜 Resplendent",
-          "imageUrl": "https://buttondown.imgix.net/images/f764372c-462f-4894-88c7-8e48c7d1d68d.png"
         }
       ]
     },
@@ -691,16 +691,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110209143284861710",
           "publishedOn": "2023-04-16T15:14:30.000Z",
           "wordCount": 122,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110203409340580074",
-          "author": null,
-          "description": "Shawn Respert was one of the best college basketball players of the early 90s, winning NCAA player of the year in 1995. After going 8th overall in the 1995 NBA Draft, he had a short, uneventful, five-year career with four different teams. While college success by no means guarantees professional success, some of Respert's troubles were linked to the fact he was diagnosed with stomach cancer during his first season (he went into remission in his second season).  What prompted my article was the story of his response. Respert opted to keep his diagnosis secret, not only from the public, but also from his family -- even when he was being criticized in local media for his poor play.  He resolved to only tell his story after his playing career was over in order to ensure that no one could say, succeed or fail, that he made any excuses (to be sure, he had a decent one).\nhttps://thenewleafjournal.com/playing-through-cancer-in-silence-shawn-resperts-nba-story/\n#nba #basketball #sports #cancer",
-          "link": "https://linuxrocks.online/@nafnlj/110203409340580074",
-          "publishedOn": "2023-04-15T14:56:17.000Z",
-          "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
         }
