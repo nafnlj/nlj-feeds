@@ -481,6 +481,16 @@
       "siteUrl": "https://newleafannex.bearblog.dev/",
       "articles": [
         {
+          "id": "https://newleafannex.bearblog.dev/early-thoughts-on-anime-in-2023/",
+          "author": null,
+          "description": "People who follow me on my main project, The New Leaf Journal, will know that I follow the latest anime series (the ones I can tolerate, at least). I published year-in-review pieces for 2021 and 2022 with my top-six rankings.\n2021 Review\n2022 Review\nI published my 2022 review in a timely manner in January 2023. However, I published my 2021 review in April 2022. Fresh off my very late 2021 review, I published a short Leaflet post on April 26, 2022, offering my initial impressions of the first quarter and a third of anime in 2022. I quote from my Leaflet:\nMy clear early-frontrunner for anime of the year in 2022 is the excellent third and final season of Teasing Master Takagi-san. The first two seasons were good fun, but neither was quite anime of the year caliber (although the second season …",
+          "link": "https://newleafannex.bearblog.dev/early-thoughts-on-anime-in-2023/",
+          "publishedOn": "2023-05-15T18:45:10.776Z",
+          "wordCount": 1703,
+          "title": "Early thoughts on anime in 2023",
+          "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
+        },
+        {
           "id": "https://newleafannex.bearblog.dev/end-of-peekier-search/",
           "author": null,
           "description": "I reviewed a niche search engine (or more aptly put, Bing front-end) called Peekier in February 2022. My Peekier review turned out to be a relatively successful post (by The New Leaf Journal's standards). The last time I had used Peekier before May 2, 2023, was in mid-January of 2023. This is because I have generally refrained from using Bing-based search after Bing arbitrarily blacklisted my project and removed it from its index. I ran a search through Peekier on May 2 as part of my day job working on U.S. immigration law research. My Peekier search unexpectedly redirected to the home page for Kagi Search. After determining that Peekier was indeed dead, I wrote an article on Peekier's demise and then updated my Peekier review to note that the charming little search tool is no more. While I am not certain of the circumstances of Peekier's downfall or why it now redirects to Kagi Search, the last Internet Archive capture of Peekier's home page came on February 19, 2023. The next capture on February 26, 2023, shows the Kagi Search redirect was in place.",
@@ -564,6 +574,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110374132038908828",
+          "author": null,
+          "description": "On using an open source project called Osmosfeed to create a GitHub Pages-powered New Leaf Journal feed aggregator.\nhttps://thenewleafjournal.com/introducing-our-osmosfeed-aggregator/\n#rss #rssfeed #github #aggregator #osmosfeed",
+          "link": "https://linuxrocks.online/@nafnlj/110374132038908828",
+          "publishedOn": "2023-05-15T18:33:18.000Z",
+          "wordCount": 120,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/110362081179017577",
           "author": null,

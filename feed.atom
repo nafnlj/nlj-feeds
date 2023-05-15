@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-15T18:18:44.510Z</updated>
+    <updated>2023-05-15T23:14:20.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Early thoughts on anime in 2023]]></title>
+        <id>https://newleafannex.bearblog.dev/early-thoughts-on-anime-in-2023/</id>
+        <link href="https://newleafannex.bearblog.dev/early-thoughts-on-anime-in-2023/"/>
+        <updated>2023-05-15T18:45:10.776Z</updated>
+        <summary type="html"><![CDATA[People who follow me on my main project, The New Leaf Journal, will know that I follow the latest anime series (the ones I can tolerate, at least). I published year-in-review pieces for 2021 and 2022 with my top-six rankings.
+2021 Review
+2022 Review
+I published my 2022 review in a timely manner in January 2023. However, I published my 2021 review in April 2022. Fresh off my very late 2021 review, I published a short Leaflet post on April 26, 2022, offering my initial impressions of the first quarter and a third of anime in 2022. I quote from my Leaflet:
+My clear early-frontrunner for anime of the year in 2022 is the excellent third and final season of Teasing Master Takagi-san. The first two seasons were good fun, but neither was quite anime of the year caliber (although the second season …]]></summary>
+        <author>
+            <name>The New Leaf Annex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110374132038908828</id>
+        <link href="https://linuxrocks.online/@nafnlj/110374132038908828"/>
+        <updated>2023-05-15T18:33:18.000Z</updated>
+        <summary type="html"><![CDATA[On using an open source project called Osmosfeed to create a GitHub Pages-powered New Leaf Journal feed aggregator.
+https://thenewleafjournal.com/introducing-our-osmosfeed-aggregator/
+#rss #rssfeed #github #aggregator #osmosfeed]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Installing GrapheneOS on a Google Pixel 6a]]></title>
         <id>https://thenewleafjournal.com/?p=20046</id>
