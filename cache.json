@@ -173,6 +173,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20035",
+          "author": "Nicholas A. Ferrell",
+          "description": "Back on March 5, 2023, I shared a report by Mr. Brad Linder of Liliputing about a new 6.7 inch e-ink […]\nPossibly related posts...\n\nDasung to release e-ink phone monitor\nThe New Leaf Journal Celebrates Its First Birthday\nReview of the Teracube 2e Smartphone\nThe al|together and Insani Visual Novel Translations\nThe ideal phone, e-ink and QWERTY\nJustin and Justina review 2022 at the NLJ\nOldest Golfers to Contend for Majors Between the 1968 and…\nA 2021 List of Alternative Search Engines and Search…\nHelp! I Think My TV Is Watching Me",
+          "link": "https://thenewleafjournal.com/leaf/dasung-link-phone-e-ink-monitor-starts-at-299/",
+          "publishedOn": "2023-05-18T14:20:40.000Z",
+          "wordCount": 1549,
+          "title": "Dasung Link Phone E-Ink Monitor Starts at $299",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=20011",
           "author": "Nicholas A. Ferrell",
           "description": "From Pixy Misa at Ambient Irony (post): The 2013 model was not only one of the best tablets available at the […]\nPossibly related posts...\n\nInstalling Ubuntu Touch on a Google Nexus 7 (2013)\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nDefective second-hand graphics cards\nInstalling LineageOS on a 2013 Nexus 7 (Wi-Fi)\nReview of /e/ - An Android Alternative For Mobile Phones\nSaving Internet Archive URLs in Wallabag\nA BlackBerry-esque mini Linux computer...\nFixing Wallabag connect issue on Nexus 7\nThe Quiet End of Google Bookmarks",

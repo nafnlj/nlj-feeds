@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-18T13:17:38.586Z</updated>
+    <updated>2023-05-18T18:18:24.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dasung Link Phone E-Ink Monitor Starts at $299]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20035</id>
+        <link href="https://thenewleafjournal.com/leaf/dasung-link-phone-e-ink-monitor-starts-at-299/"/>
+        <updated>2023-05-18T14:20:40.000Z</updated>
+        <summary type="html"><![CDATA[Back on March 5, 2023, I shared a report by Mr. Brad Linder of Liliputing about a new 6.7 inch e-ink […]
+Possibly related posts...
+
+Dasung to release e-ink phone monitor
+The New Leaf Journal Celebrates Its First Birthday
+Review of the Teracube 2e Smartphone
+The al|together and Insani Visual Novel Translations
+The ideal phone, e-ink and QWERTY
+Justin and Justina review 2022 at the NLJ
+Oldest Golfers to Contend for Majors Between the 1968 and…
+A 2021 List of Alternative Search Engines and Search…
+Help! I Think My TV Is Watching Me]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110384769840497228</id>
