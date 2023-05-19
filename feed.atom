@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-19T13:17:31.039Z</updated>
+    <updated>2023-05-19T18:18:16.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The best Nintendo controllers]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20042</id>
+        <link href="https://thenewleafjournal.com/leaf/the-best-nintendo-controllers/"/>
+        <updated>2023-05-19T13:30:27.000Z</updated>
+        <summary type="html"><![CDATA[On April 22, 2023, Nintendo Life published the results of a reader survey ranking the best Nintendo controllers. The results were […]
+Possibly related posts...
+
+History of the Mario Party Gloves
+Mario Party's Joystick-Wrecking Rotation Games
+The Aborted Nintendo-Minnesota Lottery Scheme
+Justin and Justina review 2022 at the NLJ
+Nintendo Power's 1999 Yoshi in Pokémon April Fools Prank
+On Nintendo's Pro-User Cartridge-First Strategy
+The Sega Dreamcast Controller Joystick
+Lateral thinking to extend game console life-cycles
+EGM's 2001 Sega Neptune April Fools Joke]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mix season 2’s Haru no Oto ending is good]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20058</id>
