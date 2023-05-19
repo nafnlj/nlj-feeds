@@ -6,6 +6,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20082",
+          "author": "Nicholas A. Ferrell",
+          "description": "Having read about e-ink monitors for phones, I test using my PocketBook InkPad Color as a color e-ink monitor for my LineageOS phone.\nPossibly related posts...\n\nWhat is an \"Android Alternative\"?\nReviewing FrogFind: A Search Engine For Vintage Computers\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nReview of /e/ - An Android Alternative For Mobile Phones\nThe ideal phone, e-ink and QWERTY\nThe Thin Digital Line Between \"Buy\" and \"Rent\"\nTransferring Photos From My BlackBerry Classic Using KDE…\nThe Misleading DRM E-Book Buy Button\nDecSync Review",
+          "link": "https://thenewleafjournal.com/streaming-from-android-to-pocketbook/",
+          "publishedOn": "2023-05-19T19:17:32.000Z",
+          "wordCount": 2993,
+          "title": "Streaming from Android to PocketBook",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/05/http-screen-stream-sc.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20065",
           "author": "Nicholas A. Ferrell",
           "description": "Let me tell you a story about how the news that Ms. Martha Stewart will be one of the cover models for the 2023 SI Swimsuit Issue reminded me of a story from my high school in 2007.\nPossibly related posts...\n\nThe Nice Boat 〜 A Look Back at the School Days Anime\nTokyo High Schools Change Hair Color Dress Code Policies\nAnime Recommendations of the Decade (2011-20)\nHair Color Dress Code Rules in Japan\nTakaki's Memories in 5 Centimeters Per Second\nWhat Makes a Depressing Anime? Discussion and Selection.\nThe July 4 Death of James Monroe\nAt Summer's End - Visual Novel Review\nThe Angel Next Door Spoils Me Rotten - Anime Review",
@@ -271,16 +281,6 @@
           "wordCount": 1629,
           "title": "Nevada’s very old Bristlecone Pines",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=19528",
-          "author": "Nicholas A. Ferrell",
-          "description": "Shumplations recently published a translation of a 2011 interview with a former manager at Jaleco who went by Y-san.  I was […]\nPossibly related posts...\n\nCalvin Coolidge's 1922 \"Better Homes\" Remarks\nBill's Secret Garden - A Pokémon Generation 1 Urban Legend\nHerbert Hoover's Better Homes Remarks: \"The Home as an…\nJustin and Justina review 2022 at the NLJ\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nApplying Coolidge's Remarks on the Home to the Digital Home\nIntroducing the 1922 Better Homes in America Demonstration…\nOn Improving the Environment For Gaming On Linux\nThe Poetry of Charlotte Becker - Early Twentieth Century…",
-          "link": "https://thenewleafjournal.com/leaf/bunt-home-run-glitch-in-bases-loaded/",
-          "publishedOn": "2023-04-20T10:16:37.000Z",
-          "wordCount": 1562,
-          "title": "Bunt home run glitch in Bases Loaded",
-          "imageUrl": null
         }
       ]
     },

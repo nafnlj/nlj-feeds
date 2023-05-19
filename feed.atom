@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-19T18:18:16.405Z</updated>
+    <updated>2023-05-19T23:14:52.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Streaming from Android to PocketBook]]></title>
+        <id>https://thenewleafjournal.com/?p=20082</id>
+        <link href="https://thenewleafjournal.com/streaming-from-android-to-pocketbook/"/>
+        <updated>2023-05-19T19:17:32.000Z</updated>
+        <summary type="html"><![CDATA[Having read about e-ink monitors for phones, I test using my PocketBook InkPad Color as a color e-ink monitor for my LineageOS phone.
+Possibly related posts...
+
+What is an "Android Alternative"?
+Reviewing FrogFind: A Search Engine For Vintage Computers
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+Review of /e/ - An Android Alternative For Mobile Phones
+The ideal phone, e-ink and QWERTY
+The Thin Digital Line Between "Buy" and "Rent"
+Transferring Photos From My BlackBerry Classic Using KDE…
+The Misleading DRM E-Book Buy Button
+DecSync Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The best Nintendo controllers]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20042</id>
@@ -1401,27 +1422,6 @@ The New Leaf Journal Newsletter
 How to Find Substack RSS Feeds and Other Notes
 The Newsletter Leaf Journal VIII
 An Introduction to RSS and Other Feed Formats]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bunt home run glitch in Bases Loaded]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19528</id>
-        <link href="https://thenewleafjournal.com/leaf/bunt-home-run-glitch-in-bases-loaded/"/>
-        <updated>2023-04-20T10:16:37.000Z</updated>
-        <summary type="html"><![CDATA[Shumplations recently published a translation of a 2011 interview with a former manager at Jaleco who went by Y-san.  I was […]
-Possibly related posts...
-
-Calvin Coolidge's 1922 "Better Homes" Remarks
-Bill's Secret Garden - A Pokémon Generation 1 Urban Legend
-Herbert Hoover's Better Homes Remarks: "The Home as an…
-Justin and Justina review 2022 at the NLJ
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Applying Coolidge's Remarks on the Home to the Digital Home
-Introducing the 1922 Better Homes in America Demonstration…
-On Improving the Environment For Gaming On Linux
-The Poetry of Charlotte Becker - Early Twentieth Century…]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
