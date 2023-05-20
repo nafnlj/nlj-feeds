@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-20T13:15:56.740Z</updated>
+    <updated>2023-05-20T18:17:36.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110401980107215464</id>
+        <link href="https://linuxrocks.online/@nafnlj/110401980107215464"/>
+        <updated>2023-05-20T16:35:26.000Z</updated>
+        <summary type="html"><![CDATA[I read a Nintendo Life survey of the best Nintendo controllers. I noted while reading that I had owned and used every controller except one. Somewhat improbably, the "one" is the Wii U Pro Controller, but not the Virtual Boy or NES (101) controllers. Go figure. Having determined that I have the relevant experience to weigh in, I offered my own Nintendo controller takes, but separated into categories... best non-joystick controller (SNES); best joystick controller (GCN/Switch Pro), and best joystick (N64).
+https://thenewleafjournal.com/leaf/the-best-nintendo-controllers/
+#nintendo #videogames #controller #snes #switch #gamecube #nes #virtualboy #wiiu]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Streaming from Android to PocketBook]]></title>
         <id>https://thenewleafjournal.com/?p=20082</id>
