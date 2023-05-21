@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-21T13:15:48.142Z</updated>
+    <updated>2023-05-21T18:17:31.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thoughts: Porn Hub blocks access in Utah]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20038</id>
+        <link href="https://thenewleafjournal.com/leafbud/thoughts-porn-hub-blocks-access-in-utah/"/>
+        <updated>2023-05-21T17:00:22.000Z</updated>
+        <summary type="html"><![CDATA[From a Catholic News Agency report (May 2, 2023): A Utah bill that is designed to prevent minors from accessing pornography […]
+Possibly related posts...
+
+Productivity Window Shopping and Backlogs
+An Essay on Productivity, Production, and Productive Leisure
+Cheap USB-C Hubs and Short-Lasting Tech
+The Great Chelsea Fire of 1908 - 114 Years Later
+Seeing the Blue Angels and Thunderbirds from Columbia Street…
+A Second Look at the April New York City Flyover
+The al|together and Insani Visual Novel Translations
+Implementing Article Series With WP Post Series
+Introducing the 1922 Better Homes in America Demonstration…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dramatic increase in Chinese nationals at border]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20080</id>
@@ -1458,27 +1479,6 @@ News leaf journal
 Notable leaf …]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Syncing Umineko When They Cry With Syncthing]]></title>
-        <id>https://thenewleafjournal.com/?p=19538</id>
-        <link href="https://thenewleafjournal.com/syncing-umineko-when-they-cry-with-syncthing/"/>
-        <updated>2023-04-22T01:38:10.000Z</updated>
-        <summary type="html"><![CDATA[No need for video game cloud saves if you know how to use Syncthing (sometimes, probably).
-Possibly related posts...
-
-DecSync Review
-Justin and Justina review 2022 at the NLJ
-Transferring Photos From My BlackBerry Classic Using KDE…
-Recommended F-Droid FOSS Apps For Android-Based Devices…
-Installing and Running Bodhi Linux on a 2007 MacBook
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-The Enigmatic Life and Death of Emperor Otho
-At Summer's End vs A Dream of Summer
-The New Leaf Journal Celebrates Its First Birthday]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>

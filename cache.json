@@ -174,16 +174,6 @@
           "wordCount": 4530,
           "title": "Brown hair and dress codes in Ippon Again!",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/04/anna-hair-scene-1_u.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=19538",
-          "author": "Nicholas A. Ferrell",
-          "description": "No need for video game cloud saves if you know how to use Syncthing (sometimes, probably).\nPossibly related posts...\n\nDecSync Review\nJustin and Justina review 2022 at the NLJ\nTransferring Photos From My BlackBerry Classic Using KDE…\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nInstalling and Running Bodhi Linux on a 2007 MacBook\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nThe Enigmatic Life and Death of Emperor Otho\nAt Summer's End vs A Dream of Summer\nThe New Leaf Journal Celebrates Its First Birthday",
-          "link": "https://thenewleafjournal.com/syncing-umineko-when-they-cry-with-syncthing/",
-          "publishedOn": "2023-04-22T01:38:10.000Z",
-          "wordCount": 2918,
-          "title": "Syncing Umineko When They Cry With Syncthing",
-          "imageUrl": null
         }
       ]
     },
@@ -299,6 +289,16 @@
       "feedUrl": "https://thenewleafjournal.com/leafbud/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20038",
+          "author": "Nicholas A. Ferrell",
+          "description": "From a Catholic News Agency report (May 2, 2023): A Utah bill that is designed to prevent minors from accessing pornography […]\nPossibly related posts...\n\nProductivity Window Shopping and Backlogs\nAn Essay on Productivity, Production, and Productive Leisure\nCheap USB-C Hubs and Short-Lasting Tech\nThe Great Chelsea Fire of 1908 - 114 Years Later\nSeeing the Blue Angels and Thunderbirds from Columbia Street…\nA Second Look at the April New York City Flyover\nThe al|together and Insani Visual Novel Translations\nImplementing Article Series With WP Post Series\nIntroducing the 1922 Better Homes in America Demonstration…",
+          "link": "https://thenewleafjournal.com/leafbud/thoughts-porn-hub-blocks-access-in-utah/",
+          "publishedOn": "2023-05-21T17:00:22.000Z",
+          "wordCount": 1419,
+          "title": "Thoughts: Porn Hub blocks access in Utah",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20080",
           "author": "Nicholas A. Ferrell",
