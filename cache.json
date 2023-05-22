@@ -183,6 +183,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20102",
+          "author": "Nicholas A. Ferrell",
+          "description": "On December 19, 2022, EL PAÍS published an article by Ms. Laura Camón: Your cat knows you’re talking to it, but […]\nPossibly related posts...\n\nJustin and Justina review 2022 at the NLJ\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nHalloween Cooking and Decorating Tips From 1913\nFour May Issues of The Nursery Magazine (1873-81)\nSowell on Walter Williams and Objective Teaching\nThe New Leaf Journal Celebrates Its First Birthday\nDialogue: Alpacas, Virus Cures, and Paca Plus\nAn Essay on Productivity, Production, and Productive Leisure\nIs my cat deaf, or does she just not give a...?",
+          "link": "https://thenewleafjournal.com/leaf/cats-dont-like-being-studied-in-labs/",
+          "publishedOn": "2023-05-22T13:45:32.000Z",
+          "wordCount": 1484,
+          "title": "Shocker: Cats don’t like being studied in labs",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=20042",
           "author": "Nicholas A. Ferrell",
           "description": "On April 22, 2023, Nintendo Life published the results of a reader survey ranking the best Nintendo controllers. The results were […]\nPossibly related posts...\n\nHistory of the Mario Party Gloves\nMario Party's Joystick-Wrecking Rotation Games\nThe Aborted Nintendo-Minnesota Lottery Scheme\nJustin and Justina review 2022 at the NLJ\nNintendo Power's 1999 Yoshi in Pokémon April Fools Prank\nOn Nintendo's Pro-User Cartridge-First Strategy\nThe Sega Dreamcast Controller Joystick\nLateral thinking to extend game console life-cycles\nEGM's 2001 Sega Neptune April Fools Joke",
@@ -456,6 +466,16 @@
       "feedUrl": "https://thenewleafjournal.com/letter/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=letter&p=20115",
+          "author": "Nicholas A. Ferrell",
+          "description": "Welcome to the syndicated version of Newsletter Leaf Journal 136. We mailed the original on Saturday, May 20, 2023. Newsletter Leaf […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal VIII\nSaving Internet Archive URLs in Wallabag",
+          "link": "https://thenewleafjournal.com/letter/newsletter-leaf-journal-cxxxvi/",
+          "publishedOn": "2023-05-22T15:44:44.000Z",
+          "wordCount": 2941,
+          "title": "Newsletter Leaf Journal CXXXVI",
+          "imageUrl": null
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=letter&p=20028",
           "author": "Nicholas A. Ferrell",

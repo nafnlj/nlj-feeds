@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-22T13:18:18.538Z</updated>
+    <updated>2023-05-22T18:18:20.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXXXVI]]></title>
+        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20115</id>
+        <link href="https://thenewleafjournal.com/letter/newsletter-leaf-journal-cxxxvi/"/>
+        <updated>2023-05-22T15:44:44.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the syndicated version of Newsletter Leaf Journal 136. We mailed the original on Saturday, May 20, 2023. Newsletter Leaf […]
+Possibly related posts...
+
+The Newsletter Leaf Journal at 100
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin and Justina review 2022 at the NLJ
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The New Leaf Journal Newsletter
+How to Find Substack RSS Feeds and Other Notes
+The New Leaf Journal Celebrates Its First Birthday
+The Newsletter Leaf Journal VIII
+Saving Internet Archive URLs in Wallabag]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shocker: Cats don’t like being studied in labs]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20102</id>
+        <link href="https://thenewleafjournal.com/leaf/cats-dont-like-being-studied-in-labs/"/>
+        <updated>2023-05-22T13:45:32.000Z</updated>
+        <summary type="html"><![CDATA[On December 19, 2022, EL PAÍS published an article by Ms. Laura Camón: Your cat knows you’re talking to it, but […]
+Possibly related posts...
+
+Justin and Justina review 2022 at the NLJ
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Halloween Cooking and Decorating Tips From 1913
+Four May Issues of The Nursery Magazine (1873-81)
+Sowell on Walter Williams and Objective Teaching
+The New Leaf Journal Celebrates Its First Birthday
+Dialogue: Alpacas, Virus Cures, and Paca Plus
+An Essay on Productivity, Production, and Productive Leisure
+Is my cat deaf, or does she just not give a...?]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thoughts: Porn Hub blocks access in Utah]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20038</id>
