@@ -6,6 +6,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20123",
+          "author": "Nicholas A. Ferrell",
+          "description": "Substack's view that its Notes platform is not a Twitter clone misses the forest through the trees.\nPossibly related posts...\n\nReviewing the Mastodon Twitter Crossposter\nAgainst Twitter as a Content Curator\nLearning How to Change a Twitter Username\nThe New Leaf Journal Twitter\nFediverse Clone Wars and Decentralized Social Media\nThe Enigmatic Life and Death of Emperor Otho\nHow to Find Substack RSS Feeds and Other Notes\nNew Leaf Journal Third Birthday Reader\nThe Best of Anime in 2022: Year in Review",
+          "link": "https://thenewleafjournal.com/substack-notes-twitter-clone-war/",
+          "publishedOn": "2023-05-23T17:32:12.000Z",
+          "wordCount": 3939,
+          "title": "Substack Notes’ Twitter clone war",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20108",
           "author": "Nicholas A. Ferrell",
           "description": "When the photo in one article about a deep sea snailfish does not satisfy deep sea expectations, read a second article.\nPossibly related posts...\n\nAn Introduction to RSS and Other Feed Formats\nIndieWeb Standards, RSS, and Atom\nHow to Find Substack RSS Feeds and Other Notes\nThe Pine Tree Lovers of Takasago\nRevisiting a Texas sea turtle rescue story\nRSS as a Facebook Alternative\nFollow The New Leaf Journal Pixelfed Atom Feed\nComment on the NLJ with Hypothes.is\nThe 1895 Homing Pigeon Experiment On the Manoubia",
@@ -182,6 +192,16 @@
       "feedUrl": "https://thenewleafjournal.com/leaf/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20106",
+          "author": "Nicholas A. Ferrell",
+          "description": "From a Eurasianet report: Uzbekistan is to hold snap presidential elections on July 9, President Shavkat Mirziyoyev has said, citing the […]\nPossibly related posts...\n\nUzbek President Mirziyoyev's War and Peace of the Union\nHistory of Thanksgiving Proclamations in the Philippines\nBenjamin Harrison's Memorable July 4, 1888\nThe Story of Billy Possum, President Hoover's Pet Opossum\nCalvin Coolidge's 1922 \"Better Homes\" Remarks\nThe 999 Life of Herman Cain\nBiden, Lincoln, and Counting Back From the President's Birth\nAliens vs Noncitizens - The Anatomy of a Debate\nKazakhstan's Constitutional Reform",
+          "link": "https://thenewleafjournal.com/leaf/uzbek-snap-elections-and-presidential-term-limits/",
+          "publishedOn": "2023-05-23T16:30:17.000Z",
+          "wordCount": 1729,
+          "title": "Uzbek snap elections and presidential term limits",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=20102",
           "author": "Nicholas A. Ferrell",
