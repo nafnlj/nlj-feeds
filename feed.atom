@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-24T13:18:54.185Z</updated>
+    <updated>2023-05-24T18:18:20.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110424895385856676</id>
+        <link href="https://linuxrocks.online/@nafnlj/110424895385856676"/>
+        <updated>2023-05-24T17:43:05.000Z</updated>
+        <summary type="html"><![CDATA[New York City's iconic Brooklyn Bridge, which connects Brooklyn and Manhattan over the East River, officially opened to the public 140 years ago to the day. I collected original newspaper articles and materials to recount the events of festivities and ceremonies, which involved thousands of revelers and prominent persons, including then-President Chester Arthur.
+https://thenewleafjournal.com/1883-opening-of-the-brooklyn-bridge/
+#history #nyc #brooklyn #manhattan #brooklynbridge]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1883 Opening of the Brooklyn Bridge]]></title>
+        <id>https://thenewleafjournal.com/?p=20128</id>
+        <link href="https://thenewleafjournal.com/1883-opening-of-the-brooklyn-bridge/"/>
+        <updated>2023-05-24T17:29:24.000Z</updated>
+        <summary type="html"><![CDATA[A long post with original accounts from the May 24, 1883 opening of the Brooklyn Bridge.
+Possibly related posts...
+
+Wasteful talk show subsidies in New York
+In Support of the Lawsuit Against NYC Dining Sheds
+On NYC Curfews and Essential Workers
+A Trip Across Brooklyn's Summit Street Bridge
+The Brooklyn Bridge's Mysterious Cobweb Lane
+The Questionable NYC Mayoral Campaign About Page of Maya…
+The Awful About Page for Sara Tirschwell's NYC Mayoral…
+Harry Wilson Wants My Vote For Governor
+Freedom Tower in the Fog From the Brooklyn Bridge]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Substack Notes’ Twitter clone war]]></title>
         <id>https://thenewleafjournal.com/?p=20123</id>

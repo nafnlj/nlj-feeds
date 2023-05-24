@@ -6,6 +6,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20128",
+          "author": "Nicholas A. Ferrell",
+          "description": "A long post with original accounts from the May 24, 1883 opening of the Brooklyn Bridge.\nPossibly related posts...\n\nWasteful talk show subsidies in New York\nIn Support of the Lawsuit Against NYC Dining Sheds\nOn NYC Curfews and Essential Workers\nA Trip Across Brooklyn's Summit Street Bridge\nThe Brooklyn Bridge's Mysterious Cobweb Lane\nThe Questionable NYC Mayoral Campaign About Page of Maya…\nThe Awful About Page for Sara Tirschwell's NYC Mayoral…\nHarry Wilson Wants My Vote For Governor\nFreedom Tower in the Fog From the Brooklyn Bridge",
+          "link": "https://thenewleafjournal.com/1883-opening-of-the-brooklyn-bridge/",
+          "publishedOn": "2023-05-24T17:29:24.000Z",
+          "wordCount": 6860,
+          "title": "1883 Opening of the Brooklyn Bridge",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/05/grand-display-of-fireworks-brooklyn-bridge.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20123",
           "author": "Nicholas A. Ferrell",
           "description": "Substack's view that its Notes platform is not a Twitter clone misses the forest through the trees.\nPossibly related posts...\n\nReviewing the Mastodon Twitter Crossposter\nAgainst Twitter as a Content Curator\nLearning How to Change a Twitter Username\nThe New Leaf Journal Twitter\nFediverse Clone Wars and Decentralized Social Media\nThe Enigmatic Life and Death of Emperor Otho\nHow to Find Substack RSS Feeds and Other Notes\nNew Leaf Journal Third Birthday Reader\nThe Best of Anime in 2022: Year in Review",
@@ -674,6 +684,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110424895385856676",
+          "author": null,
+          "description": "New York City's iconic Brooklyn Bridge, which connects Brooklyn and Manhattan over the East River, officially opened to the public 140 years ago to the day. I collected original newspaper articles and materials to recount the events of festivities and ceremonies, which involved thousands of revelers and prominent persons, including then-President Chester Arthur.\nhttps://thenewleafjournal.com/1883-opening-of-the-brooklyn-bridge/\n#history #nyc #brooklyn #manhattan #brooklynbridge",
+          "link": "https://linuxrocks.online/@nafnlj/110424895385856676",
+          "publishedOn": "2023-05-24T17:43:05.000Z",
+          "wordCount": 119,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/110401980107215464",
           "author": null,
