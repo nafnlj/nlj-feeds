@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-25T13:18:36.634Z</updated>
+    <updated>2023-05-25T18:18:28.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110430376690038977</id>
+        <link href="https://linuxrocks.online/@nafnlj/110430376690038977"/>
+        <updated>2023-05-25T16:57:04.000Z</updated>
+        <summary type="html"><![CDATA[A May 2020 post inspired by a dictionary usage example for "leaf": "as the trees leaf in May."
+https://thenewleafjournal.com/the-trees-leaf-in-may/
+#dictionary #trees #leaves #leaf #may]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webmentions and Substack]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20169</id>
+        <link href="https://thenewleafjournal.com/leafbud/webmentions-and-substack/"/>
+        <updated>2023-05-25T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[I came across an interesting post by Ms. Tracy Durnell on her personal blog supporting the idea of Webmention support for […]
+Possibly related posts...
+
+Substack Notes' Twitter clone war
+IndieWeb Standards, RSS, and Atom
+How to Find Substack RSS Feeds and Other Notes
+Enabling Disabled WordPress Pingbacks
+Fediverse Clone Wars and Decentralized Social Media
+Calling For More IndieWeb in WordPress
+The Enigmatic Life and Death of Emperor Otho
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+New Leaf Journal Third Birthday Reader]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crimsoness – Visual Novel Review]]></title>
         <id>https://thenewleafjournal.com/?p=20147</id>
