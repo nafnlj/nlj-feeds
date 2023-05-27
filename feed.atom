@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-27T18:17:13.804Z</updated>
+    <updated>2023-05-27T23:14:35.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building ONScripter-Insani on EndeavourOS]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20248</id>
+        <link href="https://thenewleafjournal.com/leaf/building-onscripter-insani-on-endeavouros/"/>
+        <updated>2023-05-27T20:24:30.000Z</updated>
+        <summary type="html"><![CDATA[Insani, the visual translation circle behind most of the al|together visual novel translations that I am in the process of reviewing […]
+Possibly related posts...
+
+The al|together and Insani Visual Novel Translations
+Going From ONScripter Visual Novel .exe to Native Linux
+Running ONScripter-En in Linux Visual Novel Directory
+Running Linux Visual Novels With ONScripter
+Red Shift Visual Novel Review
+Flood of Tears - Visual Novel Review
+MIDI sound for games on Arch-based distro
+A Winter's Tale - Visual Novel Review
+io [Christmas Eve] - Visual Novel Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Journal CXXXVII 〜 crimson[ewsletter]ess 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/newsletter-journal-cxxxvii/</id>
