@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-27T23:14:35.130Z</updated>
+    <updated>2023-05-28T13:15:56.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1426,94 +1426,6 @@ https://thenewleafjournal.com/leveling-up-yamada-kun-at-lv999-to-linux/
 #anime #linux #windows #microsoft #humor]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bing blacklisting update]]></title>
-        <id>https://newleafannex.bearblog.dev/bing-blacklisting-update/</id>
-        <link href="https://newleafannex.bearblog.dev/bing-blacklisting-update/"/>
-        <updated>2023-04-28T18:28:22.470Z</updated>
-        <summary type="html"><![CDATA[I have published two posts hear on Bear Blog about my main website project, The New Leaf Journal, having been blacklisted by Bing.
-De-indexed from Bing (1.17.23)
-Bing de-indexing update (1.18.23)
-The Bing blacklisting not only persists, but has also become worse. I discovered in the Bing Webmaster Console that all of The New Leaf Journal's pages had been purged from Bing's index.
-I subscribe to an RSS feed for Hacker News Page 1 in my feed reader. I saw an article titled Bing Jail a few days ago which caught my attention. In that post, a webmaster described his Bing blacklisting experience. I found that it was almost identical to my experience, right down to his site having been blacklisted in January 2023 and his pages being removed from Bing's index in March. He noted that several other …]]></summary>
-        <author>
-            <name>The New Leaf Annex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110277085696192165</id>
-        <link href="https://linuxrocks.online/@nafnlj/110277085696192165"/>
-        <updated>2023-04-28T15:13:09.000Z</updated>
-        <summary type="html"><![CDATA[On using Syncthing to sync my modded Umineko When They Cry game files and save directory between my main computer, a mini PC I use with my TV, and an always on Syncthing device.
-https://thenewleafjournal.com/syncing-umineko-when-they-cry-with-syncthing/
-#syncthing #videogames #visualnovel #umineko]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A wet duck standing on Pier 5 of Brooklyn Bridge Park. The duck was drying in the Sun. Note the very pretty dark blue/purple feather on its wing. The duck made a good photo subject because it did not pay its surroundings any mind as it calmly stood in place.  A small Park vehicle (essentially a golf cart) drove by about 3 feet from the duck and our avian friend did not flinch.
-
-Article:
-https://thenewleafjournal.com/duck-on-brooklyn-bridge-park-pier-5/
-
-#duck #bird #brooklynbridgepark #nyc #brooklyn #pier #pixel3axl #thenewleafjournal #newleafjournal]]></title>
-        <id>https://pixelfed.social/p/nafnlj/557576198227472059</id>
-        <link href="https://pixelfed.social/p/nafnlj/557576198227472059"/>
-        <updated>2023-04-28T14:48:44.000Z</updated>
-        <summary type="html"><![CDATA[A wet duck standing on Pier 5 of Brooklyn Bridge Park. The duck was drying in the Sun. Note the very pretty dark blue/purple feather on its wing. The duck made a good photo subject because it did not pay its surroundings any mind as it calmly stood in place.  A small Park vehicle (essentially a golf cart) drove by about 3 feet from the duck and our avian friend did not flinch.<br />
-<br />
-Article:<br />
-<a href="https://thenewleafjournal.com/duck-on-brooklyn-bridge-park-pier-5/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/duck-on-brooklyn-bridge-park-pier-5/</a><br />
-<br />
-<a href="https://pixelfed.social/discover/tags/duck?src=hash" title="#duck" class="u-url hashtag" rel="external nofollow noopener">#duck</a> <a href="https://pixelfed.social/discover/tags/bird?src=hash" title="#bird" class="u-url hashtag" rel="external nofollow noopener">#bird</a> <a href="https://pixelfed.social/discover/tags/brooklynbridgepark?src=hash" title="#brooklynbridgepark" class="u-url hashtag" rel="external nofollow noopener">#brooklynbridgepark</a> <a href="https://pixelfed.social/discover/tags/nyc?src=hash" title="#nyc" class="u-url hashtag" rel="external nofollow noopener">#nyc</a> <a href="https://pixelfed.social/discover/tags/brooklyn?src=hash" title="#brooklyn" class="u-url hashtag" rel="external nofollow noopener">#brooklyn</a> <a href="https://pixelfed.social/discover/tags/pier?src=hash" title="#pier" class="u-url hashtag" rel="external nofollow noopener">#pier</a> <a href="https://pixelfed.social/discover/tags/pixel3axl?src=hash" title="#pixel3axl" class="u-url hashtag" rel="external nofollow noopener">#pixel3axl</a> <a href="https://pixelfed.social/discover/tags/thenewleafjournal?src=hash" title="#thenewleafjournal" class="u-url hashtag" rel="external nofollow noopener">#thenewleafjournal</a> <a href="https://pixelfed.social/discover/tags/newleafjournal?src=hash" title="#newleafjournal" class="u-url hashtag" rel="external nofollow noopener">#newleafjournal</a>]]></summary>
-        <author>
-            <name>nafnlj on Pixelfed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A typo on Linux terminal shutdown timer]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19606</id>
-        <link href="https://thenewleafjournal.com/leaf/a-typo-on-linux-terminal-shutdown-timer/"/>
-        <updated>2023-04-28T14:00:12.000Z</updated>
-        <summary type="html"><![CDATA[I use a mini Beelink PC with the GNOME edition of Fedora with my TV (see discussing in my article on […]
-Possibly related posts...
-
-Brave and DuckDuckGo Timer Search Shortcuts
-On Improving the Environment For Gaming On Linux
-Creating a Search Engine Shortcut For Google Timer
-Installing and Running Bodhi Linux on a 2007 MacBook
-The Two Decade Mario Party Finally Ends
-History of the Mario Party Gloves
-Running ONScripter-En in Linux Visual Novel Directory
-Read the Fine Print - Buying a Cheap Mini PC For a Home…
-Going From ONScripter Visual Novel .exe to Native Linux]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duck on Brooklyn Bridge Park Pier 5]]></title>
-        <id>https://thenewleafjournal.com/?p=19622</id>
-        <link href="https://thenewleafjournal.com/duck-on-brooklyn-bridge-park-pier-5/"/>
-        <updated>2023-04-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Four photos of a serene, wet, brown duck standing on Pier 5 of Brooklyn Bridge Park.
-Possibly related posts...
-
-Bird in Review 〜 Mandarin Duck
-Duck and Duckling Rescue Stories From Around the Web
-The NYPD's Duck Family Rescue in Midtown Manhattan
-Falcon Sighting at Brooklyn Bridge Park
-A Trip Across Brooklyn's Summit Street Bridge
-Freedom Tower in the Fog From the Brooklyn Bridge
-The Brooklyn Bridge's Mysterious Cobweb Lane
-Four May Issues of The Nursery Magazine (1873-81)
-The al|together and Insani Visual Novel Translations]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
