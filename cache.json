@@ -6,6 +6,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20252",
+          "author": "Nicholas A. Ferrell",
+          "description": "May 29, 2023 marks Memorial Day in the United States. Memorial Day is a special occasion for paying respects to American […]\nPossibly related posts...\n\nThe Enigmatic Life and Death of Emperor Otho\nAn 1895 Poem on Memorial Day and Piece by Theodore Roosevelt\nThe Poetry of Charlotte Becker - Early Twentieth Century…\nMemorial Flowers - 1880 Memorial Day Poem\nBrave and DuckDuckGo Timer Search Shortcuts\n\"Memorial Day\" by Helen Leah Reed\nAnna Jarvis and the Origin of Mother's Day in the United…\nHow the Forget-Me-Not Flower Found Its Name\nEisenhower's 1954 Veterans Day Proclamation",
+          "link": "https://thenewleafjournal.com/flowers-for-brave-soldiers-memorial-poem/",
+          "publishedOn": "2023-05-29T10:30:00.000Z",
+          "wordCount": 1504,
+          "title": "Flowers for Brave Soldiers – Memorial Poem",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/05/american-flag-reed-memorial-day.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20120",
           "author": "Nicholas A. Ferrell",
           "description": "I saw a squirrel in Battery Park eating a French fry. While I was unable to capture a photograph of the French fry squirrel, I did take a picture of a squirrel on a tree.\nPossibly related posts...\n\nPhotographing a Squirrel Kiss in Three Acts\n1883 Opening of the Brooklyn Bridge\nTranquility at the Foot of the Manhattan Bridge\nTI-89 Haiku: Boerum Blue Jay and Black Squirrel\nBlack Squirrel in a Tree in Brooklyn\nThe Cows of Bloomingdale's and Macy's at the 2021 NYC Cow…\nA Brave Little Tree Grows in Manhattan\nThe Poetry of Charlotte Becker - Early Twentieth Century…\nSquirrel With Walnut at Brooklyn Bridge Park",
@@ -438,16 +448,6 @@
           "wordCount": 1454,
           "title": "Brave Search is now Bing-free",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19635",
-          "author": "Nicholas A. Ferrell",
-          "description": "From Building a Fairy Kingdom in Britain (JSTOR Daily): In the late sixteenth century, people across Britain became obsessed with fairies, […]\nPossibly related posts...\n\nFairy Tricycle Promotion from 1895 Harper's Round Table\nBonner's \"In Dreamland\" Bedtime Story\nThe Best of Anime in 2022: Year in Review\nRecording a Test New Leaf Journal Pokémon Sword and Shield…\nHistoric Districts and Looming Tall Buildings\nTwo Independence Day-Themed Pokémon Battles: Ferrell vs…\nThe Great Chelsea Fire of 1908 - 114 Years Later\nBoat playground seen from Brooklyn Bridge\nOn Finding Money In Your Coat Pocket 〜 A Justin and Justina…",
-          "link": "https://thenewleafjournal.com/leafbud/fairy-kingdoms-gnome-kingdoms-gnome/",
-          "publishedOn": "2023-04-29T19:00:29.000Z",
-          "wordCount": 1374,
-          "title": "Fairy kingdoms, gnome kingdoms, GNOME?",
-          "imageUrl": null
         }
       ]
     },
@@ -542,16 +542,6 @@
           "wordCount": 2654,
           "title": "Newsletter Leaf Journal CXXXIV 〜 Newsletter gauntlet 〜",
           "imageUrl": "https://buttondown.imgix.net/images/db8ed510-5a1d-4931-970e-61464a40dc27.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/133/",
-          "author": null,
-          "description": "Welcome to the 133rd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.\nApril 27 marked the third birthday of The New Leaf Journal. I made sure that we had plenty of new articles for our birthday week. Below, you will find links to our newest articles along with twelve links from around the web and other news and notes.\nTable of contents\nLeaves from the birthday week that was\nLeaves from around the web\nThe Old Birthday Leaf Journal\nMost turned leaves of the birthday week\nNews leaf journal\nNotable leaf journal\nTaking leaf\nLeaves from the birthday week that was\nI published five regu…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/133/",
-          "publishedOn": "2023-04-29T16:41:16.000Z",
-          "wordCount": 2476,
-          "title": "Newsletter Leaf Journal CXXXIII 〜 New leaf cake 〜",
-          "imageUrl": "https://buttondown.imgix.net/images/3ce8fca1-be22-4939-a7ec-a97d97fde8be.png"
         }
       ]
     },
@@ -793,16 +783,6 @@
           "wordCount": 121,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110282990099813719",
-          "author": null,
-          "description": "I have watched the first few episodes of a currently airing anime series called My Love Story With Yamada-kun at Lv999. While I have not been impressed thus far, it did inspire an article. The first episode begins with the viewpoint protagonist, Akane, in the dumps after her boyfriend left her for another woman he met in an online game that he played with Akane. There is a scene where Akane opens up her laptop to log into the game. When she turns it on, I noticed a problem.\nHer relationship with her cad of an ex-boyfriend may be over, but her toxic relationship with Windows continues. I suggest she consider a new relationship with Linux.\nhttps://thenewleafjournal.com/leveling-up-yamada-kun-at-lv999-to-linux/\n(Can neither confirm nor deny possibility that Microsoft de-indexing my site from Bing played a role in inspiring this article.)\n#anime #linux #windows #microsoft #humor",
-          "link": "https://linuxrocks.online/@nafnlj/110282990099813719",
-          "publishedOn": "2023-04-29T16:14:43.000Z",
-          "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -817,6 +797,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA",
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=PDDJlp-unJM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PDDJlp-unJM",
+          "publishedOn": "2023-05-28T23:40:12.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo & Co. \"The Waltzing Fool\" Live at the Lustre Pearl Rainey (4/16/22)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=otbEY4oofr0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=otbEY4oofr0",
+          "publishedOn": "2023-05-28T23:38:23.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo & Co. \"I Am The Man Who's Always Late\" Live at the Lustre Pearl Rainey (4/16/22)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=gSB1bdig6PE",
           "author": null,

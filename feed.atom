@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-28T23:14:33.186Z</updated>
+    <updated>2023-05-29T13:17:56.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flowers for Brave Soldiers – Memorial Poem]]></title>
+        <id>https://thenewleafjournal.com/?p=20252</id>
+        <link href="https://thenewleafjournal.com/flowers-for-brave-soldiers-memorial-poem/"/>
+        <updated>2023-05-29T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[May 29, 2023 marks Memorial Day in the United States. Memorial Day is a special occasion for paying respects to American […]
+Possibly related posts...
+
+The Enigmatic Life and Death of Emperor Otho
+An 1895 Poem on Memorial Day and Piece by Theodore Roosevelt
+The Poetry of Charlotte Becker - Early Twentieth Century…
+Memorial Flowers - 1880 Memorial Day Poem
+Brave and DuckDuckGo Timer Search Shortcuts
+"Memorial Day" by Helen Leah Reed
+Anna Jarvis and the Origin of Mother's Day in the United…
+How the Forget-Me-Not Flower Found Its Name
+Eisenhower's 1954 Veterans Day Proclamation]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo & Co. "The Waltzing Fool" Live at the Lustre Pearl Rainey (4/16/22)]]></title>
+        <id>https://www.youtube.com/watch?v=PDDJlp-unJM</id>
+        <link href="https://www.youtube.com/watch?v=PDDJlp-unJM"/>
+        <updated>2023-05-28T23:40:12.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo & Co. "I Am The Man Who's Always Late" Live at the Lustre Pearl Rainey (4/16/22)]]></title>
+        <id>https://www.youtube.com/watch?v=otbEY4oofr0</id>
+        <link href="https://www.youtube.com/watch?v=otbEY4oofr0"/>
+        <updated>2023-05-28T23:38:23.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building ONScripter-Insani on EndeavourOS]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20248</id>
@@ -1370,62 +1409,6 @@ The Newsletter Leaf Journal VIII
 New Leaf Journal Third Birthday Reader]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fairy kingdoms, gnome kingdoms, GNOME?]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19635</id>
-        <link href="https://thenewleafjournal.com/leafbud/fairy-kingdoms-gnome-kingdoms-gnome/"/>
-        <updated>2023-04-29T19:00:29.000Z</updated>
-        <summary type="html"><![CDATA[From Building a Fairy Kingdom in Britain (JSTOR Daily): In the late sixteenth century, people across Britain became obsessed with fairies, […]
-Possibly related posts...
-
-Fairy Tricycle Promotion from 1895 Harper's Round Table
-Bonner's "In Dreamland" Bedtime Story
-The Best of Anime in 2022: Year in Review
-Recording a Test New Leaf Journal Pokémon Sword and Shield…
-Historic Districts and Looming Tall Buildings
-Two Independence Day-Themed Pokémon Battles: Ferrell vs…
-The Great Chelsea Fire of 1908 - 114 Years Later
-Boat playground seen from Brooklyn Bridge
-On Finding Money In Your Coat Pocket 〜 A Justin and Justina…]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXXIII 〜 New leaf cake 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/133/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/133/"/>
-        <updated>2023-04-29T16:41:16.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 133rd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.
-April 27 marked the third birthday of The New Leaf Journal. I made sure that we had plenty of new articles for our birthday week. Below, you will find links to our newest articles along with twelve links from around the web and other news and notes.
-Table of contents
-Leaves from the birthday week that was
-Leaves from around the web
-The Old Birthday Leaf Journal
-Most turned leaves of the birthday week
-News leaf journal
-Notable leaf journal
-Taking leaf
-Leaves from the birthday week that was
-I published five regu…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110282990099813719</id>
-        <link href="https://linuxrocks.online/@nafnlj/110282990099813719"/>
-        <updated>2023-04-29T16:14:43.000Z</updated>
-        <summary type="html"><![CDATA[I have watched the first few episodes of a currently airing anime series called My Love Story With Yamada-kun at Lv999. While I have not been impressed thus far, it did inspire an article. The first episode begins with the viewpoint protagonist, Akane, in the dumps after her boyfriend left her for another woman he met in an online game that he played with Akane. There is a scene where Akane opens up her laptop to log into the game. When she turns it on, I noticed a problem.
-Her relationship with her cad of an ex-boyfriend may be over, but her toxic relationship with Windows continues. I suggest she consider a new relationship with Linux.
-https://thenewleafjournal.com/leveling-up-yamada-kun-at-lv999-to-linux/
-(Can neither confirm nor deny possibility that Microsoft de-indexing my site from Bing played a role in inspiring this article.)
-#anime #linux #windows #microsoft #humor]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
