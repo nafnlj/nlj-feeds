@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-29T13:17:56.930Z</updated>
+    <updated>2023-05-29T18:17:45.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110452558946957067</id>
+        <link href="https://linuxrocks.online/@nafnlj/110452558946957067"/>
+        <updated>2023-05-29T14:58:18.000Z</updated>
+        <summary type="html"><![CDATA[Re-printing Hannah Leah Reed's "Flowers for Brave Soldiers," a poem from her 1917 collection, "Memorial Day and Other Verse"
+"Flowers for brave soldiers—
+Flowers for those who loved us,
+Flowers to their memory,
+This fair spring day!"
+https://thenewleafjournal.com/flowers-for-brave-soldiers-memorial-poem/
+#memorialday #poem #poetry]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flowers for Brave Soldiers – Memorial Poem]]></title>
         <id>https://thenewleafjournal.com/?p=20252</id>
