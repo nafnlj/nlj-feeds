@@ -164,16 +164,6 @@
           "wordCount": 1723,
           "title": "Rose at the Brooklyn Botanic Garden (2007)",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=19641",
-          "author": "Nicholas A. Ferrell",
-          "description": "April 2023 has come to a close. The end of the month means a new entry in our month-in-review series, which […]\nPossibly related posts...\n\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal at 100\nThe Best of Anime in 2022: Year in Review\nJustin and Justina review 2022 at the NLJ\nThe New Leaf Journal Twitter\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe story of our Bing blacklisting\nA 2021 List of Alternative Search Engines and Search…",
-          "link": "https://thenewleafjournal.com/april-2023-at-the-new-leaf-journal/",
-          "publishedOn": "2023-05-01T03:03:12.000Z",
-          "wordCount": 3486,
-          "title": "April 2023 at The New Leaf Journal",
-          "imageUrl": null
         }
       ]
     },
@@ -604,6 +594,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110458672137816217",
+          "author": null,
+          "description": "I read about an e-ink monitor for phones and thought the idea was interesting (as someone who wants an open source e-ink phone with a physical keyboard), but impractical. Instead of spending $300 to test a monitor (not that this was in the cards), I tried using the open source Screen Stream app on F-Droid to stream my phone screen with my feed reader to my PocketBook InkPad Color. Conclusion:  It *works* -- but there are some practical annoyances.\nhttps://thenewleafjournal.com/streaming-from-android-to-pocketbook/\n#fdroid #opensource #android #lineageos #eink #pocketbook",
+          "link": "https://linuxrocks.online/@nafnlj/110458672137816217",
+          "publishedOn": "2023-05-30T16:52:58.000Z",
+          "wordCount": 121,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/110452558946957067",
           "author": null,

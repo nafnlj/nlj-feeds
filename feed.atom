@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-30T13:18:00.189Z</updated>
+    <updated>2023-05-30T18:18:28.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110458672137816217</id>
+        <link href="https://linuxrocks.online/@nafnlj/110458672137816217"/>
+        <updated>2023-05-30T16:52:58.000Z</updated>
+        <summary type="html"><![CDATA[I read about an e-ink monitor for phones and thought the idea was interesting (as someone who wants an open source e-ink phone with a physical keyboard), but impractical. Instead of spending $300 to test a monitor (not that this was in the cards), I tried using the open source Screen Stream app on F-Droid to stream my phone screen with my feed reader to my PocketBook InkPad Color. Conclusion:  It *works* -- but there are some practical annoyances.
+https://thenewleafjournal.com/streaming-from-android-to-pocketbook/
+#fdroid #opensource #android #lineageos #eink #pocketbook]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110452558946957067</id>
@@ -1338,27 +1350,6 @@ https://thenewleafjournal.com/blue-violets-an-1880-childrens-poem/
 #flowers #violets #spring #poem #poetry]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[April 2023 at The New Leaf Journal]]></title>
-        <id>https://thenewleafjournal.com/?p=19641</id>
-        <link href="https://thenewleafjournal.com/april-2023-at-the-new-leaf-journal/"/>
-        <updated>2023-05-01T03:03:12.000Z</updated>
-        <summary type="html"><![CDATA[April 2023 has come to a close. The end of the month means a new entry in our month-in-review series, which […]
-Possibly related posts...
-
-The New Leaf Journal Celebrates Its First Birthday
-The Newsletter Leaf Journal at 100
-The Best of Anime in 2022: Year in Review
-Justin and Justina review 2022 at the NLJ
-The New Leaf Journal Twitter
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The story of our Bing blacklisting
-A 2021 List of Alternative Search Engines and Search…]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
