@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-29T23:14:18.922Z</updated>
+    <updated>2023-05-30T13:18:00.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1357,51 +1357,6 @@ Justin & Justina: The Most-Read New Leaf Journal Content of…
 The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
 The story of our Bing blacklisting
 A 2021 List of Alternative Search Engines and Search…]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110288388287614590</id>
-        <link href="https://linuxrocks.online/@nafnlj/110288388287614590"/>
-        <updated>2023-04-30T15:07:32.000Z</updated>
-        <summary type="html"><![CDATA[See also -- a follow-up article featuring re-touched versions of the flyover photos.
-https://thenewleafjournal.com/a-second-look-at-the-april-new-york-city-flyover/
-#flyover #planes #nyc #brooklyn #blueangels #thunderbirds]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110288385512851204</id>
-        <link href="https://linuxrocks.online/@nafnlj/110288385512851204"/>
-        <updated>2023-04-30T15:06:50.000Z</updated>
-        <summary type="html"><![CDATA[My three photos of an April 28, 2020 Blue Angels-Thunderbird joint-flyover of New York City, taken from Columbia Street Waterfront District in Brooklyn, NY. In light of the fact that my only camera was my BlackBerry Classic, the photos were a bit better than I would have expected under the circumstances.
-https://thenewleafjournal.com/seeing-the-blue-angels-and-thunderbirds-from-columbia-street-waterfront-district/
-#flyover #planes #nyc #brooklyn #blueangels #thunderbirds]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brave Search is now Bing-free]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19639</id>
-        <link href="https://thenewleafjournal.com/leafbud/brave-search-is-now-bing-free/"/>
-        <updated>2023-04-30T12:30:44.000Z</updated>
-        <summary type="html"><![CDATA[From Brave’s news announcement: Every Web search result seen in Brave Search is now served by our own index. We’ve removed […]
-Possibly related posts...
-
-A 2021 List of Alternative Search Engines and Search…
-The story of our Bing blacklisting
-Brave and DuckDuckGo Timer Search Shortcuts
-The Downstream Effects of Bing's Tiananmen Square Censorship
-An In-Depth Look at Norton Safe Search
-Importance of Bing Indexing For Alt Search
-Bing's and DuckDuckGo's CCP Problem
-Review of Wutsearch, a Search Engine Launchpad
-Peekier Search Engine Review]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
