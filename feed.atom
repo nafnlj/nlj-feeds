@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-31T13:17:42.576Z</updated>
+    <updated>2023-05-31T18:18:19.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110464094611248288</id>
+        <link href="https://linuxrocks.online/@nafnlj/110464094611248288"/>
+        <updated>2023-05-31T15:51:58.000Z</updated>
+        <summary type="html"><![CDATA[My review if Crimsoness, the official 2008 translation of a 2006 Japanese visual novel called Shakunetsu Hime. In Crimsoness, the player takes the role of Bakumi Moriyama, a schoolgirl who upon realizing that all of her answers on an exam were off by one, sets out to destroy the entire planet in 3 minutes.  The 3 minutes is literal here -- the novel is timed.  Crimsoness is, dare I say, literally an Earth-splitting adventure.
+(It was also looks like it was drawn in Microsoft Paint.)
+Crimsoness is free to download for Windows (the Japanese original also remains available to download). Unlike most novels I am reviewing, it was not written in ONScripter (Delphi, in this case), but the Windows version runs perfectly fine on top of WINE on Linux with no special configuration.
+https://thenewleafjournal.com/crimsoness-visual-novel-review/
+#visualnovel #videogames #red]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sugar Apple Fairytale S2 preview thoughts]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20301</id>
+        <link href="https://thenewleafjournal.com/leafbud/sugar-apple-fairytale-s2-preview-thoughts/"/>
+        <updated>2023-05-31T15:42:32.000Z</updated>
+        <summary type="html"><![CDATA[From Crunchyroll: Despite the dramatic cliffhanger we were left to deal with two months ago, Sugar Apple Fairy Tale continues to […]
+Possibly related posts...
+
+Quince recipes from Mary Eales's receipts
+Anime Recommendations of the Decade (2011-20)
+"Cooking for Invalids" - Recipes For the Bedridden From…
+The Nice Boat 〜 A Look Back at the School Days Anime
+"Coffee Fruit Punch" - A Cookbook Abomination
+Halloween Cooking and Decorating Tips From 1913
+Peekier Search Engine Review
+The Quince Shortage - Justin and Justina
+American Breakfast, Lunch, and Dinner Home Menus From 1913]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I, Too, Saw Dreams Through Air – VN Review]]></title>
         <id>https://thenewleafjournal.com/?p=20260</id>
