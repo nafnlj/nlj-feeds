@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-01T13:18:32.675Z</updated>
+    <updated>2023-06-01T18:19:45.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1230,16 +1230,6 @@ https://thenewleafjournal.com/an-unclear-and-indistinct-idea-of-a-truth-tree/
 #philosophy #humor #anecdote #descartes #microsoftpaint]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The end of Peekier Search]]></title>
-        <id>https://newleafannex.bearblog.dev/end-of-peekier-search/</id>
-        <link href="https://newleafannex.bearblog.dev/end-of-peekier-search/"/>
-        <updated>2023-05-03T02:01:50.086Z</updated>
-        <summary type="html"><![CDATA[I reviewed a niche search engine (or more aptly put, Bing front-end) called Peekier in February 2022. My Peekier review turned out to be a relatively successful post (by The New Leaf Journal's standards). The last time I had used Peekier before May 2, 2023, was in mid-January of 2023. This is because I have generally refrained from using Bing-based search after Bing arbitrarily blacklisted my project and removed it from its index. I ran a search through Peekier on May 2 as part of my day job working on U.S. immigration law research. My Peekier search unexpectedly redirected to the home page for Kagi Search. After determining that Peekier was indeed dead, I wrote an article on Peekier's demise and then updated my Peekier review to note that the charming little search tool is no more. While I am not certain of the circumstances of Peekier's downfall or why it now redirects to Kagi Search, the last Internet Archive capture of Peekier's home page came on February 19, 2023. The next capture on February 26, 2023, shows the Kagi Search redirect was in place.]]></summary>
-        <author>
-            <name>The New Leaf Annex</name>
         </author>
     </entry>
 </feed>
