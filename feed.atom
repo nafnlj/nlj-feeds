@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-05-31T23:14:25.162Z</updated>
+    <updated>2023-06-01T13:18:32.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[May 2023 at The New Leaf Journal]]></title>
+        <id>https://thenewleafjournal.com/?p=20303</id>
+        <link href="https://thenewleafjournal.com/may-2023-at-the-new-leaf-journal/"/>
+        <updated>2023-06-01T03:27:06.000Z</updated>
+        <summary type="html"><![CDATA[Recapping the fourth May at The New Leaf Journal.
+Possibly related posts...
+
+The New Leaf Journal Celebrates Its First Birthday
+At Summer's End - Visual Novel Review
+New Leaf Journal Third Birthday Reader
+Visual Novel Review: Bad End
+The Small Web, Artisanal Content, and Humane Design
+The Newsletter Leaf Journal at 100
+Working to Save The Bitter End
+Flood of Tears - Visual Novel Review
+The al|together and Insani Visual Novel Translations]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110464094611248288</id>
@@ -1219,94 +1240,6 @@ https://thenewleafjournal.com/an-unclear-and-indistinct-idea-of-a-truth-tree/
         <summary type="html"><![CDATA[I reviewed a niche search engine (or more aptly put, Bing front-end) called Peekier in February 2022. My Peekier review turned out to be a relatively successful post (by The New Leaf Journal's standards). The last time I had used Peekier before May 2, 2023, was in mid-January of 2023. This is because I have generally refrained from using Bing-based search after Bing arbitrarily blacklisted my project and removed it from its index. I ran a search through Peekier on May 2 as part of my day job working on U.S. immigration law research. My Peekier search unexpectedly redirected to the home page for Kagi Search. After determining that Peekier was indeed dead, I wrote an article on Peekier's demise and then updated my Peekier review to note that the charming little search tool is no more. While I am not certain of the circumstances of Peekier's downfall or why it now redirects to Kagi Search, the last Internet Archive capture of Peekier's home page came on February 19, 2023. The next capture on February 26, 2023, shows the Kagi Search redirect was in place.]]></summary>
         <author>
             <name>The New Leaf Annex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peekier redirects to Kagi Search]]></title>
-        <id>https://thenewleafjournal.com/?p=19884</id>
-        <link href="https://thenewleafjournal.com/peekier-redirects-to-kagi-search/"/>
-        <updated>2023-05-02T22:08:09.000Z</updated>
-        <summary type="html"><![CDATA[The Peekier search tool, once reviewed by The New Leaf Journal, is no more (or so the fact it redirects to Kagi suggests).
-Possibly related posts...
-
-Peekier Search Engine Review
-A 2021 List of Alternative Search Engines and Search…
-An In-Depth Look at Norton Safe Search
-Brave and DuckDuckGo Timer Search Shortcuts
-Review of Wutsearch, a Search Engine Launchpad
-Importance of Bing Indexing For Alt Search
-The Downstream Effects of Bing's Tiananmen Square Censorship
-Wallabag Custom Search Engine Shortcuts
-Adding custom search shortcut for Wayback Machine]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thunderbird Available as uBlock Origin Add-on]]></title>
-        <id>https://newleafannex.bearblog.dev/thunderbird-available-as-ubo-addon/</id>
-        <link href="https://newleafannex.bearblog.dev/thunderbird-available-as-ubo-addon/"/>
-        <updated>2023-05-02T19:18:10.544Z</updated>
-        <summary type="html"><![CDATA[As of uBlock Origin version 1.49.2, you can now install the extension for Mozilla Thunderbird (see release version). The extension page on Thunderbird Add-ons states that it works with Thunderbird version 91.0 and higher. I use uBlock Origin with Firefox and I also use Thunderbird as my desktop email client (see my article on using Thunderbird with DecSync). I installed uBlock Origin on Thunderbird and restored my settings from my set-up on Firefox. The installation and export worked perfectly, but the non-uBlock Origin filter lists that I have enabled did not update (I am not sure if that is a general issue, but not important in my case). Consider this a PSA for Thunderbird users. If you want an aesthetic Thunderbird set-up, see my short post on the Two Little Birds theme.]]></summary>
-        <author>
-            <name>The New Leaf Annex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110300669958511180</id>
-        <link href="https://linuxrocks.online/@nafnlj/110300669958511180"/>
-        <updated>2023-05-02T19:10:56.000Z</updated>
-        <summary type="html"><![CDATA[uBlock Origin is now available as a Thunderbird Add-on (as of version 1.49.2). I use Thunderbird, so I installed the Add-on and imported by uBO settings from my Firefox set-up. Everything worked but for one point -- the non-uBlock Origin blocklists are not updating for me in Thunderbird (not an issue for me, but worth noting -- have not looked into why yet).
-https://thenewleafjournal.com/leafbud/ublock-origin-available-for-thunderbird/
-#thunderbird #ublockorigin #extensions #addons #adblocking]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[uBlock Origin Available for Thunderbird]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19882</id>
-        <link href="https://thenewleafjournal.com/leafbud/ublock-origin-available-for-thunderbird/"/>
-        <updated>2023-05-02T19:08:43.000Z</updated>
-        <summary type="html"><![CDATA[As of uBlock Origin version 1.49.2, you can now install the extension for Mozilla Thunderbird (see release version). The extension page […]
-Possibly related posts...
-
-From AUR to Mainline Arch Thunderbird
-An In-Depth Look at Norton Safe Search
-DecSync Review
-Recommended F-Droid FOSS Apps For Android-Based Devices…
-Pokémon Cursor Theme For Linux and Windows
-Peekier Search Engine Review
-The al|together and Insani Visual Novel Translations
-A Look at ProxiTok, a TikTok Frontend
-Installing and Running Bodhi Linux on a 2007 MacBook]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My photo of a rose at New York City's Brooklyn Botanic Garden. I took this photo on March 27, 2007, with my Nikon D40 DLSR camera (an older one from the collection).
-
-Article:
-https://thenewleafjournal.com/rose-at-the-brooklyn-botanic-garden-2007/
-
-I did not understand the value of keeping my own data back in 2007 (I was in high school way back when). I uploaded those photos to Picasa (dating myself) and my only copies were on Google Photos (I remember when Picasa transmogrified). I did Google Takeout before I cleared my photo accounts, but my 2007 photos were low res. Fortunately, I have Upscayl as a free and open source solution for restoring my low-res Google'd photos to something resembling their former glory.
-
-#nyc #brooklyn #brooklynbotanicgarden #flowers #flower #rose #nikond40 #picasa #thenewleafjournal #newleafjournal]]></title>
-        <id>https://pixelfed.social/p/nafnlj/559030787841054944</id>
-        <link href="https://pixelfed.social/p/nafnlj/559030787841054944"/>
-        <updated>2023-05-02T15:08:46.000Z</updated>
-        <summary type="html"><![CDATA[My photo of a rose at New York City's Brooklyn Botanic Garden. I took this photo on March 27, 2007, with my Nikon D40 DLSR camera (an older one from the collection).<br />
-<br />
-Article:<br />
-<a href="https://thenewleafjournal.com/rose-at-the-brooklyn-botanic-garden-2007/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/rose-at-the-brooklyn-botanic-garden-2007/</a><br />
-<br />
-I did not understand the value of keeping my own data back in 2007 (I was in high school way back when). I uploaded those photos to Picasa (dating myself) and my only copies were on Google Photos (I remember when Picasa transmogrified). I did Google Takeout before I cleared my photo accounts, but my 2007 photos were low res. Fortunately, I have Upscayl as a free and open source solution for restoring my low-res Google'd photos to something resembling their former glory.<br />
-<br />
-<a href="https://pixelfed.social/discover/tags/nyc?src=hash" title="#nyc" class="u-url hashtag" rel="external nofollow noopener">#nyc</a> <a href="https://pixelfed.social/discover/tags/brooklyn?src=hash" title="#brooklyn" class="u-url hashtag" rel="external nofollow noopener">#brooklyn</a> <a href="https://pixelfed.social/discover/tags/brooklynbotanicgarden?src=hash" title="#brooklynbotanicgarden" class="u-url hashtag" rel="external nofollow noopener">#brooklynbotanicgarden</a> <a href="https://pixelfed.social/discover/tags/flowers?src=hash" title="#flowers" class="u-url hashtag" rel="external nofollow noopener">#flowers</a> <a href="https://pixelfed.social/discover/tags/flower?src=hash" title="#flower" class="u-url hashtag" rel="external nofollow noopener">#flower</a> <a href="https://pixelfed.social/discover/tags/rose?src=hash" title="#rose" class="u-url hashtag" rel="external nofollow noopener">#rose</a> <a href="https://pixelfed.social/discover/tags/nikond40?src=hash" title="#nikond40" class="u-url hashtag" rel="external nofollow noopener">#nikond40</a> <a href="https://pixelfed.social/discover/tags/picasa?src=hash" title="#picasa" class="u-url hashtag" rel="external nofollow noopener">#picasa</a> <a href="https://pixelfed.social/discover/tags/thenewleafjournal?src=hash" title="#thenewleafjournal" class="u-url hashtag" rel="external nofollow noopener">#thenewleafjournal</a> <a href="https://pixelfed.social/discover/tags/newleafjournal?src=hash" title="#newleafjournal" class="u-url hashtag" rel="external nofollow noopener">#newleafjournal</a>]]></summary>
-        <author>
-            <name>nafnlj on Pixelfed</name>
         </author>
     </entry>
 </feed>

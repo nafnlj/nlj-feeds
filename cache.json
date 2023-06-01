@@ -6,6 +6,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20303",
+          "author": "Nicholas A. Ferrell",
+          "description": "Recapping the fourth May at The New Leaf Journal.\nPossibly related posts...\n\nThe New Leaf Journal Celebrates Its First Birthday\nAt Summer's End - Visual Novel Review\nNew Leaf Journal Third Birthday Reader\nVisual Novel Review: Bad End\nThe Small Web, Artisanal Content, and Humane Design\nThe Newsletter Leaf Journal at 100\nWorking to Save The Bitter End\nFlood of Tears - Visual Novel Review\nThe al|together and Insani Visual Novel Translations",
+          "link": "https://thenewleafjournal.com/may-2023-at-the-new-leaf-journal/",
+          "publishedOn": "2023-06-01T03:27:06.000Z",
+          "wordCount": 3359,
+          "title": "May 2023 at The New Leaf Journal",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20260",
           "author": "Nicholas A. Ferrell",
           "description": "I review I, Too, Saw Dreams Through Air, a visual novel which offers two dream-like visual novels for the (free) price of one.\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nThe Poetry of Charlotte Becker - Early Twentieth Century…\nAll About the Saw-whet Owl\nThe Nice Boat 〜 A Look Back at the School Days Anime\nBird in Review 〜 Yellow Throated Toucan\n\"Casey's Revenge\" - Grantland Rice's 1896 Reply Poem to…\nSearching for School Days' Nice Boat\nCalvin Coolidge's 1922 \"Better Homes\" Remarks\nExcerpts From \"A Weaver's Reverie\"",
@@ -154,16 +164,6 @@
           "wordCount": 1604,
           "title": "Two ducks in a drizzle at the BBG (2007)",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/05/bbg-ducks-07.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=19884",
-          "author": "Nicholas A. Ferrell",
-          "description": "The Peekier search tool, once reviewed by The New Leaf Journal, is no more (or so the fact it redirects to Kagi suggests).\nPossibly related posts...\n\nPeekier Search Engine Review\nA 2021 List of Alternative Search Engines and Search…\nAn In-Depth Look at Norton Safe Search\nBrave and DuckDuckGo Timer Search Shortcuts\nReview of Wutsearch, a Search Engine Launchpad\nImportance of Bing Indexing For Alt Search\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nWallabag Custom Search Engine Shortcuts\nAdding custom search shortcut for Wayback Machine",
-          "link": "https://thenewleafjournal.com/peekier-redirects-to-kagi-search/",
-          "publishedOn": "2023-05-02T22:08:09.000Z",
-          "wordCount": 2739,
-          "title": "Peekier redirects to Kagi Search",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/05/nlj-peekier-link-hover.jpg"
         }
       ]
     },
@@ -408,16 +408,6 @@
           "wordCount": 1365,
           "title": "Links to English Ubunchu manga chapters",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=19882",
-          "author": "Nicholas A. Ferrell",
-          "description": "As of uBlock Origin version 1.49.2, you can now install the extension for Mozilla Thunderbird (see release version). The extension page […]\nPossibly related posts...\n\nFrom AUR to Mainline Arch Thunderbird\nAn In-Depth Look at Norton Safe Search\nDecSync Review\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nPokémon Cursor Theme For Linux and Windows\nPeekier Search Engine Review\nThe al|together and Insani Visual Novel Translations\nA Look at ProxiTok, a TikTok Frontend\nInstalling and Running Bodhi Linux on a 2007 MacBook",
-          "link": "https://thenewleafjournal.com/leafbud/ublock-origin-available-for-thunderbird/",
-          "publishedOn": "2023-05-02T19:08:43.000Z",
-          "wordCount": 1385,
-          "title": "uBlock Origin Available for Thunderbird",
-          "imageUrl": null
         }
       ]
     },
@@ -529,16 +519,6 @@
           "wordCount": 588,
           "title": "The end of Peekier Search",
           "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
-        },
-        {
-          "id": "https://newleafannex.bearblog.dev/thunderbird-available-as-ubo-addon/",
-          "author": null,
-          "description": "As of uBlock Origin version 1.49.2, you can now install the extension for Mozilla Thunderbird (see release version). The extension page on Thunderbird Add-ons states that it works with Thunderbird version 91.0 and higher. I use uBlock Origin with Firefox and I also use Thunderbird as my desktop email client (see my article on using Thunderbird with DecSync). I installed uBlock Origin on Thunderbird and restored my settings from my set-up on Firefox. The installation and export worked perfectly, but the non-uBlock Origin filter lists that I have enabled did not update (I am not sure if that is a general issue, but not important in my case). Consider this a PSA for Thunderbird users. If you want an aesthetic Thunderbird set-up, see my short post on the Two Little Birds theme.",
-          "link": "https://newleafannex.bearblog.dev/thunderbird-available-as-ubo-addon/",
-          "publishedOn": "2023-05-02T19:18:10.544Z",
-          "wordCount": 547,
-          "title": "Thunderbird Available as uBlock Origin Add-on",
-          "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
         }
       ]
     },
@@ -555,16 +535,6 @@
           "publishedOn": "2023-05-07T14:49:43.000Z",
           "wordCount": null,
           "title": "Another photo from my spring 2007 set -- two ducks standing in the drizzle at New York City's Brooklyn Botanic Garden.\n\nArticle:\nhttps://thenewleafjournal.com/two-ducks-in-a-drizzle-at-the-bbg-2007/\n\n#nyc #brooklyn #brooklynbotanicgarden #brooklynbotanicgardens #bbg #birds #duck #ducks #pond #rain #raindrops #nikond40 #thenewleafjournal #newleafjournal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pixelfed.social/p/nafnlj/559030787841054944",
-          "author": null,
-          "description": "My photo of a rose at New York City's Brooklyn Botanic Garden. I took this photo on March 27, 2007, with my Nikon D40 DLSR camera (an older one from the collection).<br />\n<br />\nArticle:<br />\n<a href=\"https://thenewleafjournal.com/rose-at-the-brooklyn-botanic-garden-2007/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/rose-at-the-brooklyn-botanic-garden-2007/</a><br />\n<br />\nI did not understand the value of keeping my own data back in 2007 (I was in high school way back when). I uploaded those photos to Picasa (dating myself) and my only copies were on Google Photos (I remember when Picasa transmogrified). I did Google Takeout before I cleared my photo accounts, but my 2007 photos were low res. Fortunately, I have Upscayl as a free and open source solution for restoring my low-res Google'd photos to something resembling their former glory.<br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/nyc?src=hash\" title=\"#nyc\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#nyc</a> <a href=\"https://pixelfed.social/discover/tags/brooklyn?src=hash\" title=\"#brooklyn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklyn</a> <a href=\"https://pixelfed.social/discover/tags/brooklynbotanicgarden?src=hash\" title=\"#brooklynbotanicgarden\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklynbotanicgarden</a> <a href=\"https://pixelfed.social/discover/tags/flowers?src=hash\" title=\"#flowers\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#flowers</a> <a href=\"https://pixelfed.social/discover/tags/flower?src=hash\" title=\"#flower\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#flower</a> <a href=\"https://pixelfed.social/discover/tags/rose?src=hash\" title=\"#rose\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#rose</a> <a href=\"https://pixelfed.social/discover/tags/nikond40?src=hash\" title=\"#nikond40\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#nikond40</a> <a href=\"https://pixelfed.social/discover/tags/picasa?src=hash\" title=\"#picasa\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#picasa</a> <a href=\"https://pixelfed.social/discover/tags/thenewleafjournal?src=hash\" title=\"#thenewleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#thenewleafjournal</a> <a href=\"https://pixelfed.social/discover/tags/newleafjournal?src=hash\" title=\"#newleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#newleafjournal</a>",
-          "link": "https://pixelfed.social/p/nafnlj/559030787841054944",
-          "publishedOn": "2023-05-02T15:08:46.000Z",
-          "wordCount": null,
-          "title": "My photo of a rose at New York City's Brooklyn Botanic Garden. I took this photo on March 27, 2007, with my Nikon D40 DLSR camera (an older one from the collection).\n\nArticle:\nhttps://thenewleafjournal.com/rose-at-the-brooklyn-botanic-garden-2007/\n\nI did not understand the value of keeping my own data back in 2007 (I was in high school way back when). I uploaded those photos to Picasa (dating myself) and my only copies were on Google Photos (I remember when Picasa transmogrified). I did Google Takeout before I cleared my photo accounts, but my 2007 photos were low res. Fortunately, I have Upscayl as a free and open source solution for restoring my low-res Google'd photos to something resembling their former glory.\n\n#nyc #brooklyn #brooklynbotanicgarden #flowers #flower #rose #nikond40 #picasa #thenewleafjournal #newleafjournal",
           "imageUrl": null
         }
       ]
@@ -721,16 +691,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110305359179089333",
           "publishedOn": "2023-05-03T15:03:28.000Z",
           "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110300669958511180",
-          "author": null,
-          "description": "uBlock Origin is now available as a Thunderbird Add-on (as of version 1.49.2). I use Thunderbird, so I installed the Add-on and imported by uBO settings from my Firefox set-up. Everything worked but for one point -- the non-uBlock Origin blocklists are not updating for me in Thunderbird (not an issue for me, but worth noting -- have not looked into why yet).\nhttps://thenewleafjournal.com/leafbud/ublock-origin-available-for-thunderbird/\n#thunderbird #ublockorigin #extensions #addons #adblocking",
-          "link": "https://linuxrocks.online/@nafnlj/110300669958511180",
-          "publishedOn": "2023-05-02T19:10:56.000Z",
-          "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
         }
