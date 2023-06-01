@@ -535,6 +535,16 @@
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
         {
+          "id": "https://linuxrocks.online/@nafnlj/110470629518867718",
+          "author": null,
+          "description": "Reviewing the month that was at The New Leaf Journal in May 2023.\nhttps://thenewleafjournal.com/may-2023-at-the-new-leaf-journal/\n#blogging #writing",
+          "link": "https://linuxrocks.online/@nafnlj/110470629518867718",
+          "publishedOn": "2023-06-01T19:33:53.000Z",
+          "wordCount": 121,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxrocks.online/@nafnlj/110464094611248288",
           "author": null,
           "description": "My review if Crimsoness, the official 2008 translation of a 2006 Japanese visual novel called Shakunetsu Hime. In Crimsoness, the player takes the role of Bakumi Moriyama, a schoolgirl who upon realizing that all of her answers on an exam were off by one, sets out to destroy the entire planet in 3 minutes.  The 3 minutes is literal here -- the novel is timed.  Crimsoness is, dare I say, literally an Earth-splitting adventure.\n(It was also looks like it was drawn in Microsoft Paint.)\nCrimsoness is free to download for Windows (the Japanese original also remains available to download). Unlike most novels I am reviewing, it was not written in ONScripter (Delphi, in this case), but the Windows version runs perfectly fine on top of WINE on Linux with no special configuration.\nhttps://thenewleafjournal.com/crimsoness-visual-novel-review/\n#visualnovel #videogames #red",
