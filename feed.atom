@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-02T13:20:38.772Z</updated>
+    <updated>2023-06-02T18:18:05.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On Android-to-iOS anecdotes]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20310</id>
+        <link href="https://thenewleafjournal.com/leafbud/on-android-to-ios-anecdotes/"/>
+        <updated>2023-06-02T17:34:37.000Z</updated>
+        <summary type="html"><![CDATA[I read a Hacker News thread on a story about Android users moving to iOS. The thread revealed many takes, albeit […]
+Possibly related posts...
+
+What is an "Android Alternative"?
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+Review of /e/ - An Android Alternative For Mobile Phones
+DecSync Review
+Transferring Photos From My BlackBerry Classic Using KDE…
+Justin and Justina review 2022 at the NLJ
+New Leaf Journal Third Birthday Reader
+Streaming from Android to PocketBook
+Installing GrapheneOS on a Google Pixel 6a]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Murena Teracube 2e to Pixel 3a XL with LineageOS]]></title>
+        <id>https://thenewleafjournal.com/?p=20314</id>
+        <link href="https://thenewleafjournal.com/from-murena-teracube-2e-to-pixel-3a-xl-with-lineageos/"/>
+        <updated>2023-06-02T17:29:27.000Z</updated>
+        <summary type="html"><![CDATA[The story of how I switched from my Murena Teracube 2e phone to a Google Pixel 3a XL running LineageOS without having planned to do so.
+Possibly related posts...
+
+Review of the Teracube 2e Smartphone
+Installing GrapheneOS on a Google Pixel 6a
+Review of /e/ - An Android Alternative For Mobile Phones
+Installing LineageOS on a 2013 Nexus 7 (Wi-Fi)
+Updating 2020 Murena Teracube 2e
+Transferring Photos From My BlackBerry Classic Using KDE…
+What is an "Android Alternative"?
+Justin and Justina review 2022 at the NLJ
+New Leaf Journal Third Birthday Reader]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110470629518867718</id>
