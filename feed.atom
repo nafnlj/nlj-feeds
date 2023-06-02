@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-02T18:18:05.540Z</updated>
+    <updated>2023-06-02T23:15:29.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1230,27 +1230,6 @@ https://thenewleafjournal.com/duck-and-duckling-rescue-stories-from-around-the-w
 #duck #birds #firefighters #police #stormdrain]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ulauncher stops launching for me]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19920</id>
-        <link href="https://thenewleafjournal.com/leaf/ulauncher-stops-launching-for-me/"/>
-        <updated>2023-05-04T11:00:33.000Z</updated>
-        <summary type="html"><![CDATA[I run the EndeavourOS operating system with the XFCE desktop environment on my main desktop. After discovering Ulauncher while installing Bodhi […]
-Possibly related posts...
-
-Reviewing the Ulauncher Markdown Table Creator
-Installing and Running Bodhi Linux on a 2007 MacBook
-MIDI sound for games on Arch-based distro
-The Newsletter Leaf Journal at 100
-Running ONScripter-En in Linux Visual Novel Directory
-1897 Magazine Offer - Pocket Kodak and Kodak No. 4 Bulls-Eye…
-Old Games, MIDI, and EndeavourOS
-From mullvad-vpn-cli to mullvad-vpn-bin
-Teaching the Art of the Video Game Snafu]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
