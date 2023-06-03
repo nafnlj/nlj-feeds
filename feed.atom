@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-02T23:15:29.333Z</updated>
+    <updated>2023-06-03T13:16:29.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1218,18 +1218,6 @@ NLJ Recommendations From Around the Web IV
 The Best of Anime in 2022: Year in Review]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110311176747089855</id>
-        <link href="https://linuxrocks.online/@nafnlj/110311176747089855"/>
-        <updated>2023-05-04T15:42:57.000Z</updated>
-        <summary type="html"><![CDATA[A collection of 2021 duck and duckling rescue stories from around the web (storm drains appear to be a great struggle for ducklings).
-https://thenewleafjournal.com/duck-and-duckling-rescue-stories-from-around-the-web/
-#duck #birds #firefighters #police #stormdrain]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
