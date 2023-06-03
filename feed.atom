@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-03T18:16:58.041Z</updated>
+    <updated>2023-06-03T23:14:04.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Radicale-DecSync AUR issues]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20330</id>
+        <link href="https://thenewleafjournal.com/leaf/radicale-decsync-aur-issues/"/>
+        <updated>2023-06-03T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I wrote a review of DecSync on March 30. DecSync allows for syncing contacts, calendars, tasks, and even RSS feeds across […]
+Possibly related posts...
+
+DecSync Review
+Running Linux Visual Novels With ONScripter
+From AUR to Mainline Arch Thunderbird
+Using an Amiga OS-Inspired Window Theme In XFCE With XFWM4
+Nice Boat in the Arch User Repository
+"Just keep tapping the Enter key"
+From mullvad-vpn-cli to mullvad-vpn-bin
+Issue upgrading onscripter on EndeavourOS
+The Newsletter Leaf Journal at 100]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXXXVIII 〜 The caged newsletter 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/138/</id>
