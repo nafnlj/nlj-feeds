@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-04T13:15:53.810Z</updated>
+    <updated>2023-06-04T18:17:32.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PSA on Bromite and /e/ OS’s Browser]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20334</id>
+        <link href="https://thenewleafjournal.com/leaf/psa-on-bromite-and-murena-browser/"/>
+        <updated>2023-06-04T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Bromite is a free and open source hardened fork of Ungoogled Chromium for Android. I have recommended it in the past […]
+Possibly related posts...
+
+A Harmless Date Error in the Bromite Repository
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+Review of /e/ - An Android Alternative For Mobile Phones
+Installing LineageOS on a 2013 Nexus 7 (Wi-Fi)
+Installing and Running Bodhi Linux on a 2007 MacBook
+Adding custom search shortcut for Wayback Machine
+Fixing Wallabag connect issue on Nexus 7
+Peekier Search Engine Review
+The Enigmatic Life and Death of Emperor Otho]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Radicale-DecSync AUR issues]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20330</id>
