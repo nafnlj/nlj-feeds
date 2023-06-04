@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-03T23:14:04.786Z</updated>
+    <updated>2023-06-04T13:15:53.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1248,39 +1248,6 @@ Leaves from the week that was
 I publish…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110316824472149013</id>
-        <link href="https://linuxrocks.online/@nafnlj/110316824472149013"/>
-        <updated>2023-05-05T15:39:14.000Z</updated>
-        <summary type="html"><![CDATA[I reviewed a niche search tool called Peekier in February 2022. Peekier, like many "alternative" search, was mostly a Bing front-end. However, it came with a strong, straightforward privacy policy (albeit with a bit of Cloudflare required .js to run) and a unique way of presenting search results as preview thumbnails.  However, I discovered the other day that Peekier is no more -- its URL redirects to Kagi Search as of late February.  I took a look at the demise of Peekier.
-https://thenewleafjournal.com/peekier-redirects-to-kagi-search/
-#search #searchengine #peekier #kagi #bing]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webster’s Second and Danganronpa 3]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=19929</id>
-        <link href="https://thenewleafjournal.com/leaf/websters-second-and-danganronpa-3/"/>
-        <updated>2023-05-05T12:00:13.000Z</updated>
-        <summary type="html"><![CDATA[My good friend and New Leaf Journal colleague, Victor V. Gurbo, came to visit today. We are slowly playing through Danganronpa […]
-Possibly related posts...
-
-Nineteenth Century Autumn Dress Trends
-The Enigmatic Life and Death of Emperor Otho
-A Turnip-Shaped Study of the Word "Napiform"
-Whyever Do The Cicadas Cry - A Study of a Word
-New Leaf Spring Content, New and Old
-Bird in Review 〜 Australian Grass Parakeet
-Anime Recommendations of the Decade (2011-20)
-NLJ Recommendations From Around the Web IV
-The Best of Anime in 2022: Year in Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
