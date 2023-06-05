@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-05T13:18:22.915Z</updated>
+    <updated>2023-06-05T18:18:04.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Similarities between Moldovan and Romanian]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20339</id>
+        <link href="https://thenewleafjournal.com/leafbud/similarities-between-moldovan-and-romanian/"/>
+        <updated>2023-06-05T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[On March 16, the Library of Congress’ Global Legal Monitor published a report on Moldova changing its official state language from […]
+Possibly related posts...
+
+John Thomas James' Account of a Cemetery at Tchernigoff in…
+Uzbek President Mirziyoyev's War and Peace of the Union
+Kazakhstan's Constitutional Reform
+Justin and Justina review 2022 at the NLJ
+Flood of Tears - Visual Novel Review
+The Enigmatic Life and Death of Emperor Otho
+Substack Notes' Twitter clone war
+Return to Shironagasu Island Review
+Anime Recommendations of the Decade (2011-20)]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reviewing Keikai Launcher (Android)]]></title>
         <id>https://thenewleafjournal.com/?p=20341</id>
