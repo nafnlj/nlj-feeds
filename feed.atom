@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-04T23:14:39.460Z</updated>
+    <updated>2023-06-05T13:18:22.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reviewing Keikai Launcher (Android)]]></title>
+        <id>https://thenewleafjournal.com/?p=20341</id>
+        <link href="https://thenewleafjournal.com/reviewing-keikai-launcher-android/"/>
+        <updated>2023-06-05T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A full review of a lightweight, minimal, open source launcher and app drawer for Android (LineageOS in my case).
+Possibly related posts...
+
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+Review of /e/ - An Android Alternative For Mobile Phones
+What is an "Android Alternative"?
+On DRM-Free Games on Steam
+Installing Ubuntu Touch on a Google Nexus 7 (2013)
+Reviewing "Calculator the Game" - A FOSS PWA Math Game For…
+Installing LineageOS on a 2013 Nexus 7 (Wi-Fi)
+Transferring Photos From My BlackBerry Classic Using KDE…
+Installing GrapheneOS on a Google Pixel 6a]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PSA on Bromite and /e/ OS’s Browser]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20334</id>
@@ -1215,60 +1236,6 @@ Article:<br />
 <a href="https://pixelfed.social/discover/tags/nyc?src=hash" title="#nyc" class="u-url hashtag" rel="external nofollow noopener">#nyc</a> <a href="https://pixelfed.social/discover/tags/brooklyn?src=hash" title="#brooklyn" class="u-url hashtag" rel="external nofollow noopener">#brooklyn</a> <a href="https://pixelfed.social/discover/tags/brooklynbotanicgarden?src=hash" title="#brooklynbotanicgarden" class="u-url hashtag" rel="external nofollow noopener">#brooklynbotanicgarden</a> <a href="https://pixelfed.social/discover/tags/brooklynbotanicgardens?src=hash" title="#brooklynbotanicgardens" class="u-url hashtag" rel="external nofollow noopener">#brooklynbotanicgardens</a> <a href="https://pixelfed.social/discover/tags/bbg?src=hash" title="#bbg" class="u-url hashtag" rel="external nofollow noopener">#bbg</a> <a href="https://pixelfed.social/discover/tags/birds?src=hash" title="#birds" class="u-url hashtag" rel="external nofollow noopener">#birds</a> <a href="https://pixelfed.social/discover/tags/duck?src=hash" title="#duck" class="u-url hashtag" rel="external nofollow noopener">#duck</a> <a href="https://pixelfed.social/discover/tags/ducks?src=hash" title="#ducks" class="u-url hashtag" rel="external nofollow noopener">#ducks</a> <a href="https://pixelfed.social/discover/tags/pond?src=hash" title="#pond" class="u-url hashtag" rel="external nofollow noopener">#pond</a> <a href="https://pixelfed.social/discover/tags/rain?src=hash" title="#rain" class="u-url hashtag" rel="external nofollow noopener">#rain</a> <a href="https://pixelfed.social/discover/tags/raindrops?src=hash" title="#raindrops" class="u-url hashtag" rel="external nofollow noopener">#raindrops</a> <a href="https://pixelfed.social/discover/tags/nikond40?src=hash" title="#nikond40" class="u-url hashtag" rel="external nofollow noopener">#nikond40</a> <a href="https://pixelfed.social/discover/tags/thenewleafjournal?src=hash" title="#thenewleafjournal" class="u-url hashtag" rel="external nofollow noopener">#thenewleafjournal</a> <a href="https://pixelfed.social/discover/tags/newleafjournal?src=hash" title="#newleafjournal" class="u-url hashtag" rel="external nofollow noopener">#newleafjournal</a>]]></summary>
         <author>
             <name>nafnlj on Pixelfed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110322752018375744</id>
-        <link href="https://linuxrocks.online/@nafnlj/110322752018375744"/>
-        <updated>2023-05-06T16:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Published three years to the day -- my NLJ colleague, Victor V. Gurbo, wrote about the history of Love Henry, a classic folk ballad. In addition to writing about the history, he included a link to his Love Henry rendition with fellow Brooklyn NYC musician, Mark Caserta.
-https://thenewleafjournal.com/the-quarantine-sessions-love-henry/
-#music #folkmusic #lovehenry #bobdylan #history]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two ducks in a drizzle at the BBG (2007)]]></title>
-        <id>https://thenewleafjournal.com/?p=19941</id>
-        <link href="https://thenewleafjournal.com/two-ducks-in-a-drizzle-at-the-bbg-2007/"/>
-        <updated>2023-05-06T16:36:36.000Z</updated>
-        <summary type="html"><![CDATA[My 2007 photograph of two ducks in a drizzle at the Brooklyn Botanic Garden.
-Possibly related posts...
-
-Bird in Review 〜 Mandarin Duck
-Duck and Duckling Rescue Stories From Around the Web
-Justin and Justina review 2022 at the NLJ
-The NYPD's Duck Family Rescue in Midtown Manhattan
-Installing and Running Bodhi Linux on a 2007 MacBook
-Rose at the Brooklyn Botanic Garden (2007)
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-The New Leaf Journal Celebrates Its First Birthday
-The Poetry of Charlotte Becker - Early Twentieth Century…]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXXIV 〜 Newsletter gauntlet 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/134/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/134/"/>
-        <updated>2023-05-06T16:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 134th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.
-I hoped to welcome May with style, but I have been a bit busy this week with work-work and behind-the-scenes New Leaf Journal work. But I do have some interesting articles, links from around the web, and news and notes to share in this week’s edition of your favorite (I hope…) weekly newsletter.
-Table of contents
-Leaves from the week that was
-Leaves from around the web
-The Old Leaf Journal
-Most-turned leaves of the newsletter week
-News leaf journal
-Notable leaf journal
-Taking leaf
-Leaves from the week that was
-I publish…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>

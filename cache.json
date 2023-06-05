@@ -6,6 +6,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20341",
+          "author": "Nicholas A. Ferrell",
+          "description": "A full review of a lightweight, minimal, open source launcher and app drawer for Android (LineageOS in my case).\nPossibly related posts...\n\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nReview of /e/ - An Android Alternative For Mobile Phones\nWhat is an \"Android Alternative\"?\nOn DRM-Free Games on Steam\nInstalling Ubuntu Touch on a Google Nexus 7 (2013)\nReviewing \"Calculator the Game\" - A FOSS PWA Math Game For…\nInstalling LineageOS on a 2013 Nexus 7 (Wi-Fi)\nTransferring Photos From My BlackBerry Classic Using KDE…\nInstalling GrapheneOS on a Google Pixel 6a",
+          "link": "https://thenewleafjournal.com/reviewing-keikai-launcher-android/",
+          "publishedOn": "2023-06-05T12:45:00.000Z",
+          "wordCount": 2713,
+          "title": "Reviewing Keikai Launcher (Android)",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/06/keikai-droid-ify-logo.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20314",
           "author": "Nicholas A. Ferrell",
           "description": "The story of how I switched from my Murena Teracube 2e phone to a Google Pixel 3a XL running LineageOS without having planned to do so.\nPossibly related posts...\n\nReview of the Teracube 2e Smartphone\nInstalling GrapheneOS on a Google Pixel 6a\nReview of /e/ - An Android Alternative For Mobile Phones\nInstalling LineageOS on a 2013 Nexus 7 (Wi-Fi)\nUpdating 2020 Murena Teracube 2e\nTransferring Photos From My BlackBerry Classic Using KDE…\nWhat is an \"Android Alternative\"?\nJustin and Justina review 2022 at the NLJ\nNew Leaf Journal Third Birthday Reader",
@@ -164,16 +174,6 @@
           "wordCount": 2206,
           "title": "The NCCIH’s AI-like melatonin-COVID note",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=19941",
-          "author": "Nicholas A. Ferrell",
-          "description": "My 2007 photograph of two ducks in a drizzle at the Brooklyn Botanic Garden.\nPossibly related posts...\n\nBird in Review 〜 Mandarin Duck\nDuck and Duckling Rescue Stories From Around the Web\nJustin and Justina review 2022 at the NLJ\nThe NYPD's Duck Family Rescue in Midtown Manhattan\nInstalling and Running Bodhi Linux on a 2007 MacBook\nRose at the Brooklyn Botanic Garden (2007)\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nThe New Leaf Journal Celebrates Its First Birthday\nThe Poetry of Charlotte Becker - Early Twentieth Century…",
-          "link": "https://thenewleafjournal.com/two-ducks-in-a-drizzle-at-the-bbg-2007/",
-          "publishedOn": "2023-05-06T16:36:36.000Z",
-          "wordCount": 1604,
-          "title": "Two ducks in a drizzle at the BBG (2007)",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/05/bbg-ducks-07.jpg"
         }
       ]
     },
@@ -512,16 +512,6 @@
           "wordCount": 2161,
           "title": "Newsletter Leaf Journal CXXXV 〜 Carnation newsletter 〜",
           "imageUrl": "https://buttondown.imgix.net/images/851ed07f-e839-4736-aaf0-9cc958f48394.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/134/",
-          "author": null,
-          "description": "Welcome to the 134th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.\nI hoped to welcome May with style, but I have been a bit busy this week with work-work and behind-the-scenes New Leaf Journal work. But I do have some interesting articles, links from around the web, and news and notes to share in this week’s edition of your favorite (I hope…) weekly newsletter.\nTable of contents\nLeaves from the week that was\nLeaves from around the web\nThe Old Leaf Journal\nMost-turned leaves of the newsletter week\nNews leaf journal\nNotable leaf journal\nTaking leaf\nLeaves from the week that was\nI publish…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/134/",
-          "publishedOn": "2023-05-06T16:20:56.000Z",
-          "wordCount": 2654,
-          "title": "Newsletter Leaf Journal CXXXIV 〜 Newsletter gauntlet 〜",
-          "imageUrl": "https://buttondown.imgix.net/images/db8ed510-5a1d-4931-970e-61464a40dc27.png"
         }
       ]
     },
@@ -681,16 +671,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110362081179017577",
           "publishedOn": "2023-05-13T15:28:37.000Z",
           "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110322752018375744",
-          "author": null,
-          "description": "Published three years to the day -- my NLJ colleague, Victor V. Gurbo, wrote about the history of Love Henry, a classic folk ballad. In addition to writing about the history, he included a link to his Love Henry rendition with fellow Brooklyn NYC musician, Mark Caserta.\nhttps://thenewleafjournal.com/the-quarantine-sessions-love-henry/\n#music #folkmusic #lovehenry #bobdylan #history",
-          "link": "https://linuxrocks.online/@nafnlj/110322752018375744",
-          "publishedOn": "2023-05-06T16:46:41.000Z",
-          "wordCount": 121,
           "title": "Untitled",
           "imageUrl": null
         }
