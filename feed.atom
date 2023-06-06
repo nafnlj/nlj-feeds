@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-06T13:18:16.080Z</updated>
+    <updated>2023-06-06T18:18:20.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Baseball, home runs, and temperatures]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20357</id>
+        <link href="https://thenewleafjournal.com/leafbud/baseball-homeruns-and-temperatures/"/>
+        <updated>2023-06-06T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[I present the first sentence of an April 7, 2023 Associated Press report: Climate change is making major league sluggers into […]
+Possibly related posts...
+
+The Story of Billy Possum, President Hoover's Pet Opossum
+The modest virtues of self-awe
+"Casey's Revenge" - Grantland Rice's 1896 Reply Poem to…
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Calvin Coolidge's 1922 "Better Homes" Remarks
+Justin & Justina 〜 The Pitching Injury
+Justin and Justina review 2022 at the NLJ
+Herbert Hoover's Better Homes Remarks: "The Home as an…
+Hot Coffee on Summer Walks]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Similarities between Moldovan and Romanian]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20339</id>
