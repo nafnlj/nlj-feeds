@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-07T13:20:26.062Z</updated>
+    <updated>2023-06-07T18:19:18.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110504058302120030</id>
+        <link href="https://linuxrocks.online/@nafnlj/110504058302120030"/>
+        <updated>2023-06-07T17:15:16.000Z</updated>
+        <summary type="html"><![CDATA[It's a bit smoky in Brooklyn, New York today.  But on the bright side, the Moon was an interesting shade of red last night.  Tsuki ga kirei desu ne indeed...
+https://thenewleafjournal.com/the-mystery-of-soseki-and-tsuki-ga-kirei/
+(How could I pass up a natural opportunity to share my history of the phrase tsuki ga kirei?)
+#nyc #haze #moon #history #japan]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS as a social media alternative]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20359</id>
+        <link href="https://thenewleafjournal.com/leafbud/rss-as-a-social-media-alternative/"/>
+        <updated>2023-06-07T15:17:43.000Z</updated>
+        <summary type="html"><![CDATA[I quote from an interesting March 9, 2023 post on Privacy Dad’s Blog titled Control Your Own Content with RSS and […]
+Possibly related posts...
+
+ATW 〜 Murakami on Bad Social Media Content
+Fediverse Clone Wars and Decentralized Social Media
+An Introduction to RSS and Other Feed Formats
+Feeds and Read-It-Later for Online Reading
+The Enigmatic Life and Death of Emperor Otho
+Substack Notes' Twitter clone war
+Social webs of personal websites
+An Early Review of Pixelfed - Instagram Alternative
+Against Twitter as a Content Curator]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Baseball, home runs, and temperatures]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20357</id>
