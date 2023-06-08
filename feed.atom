@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-07T23:15:14.762Z</updated>
+    <updated>2023-06-08T13:19:30.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110505668728369977</id>
+        <link href="https://linuxrocks.online/@nafnlj/110505668728369977"/>
+        <updated>2023-06-08T00:04:49.000Z</updated>
+        <summary type="html"><![CDATA[I decided to test Nostr after coming across an easy-to-use WordPress plugin for using my site as a NIP-05 identifier (short write-up forthcoming). Then came across @melvincarvalho 's Nostr directory. Managed to sign my Twitter and Mastodon with my key. I'll figure out GitHub next. Pretty neat.
+https://nostr.directory/p/newleafjournal
+#nostr #mastodon #twitter #wordpress]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110504058302120030</id>
@@ -1229,27 +1241,6 @@ Against Chinese Government Propaganda]]></summary>
         <updated>2023-05-10T04:00:33.000Z</updated>
         <author>
             <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WP ACF Vulnerability Patched]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=19985</id>
-        <link href="https://thenewleafjournal.com/leafbud/wp-acf-vulnerability-patched/"/>
-        <updated>2023-05-09T11:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Advanced Custom Fields is one of the most-used WordPress plugins. It has security vulnerabilities from time to time like many other […]
-Possibly related posts...
-
-Wallabag Custom Search Engine Shortcuts
-Brave and DuckDuckGo Timer Search Shortcuts
-An In-Depth Look at Norton Safe Search
-Fixing a WP Custom Post Type Permalink Error
-EnBizCard Review - FOSS Digital Business Cards
-Adding custom search shortcut for Wayback Machine
-Custom Search Shortcut For Norton Safe Web
-A Look at ProxiTok, a TikTok Frontend
-Naver Webmaster Trials and Tribulations]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
