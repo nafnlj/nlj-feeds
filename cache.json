@@ -550,6 +550,16 @@
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
         {
+          "id": "https://linuxrocks.online/@nafnlj/110509551049332696",
+          "author": null,
+          "description": "I can see the strange Brooklyn NY haze from my window as I enjoy my coffee. The scene makes me sentimental (or sedimental) for one of my favorite video games -- a game which combined a foreboding fog with at least one touching family scene involving coffee.  I once wrote about this special scene and giving coffee to children on school nights.\nhttps://thenewleafjournal.com/persona-4-coffee-and-children/\n#videogames #persona4 #coffee #nyc #haze",
+          "link": "https://linuxrocks.online/@nafnlj/110509551049332696",
+          "publishedOn": "2023-06-08T16:32:08.000Z",
+          "wordCount": 122,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxrocks.online/@nafnlj/110505668728369977",
           "author": null,
           "description": "I decided to test Nostr after coming across an easy-to-use WordPress plugin for using my site as a NIP-05 identifier (short write-up forthcoming). Then came across @melvincarvalho 's Nostr directory. Managed to sign my Twitter and Mastodon with my key. I'll figure out GitHub next. Pretty neat.\nhttps://nostr.directory/p/newleafjournal\n#nostr #mastodon #twitter #wordpress",
@@ -728,16 +738,6 @@
           "description": "",
           "link": "https://www.youtube.com/watch?v=gSB1bdig6PE",
           "publishedOn": "2023-05-14T03:07:24.000Z",
-          "wordCount": null,
-          "title": "Victor V. Gurbo & Co. \"The Bartender Has Been Drinking\" Live at the Lustre Pearl Rainey (4/16/22)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aWZa0BE1fQU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aWZa0BE1fQU",
-          "publishedOn": "2023-05-10T04:00:33.000Z",
           "wordCount": null,
           "title": "Victor V. Gurbo & Co. \"The Bartender Has Been Drinking\" Live at the Lustre Pearl Rainey (4/16/22)",
           "imageUrl": null
