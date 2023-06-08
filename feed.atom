@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-08T18:17:59.641Z</updated>
+    <updated>2023-06-08T23:15:16.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re: Discovered but not crawled | URL cannot appear on Bing]]></title>
+        <id>https://hypothes.is/a/tysl9gZCEe6vbPNYOKqHug</id>
+        <link href="https://hypothes.is/a/tysl9gZCEe6vbPNYOKqHug"/>
+        <updated>2023-06-08T21:23:30.485Z</updated>
+        <summary type="html"><![CDATA[I got a result, but only by emailing bwtsupport at microsoft dot com. They resolved it. I also sent a letter to their legal dept, but I think emailing their support did the trick. This is not a published email I dug it up in a forum post. Worked. Hope you get help too.
+A Microsoft forum poster suggests an alternative email address, bwtsupport at microsoft dot com, for raising concerns about Bing de-indexing. This email is listed in some older posts from the official Bing blog.  I have not personally tested it yet but will keep a note here.]]></summary>
+        <author>
+            <name>Hypothesis Stream</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110509551049332696</id>

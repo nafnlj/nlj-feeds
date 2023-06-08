@@ -705,7 +705,18 @@
       "title": "Hypothesis Stream",
       "feedUrl": "https://hypothes.is/stream.atom?user=nafnlj",
       "siteUrl": "https://hypothes.is/stream",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://hypothes.is/a/tysl9gZCEe6vbPNYOKqHug",
+          "author": null,
+          "description": "I got a result, but only by emailing bwtsupport at microsoft dot com. They resolved it. I also sent a letter to their legal dept, but I think emailing their support did the trick. This is not a published email I dug it up in a forum post. Worked. Hope you get help too.\nA Microsoft forum poster suggests an alternative email address, bwtsupport at microsoft dot com, for raising concerns about Bing de-indexing. This email is listed in some older posts from the official Bing blog.  I have not personally tested it yet but will keep a note here.",
+          "link": "https://hypothes.is/a/tysl9gZCEe6vbPNYOKqHug",
+          "publishedOn": "2023-06-08T21:23:30.485Z",
+          "wordCount": 18,
+          "title": "Re: Discovered but not crawled | URL cannot appear on Bing",
+          "imageUrl": "/assets/images/share-image.png"
+        }
+      ]
     },
     {
       "title": "Victor V. Gurbo",
