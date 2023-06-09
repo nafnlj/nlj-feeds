@@ -193,6 +193,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20440",
+          "author": "Nicholas A. Ferrell",
+          "description": "I wanted to enable pingback and trackback support for WordPress pages in order to allow certain pages to accept and send […]\nPossibly related posts...\n\nAnalysis of the From the Bottom of the Heart (Negaeba)…\nReview of the Original Persona 4 Artbook\nRemoving pages from Yandex Turbo\nPersona 4 Golden Digital Artbook Review (Steam)\nThe story of our Bing blacklisting\nIndieWeb Standards, RSS, and Atom\nPeekier Search Engine Review\nUpgrading WP Search With Relevanssi\nMoving a WordPress Site With UpdraftPlus Free",
+          "link": "https://thenewleafjournal.com/leaf/add-pingback-support-to-wordpress-pages/",
+          "publishedOn": "2023-06-09T21:34:43.000Z",
+          "wordCount": 1399,
+          "title": "Add Pingback Support to WordPress Pages",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=20334",
           "author": "Nicholas A. Ferrell",
           "description": "Bromite is a free and open source hardened fork of Ungoogled Chromium for Android. I have recommended it in the past […]\nPossibly related posts...\n\nA Harmless Date Error in the Bromite Repository\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nReview of /e/ - An Android Alternative For Mobile Phones\nInstalling LineageOS on a 2013 Nexus 7 (Wi-Fi)\nInstalling and Running Bodhi Linux on a 2007 MacBook\nAdding custom search shortcut for Wayback Machine\nFixing Wallabag connect issue on Nexus 7\nPeekier Search Engine Review\nThe Enigmatic Life and Death of Emperor Otho",

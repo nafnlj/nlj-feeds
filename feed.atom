@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-09T18:18:21.933Z</updated>
+    <updated>2023-06-09T23:14:49.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Add Pingback Support to WordPress Pages]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20440</id>
+        <link href="https://thenewleafjournal.com/leaf/add-pingback-support-to-wordpress-pages/"/>
+        <updated>2023-06-09T21:34:43.000Z</updated>
+        <summary type="html"><![CDATA[I wanted to enable pingback and trackback support for WordPress pages in order to allow certain pages to accept and send […]
+Possibly related posts...
+
+Analysis of the From the Bottom of the Heart (Negaeba)…
+Review of the Original Persona 4 Artbook
+Removing pages from Yandex Turbo
+Persona 4 Golden Digital Artbook Review (Steam)
+The story of our Bing blacklisting
+IndieWeb Standards, RSS, and Atom
+Peekier Search Engine Review
+Upgrading WP Search With Relevanssi
+Moving a WordPress Site With UpdraftPlus Free]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110515542239280099</id>
