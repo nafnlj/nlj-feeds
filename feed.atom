@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-08T23:15:16.201Z</updated>
+    <updated>2023-06-09T13:18:25.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using Nostr Verify for WordPress NIP-05]]></title>
+        <id>https://thenewleafjournal.com/?p=20371</id>
+        <link href="https://thenewleafjournal.com/using-nostr-verify-for-wordpress-nip-05/"/>
+        <updated>2023-06-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to the Nostr Verify plugin for WordPress, you can find NLJ editor N.A. Ferrell on Nostr at nafnlj@thenewleafjournal.com.  I explain how it works, step-by-step.
+Possibly related posts...
+
+Naver Webmaster Trials and Tribulations
+Experiences in the Yandex Webmaster Portal
+Moving a WordPress Site With UpdraftPlus Free
+The BunnyPress Chronicles: Story and Review
+My WordPress Writing Workflow at The New Leaf Journal
+Upgrading WP Search With Relevanssi
+Removing pages from Yandex Turbo
+Reviewing Koko Analytics: A Simple Privacy-Friendly…
+Fixing a WP Custom Post Type Permalink Error]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110512404020789204</id>
+        <link href="https://linuxrocks.online/@nafnlj/110512404020789204"/>
+        <updated>2023-06-09T04:37:41.000Z</updated>
+        <summary type="html"><![CDATA[I decided to go with Shotwell for the time being instead of installing Nomacs as a Flatpak. Seems to do what I need (although I prefer Nomacs). I could not figure out how to change the size of the images though. Looked it up. You can only change size when saving? Weird. It works in the end...
+#linux #nomacs #shotwell]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110511355084471796</id>
+        <link href="https://linuxrocks.online/@nafnlj/110511355084471796"/>
+        <updated>2023-06-09T00:10:56.000Z</updated>
+        <summary type="html"><![CDATA[I use(d) Nomacs as my image viewer. It suddenly wouldn't open photos anymore. Tried reinstalling from AUR and it won't install. Apparently I'm not the only one with the issue. The search for a replacement begins...
+#aur #nomacs #linux]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110511197481144916</id>
+        <link href="https://linuxrocks.online/@nafnlj/110511197481144916"/>
+        <updated>2023-06-08T23:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Interesting discussion on Manjaro going on. I used Manjaro (first KDE, then XFCE) for my first two years on Linux before switching to EndeavourOS. I chimed in to concur with a few commenters who much prefer EndeavourOS, but that comes with a caveat. While I am much happier on EndeavourOS, Manjaro's GUI tools, notably Pamac, helped me get up to speed three years ago having come from only using Windows. EndeavourOS would have been a much heavier lift when I started.
+(Note: Let us set aside that I should have been using something like Mint or one of the Ubuntus or derivatives thereof and not Manjaro.)
+https://news.ycombinator.com/item?id=36249036
+#linux #endeavouros #manjaro]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re: Discovered but not crawled | URL cannot appear on Bing]]></title>
         <id>https://hypothes.is/a/tysl9gZCEe6vbPNYOKqHug</id>
@@ -1232,27 +1288,6 @@ Wholesale category reassessment
 Reply to 10 ways to ruin a website
 Around the Web 〜 Alternative Software and Services Resources
 The Quarantine Sessions: Covering The Beatles]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The NCCIH’s AI-like melatonin-COVID note]]></title>
-        <id>https://thenewleafjournal.com/?p=19991</id>
-        <link href="https://thenewleafjournal.com/the-nccihs-ai-like-melatonin-covid-note/"/>
-        <updated>2023-05-10T22:29:28.000Z</updated>
-        <summary type="html"><![CDATA[The NCCIH's answer to a question about whether melatonin prevents or treats a certain virus raises tangential questions.
-Possibly related posts...
-
-History of Thanksgiving Proclamations in the Philippines
-Trying National Park Typeface
-Noncitizen Nationals as Immigrant Visa Petitioners
-Dialogue: Alpacas, Virus Cures, and Paca Plus
-Reviewing the HALOmask and är Mask
-NLJ Recommendations From Around the Web III
-Benjamin Harrison's Memorable July 4, 1888
-Washington's 1789 Thanksgiving Proclamation
-Against Chinese Government Propaganda]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
