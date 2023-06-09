@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-09T13:18:25.536Z</updated>
+    <updated>2023-06-09T18:18:21.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110515542239280099</id>
+        <link href="https://linuxrocks.online/@nafnlj/110515542239280099"/>
+        <updated>2023-06-09T17:55:47.000Z</updated>
+        <summary type="html"><![CDATA[Bing has blocked The New Leaf Journal from appearing in web search results since January (we were de-indexed in March). I created a GitHub repository to collect stories and resources about similar cases to help others with strange Bing problems.
+(Note: For Microsoft reasons, I think this is one case were GitHub is the perfect host for this project.)
+https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing
+HT to @Dariusz_w for giving me the idea to share the story by publishing his excellent "Bing Jail" article and sharing it to Hacker News.
+#bing #searchengine #deindexing #seo #github]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110515387434933715</id>
+        <link href="https://linuxrocks.online/@nafnlj/110515387434933715"/>
+        <updated>2023-06-09T17:16:25.000Z</updated>
+        <summary type="html"><![CDATA[I think I quipped on the NLJ a while back that I would like to see a remaster of Persona 3. I didn't think there would be one. The trailer looks slick, but no evidence of change other than much better graphics. I think P3 has the best underlying story and aesthetic of the modern Personas, but FES is weaker than 4 Golden and 5 overall (4 Golden is my favorite on account of writing and characters).  I'll reflect on this and think about what I'd like to see in a full 3 remake.
+https://personacentral.com/persona-3-reload-announced/
+#persona3 #persona4 #persona5 #videogames #jrpg]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collage – Visual Novel Review]]></title>
+        <id>https://thenewleafjournal.com/?p=20380</id>
+        <link href="https://thenewleafjournal.com/collage-visual-novel-review/"/>
+        <updated>2023-06-09T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Collage is the official 2006 English language translation of a 2004 freeware Japanese visual novel of the same year. The original […]
+Possibly related posts...
+
+The al|together and Insani Visual Novel Translations
+Red Shift Visual Novel Review
+Flood of Tears - Visual Novel Review
+Summer, Cicadas, and the Girl - VN Review
+Visual Novel Review: May Sky
+ACE Academy - Visual Novel Review
+Plain Song - Visual Novel Review
+Version history of Aru Fuyu no Monogatari
+Night of the Forget-Me-Nots: VN Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110514926094564865</id>
+        <link href="https://linuxrocks.online/@nafnlj/110514926094564865"/>
+        <updated>2023-06-09T15:19:05.000Z</updated>
+        <summary type="html"><![CDATA[I wrote a review of an open source Android launcher called Keikai Launcher a few days ago. On its own, Keikai is a simple bare-bones launcher. I would not use it as a primary launcher (I use TinyBit and Kiss would be my second choice), but it functions nicely for a second proposed use case -- an alternative app drawer.  When I need to survey my apps on my LineageOS phone, Keikai is a much more elegant solution than navigating to settings. Moreover, I could see it being very useful on locked down Android-derived devices which do not let the user change his or her default launcher, such as the Kindle Fire line. Keikai is available on GitHub and F-Droid.
+https://thenewleafjournal.com/reviewing-keikai-launcher-android/
+#android #lineageos #keikailauncher #opensource #fdroid]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Nostr Verify for WordPress NIP-05]]></title>
         <id>https://thenewleafjournal.com/?p=20371</id>

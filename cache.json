@@ -6,6 +6,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20380",
+          "author": "Nicholas A. Ferrell",
+          "description": "Collage is the official 2006 English language translation of a 2004 freeware Japanese visual novel of the same year. The original […]\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nRed Shift Visual Novel Review\nFlood of Tears - Visual Novel Review\nSummer, Cicadas, and the Girl - VN Review\nVisual Novel Review: May Sky\nACE Academy - Visual Novel Review\nPlain Song - Visual Novel Review\nVersion history of Aru Fuyu no Monogatari\nNight of the Forget-Me-Nots: VN Review",
+          "link": "https://thenewleafjournal.com/collage-visual-novel-review/",
+          "publishedOn": "2023-06-09T16:30:00.000Z",
+          "wordCount": 6422,
+          "title": "Collage – Visual Novel Review",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/06/collage-title-screen.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20371",
           "author": "Nicholas A. Ferrell",
           "description": "Thanks to the Nostr Verify plugin for WordPress, you can find NLJ editor N.A. Ferrell on Nostr at nafnlj@thenewleafjournal.com.  I explain how it works, step-by-step.\nPossibly related posts...\n\nNaver Webmaster Trials and Tribulations\nExperiences in the Yandex Webmaster Portal\nMoving a WordPress Site With UpdraftPlus Free\nThe BunnyPress Chronicles: Story and Review\nMy WordPress Writing Workflow at The New Leaf Journal\nUpgrading WP Search With Relevanssi\nRemoving pages from Yandex Turbo\nReviewing Koko Analytics: A Simple Privacy-Friendly…\nFixing a WP Custom Post Type Permalink Error",
@@ -549,6 +559,36 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110515542239280099",
+          "author": null,
+          "description": "Bing has blocked The New Leaf Journal from appearing in web search results since January (we were de-indexed in March). I created a GitHub repository to collect stories and resources about similar cases to help others with strange Bing problems.\n(Note: For Microsoft reasons, I think this is one case were GitHub is the perfect host for this project.)\nhttps://github.com/nafnlj/not-awesome-bing-bans-and-deindexing\nHT to @Dariusz_w for giving me the idea to share the story by publishing his excellent \"Bing Jail\" article and sharing it to Hacker News.\n#bing #searchengine #deindexing #seo #github",
+          "link": "https://linuxrocks.online/@nafnlj/110515542239280099",
+          "publishedOn": "2023-06-09T17:55:47.000Z",
+          "wordCount": 120,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110515387434933715",
+          "author": null,
+          "description": "I think I quipped on the NLJ a while back that I would like to see a remaster of Persona 3. I didn't think there would be one. The trailer looks slick, but no evidence of change other than much better graphics. I think P3 has the best underlying story and aesthetic of the modern Personas, but FES is weaker than 4 Golden and 5 overall (4 Golden is my favorite on account of writing and characters).  I'll reflect on this and think about what I'd like to see in a full 3 remake.\nhttps://personacentral.com/persona-3-reload-announced/\n#persona3 #persona4 #persona5 #videogames #jrpg",
+          "link": "https://linuxrocks.online/@nafnlj/110515387434933715",
+          "publishedOn": "2023-06-09T17:16:25.000Z",
+          "wordCount": 124,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110514926094564865",
+          "author": null,
+          "description": "I wrote a review of an open source Android launcher called Keikai Launcher a few days ago. On its own, Keikai is a simple bare-bones launcher. I would not use it as a primary launcher (I use TinyBit and Kiss would be my second choice), but it functions nicely for a second proposed use case -- an alternative app drawer.  When I need to survey my apps on my LineageOS phone, Keikai is a much more elegant solution than navigating to settings. Moreover, I could see it being very useful on locked down Android-derived devices which do not let the user change his or her default launcher, such as the Kindle Fire line. Keikai is available on GitHub and F-Droid.\nhttps://thenewleafjournal.com/reviewing-keikai-launcher-android/\n#android #lineageos #keikailauncher #opensource #fdroid",
+          "link": "https://linuxrocks.online/@nafnlj/110514926094564865",
+          "publishedOn": "2023-06-09T15:19:05.000Z",
+          "wordCount": 121,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/110512404020789204",
           "author": null,
