@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-10T13:16:15.488Z</updated>
+    <updated>2023-06-10T18:17:12.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110520735986799339</id>
+        <link href="https://linuxrocks.online/@nafnlj/110520735986799339"/>
+        <updated>2023-06-10T15:56:37.000Z</updated>
+        <summary type="html"><![CDATA[But in full disclosure, Twitter did once come through in a big way for me. I am writing a long series of articles (now up to 21 reviews!) on old freeware Japanese visual novels that were translated for the 2005, 2006, and 2008 al|together festivals. A reader saw the series and sent a DM about trying to track down the novels. I did not see the DM for about 10 months. However, when I did, I worked with the sender (who is collecting them in a public MEGA Drive) on a couple of games and the interactions led me to track down the Japanese version of Manatsu no Kagerou, which is required for playingg the al|together translation since the English version is a patch. I found it in ONE older torrent... all of the original download links were dead.
+(Review forthcoming next month.)
+https://thenewleafjournal.com/leaf/on-the-hunt-for-manatsu-no-kagerou/
+#visualnovel #visualnovels #twitter #torrents]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110520722548686144</id>
+        <link href="https://linuxrocks.online/@nafnlj/110520722548686144"/>
+        <updated>2023-06-10T15:53:12.000Z</updated>
+        <summary type="html"><![CDATA[I was reliably informed yesterday that it had been three years since I made a Twitter account for The New Leaf Journal. In those three years, our account has picked up 43 followers (or 40 if we leave out one of my friends and my NLJ colleague) and my most shared post was in 2020. All of the successes I had on Twitter were from a few of my articles making Hacker News page one, all of which spread on Twitter without my doing anything. As such, I would have done about as well on Twitter had I never made an account. Let no one say, however, that I did not predict this outcome back in 2020.
+https://thenewleafjournal.com/the-new-leaf-journal-twitter/
+#twitter #blogging #sharing #socialmedia]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Add Pingback Support to WordPress Pages]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20440</id>
