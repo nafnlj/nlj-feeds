@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-09T23:14:49.085Z</updated>
+    <updated>2023-06-10T05:12:17.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1347,27 +1347,6 @@ Reviewing Koko Analytics: A Simple Privacy-Friendly…
 The Newsletter Leaf Journal at 100
 Save the Date - Visual Novel Review
 The Questionable NYC Mayoral Campaign About Page of Maya…]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoughts on WordPress Categories and Tags]]></title>
-        <id>https://thenewleafjournal.com/?p=20000</id>
-        <link href="https://thenewleafjournal.com/thoughts-on-wordpress-categories-and-tags/"/>
-        <updated>2023-05-11T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Mr. Jeff Starr, the WordPress developer behind the Wutsearch Search Engine launchpad and a couple of plugins that we use at The […]
-Possibly related posts...
-
-Review of Wutsearch, a Search Engine Launchpad
-On the humans.txt File
-Searching for the Figure Behind the Blob Dylan Tags in NYC…
-Oldest Golfers to Contend for Majors Between the 1968 and…
-Bookmark: Death of Feedburner?
-Wholesale category reassessment
-Reply to 10 ways to ruin a website
-Around the Web 〜 Alternative Software and Services Resources
-The Quarantine Sessions: Covering The Beatles]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
