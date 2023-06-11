@@ -613,6 +613,16 @@
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
         {
+          "id": "https://linuxrocks.online/@nafnlj/110526506157914198",
+          "author": null,
+          "description": "I wanted to add pingback support to WordPress pages so I could enable Webmentions on my new Guestbook. After a bit of searching, I extrapolated the correct functions.php snippet from a guide for a different point and added the functionality to pages without breaking my site.\nhttps://thenewleafjournal.com/leaf/add-pingback-support-to-wordpress-pages/\n#wordpress #webmentions #indieweb #php",
+          "link": "https://linuxrocks.online/@nafnlj/110526506157914198",
+          "publishedOn": "2023-06-11T16:24:03.000Z",
+          "wordCount": 120,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxrocks.online/@nafnlj/110520735986799339",
           "author": null,
           "description": "But in full disclosure, Twitter did once come through in a big way for me. I am writing a long series of articles (now up to 21 reviews!) on old freeware Japanese visual novels that were translated for the 2005, 2006, and 2008 al|together festivals. A reader saw the series and sent a DM about trying to track down the novels. I did not see the DM for about 10 months. However, when I did, I worked with the sender (who is collecting them in a public MEGA Drive) on a couple of games and the interactions led me to track down the Japanese version of Manatsu no Kagerou, which is required for playingg the al|together translation since the English version is a patch. I found it in ONE older torrent... all of the original download links were dead.\n(Review forthcoming next month.)\nhttps://thenewleafjournal.com/leaf/on-the-hunt-for-manatsu-no-kagerou/\n#visualnovel #visualnovels #twitter #torrents",
@@ -866,6 +876,26 @@
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/7",
+          "author": null,
+          "description": "I started manually maintaining a list of stopwords for WordPress comments after opening our Guestbook. I figured that I could handle it manually instead of using a plugin. The approach was showing some results after two days, but it occurred to me that I could find a bigger stopword list.\nhttps://github.com/splorp/wordpress-comment-blacklist\nI found this big one on GitHub and copied it into my install. The repo notes that there are plugins for keeping it up-to-date, but I thought of a better idea. After some clicking around, I found the atom feed for updates to the blocklist text file. I added it to mfeed, a Firefox extension I use to keep track of feeds for repo and software updates.  Now I will not only be able to keep my stopwords list up to date, but I also have a NLJ topic on keeping the list up to date without a plugin.\n#wordpress #feeds #newleafjournal",
+          "link": "https://memos.emucafe.org/m/7",
+          "publishedOn": "2023-06-11T16:10:14.000Z",
+          "wordCount": 21,
+          "title": "I started manually maintaining a list of stopwords for WordPress comments after opening our Guestboo...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://memos.emucafe.org/m/6",
+          "author": null,
+          "description": "Thoughts on anime episodes I watched yesterday:\nThe Dangers in My Heart 11\nPosted its best episode for the second week in a row. The protagonist, Kyo, came to an important realization. In addition to the story progress, this episode featured some beautiful backgrounds for Kyo's abbreviated vacation. I am curious to see if it resolves key points in its conclusion in the same way that Angel Next Door did last season. Despite the strong finish, the series is held back by a rough start and our lack of insight into Anna's perspective and feelings.\nMy Love Story With Yamada-kun 11\nIt has improved a bit in its second half (having noted that I was not impressed with the first half, and episode 11 offers some hope that something will be resolved in the finale (I have my doubts).  Akane, like Kyo, appears to have come to a realization (albeit she will state it clearly in the next episode).\nMix S2 10\nGranting that I am watching Mix without the benefit of having seen Touch, it continues to meander at a slow pace with surprisingly little baseball action, even compared to season 1. Generally pleasant, but stronger signs in episode 10 that it is going in an unfortunate direction on one of its romantic stories than we had before (not that the signs haven't been there, that is). I did appreciate one scene where the main protagonist, Touma, offered some meta-commentary on people losing interest in slow stories.  The ending song and animation is still fantastic, especially for a show that has a 1980s animation aesthetic.\n#anime #dangersinmyheart #yamadakunat999 #mix-anime",
+          "link": "https://memos.emucafe.org/m/6",
+          "publishedOn": "2023-06-11T16:06:42.000Z",
+          "wordCount": 21,
+          "title": "Thoughts on anime episodes I watched yesterday:",
+          "imageUrl": null
+        },
         {
           "id": "https://memos.emucafe.org/m/3",
           "author": null,
