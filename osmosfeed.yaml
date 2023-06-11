@@ -5,6 +5,7 @@
 
 cacheUrl: https://nafnlj.github.io/nljfeeds/cache.json
 sources:
+  - href: https://github.com/nafnlj/nljfeeds/commits/main.atom
   - href: https://thenewleafjournal.com/feed
   - href: https://thenewleafjournal.com/leaf/feed
   - href: https://thenewleafjournal.com/leafbud/feed
@@ -16,6 +17,8 @@ sources:
   - href: https://pixelfed.social/users/nafnlj.atom
   - href: https://linuxrocks.online/@nafnlj.rss
   - href: https://hypothes.is/stream.atom?user=nafnlj
+  - href: https://memos.emucafe.org/u/2/rss.xml
+  - href: https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commits/main.atom
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA
   
   # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
