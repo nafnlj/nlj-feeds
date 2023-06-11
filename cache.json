@@ -877,6 +877,16 @@
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
         {
+          "id": "https://memos.emucafe.org/m/8",
+          "author": null,
+          "description": "I previously noted that I could not start my local Radicale-DecSync server and that switching from the AUR package to the PyPi package resolved the issue.\nhttps://thenewleafjournal.com/leaf/radicale-decsync-aur-issues/\nHowever, I ran into the following error today when I tried to launch the local server:\n[2023-06-11 15:56:14 -0400] [2661] [CRITICAL] An exception occurred during server startup: Failed to load storage module 'radicale_storage_decsync': libcrypt.so.1: cannot open shared object file: No such file or directory\n\n\nSolution from AUR libdecsync package:  Install libxcrypt-compat\npacman -S libxcrypt-compat\n\n#linux #decsync #pacman #pypi",
+          "link": "https://memos.emucafe.org/m/8",
+          "publishedOn": "2023-06-11T20:02:44.000Z",
+          "wordCount": 21,
+          "title": "I previously noted that I could not start my local Radicale-DecSync server and that switching from t...",
+          "imageUrl": null
+        },
+        {
           "id": "https://memos.emucafe.org/m/7",
           "author": null,
           "description": "I started manually maintaining a list of stopwords for WordPress comments after opening our Guestbook. I figured that I could handle it manually instead of using a plugin. The approach was showing some results after two days, but it occurred to me that I could find a bigger stopword list.\nhttps://github.com/splorp/wordpress-comment-blacklist\nI found this big one on GitHub and copied it into my install. The repo notes that there are plugins for keeping it up-to-date, but I thought of a better idea. After some clicking around, I found the atom feed for updates to the blocklist text file. I added it to mfeed, a Firefox extension I use to keep track of feeds for repo and software updates.  Now I will not only be able to keep my stopwords list up to date, but I also have a NLJ topic on keeping the list up to date without a plugin.\n#wordpress #feeds #newleafjournal",
