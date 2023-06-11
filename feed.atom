@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-10T23:13:53.980Z</updated>
+    <updated>2023-06-11T13:16:25.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trying a Memos Server]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20498</id>
+        <link href="https://thenewleafjournal.com/leaf/trying-a-memos-server/"/>
+        <updated>2023-06-11T04:26:29.000Z</updated>
+        <summary type="html"><![CDATA[I used Pikapods to set up a Memos server. What is Memos? Let us refer to the official website… A lightweight, […]
+Possibly related posts...
+
+DecSync Review
+Moving a WordPress Site With UpdraftPlus Free
+Google Analytics Legal Issues in Denmark
+Reviewing the Mastodon Twitter Crossposter
+Read the Fine Print - Buying a Cheap Mini PC For a Home…
+Fediverse Clone Wars and Decentralized Social Media
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+A Casio Graphing Calculator Web-Server and IRC Client
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXXXIX 〜 Newsletter collage 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/139/</id>
@@ -1352,27 +1373,6 @@ https://thenewleafjournal.com/anna-jarvis-and-the-origin-of-mothers-day-in-the-u
 #mothersday #history #ushistory #holiday #newspaper]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Annoying TikTok story reminds me of snack]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20016</id>
-        <link href="https://thenewleafjournal.com/leafbud/annoying-tiktok-story-reminds-me-of-snack/"/>
-        <updated>2023-05-12T12:50:54.000Z</updated>
-        <summary type="html"><![CDATA[From a report by Mr. Brad Matthews of The Washington Times: A viral TikTok recipe, wherein ice cream is wrapped in […]
-Possibly related posts...
-
-Futaba Igarashi's Hair Is Naturally Green?
-Height differences in anime romances
-A Look at ProxiTok, a TikTok Frontend
-On Children, TikTok, and Social Media Stardom
-Capo vs Capo, a TikTok Debacle
-Crossing Paths With "The Most Annoying People In the World"
-Tik Tok for TikTok on Federal Government Devices
-History of the Mario Party Gloves
-Flood of Tears - Visual Novel Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
