@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-11T13:16:25.398Z</updated>
+    <updated>2023-06-11T15:54:36.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
+        <id>https://github.com/nafnlj/nljfeeds/commit/6be8842d43b8ce251ee1132b7ae5485dc1e031ff</id>
+        <link href="https://github.com/nafnlj/nljfeeds/commit/6be8842d43b8ce251ee1132b7ae5485dc1e031ff"/>
+        <updated>2023-06-11T15:54:10.000Z</updated>
+        <summary type="html"><![CDATA[Update osmosfeed.yaml
+
+Added three feeds:
+
+1. Commits to NLJ Feeds YAML file
+2. Commits to Bing deindexing resource
+3. Feed for NAF's Memos account]]></summary>
+        <author>
+            <name>Recent Commits to nljfeeds:main</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trying a Memos Server]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20498</id>
@@ -25,6 +41,17 @@ A Casio Graphing Calculator Web-Server and IRC Client
 The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is [N.A. Ferrell](https://thenewleafjournal.com/author/naferrell/) of [*The New Leaf Journal*](...]]></title>
+        <id>https://memos.emucafe.org/m/3</id>
+        <link href="https://memos.emucafe.org/m/3"/>
+        <updated>2023-06-11T03:25:32.000Z</updated>
+        <summary type="html"><![CDATA[This is N.A. Ferrell of The New Leaf Journal. I was interested in testing Memos as a note-taking microblog. I thought about using a subdomain of The New Leaf Journal, but I decided to start fresh under a different, very official-sounding banner.
+#admin #newleafjournal]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
         </author>
     </entry>
     <entry>
@@ -94,6 +121,102 @@ https://thenewleafjournal.com/the-new-leaf-journal-twitter/
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Update contributing.md]]></title>
+        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/0a7190e36fc44edef03ab331d4f6715f777df09e</id>
+        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/0a7190e36fc44edef03ab331d4f6715f777df09e"/>
+        <updated>2023-06-10T05:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Update contributing.md
+
+Add email contact option for readers who do not have GitHub accounts]]></summary>
+        <author>
+            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update README.md]]></title>
+        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/1b20e043ad71686a23b939b86e85cd47648e5c80</id>
+        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/1b20e043ad71686a23b939b86e85cd47648e5c80"/>
+        <updated>2023-06-10T05:24:38.000Z</updated>
+        <summary type="html"><![CDATA[Update README.md
+
+Added ToC.
+Fixed minor formatting issues.
+Added link to article about Seznam's issues being blocked by Webmasters.]]></summary>
+        <author>
+            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
+        <id>https://github.com/nafnlj/nljfeeds/commit/4aa94ffec461740643d7bffaf7c5ad1065bbd958</id>
+        <link href="https://github.com/nafnlj/nljfeeds/commit/4aa94ffec461740643d7bffaf7c5ad1065bbd958"/>
+        <updated>2023-06-10T05:11:59.000Z</updated>
+        <summary type="html"><![CDATA[Update osmosfeed.yaml
+
+Add NLJ Guestbook feed]]></summary>
+        <author>
+            <name>Recent Commits to nljfeeds:main</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update README.md]]></title>
+        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/5b12ea87af3a69fc6b292492d9fdfd3ca5dbbe1c</id>
+        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/5b12ea87af3a69fc6b292492d9fdfd3ca5dbbe1c"/>
+        <updated>2023-06-09T23:45:33.000Z</updated>
+        <summary type="html"><![CDATA[Update README.md]]></summary>
+        <author>
+            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update README.md]]></title>
+        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/e644d547c1828c38287504876191887661d69f4a</id>
+        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/e644d547c1828c38287504876191887661d69f4a"/>
+        <updated>2023-06-09T23:45:03.000Z</updated>
+        <summary type="html"><![CDATA[Update README.md
+
+Test]]></summary>
+        <author>
+            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update README.md]]></title>
+        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/7d030c674e1a89cb84422c8807be322f02620383</id>
+        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/7d030c674e1a89cb84422c8807be322f02620383"/>
+        <updated>2023-06-09T22:47:20.000Z</updated>
+        <summary type="html"><![CDATA[Update README.md
+
+Fixed spacing issue again]]></summary>
+        <author>
+            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update README.md]]></title>
+        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/a96a15478d26e1453b6b5742dfffa52f92e3f564</id>
+        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/a96a15478d26e1453b6b5742dfffa52f92e3f564"/>
+        <updated>2023-06-09T22:46:21.000Z</updated>
+        <summary type="html"><![CDATA[Update README.md
+
+Fixed spacing issue.]]></summary>
+        <author>
+            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update README.md]]></title>
+        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/ccbf3ad0dc165d8bd43e8331f37b908f810d653e</id>
+        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/ccbf3ad0dc165d8bd43e8331f37b908f810d653e"/>
+        <updated>2023-06-09T22:45:38.000Z</updated>
+        <summary type="html"><![CDATA[Update README.md
+
+Added missing date to Cheapskate's Guide link]]></summary>
+        <author>
+            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Add Pingback Support to WordPress Pages]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20440</id>
         <link href="https://thenewleafjournal.com/leaf/add-pingback-support-to-wordpress-pages/"/>
@@ -126,6 +249,18 @@ HT to @Dariusz_w for giving me the idea to share the story by publishing his exc
 #bing #searchengine #deindexing #seo #github]]></summary>
         <author>
             <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update README.md]]></title>
+        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/15e2a160387bb560edfd1ea1a744db7acb993cfa</id>
+        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/15e2a160387bb560edfd1ea1a744db7acb993cfa"/>
+        <updated>2023-06-09T17:39:36.000Z</updated>
+        <summary type="html"><![CDATA[Update README.md
+
+Copy text for list from local file]]></summary>
+        <author>
+            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
         </author>
     </entry>
     <entry>
@@ -206,6 +341,18 @@ Fixing a WP Custom Post Type Permalink Error]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Update README.md]]></title>
+        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/dc202fa55cde29d95279e4c340d772509a7b2b72</id>
+        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/dc202fa55cde29d95279e4c340d772509a7b2b72"/>
+        <updated>2023-06-09T01:22:27.000Z</updated>
+        <summary type="html"><![CDATA[Update README.md
+
+Change title]]></summary>
+        <author>
+            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110511355084471796</id>
         <link href="https://linuxrocks.online/@nafnlj/110511355084471796"/>
@@ -230,6 +377,18 @@ https://news.ycombinator.com/item?id=36249036
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Create contributing.md]]></title>
+        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/64e1f32423e19270567172756c7f349372feff86</id>
+        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/64e1f32423e19270567172756c7f349372feff86"/>
+        <updated>2023-06-08T21:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Create contributing.md
+
+Add contributor guidelines]]></summary>
+        <author>
+            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re: Discovered but not crawled | URL cannot appear on Bing]]></title>
         <id>https://hypothes.is/a/tysl9gZCEe6vbPNYOKqHug</id>
         <link href="https://hypothes.is/a/tysl9gZCEe6vbPNYOKqHug"/>
@@ -238,6 +397,28 @@ https://news.ycombinator.com/item?id=36249036
 A Microsoft forum poster suggests an alternative email address, bwtsupport at microsoft dot com, for raising concerns about Bing de-indexing. This email is listed in some older posts from the official Bing blog.  I have not personally tested it yet but will keep a note here.]]></summary>
         <author>
             <name>Hypothesis Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update README.md]]></title>
+        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/042bddebf9c67cd5f4348bae80fbc56d5b7a94b5</id>
+        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/042bddebf9c67cd5f4348bae80fbc56d5b7a94b5"/>
+        <updated>2023-06-08T20:05:12.000Z</updated>
+        <summary type="html"><![CDATA[Update README.md
+
+Changed Readme title.]]></summary>
+        <author>
+            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Initial commit]]></title>
+        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/d8cb6c12b600cc4c447a29d704220e5f2ebf98cc</id>
+        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/d8cb6c12b600cc4c447a29d704220e5f2ebf98cc"/>
+        <updated>2023-06-08T20:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Initial commit]]></summary>
+        <author>
+            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
         </author>
     </entry>
     <entry>
@@ -317,6 +498,18 @@ Herbert Hoover's Better Homes Remarks: "The Home as an…
 Hot Coffee on Summer Walks]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
+        <id>https://github.com/nafnlj/nljfeeds/commit/7d612c5d21fd720764954f55de62219f202a9841</id>
+        <link href="https://github.com/nafnlj/nljfeeds/commit/7d612c5d21fd720764954f55de62219f202a9841"/>
+        <updated>2023-06-05T20:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Update osmosfeed.yaml
+
+Add nafnlj Listed blog to feed list.]]></summary>
+        <author>
+            <name>Recent Commits to nljfeeds:main</name>
         </author>
     </entry>
     <entry>
@@ -1047,6 +1240,18 @@ https://thenewleafjournal.com/leaf/the-best-nintendo-controllers/
 #nintendo #videogames #controller #snes #switch #gamecube #nes #virtualboy #wiiu]]></summary>
         <author>
             <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update README.md]]></title>
+        <id>https://github.com/nafnlj/nljfeeds/commit/ffd247cd26b13b8f3bb47cbd5d95b2b7f717aeb6</id>
+        <link href="https://github.com/nafnlj/nljfeeds/commit/ffd247cd26b13b8f3bb47cbd5d95b2b7f717aeb6"/>
+        <updated>2023-05-20T05:41:48.000Z</updated>
+        <summary type="html"><![CDATA[Update README.md
+
+Add link to NLJ Osmosfeed article.]]></summary>
+        <author>
+            <name>Recent Commits to nljfeeds:main</name>
         </author>
     </entry>
     <entry>

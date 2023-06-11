@@ -1,6 +1,53 @@
 {
   "sources": [
     {
+      "title": "Recent Commits to nljfeeds:main",
+      "feedUrl": "https://github.com/nafnlj/nljfeeds/commits/main.atom",
+      "siteUrl": "https://github.com/nafnlj/nljfeeds/commits/main",
+      "articles": [
+        {
+          "id": "https://github.com/nafnlj/nljfeeds/commit/6be8842d43b8ce251ee1132b7ae5485dc1e031ff",
+          "author": null,
+          "description": "Update osmosfeed.yaml\n\nAdded three feeds:\r\n\r\n1. Commits to NLJ Feeds YAML file\r\n2. Commits to Bing deindexing resource\r\n3. Feed for NAF's Memos account",
+          "link": "https://github.com/nafnlj/nljfeeds/commit/6be8842d43b8ce251ee1132b7ae5485dc1e031ff",
+          "publishedOn": "2023-06-11T15:54:10.000Z",
+          "wordCount": 472,
+          "title": "Update osmosfeed.yaml",
+          "imageUrl": "https://opengraph.githubassets.com/66de6ac5c53dd2c486956c7c019796850e2df82bb972f2a2bfa497ffc73a3063/nafnlj/nljfeeds/commit/6be8842d43b8ce251ee1132b7ae5485dc1e031ff"
+        },
+        {
+          "id": "https://github.com/nafnlj/nljfeeds/commit/4aa94ffec461740643d7bffaf7c5ad1065bbd958",
+          "author": null,
+          "description": "Update osmosfeed.yaml\n\nAdd NLJ Guestbook feed",
+          "link": "https://github.com/nafnlj/nljfeeds/commit/4aa94ffec461740643d7bffaf7c5ad1065bbd958",
+          "publishedOn": "2023-06-10T05:11:59.000Z",
+          "wordCount": 420,
+          "title": "Update osmosfeed.yaml",
+          "imageUrl": "https://opengraph.githubassets.com/e3ea64d6931197ac8aaa6a651e4789907164f4d0b4631a08a1d62ea3d6701e6f/nafnlj/nljfeeds/commit/4aa94ffec461740643d7bffaf7c5ad1065bbd958"
+        },
+        {
+          "id": "https://github.com/nafnlj/nljfeeds/commit/7d612c5d21fd720764954f55de62219f202a9841",
+          "author": null,
+          "description": "Update osmosfeed.yaml\n\nAdd nafnlj Listed blog to feed list.",
+          "link": "https://github.com/nafnlj/nljfeeds/commit/7d612c5d21fd720764954f55de62219f202a9841",
+          "publishedOn": "2023-06-05T20:27:24.000Z",
+          "wordCount": 423,
+          "title": "Update osmosfeed.yaml",
+          "imageUrl": "https://opengraph.githubassets.com/0c4de8f58ca5cd63044ca373d1a9e75dbd66bd46f40efcb3fac7c1a6df39e0e3/nafnlj/nljfeeds/commit/7d612c5d21fd720764954f55de62219f202a9841"
+        },
+        {
+          "id": "https://github.com/nafnlj/nljfeeds/commit/ffd247cd26b13b8f3bb47cbd5d95b2b7f717aeb6",
+          "author": null,
+          "description": "Update README.md\n\nAdd link to NLJ Osmosfeed article.",
+          "link": "https://github.com/nafnlj/nljfeeds/commit/ffd247cd26b13b8f3bb47cbd5d95b2b7f717aeb6",
+          "publishedOn": "2023-05-20T05:41:48.000Z",
+          "wordCount": 514,
+          "title": "Update README.md",
+          "imageUrl": "https://opengraph.githubassets.com/8f48485e069943e03e8f01f3cbc57bf0b5869d7c721adc6999f4a3e7ab95e6d7/nafnlj/nljfeeds/commit/ffd247cd26b13b8f3bb47cbd5d95b2b7f717aeb6"
+        }
+      ]
+    },
+    {
       "title": "The New Leaf Journal",
       "feedUrl": "https://thenewleafjournal.com/feed",
       "siteUrl": "https://thenewleafjournal.com",
@@ -811,6 +858,150 @@
           "wordCount": 18,
           "title": "Re: Discovered but not crawled | URL cannot appear on Bing",
           "imageUrl": "/assets/images/share-image.png"
+        }
+      ]
+    },
+    {
+      "title": "Emu Café Memos",
+      "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
+      "siteUrl": "https://memos.emucafe.org",
+      "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/3",
+          "author": null,
+          "description": "This is N.A. Ferrell of The New Leaf Journal. I was interested in testing Memos as a note-taking microblog. I thought about using a subdomain of The New Leaf Journal, but I decided to start fresh under a different, very official-sounding banner.\n#admin #newleafjournal",
+          "link": "https://memos.emucafe.org/m/3",
+          "publishedOn": "2023-06-11T03:25:32.000Z",
+          "wordCount": 21,
+          "title": "This is [N.A. Ferrell](https://thenewleafjournal.com/author/naferrell/) of [*The New Leaf Journal*](...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Recent Commits to not-awesome-bing-bans-and-deindexing:main",
+      "feedUrl": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commits/main.atom",
+      "siteUrl": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commits/main",
+      "articles": [
+        {
+          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/0a7190e36fc44edef03ab331d4f6715f777df09e",
+          "author": null,
+          "description": "Update contributing.md\n\nAdd email contact option for readers who do not have GitHub accounts",
+          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/0a7190e36fc44edef03ab331d4f6715f777df09e",
+          "publishedOn": "2023-06-10T05:31:12.000Z",
+          "wordCount": 644,
+          "title": "Update contributing.md",
+          "imageUrl": "https://opengraph.githubassets.com/93dd38ab1c074ba5181cb3c0f439896f6c001762671541430dad40d8f3ae810a/nafnlj/not-awesome-bing-bans-and-deindexing/commit/0a7190e36fc44edef03ab331d4f6715f777df09e"
+        },
+        {
+          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/1b20e043ad71686a23b939b86e85cd47648e5c80",
+          "author": null,
+          "description": "Update README.md\n\nAdded ToC.\r\nFixed minor formatting issues.\r\nAdded link to article about Seznam's issues being blocked by Webmasters.",
+          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/1b20e043ad71686a23b939b86e85cd47648e5c80",
+          "publishedOn": "2023-06-10T05:24:38.000Z",
+          "wordCount": 826,
+          "title": "Update README.md",
+          "imageUrl": "https://opengraph.githubassets.com/85a597dd11262783969572ce97c8d1e8d33c5d8b96860125ac3498a490023538/nafnlj/not-awesome-bing-bans-and-deindexing/commit/1b20e043ad71686a23b939b86e85cd47648e5c80"
+        },
+        {
+          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/5b12ea87af3a69fc6b292492d9fdfd3ca5dbbe1c",
+          "author": null,
+          "description": "Update README.md",
+          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/5b12ea87af3a69fc6b292492d9fdfd3ca5dbbe1c",
+          "publishedOn": "2023-06-09T23:45:33.000Z",
+          "wordCount": 531,
+          "title": "Update README.md",
+          "imageUrl": "https://opengraph.githubassets.com/89c5f266084ba46257a4ce80f337a611e1b2b59ed074c6173bee1a7c2b6b95b7/nafnlj/not-awesome-bing-bans-and-deindexing/commit/5b12ea87af3a69fc6b292492d9fdfd3ca5dbbe1c"
+        },
+        {
+          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/e644d547c1828c38287504876191887661d69f4a",
+          "author": null,
+          "description": "Update README.md\n\nTest",
+          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/e644d547c1828c38287504876191887661d69f4a",
+          "publishedOn": "2023-06-09T23:45:03.000Z",
+          "wordCount": 532,
+          "title": "Update README.md",
+          "imageUrl": "https://opengraph.githubassets.com/d06b68a09aedc4286922ae4d69c2fbdce936a8ef10129d99c1c6cdd3a75cfd5c/nafnlj/not-awesome-bing-bans-and-deindexing/commit/e644d547c1828c38287504876191887661d69f4a"
+        },
+        {
+          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/7d030c674e1a89cb84422c8807be322f02620383",
+          "author": null,
+          "description": "Update README.md\n\nFixed spacing issue again",
+          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/7d030c674e1a89cb84422c8807be322f02620383",
+          "publishedOn": "2023-06-09T22:47:20.000Z",
+          "wordCount": 541,
+          "title": "Update README.md",
+          "imageUrl": "https://opengraph.githubassets.com/56f28b80680e4bc992f32c8d6ab04637e8ea95b0d7a106cc837640c218ba488b/nafnlj/not-awesome-bing-bans-and-deindexing/commit/7d030c674e1a89cb84422c8807be322f02620383"
+        },
+        {
+          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/a96a15478d26e1453b6b5742dfffa52f92e3f564",
+          "author": null,
+          "description": "Update README.md\n\nFixed spacing issue.",
+          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/a96a15478d26e1453b6b5742dfffa52f92e3f564",
+          "publishedOn": "2023-06-09T22:46:21.000Z",
+          "wordCount": 557,
+          "title": "Update README.md",
+          "imageUrl": "https://opengraph.githubassets.com/5dae6a6dd297db79d1b6c21a34aaf9dd88495b68c06b9917a998dcbc7e50a09c/nafnlj/not-awesome-bing-bans-and-deindexing/commit/a96a15478d26e1453b6b5742dfffa52f92e3f564"
+        },
+        {
+          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/ccbf3ad0dc165d8bd43e8331f37b908f810d653e",
+          "author": null,
+          "description": "Update README.md\n\nAdded missing date to Cheapskate's Guide link",
+          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/ccbf3ad0dc165d8bd43e8331f37b908f810d653e",
+          "publishedOn": "2023-06-09T22:45:38.000Z",
+          "wordCount": 503,
+          "title": "Update README.md",
+          "imageUrl": "https://opengraph.githubassets.com/92fa4833ca73c4228f7c8885f1b63e82904e65f781e2db2f9cfa0444f6ad9fa0/nafnlj/not-awesome-bing-bans-and-deindexing/commit/ccbf3ad0dc165d8bd43e8331f37b908f810d653e"
+        },
+        {
+          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/15e2a160387bb560edfd1ea1a744db7acb993cfa",
+          "author": null,
+          "description": "Update README.md\n\nCopy text for list from local file",
+          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/15e2a160387bb560edfd1ea1a744db7acb993cfa",
+          "publishedOn": "2023-06-09T17:39:36.000Z",
+          "wordCount": 2393,
+          "title": "Update README.md",
+          "imageUrl": "https://opengraph.githubassets.com/24157f957fc66cbd0e3083b9acc1a90ba31879e753726da9b2ae756fd16c6f19/nafnlj/not-awesome-bing-bans-and-deindexing/commit/15e2a160387bb560edfd1ea1a744db7acb993cfa"
+        },
+        {
+          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/dc202fa55cde29d95279e4c340d772509a7b2b72",
+          "author": null,
+          "description": "Update README.md\n\nChange title",
+          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/dc202fa55cde29d95279e4c340d772509a7b2b72",
+          "publishedOn": "2023-06-09T01:22:27.000Z",
+          "wordCount": 419,
+          "title": "Update README.md",
+          "imageUrl": "https://opengraph.githubassets.com/482e3f8a4c9e89bcf5cb71f6c4db018204807ae6b2f60c69d6127c998318f5f1/nafnlj/not-awesome-bing-bans-and-deindexing/commit/dc202fa55cde29d95279e4c340d772509a7b2b72"
+        },
+        {
+          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/64e1f32423e19270567172756c7f349372feff86",
+          "author": null,
+          "description": "Create contributing.md\n\nAdd contributor guidelines",
+          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/64e1f32423e19270567172756c7f349372feff86",
+          "publishedOn": "2023-06-08T21:36:14.000Z",
+          "wordCount": 509,
+          "title": "Create contributing.md",
+          "imageUrl": "https://opengraph.githubassets.com/8d0b0e07f149a9f39338cbf66fcc20b146b5e9722f6e2796374e90261e34f89c/nafnlj/not-awesome-bing-bans-and-deindexing/commit/64e1f32423e19270567172756c7f349372feff86"
+        },
+        {
+          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/042bddebf9c67cd5f4348bae80fbc56d5b7a94b5",
+          "author": null,
+          "description": "Update README.md\n\nChanged Readme title.",
+          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/042bddebf9c67cd5f4348bae80fbc56d5b7a94b5",
+          "publishedOn": "2023-06-08T20:05:12.000Z",
+          "wordCount": 415,
+          "title": "Update README.md",
+          "imageUrl": "https://opengraph.githubassets.com/73d64673b8c9af8329c4c05ac15c6bc6be52d72227e1ae11eaf034287914155d/nafnlj/not-awesome-bing-bans-and-deindexing/commit/042bddebf9c67cd5f4348bae80fbc56d5b7a94b5"
+        },
+        {
+          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/d8cb6c12b600cc4c447a29d704220e5f2ebf98cc",
+          "author": null,
+          "description": "Initial commit",
+          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/d8cb6c12b600cc4c447a29d704220e5f2ebf98cc",
+          "publishedOn": "2023-06-08T20:03:47.000Z",
+          "wordCount": 402,
+          "title": "Initial commit",
+          "imageUrl": "https://opengraph.githubassets.com/17c6e171be379007188a31b0aa32921bf6ef0c3944f93530d90d5463328014fa/nafnlj/not-awesome-bing-bans-and-deindexing/commit/d8cb6c12b600cc4c447a29d704220e5f2ebf98cc"
         }
       ]
     },
