@@ -22,6 +22,207 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-06-12 datetime="2023-06-12T17:43:24.000Z">2023-06-12</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-06-12 datetime="2023-06-12T17:43:24.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >N.A. Ferrell</button>
+                  <a class="source-heading__link" href="https://linuxrocks.online/@nafnlj">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://linuxrocks.online/@nafnlj/110532480511808219"
+                        open
+                      >
+                        <summary class="article-expander__title">Untitled</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://linuxrocks.online/@nafnlj/110532480511808219">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>I just had an issue printing from my Brother printer (wi-fi connection) from my main workstation running EndeavourOS. I resolved the issue cleanly with the EndeavourOS Wiki and then detailed the steps with a link to the relevant section in my new Memos instance.
+https://memos.emucafe.org/m/11
+#endeavouros #arch #printers</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://linuxrocks.online/@nafnlj/110532278917954416"
+                        open
+                      >
+                        <summary class="article-expander__title">Untitled</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://linuxrocks.online/@nafnlj/110532278917954416">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>I used @jeremy &#x27;s Nostr Verify plugin for WordPress to verify my new Nostr profile, and explained the process in a short article. I was impressed with how quickly everything fell into place. This is well worth a look if you run a self-hosted WordPress site.
+https://thenewleafjournal.com/using-nostr-verify-for-wordpress-nip-05/
+#wordpress #wordpressplugin #nostr #nip05 #socialmedia</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Emu Café Memos</button>
+                  <a class="source-heading__link" href="https://memos.emucafe.org">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://memos.emucafe.org/m/11"
+                        open
+                      >
+                        <summary class="article-expander__title">I was unable to print using my Brother printer from my EndeavourOS workstation. I resolved the issue...</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://memos.emucafe.org/m/11">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>I was unable to print using my Brother printer from my EndeavourOS workstation. I resolved the issue by following these steps on the EndeavourOS Wiki:
+https://discovery.endeavouros.com/printers/printers/#network-printer
+Step one:
+pacman -Qs nss-mdns 
+
+Step two:
+nano /etc/nsswitch.conf
+
+Step three:
+Change...
+hosts: mymachines resolve [!UNAVAIL&#x3D;return] files myhostname dns
+
+To...
+hosts: mymachines mdns_minimal [NOTFOUND&#x3D;return] resolve [!UNAVAIL&#x3D;return] files myhostname dns
+
+
+#linux #printers #Arch #EndeavourOS</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Letters | The New Leaf Journal</button>
+                  <a class="source-heading__link" href="https://thenewleafjournal.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thenewleafjournal.com/?post_type&#x3D;letter&amp;p&#x3D;20494"
+                        open
+                      >
+                        <summary class="article-expander__title">Newsletter Leaf Journal CXXXIV</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thenewleafjournal.com/letter/139/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Welcome to the syndicated version of Newsletter Leaf Journal 139. After I was late in making my Monday syndication target for […]
+Possibly related posts...
+
+The Newsletter Leaf Journal at 100
+Justin &amp; Justina: The Most-Read New Leaf Journal Content of…
+Justin and Justina review 2022 at the NLJ
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The New Leaf Journal Newsletter
+How to Find Substack RSS Feeds and Other Notes
+The New Leaf Journal Celebrates Its First Birthday
+The Newsletter Leaf Journal VIII
+An Introduction to RSS and Other Feed Formats</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;11
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Leaflets | The New Leaf Journal</button>
+                  <a class="source-heading__link" href="https://thenewleafjournal.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thenewleafjournal.com/?post_type&#x3D;leaf&amp;p&#x3D;20507"
+                        open
+                      >
+                        <summary class="article-expander__title">Enter difference between yay and dnf</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thenewleafjournal.com/leaf/enter-difference-between-yay-and-dnf/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>I run the Arch Linux-based EndeavourOS distribution on my main workstation. My primary package managers are pacman (for the regular Arch […]
+Possibly related posts...
+
+Nice Boat in the Arch User Repository
+Old Games, MIDI, and EndeavourOS
+&quot;Just keep tapping the Enter key&quot;
+MIDI sound for games on Arch-based distro
+Apt to Use Pacman - Forgetting Your Linux Distribution,…
+The Enigmatic Life and Death of Emperor Otho
+Running Linux Visual Novels With ONScripter
+Using an Amiga OS-Inspired Window Theme In XFCE With XFWM4
+DecSync Review</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-06-11 datetime="2023-06-12T03:55:55.000Z">2023-06-11</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-06-11 datetime="2023-06-12T03:55:55.000Z"></time>
           </button>
@@ -3906,55 +4107,10 @@ Using Web Archives To Get Around CAPTCHAs</span>
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-05-13 datetime="2023-05-14T03:07:24.000Z">2023-05-13</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-05-13 datetime="2023-05-14T03:07:24.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Victor V. Gurbo</button>
-                  <a class="source-heading__link" href="https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.youtube.com/watch?v&#x3D;gSB1bdig6PE"
-                        open
-                      >
-                        <summary class="article-expander__title">Victor V. Gurbo &amp; Co. &quot;The Bartender Has Been Drinking&quot; Live at the Lustre Pearl Rainey (4/16/22)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.youtube.com/watch?v&#x3D;gSB1bdig6PE">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>No content preview</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/nafnlj/nljfeeds/actions/runs/5244099398">
-        <time id="build-timestamp" datetime="2023-06-12T13:19:14.500Z">2023-06-12T13:19:14.500Z</time>
+      <a class="footer-link" href="https://github.com/nafnlj/nljfeeds/actions/runs/5247106190">
+        <time id="build-timestamp" datetime="2023-06-12T18:18:39.661Z">2023-06-12T18:18:39.661Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

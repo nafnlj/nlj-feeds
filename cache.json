@@ -220,6 +220,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20507",
+          "author": "Nicholas A. Ferrell",
+          "description": "I run the Arch Linux-based EndeavourOS distribution on my main workstation. My primary package managers are pacman (for the regular Arch […]\nPossibly related posts...\n\nNice Boat in the Arch User Repository\nOld Games, MIDI, and EndeavourOS\n\"Just keep tapping the Enter key\"\nMIDI sound for games on Arch-based distro\nApt to Use Pacman - Forgetting Your Linux Distribution,…\nThe Enigmatic Life and Death of Emperor Otho\nRunning Linux Visual Novels With ONScripter\nUsing an Amiga OS-Inspired Window Theme In XFCE With XFWM4\nDecSync Review",
+          "link": "https://thenewleafjournal.com/leaf/enter-difference-between-yay-and-dnf/",
+          "publishedOn": "2023-06-12T15:32:50.000Z",
+          "wordCount": 1481,
+          "title": "Enter difference between yay and dnf",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=20498",
           "author": "Nicholas A. Ferrell",
           "description": "I used Pikapods to set up a Memos server. What is Memos? Let us refer to the official website… A lightweight, […]\nPossibly related posts...\n\nDecSync Review\nMoving a WordPress Site With UpdraftPlus Free\nGoogle Analytics Legal Issues in Denmark\nReviewing the Mastodon Twitter Crossposter\nRead the Fine Print - Buying a Cheap Mini PC For a Home…\nFediverse Clone Wars and Decentralized Social Media\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nA Casio Graphing Calculator Web-Server and IRC Client\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal",
@@ -474,6 +484,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=letter&p=20494",
+          "author": "Nicholas A. Ferrell",
+          "description": "Welcome to the syndicated version of Newsletter Leaf Journal 139. After I was late in making my Monday syndication target for […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal VIII\nAn Introduction to RSS and Other Feed Formats",
+          "link": "https://thenewleafjournal.com/letter/139/",
+          "publishedOn": "2023-06-12T16:00:22.000Z",
+          "wordCount": 3258,
+          "title": "Newsletter Leaf Journal CXXXIV",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=letter&p=20492",
           "author": "Nicholas A. Ferrell",
           "description": "Welcome to the syndicated version of Newsletter Leaf Journal 138 (see original). I am supposed to syndicate our Saturday newsletters on […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal VIII\nAn Introduction to RSS and Other Feed Formats",
@@ -602,6 +622,26 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110532480511808219",
+          "author": null,
+          "description": "I just had an issue printing from my Brother printer (wi-fi connection) from my main workstation running EndeavourOS. I resolved the issue cleanly with the EndeavourOS Wiki and then detailed the steps with a link to the relevant section in my new Memos instance.\nhttps://memos.emucafe.org/m/11\n#endeavouros #arch #printers",
+          "link": "https://linuxrocks.online/@nafnlj/110532480511808219",
+          "publishedOn": "2023-06-12T17:43:24.000Z",
+          "wordCount": 121,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110532278917954416",
+          "author": null,
+          "description": "I used @jeremy 's Nostr Verify plugin for WordPress to verify my new Nostr profile, and explained the process in a short article. I was impressed with how quickly everything fell into place. This is well worth a look if you run a self-hosted WordPress site.\nhttps://thenewleafjournal.com/using-nostr-verify-for-wordpress-nip-05/\n#wordpress #wordpressplugin #nostr #nip05 #socialmedia",
+          "link": "https://linuxrocks.online/@nafnlj/110532278917954416",
+          "publishedOn": "2023-06-12T16:52:08.000Z",
+          "wordCount": 118,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/110526506157914198",
           "author": null,
@@ -857,6 +897,16 @@
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
         {
+          "id": "https://memos.emucafe.org/m/11",
+          "author": null,
+          "description": "I was unable to print using my Brother printer from my EndeavourOS workstation. I resolved the issue by following these steps on the EndeavourOS Wiki:\nhttps://discovery.endeavouros.com/printers/printers/#network-printer\nStep one:\npacman -Qs nss-mdns \n\nStep two:\nnano /etc/nsswitch.conf\n\nStep three:\nChange...\nhosts: mymachines resolve [!UNAVAIL=return] files myhostname dns\n\nTo...\nhosts: mymachines mdns_minimal [NOTFOUND=return] resolve [!UNAVAIL=return] files myhostname dns\n\n\n#linux #printers #Arch #EndeavourOS",
+          "link": "https://memos.emucafe.org/m/11",
+          "publishedOn": "2023-06-12T17:39:28.000Z",
+          "wordCount": 21,
+          "title": "I was unable to print using my Brother printer from my EndeavourOS workstation. I resolved the issue...",
+          "imageUrl": null
+        },
+        {
           "id": "https://memos.emucafe.org/m/10",
           "author": null,
           "description": "My current visual novel review project, The Letter, is the 2008 translation of a 2007 Japanese visual novel called Tegami. Like most of the al|together translation projects visual novels, Tegami was written in NScripter. However, the 2007 release was its second release. The first version was created with Yuuki! Novel. I looked up Yuuki! Novel and found a couple of interesting resources:\nhttps://web.archive.org/web/20160208042342/http://freett.com/yuukiex/yuukinovel.html (Last capture of official website, download links still work)\nhttps://visuallyneko.wordpress.com/visual-novel-tools/yuukinovel/ (short article about)\nI downloaded the latest release of Yuuki! Novel (latest being from 2005) and an English-language translation of some of its docs. File away for a future project.\n#tegami #insani #yuukinovel #visualnovels #NScripter",
@@ -1068,16 +1118,6 @@
           "publishedOn": "2023-05-28T23:38:23.000Z",
           "wordCount": null,
           "title": "Victor V. Gurbo & Co. \"I Am The Man Who's Always Late\" Live at the Lustre Pearl Rainey (4/16/22)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gSB1bdig6PE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gSB1bdig6PE",
-          "publishedOn": "2023-05-14T03:07:24.000Z",
-          "wordCount": null,
-          "title": "Victor V. Gurbo & Co. \"The Bartender Has Been Drinking\" Live at the Lustre Pearl Rainey (4/16/22)",
           "imageUrl": null
         }
       ]
