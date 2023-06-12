@@ -565,16 +565,6 @@
           "wordCount": 2245,
           "title": "Newsletter Leaf Journal CXXXVI 〜 The newsletter issue 〜",
           "imageUrl": "https://buttondown.imgix.net/images/8f81dce9-7321-4a50-82f8-e4318592e0fb.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/135/",
-          "author": null,
-          "description": "Welcome to the 135th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.\nOur Mother’s Day-Eve newsletter brings links to our newest posts, some New Leaf Journal news, and your assortment of links from around the web.\nTable of contents\nLeaves from the week that was\nLeaves from around the web\nThe Old Leaf Journal\nMost-turned leaves of the newsletter week\nNews leaf journal\nNotable leaf journal\nTaking leaf\nLeaves from the week that was\nI published four regular articles since mailing Newsletter 134.\nTwo ducks in a drizzle at the BBG (2007)\nAnother photo from my 2007 set.  \nThe NCCIH’s A…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/135/",
-          "publishedOn": "2023-05-13T17:03:52.000Z",
-          "wordCount": 2161,
-          "title": "Newsletter Leaf Journal CXXXV 〜 Carnation newsletter 〜",
-          "imageUrl": "https://buttondown.imgix.net/images/851ed07f-e839-4736-aaf0-9cc958f48394.png"
         }
       ]
     },
@@ -841,16 +831,6 @@
           "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110362081179017577",
-          "author": null,
-          "description": "My article on the origin of Mother's Day, originally envisioned by Anna Jarvis in 1907-08 as a non-commercial occasion. I linked to original newspaper reports of the first Mother's Day commemorations in the United States and in Australia.\nhttps://thenewleafjournal.com/anna-jarvis-and-the-origin-of-mothers-day-in-the-united-states/\n#mothersday #history #ushistory #holiday #newspaper",
-          "link": "https://linuxrocks.online/@nafnlj/110362081179017577",
-          "publishedOn": "2023-05-13T15:28:37.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -876,6 +856,26 @@
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/10",
+          "author": null,
+          "description": "My current visual novel review project, The Letter, is the 2008 translation of a 2007 Japanese visual novel called Tegami. Like most of the al|together translation projects visual novels, Tegami was written in NScripter. However, the 2007 release was its second release. The first version was created with Yuuki! Novel. I looked up Yuuki! Novel and found a couple of interesting resources:\nhttps://web.archive.org/web/20160208042342/http://freett.com/yuukiex/yuukinovel.html (Last capture of official website, download links still work)\nhttps://visuallyneko.wordpress.com/visual-novel-tools/yuukinovel/ (short article about)\nI downloaded the latest release of Yuuki! Novel (latest being from 2005) and an English-language translation of some of its docs. File away for a future project.\n#tegami #insani #yuukinovel #visualnovels #NScripter",
+          "link": "https://memos.emucafe.org/m/10",
+          "publishedOn": "2023-06-12T03:55:55.000Z",
+          "wordCount": 21,
+          "title": "My current visual novel review project, *The Letter*, is the 2008 translation of a 2007 Japanese vis...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://memos.emucafe.org/m/9",
+          "author": null,
+          "description": "I am reading through The Letter for my next al|together review. I had an interesting issue that I will document here.\nDownloaded Windows installer from Insani's al|together 2008\nExtracted contents of Windows .exe into a new directory\n(Note: Running EndeavourOS with mainline Linux kernel)\nRan Galladite's newest build of ONScripter-EN for Linux in the directory (https://github.com/Galladite27/ONScripter-en/releases/tag/2023-06-05)\nInitially had skipping and static noise in the music\nTested Kaisernet's 2011 build and had the same issue\nTested on secondary PC running Fedora and had no issue\nRebooted my workstation and then sound worked with no issue with Galladite's newest ONScripter-EN build\nI don't know what the issue was -- but The Letter has a great soundtrack, so I am glad that I resolved it (somehow)\n#insani #ONScripter-EN #visualnovles #tegami",
+          "link": "https://memos.emucafe.org/m/9",
+          "publishedOn": "2023-06-12T02:27:32.000Z",
+          "wordCount": 21,
+          "title": "I am reading through [*The Letter*](http://altogether.insani.org/2008/3.html) for my next [al|togeth...",
+          "imageUrl": null
+        },
         {
           "id": "https://memos.emucafe.org/m/8",
           "author": null,

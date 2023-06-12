@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-11T23:15:00.767Z</updated>
+    <updated>2023-06-12T13:19:14.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My current visual novel review project, *The Letter*, is the 2008 translation of a 2007 Japanese vis...]]></title>
+        <id>https://memos.emucafe.org/m/10</id>
+        <link href="https://memos.emucafe.org/m/10"/>
+        <updated>2023-06-12T03:55:55.000Z</updated>
+        <summary type="html"><![CDATA[My current visual novel review project, The Letter, is the 2008 translation of a 2007 Japanese visual novel called Tegami. Like most of the al|together translation projects visual novels, Tegami was written in NScripter. However, the 2007 release was its second release. The first version was created with Yuuki! Novel. I looked up Yuuki! Novel and found a couple of interesting resources:
+https://web.archive.org/web/20160208042342/http://freett.com/yuukiex/yuukinovel.html (Last capture of official website, download links still work)
+https://visuallyneko.wordpress.com/visual-novel-tools/yuukinovel/ (short article about)
+I downloaded the latest release of Yuuki! Novel (latest being from 2005) and an English-language translation of some of its docs. File away for a future project.
+#tegami #insani #yuukinovel #visualnovels #NScripter]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I am reading through [*The Letter*](http://altogether.insani.org/2008/3.html) for my next [al|togeth...]]></title>
+        <id>https://memos.emucafe.org/m/9</id>
+        <link href="https://memos.emucafe.org/m/9"/>
+        <updated>2023-06-12T02:27:32.000Z</updated>
+        <summary type="html"><![CDATA[I am reading through The Letter for my next al|together review. I had an interesting issue that I will document here.
+Downloaded Windows installer from Insani's al|together 2008
+Extracted contents of Windows .exe into a new directory
+(Note: Running EndeavourOS with mainline Linux kernel)
+Ran Galladite's newest build of ONScripter-EN for Linux in the directory (https://github.com/Galladite27/ONScripter-en/releases/tag/2023-06-05)
+Initially had skipping and static noise in the music
+Tested Kaisernet's 2011 build and had the same issue
+Tested on secondary PC running Fedora and had no issue
+Rebooted my workstation and then sound worked with no issue with Galladite's newest ONScripter-EN build
+I don't know what the issue was -- but The Letter has a great soundtrack, so I am glad that I resolved it (somehow)
+#insani #ONScripter-EN #visualnovles #tegami]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I previously noted that I could not start my local Radicale-DecSync server and that switching from t...]]></title>
         <id>https://memos.emucafe.org/m/8</id>
@@ -1603,42 +1637,6 @@ Using Web Archives To Get Around CAPTCHAs]]></summary>
         <updated>2023-05-14T03:07:24.000Z</updated>
         <author>
             <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXXV 〜 Carnation newsletter 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/135/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/135/"/>
-        <updated>2023-05-13T17:03:52.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 135th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.
-Our Mother’s Day-Eve newsletter brings links to our newest posts, some New Leaf Journal news, and your assortment of links from around the web.
-Table of contents
-Leaves from the week that was
-Leaves from around the web
-The Old Leaf Journal
-Most-turned leaves of the newsletter week
-News leaf journal
-Notable leaf journal
-Taking leaf
-Leaves from the week that was
-I published four regular articles since mailing Newsletter 134.
-Two ducks in a drizzle at the BBG (2007)
-Another photo from my 2007 set.  
-The NCCIH’s A…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110362081179017577</id>
-        <link href="https://linuxrocks.online/@nafnlj/110362081179017577"/>
-        <updated>2023-05-13T15:28:37.000Z</updated>
-        <summary type="html"><![CDATA[My article on the origin of Mother's Day, originally envisioned by Anna Jarvis in 1907-08 as a non-commercial occasion. I linked to original newspaper reports of the first Mother's Day commemorations in the United States and in Australia.
-https://thenewleafjournal.com/anna-jarvis-and-the-origin-of-mothers-day-in-the-united-states/
-#mothersday #history #ushistory #holiday #newspaper]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
