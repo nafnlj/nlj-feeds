@@ -230,6 +230,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20519",
+          "author": "Nicholas A. Ferrell",
+          "description": "We use the Webmention plugin for WordPress to accept and send Webmentions. This is why I took the time to figure […]\nPossibly related posts...\n\nReviewing Koko Analytics: A Simple Privacy-Friendly…\nRemoving pages from Yandex Turbo\nFixing a WP Custom Post Type Permalink Error\nUpgrading WP Search With Relevanssi\nImplementing Article Series With WP Post Series\nUsing Nostr Verify for WordPress NIP-05\nMoving a WordPress Site With UpdraftPlus Free\nKeeping WP Comment Blacklist Up to Date\nIndieWeb Standards, RSS, and Atom",
+          "link": "https://thenewleafjournal.com/leaf/wordpress-webmention-plugin-discovery/",
+          "publishedOn": "2023-06-13T14:00:00.000Z",
+          "wordCount": 1682,
+          "title": "WordPress Webmention Plugin Discovery",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=20507",
           "author": "Nicholas A. Ferrell",
           "description": "I run the Arch Linux-based EndeavourOS distribution on my main workstation. My primary package managers are pacman (for the regular Arch […]\nPossibly related posts...\n\nNice Boat in the Arch User Repository\nOld Games, MIDI, and EndeavourOS\n\"Just keep tapping the Enter key\"\nMIDI sound for games on Arch-based distro\nApt to Use Pacman - Forgetting Your Linux Distribution,…\nThe Enigmatic Life and Death of Emperor Otho\nRunning Linux Visual Novels With ONScripter\nUsing an Amiga OS-Inspired Window Theme In XFCE With XFWM4\nDecSync Review",
@@ -889,6 +899,16 @@
       "feedUrl": "https://hypothes.is/stream.atom?user=nafnlj",
       "siteUrl": "https://hypothes.is/stream",
       "articles": [
+        {
+          "id": "https://hypothes.is/a/-vKnUgn7Ee6cELdc4l6Jpg",
+          "author": null,
+          "description": "Jokic joins Antetokounmpo, Dirk Nowitzki, Tony Parker, Tim Duncan and Hakeem Olajuwon as the only players born overseas to take home the Finals award.\nTim Duncan was born in the U.S. Virgin Islands, so I am not sure how \"overseas\" is being defined here.",
+          "link": "https://hypothes.is/a/-vKnUgn7Ee6cELdc4l6Jpg",
+          "publishedOn": "2023-06-13T15:07:13.353Z",
+          "wordCount": 18,
+          "title": "Jokic in 'legendary category' after Finals MVP run",
+          "imageUrl": "/assets/images/share-image.png"
+        },
         {
           "id": "https://hypothes.is/a/tysl9gZCEe6vbPNYOKqHug",
           "author": null,

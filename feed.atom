@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-13T13:18:14.356Z</updated>
+    <updated>2023-06-13T18:18:09.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jokic in 'legendary category' after Finals MVP run]]></title>
+        <id>https://hypothes.is/a/-vKnUgn7Ee6cELdc4l6Jpg</id>
+        <link href="https://hypothes.is/a/-vKnUgn7Ee6cELdc4l6Jpg"/>
+        <updated>2023-06-13T15:07:13.353Z</updated>
+        <summary type="html"><![CDATA[Jokic joins Antetokounmpo, Dirk Nowitzki, Tony Parker, Tim Duncan and Hakeem Olajuwon as the only players born overseas to take home the Finals award.
+Tim Duncan was born in the U.S. Virgin Islands, so I am not sure how "overseas" is being defined here.]]></summary>
+        <author>
+            <name>Hypothesis Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Webmention Plugin Discovery]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20519</id>
+        <link href="https://thenewleafjournal.com/leaf/wordpress-webmention-plugin-discovery/"/>
+        <updated>2023-06-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We use the Webmention plugin for WordPress to accept and send Webmentions. This is why I took the time to figure […]
+Possibly related posts...
+
+Reviewing Koko Analytics: A Simple Privacy-Friendly…
+Removing pages from Yandex Turbo
+Fixing a WP Custom Post Type Permalink Error
+Upgrading WP Search With Relevanssi
+Implementing Article Series With WP Post Series
+Using Nostr Verify for WordPress NIP-05
+Moving a WordPress Site With UpdraftPlus Free
+Keeping WP Comment Blacklist Up to Date
+IndieWeb Standards, RSS, and Atom]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keeping WP Comment Blacklist Up to Date]]></title>
         <id>https://thenewleafjournal.com/?p=20509</id>
