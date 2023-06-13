@@ -643,6 +643,16 @@
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
         {
+          "id": "https://linuxrocks.online/@nafnlj/110538641600553897",
+          "author": null,
+          "description": "I noticed that crawlers sometimes look for an ads.txt file on The New Leaf Journal. I felt bad about them finding our 404 page instead of the information they were seeking. Not wanting to leave their bot hearts unfulfilled, I remedied the issue.\nhttps://thenewleafjournal.com/ads.txt\n#wordpress #textfile #ads",
+          "link": "https://linuxrocks.online/@nafnlj/110538641600553897",
+          "publishedOn": "2023-06-13T19:50:15.000Z",
+          "wordCount": 120,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxrocks.online/@nafnlj/110532480511808219",
           "author": null,
           "description": "I just had an issue printing from my Brother printer (wi-fi connection) from my main workstation running EndeavourOS. I resolved the issue cleanly with the EndeavourOS Wiki and then detailed the steps with a link to the relevant section in my new Memos instance.\nhttps://memos.emucafe.org/m/11\n#endeavouros #arch #printers",

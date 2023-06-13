@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-13T18:18:09.713Z</updated>
+    <updated>2023-06-13T23:13:20.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110538641600553897</id>
+        <link href="https://linuxrocks.online/@nafnlj/110538641600553897"/>
+        <updated>2023-06-13T19:50:15.000Z</updated>
+        <summary type="html"><![CDATA[I noticed that crawlers sometimes look for an ads.txt file on The New Leaf Journal. I felt bad about them finding our 404 page instead of the information they were seeking. Not wanting to leave their bot hearts unfulfilled, I remedied the issue.
+https://thenewleafjournal.com/ads.txt
+#wordpress #textfile #ads]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jokic in 'legendary category' after Finals MVP run]]></title>
         <id>https://hypothes.is/a/-vKnUgn7Ee6cELdc4l6Jpg</id>
