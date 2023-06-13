@@ -53,6 +53,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20509",
+          "author": "Nicholas A. Ferrell",
+          "description": "Using an ATOM feed and feed reader to stay abreast of the latest updates to a WordPress spam comment blacklist without using a plugin.\nPossibly related posts...\n\nThe story of our Bing blacklisting\nComment on the NLJ with Hypothes.is\nSave the Date - Visual Novel Review\nHistory of the Mario Party Gloves\nCapo vs Capo, a TikTok Debacle\nThe American Bee Journal World's Fair Report\nBiden, Lincoln, and Counting Back From the President's Birth\nLearning How to Change a Twitter Username\nClosing The New Leaf Journal Guestbook (Outdated)",
+          "link": "https://thenewleafjournal.com/keeping-wp-comment-blacklist-up-to-date/",
+          "publishedOn": "2023-06-12T21:27:47.000Z",
+          "wordCount": 2849,
+          "title": "Keeping WP Comment Blacklist Up to Date",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20380",
           "author": "Nicholas A. Ferrell",
           "description": "Collage is the official 2006 English language translation of a 2004 freeware Japanese visual novel of the same year. The original […]\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nRed Shift Visual Novel Review\nFlood of Tears - Visual Novel Review\nSummer, Cicadas, and the Girl - VN Review\nVisual Novel Review: May Sky\nACE Academy - Visual Novel Review\nPlain Song - Visual Novel Review\nVersion history of Aru Fuyu no Monogatari\nNight of the Forget-Me-Nots: VN Review",
@@ -1118,6 +1128,16 @@
           "publishedOn": "2023-05-28T23:38:23.000Z",
           "wordCount": null,
           "title": "Victor V. Gurbo & Co. \"I Am The Man Who's Always Late\" Live at the Lustre Pearl Rainey (4/16/22)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gSB1bdig6PE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gSB1bdig6PE",
+          "publishedOn": "2023-05-16T01:00:09.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo & Co. \"The Bartender Has Been Drinking\" Live at the Lustre Pearl Rainey (4/16/22)",
           "imageUrl": null
         }
       ]
