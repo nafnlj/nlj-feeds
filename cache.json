@@ -53,6 +53,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20523",
+          "author": "Nicholas A. Ferrell",
+          "description": "I saw that the Denver Nuggets won their first NBA championship last night. I have been somewhat out of the NBA […]\nPossibly related posts...\n\nAll About the Saw-whet Owl\nNoncitizen Nationals as Immigrant Visa Petitioners\nMosley on Mayweather: Confidence and Fear\nTim Hortons Settles Claims Related to Creepy App\nSeeing Hopkins-Jones II at the Theater\nPlaying Through Cancer in Silence: Shawn Respert's NBA Story\nOn Learning How to Ride a Skateboard Before Learning Tricks\nHistory of Thanksgiving Proclamations in the Philippines\nImmigration Issues in NYPD Chinese Agent Case",
+          "link": "https://thenewleafjournal.com/espn-states-tim-duncan-was-born-overseas/",
+          "publishedOn": "2023-06-14T12:15:00.000Z",
+          "wordCount": 4089,
+          "title": "ESPN States Tim Duncan was “Born Overseas”",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20509",
           "author": "Nicholas A. Ferrell",
           "description": "Using an ATOM feed and feed reader to stay abreast of the latest updates to a WordPress spam comment blacklist without using a plugin.\nPossibly related posts...\n\nThe story of our Bing blacklisting\nComment on the NLJ with Hypothes.is\nSave the Date - Visual Novel Review\nHistory of the Mario Party Gloves\nCapo vs Capo, a TikTok Debacle\nThe American Bee Journal World's Fair Report\nBiden, Lincoln, and Counting Back From the President's Birth\nLearning How to Change a Twitter Username\nClosing The New Leaf Journal Guestbook (Outdated)",
@@ -211,16 +221,6 @@
           "wordCount": 3749,
           "title": "Social webs of personal websites",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20046",
-          "author": "Nicholas A. Ferrell",
-          "description": "Using GrapheneOS's handy web installer to put the hardened Android Open Source Project fork on a Google Pixel 6a phone.\nPossibly related posts...\n\nInstalling and Running Bodhi Linux on a 2007 MacBook\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nReview of /e/ - An Android Alternative For Mobile Phones\nReview of the Teracube 2e Smartphone\nInstalling LineageOS on a 2013 Nexus 7 (Wi-Fi)\nInstalling Ubuntu Touch on a Google Nexus 7 (2013)\nThe Quiet End of Google Bookmarks\nCreating a Search Engine Shortcut For Google Timer\nA 2021 List of Alternative Search Engines and Search…",
-          "link": "https://thenewleafjournal.com/installing-grapheneos-on-a-google-pixel-6a/",
-          "publishedOn": "2023-05-15T16:29:28.000Z",
-          "wordCount": 4168,
-          "title": "Installing GrapheneOS on a Google Pixel 6a",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/05/grapheneos-flashing-pixel6a.jpg"
         }
       ]
     },
@@ -485,16 +485,6 @@
           "wordCount": 1441,
           "title": "Lost Rooster Detained in New York City",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20030",
-          "author": "Nicholas A. Ferrell",
-          "description": "I subscribe to the Atlas Obscura  (link to feed). Sometimes it is not quite clear from the description what the link […]\nPossibly related posts...\n\nThe American Bee Journal World's Fair Report\nAgainst Twitter as a Content Curator\nProposals for Fact-Checking Reform\nHeight differences in anime romances\nThe Trees Leaf in May\nWhen President Coolidge Spared a Raccoon From Thanksgiving…\nThe Poetry of Charlotte Becker - Early Twentieth Century…\nBabylon Bee on sushi being a prank\nUsing Web Archives To Get Around CAPTCHAs",
-          "link": "https://thenewleafjournal.com/leafbud/the-alvinston-canada-honey-bee/",
-          "publishedOn": "2023-05-15T13:00:24.000Z",
-          "wordCount": 1389,
-          "title": "The Alvinston (Canada) Honey Bee",
-          "imageUrl": null
         }
       ]
     },
@@ -542,16 +532,6 @@
           "wordCount": 2941,
           "title": "Newsletter Leaf Journal CXXXVI",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=letter&p=20028",
-          "author": "Nicholas A. Ferrell",
-          "description": "Welcome to the syndicated version of Newsletter Leaf Journal CXXXV. I mailed the original on Saturday, May 13, 2023. This newsletter […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Celebrates Its First Birthday\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe Newsletter Leaf Journal VIII\nNew Leaf Journal Third Birthday Reader",
-          "link": "https://thenewleafjournal.com/letter/newsletter-leaf-journal-cxxxv/",
-          "publishedOn": "2023-05-15T16:00:29.000Z",
-          "wordCount": 2844,
-          "title": "Newsletter Leaf Journal CXXXV",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
         }
       ]
     },
@@ -612,18 +592,7 @@
       "title": "The New Leaf Annex",
       "feedUrl": "https://newleafannex.bearblog.dev/feed/",
       "siteUrl": "https://newleafannex.bearblog.dev/",
-      "articles": [
-        {
-          "id": "https://newleafannex.bearblog.dev/early-thoughts-on-anime-in-2023/",
-          "author": null,
-          "description": "People who follow me on my main project, The New Leaf Journal, will know that I follow the latest anime series (the ones I can tolerate, at least). I published year-in-review pieces for 2021 and 2022 with my top-six rankings.\n2021 Review\n2022 Review\nI published my 2022 review in a timely manner in January 2023. However, I published my 2021 review in April 2022. Fresh off my very late 2021 review, I published a short Leaflet post on April 26, 2022, offering my initial impressions of the first quarter and a third of anime in 2022. I quote from my Leaflet:\nMy clear early-frontrunner for anime of the year in 2022 is the excellent third and final season of Teasing Master Takagi-san. The first two seasons were good fun, but neither was quite anime of the year caliber (although the second season …",
-          "link": "https://newleafannex.bearblog.dev/early-thoughts-on-anime-in-2023/",
-          "publishedOn": "2023-05-15T18:45:10.776Z",
-          "wordCount": 1703,
-          "title": "Early thoughts on anime in 2023",
-          "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "N.A. Ferrell",
@@ -891,16 +860,6 @@
           "wordCount": 121,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110374132038908828",
-          "author": null,
-          "description": "On using an open source project called Osmosfeed to create a GitHub Pages-powered New Leaf Journal feed aggregator.\nhttps://thenewleafjournal.com/introducing-our-osmosfeed-aggregator/\n#rss #rssfeed #github #aggregator #osmosfeed",
-          "link": "https://linuxrocks.online/@nafnlj/110374132038908828",
-          "publishedOn": "2023-05-15T18:33:18.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -1158,16 +1117,6 @@
           "publishedOn": "2023-05-28T23:38:23.000Z",
           "wordCount": null,
           "title": "Victor V. Gurbo & Co. \"I Am The Man Who's Always Late\" Live at the Lustre Pearl Rainey (4/16/22)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gSB1bdig6PE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gSB1bdig6PE",
-          "publishedOn": "2023-05-16T01:00:09.000Z",
-          "wordCount": null,
-          "title": "Victor V. Gurbo & Co. \"The Bartender Has Been Drinking\" Live at the Lustre Pearl Rainey (4/16/22)",
           "imageUrl": null
         }
       ]

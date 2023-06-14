@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-13T23:13:20.119Z</updated>
+    <updated>2023-06-14T13:18:00.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ESPN States Tim Duncan was “Born Overseas”]]></title>
+        <id>https://thenewleafjournal.com/?p=20523</id>
+        <link href="https://thenewleafjournal.com/espn-states-tim-duncan-was-born-overseas/"/>
+        <updated>2023-06-14T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[I saw that the Denver Nuggets won their first NBA championship last night. I have been somewhat out of the NBA […]
+Possibly related posts...
+
+All About the Saw-whet Owl
+Noncitizen Nationals as Immigrant Visa Petitioners
+Mosley on Mayweather: Confidence and Fear
+Tim Hortons Settles Claims Related to Creepy App
+Seeing Hopkins-Jones II at the Theater
+Playing Through Cancer in Silence: Shawn Respert's NBA Story
+On Learning How to Ride a Skateboard Before Learning Tricks
+History of Thanksgiving Proclamations in the Philippines
+Immigration Issues in NYPD Chinese Agent Case]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110538641600553897</id>
@@ -1694,104 +1715,6 @@ Feeds and Read-It-Later for Online Reading
 A Note on Seeing From Along the Ray
 The New Leaf Journal Twitter
 A Walk Across the Hamilton Avenue Footbridge]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victor V. Gurbo & Co. "The Bartender Has Been Drinking" Live at the Lustre Pearl Rainey (4/16/22)]]></title>
-        <id>https://www.youtube.com/watch?v=gSB1bdig6PE</id>
-        <link href="https://www.youtube.com/watch?v=gSB1bdig6PE"/>
-        <updated>2023-05-16T01:00:09.000Z</updated>
-        <author>
-            <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Early thoughts on anime in 2023]]></title>
-        <id>https://newleafannex.bearblog.dev/early-thoughts-on-anime-in-2023/</id>
-        <link href="https://newleafannex.bearblog.dev/early-thoughts-on-anime-in-2023/"/>
-        <updated>2023-05-15T18:45:10.776Z</updated>
-        <summary type="html"><![CDATA[People who follow me on my main project, The New Leaf Journal, will know that I follow the latest anime series (the ones I can tolerate, at least). I published year-in-review pieces for 2021 and 2022 with my top-six rankings.
-2021 Review
-2022 Review
-I published my 2022 review in a timely manner in January 2023. However, I published my 2021 review in April 2022. Fresh off my very late 2021 review, I published a short Leaflet post on April 26, 2022, offering my initial impressions of the first quarter and a third of anime in 2022. I quote from my Leaflet:
-My clear early-frontrunner for anime of the year in 2022 is the excellent third and final season of Teasing Master Takagi-san. The first two seasons were good fun, but neither was quite anime of the year caliber (although the second season …]]></summary>
-        <author>
-            <name>The New Leaf Annex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110374132038908828</id>
-        <link href="https://linuxrocks.online/@nafnlj/110374132038908828"/>
-        <updated>2023-05-15T18:33:18.000Z</updated>
-        <summary type="html"><![CDATA[On using an open source project called Osmosfeed to create a GitHub Pages-powered New Leaf Journal feed aggregator.
-https://thenewleafjournal.com/introducing-our-osmosfeed-aggregator/
-#rss #rssfeed #github #aggregator #osmosfeed]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Installing GrapheneOS on a Google Pixel 6a]]></title>
-        <id>https://thenewleafjournal.com/?p=20046</id>
-        <link href="https://thenewleafjournal.com/installing-grapheneos-on-a-google-pixel-6a/"/>
-        <updated>2023-05-15T16:29:28.000Z</updated>
-        <summary type="html"><![CDATA[Using GrapheneOS's handy web installer to put the hardened Android Open Source Project fork on a Google Pixel 6a phone.
-Possibly related posts...
-
-Installing and Running Bodhi Linux on a 2007 MacBook
-Recommended F-Droid FOSS Apps For Android-Based Devices…
-Review of /e/ - An Android Alternative For Mobile Phones
-Review of the Teracube 2e Smartphone
-Installing LineageOS on a 2013 Nexus 7 (Wi-Fi)
-Installing Ubuntu Touch on a Google Nexus 7 (2013)
-The Quiet End of Google Bookmarks
-Creating a Search Engine Shortcut For Google Timer
-A 2021 List of Alternative Search Engines and Search…]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXXV]]></title>
-        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20028</id>
-        <link href="https://thenewleafjournal.com/letter/newsletter-leaf-journal-cxxxv/"/>
-        <updated>2023-05-15T16:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the syndicated version of Newsletter Leaf Journal CXXXV. I mailed the original on Saturday, May 13, 2023. This newsletter […]
-Possibly related posts...
-
-The Newsletter Leaf Journal at 100
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin and Justina review 2022 at the NLJ
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The New Leaf Journal Celebrates Its First Birthday
-The New Leaf Journal Newsletter
-How to Find Substack RSS Feeds and Other Notes
-The Newsletter Leaf Journal VIII
-New Leaf Journal Third Birthday Reader]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Alvinston (Canada) Honey Bee]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20030</id>
-        <link href="https://thenewleafjournal.com/leafbud/the-alvinston-canada-honey-bee/"/>
-        <updated>2023-05-15T13:00:24.000Z</updated>
-        <summary type="html"><![CDATA[I subscribe to the Atlas Obscura  (link to feed). Sometimes it is not quite clear from the description what the link […]
-Possibly related posts...
-
-The American Bee Journal World's Fair Report
-Against Twitter as a Content Curator
-Proposals for Fact-Checking Reform
-Height differences in anime romances
-The Trees Leaf in May
-When President Coolidge Spared a Raccoon From Thanksgiving…
-The Poetry of Charlotte Becker - Early Twentieth Century…
-Babylon Bee on sushi being a prank
-Using Web Archives To Get Around CAPTCHAs]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
