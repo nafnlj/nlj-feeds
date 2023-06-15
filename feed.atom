@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-15T13:19:11.530Z</updated>
+    <updated>2023-06-15T18:18:15.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[hBlock blocks Washington Times sign-in]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20537</id>
+        <link href="https://thenewleafjournal.com/leaf/hblock-blocks-washington-times-sign-in/"/>
+        <updated>2023-06-15T16:13:13.000Z</updated>
+        <summary type="html"><![CDATA[I use hBlock on Linux. It is a script which adds a domain blocklist to the hosts file (also available for […]
+Possibly related posts...
+
+hBlock and My Attempt to Purchase Health Insurance in New…
+Masonic Portrait of George Washington
+Washington's 1789 Thanksgiving Proclamation
+A Children's Poem on George Washington
+An 1882 Children's Independence Day Poem
+Anna Jarvis and the Origin of Mother's Day in the United…
+"Washington's Birthday" Poem by Sangster
+1883 Opening of the Brooklyn Bridge
+Strange "create password" form rules]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110549078516588633</id>
+        <link href="https://linuxrocks.online/@nafnlj/110549078516588633"/>
+        <updated>2023-06-15T16:04:30.000Z</updated>
+        <summary type="html"><![CDATA[For those who are interested, it can be downloaded and played for free from the official source. It is a bit finicky to run. It requires a Japanese language environment. It also needs Japanese fonts or things won't display correctly (the default fonts I installed from the AUR did not work well here). I ran it on top of WINE without any problems after the initial configuration.  Unlike most of the al|together translations, there is no native Linux version (this one was written in KiriKiri instead of ONScripter-EN).
+https://apothes.is/hosted/at2006/collage.html
+#visualnovel #visualnovels]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110549067506998554</id>
+        <link href="https://linuxrocks.online/@nafnlj/110549067506998554"/>
+        <updated>2023-06-15T16:01:42.000Z</updated>
+        <summary type="html"><![CDATA[I reviewed a 2006 translation of a 2004 Japanese freeware visual novel called Collage last week. This one earns my clear recommendation. It is a story covering a couple of weeks in modern Japan told  from the perspective of three adults (probably in the age 28-30 range). Over the course of the story, we see how the lives of the characters are more connected than they seem. The translation reads very well and the story is clever. I also appreciated the game's visual flair and soundtrack, both of which reminded me a bit of Persona 3.
+https://thenewleafjournal.com/collage-visual-novel-review/
+#visualnovel #visualnovels #game #freeware #doujin #japan]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[For hBlock: https://github.com/hectorm/hblock]]></title>
         <id>https://memos.emucafe.org/m/13</id>

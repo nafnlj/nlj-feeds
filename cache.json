@@ -220,6 +220,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20537",
+          "author": "Nicholas A. Ferrell",
+          "description": "I use hBlock on Linux. It is a script which adds a domain blocklist to the hosts file (also available for […]\nPossibly related posts...\n\nhBlock and My Attempt to Purchase Health Insurance in New…\nMasonic Portrait of George Washington\nWashington's 1789 Thanksgiving Proclamation\nA Children's Poem on George Washington\nAn 1882 Children's Independence Day Poem\nAnna Jarvis and the Origin of Mother's Day in the United…\n\"Washington's Birthday\" Poem by Sangster\n1883 Opening of the Brooklyn Bridge\nStrange \"create password\" form rules",
+          "link": "https://thenewleafjournal.com/leaf/hblock-blocks-washington-times-sign-in/",
+          "publishedOn": "2023-06-15T16:13:13.000Z",
+          "wordCount": 1409,
+          "title": "hBlock blocks Washington Times sign-in",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=20519",
           "author": "Nicholas A. Ferrell",
           "description": "We use the Webmention plugin for WordPress to accept and send Webmentions. This is why I took the time to figure […]\nPossibly related posts...\n\nReviewing Koko Analytics: A Simple Privacy-Friendly…\nRemoving pages from Yandex Turbo\nFixing a WP Custom Post Type Permalink Error\nUpgrading WP Search With Relevanssi\nImplementing Article Series With WP Post Series\nUsing Nostr Verify for WordPress NIP-05\nMoving a WordPress Site With UpdraftPlus Free\nKeeping WP Comment Blacklist Up to Date\nIndieWeb Standards, RSS, and Atom",
@@ -591,6 +601,26 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110549078516588633",
+          "author": null,
+          "description": "For those who are interested, it can be downloaded and played for free from the official source. It is a bit finicky to run. It requires a Japanese language environment. It also needs Japanese fonts or things won't display correctly (the default fonts I installed from the AUR did not work well here). I ran it on top of WINE without any problems after the initial configuration.  Unlike most of the al|together translations, there is no native Linux version (this one was written in KiriKiri instead of ONScripter-EN).\nhttps://apothes.is/hosted/at2006/collage.html\n#visualnovel #visualnovels",
+          "link": "https://linuxrocks.online/@nafnlj/110549078516588633",
+          "publishedOn": "2023-06-15T16:04:30.000Z",
+          "wordCount": 120,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110549067506998554",
+          "author": null,
+          "description": "I reviewed a 2006 translation of a 2004 Japanese freeware visual novel called Collage last week. This one earns my clear recommendation. It is a story covering a couple of weeks in modern Japan told  from the perspective of three adults (probably in the age 28-30 range). Over the course of the story, we see how the lives of the characters are more connected than they seem. The translation reads very well and the story is clever. I also appreciated the game's visual flair and soundtrack, both of which reminded me a bit of Persona 3.\nhttps://thenewleafjournal.com/collage-visual-novel-review/\n#visualnovel #visualnovels #game #freeware #doujin #japan",
+          "link": "https://linuxrocks.online/@nafnlj/110549067506998554",
+          "publishedOn": "2023-06-15T16:01:42.000Z",
+          "wordCount": 121,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/110538641600553897",
           "author": null,
