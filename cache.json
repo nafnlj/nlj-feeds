@@ -869,6 +869,16 @@
       "siteUrl": "https://hypothes.is/stream",
       "articles": [
         {
+          "id": "https://hypothes.is/a/9GuhpAvHEe6-cq8MKLOBSg",
+          "author": null,
+          "description": "§ 1003.36 Record of proceeding.\nThe Immigration Court shall create and control the Record of Proceeding.\nRegulation providing that the Immigration Court is responsible for creating and controlling the Record of Proceeding.",
+          "link": "https://hypothes.is/a/9GuhpAvHEe6-cq8MKLOBSg",
+          "publishedOn": "2023-06-15T21:59:52.170Z",
+          "wordCount": 18,
+          "title": "eCFR :: 8 CFR 1003.36 -- Record of proceeding.",
+          "imageUrl": "/assets/images/share-image.png"
+        },
+        {
           "id": "https://hypothes.is/a/-vKnUgn7Ee6cELdc4l6Jpg",
           "author": null,
           "description": "Jokic joins Antetokounmpo, Dirk Nowitzki, Tony Parker, Tim Duncan and Hakeem Olajuwon as the only players born overseas to take home the Finals award.\nTim Duncan was born in the U.S. Virgin Islands, so I am not sure how \"overseas\" is being defined here.",
@@ -895,6 +905,16 @@
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/14",
+          "author": null,
+          "description": "https://www.ecfr.gov/current/title-8/chapter-V/subchapter-A/part-1003/subpart-C/section-1003.36\n8 CFR 1003.36\nThe Immigration Court shall create and control the Record of Proceeding.\n#law #ImmigrationLaw #ImmigrationCourtProcedure",
+          "link": "https://memos.emucafe.org/m/14",
+          "publishedOn": "2023-06-15T21:58:08.000Z",
+          "wordCount": 21,
+          "title": "https://www.ecfr.gov/current/title-8/chapter-V/subchapter-A/part-1003/subpart-C/section-1003.36",
+          "imageUrl": null
+        },
         {
           "id": "https://memos.emucafe.org/m/13",
           "author": null,

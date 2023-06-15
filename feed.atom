@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-15T18:18:15.112Z</updated>
+    <updated>2023-06-15T23:15:24.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[eCFR :: 8 CFR 1003.36 -- Record of proceeding.]]></title>
+        <id>https://hypothes.is/a/9GuhpAvHEe6-cq8MKLOBSg</id>
+        <link href="https://hypothes.is/a/9GuhpAvHEe6-cq8MKLOBSg"/>
+        <updated>2023-06-15T21:59:52.170Z</updated>
+        <summary type="html"><![CDATA[§ 1003.36 Record of proceeding.
+The Immigration Court shall create and control the Record of Proceeding.
+Regulation providing that the Immigration Court is responsible for creating and controlling the Record of Proceeding.]]></summary>
+        <author>
+            <name>Hypothesis Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[https://www.ecfr.gov/current/title-8/chapter-V/subchapter-A/part-1003/subpart-C/section-1003.36]]></title>
+        <id>https://memos.emucafe.org/m/14</id>
+        <link href="https://memos.emucafe.org/m/14"/>
+        <updated>2023-06-15T21:58:08.000Z</updated>
+        <summary type="html"><![CDATA[https://www.ecfr.gov/current/title-8/chapter-V/subchapter-A/part-1003/subpart-C/section-1003.36
+8 CFR 1003.36
+The Immigration Court shall create and control the Record of Proceeding.
+#law #ImmigrationLaw #ImmigrationCourtProcedure]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[hBlock blocks Washington Times sign-in]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20537</id>
