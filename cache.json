@@ -211,16 +211,6 @@
           "wordCount": 2057,
           "title": "Martha Stewart, SI Swimsuit, High School Memories",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20060",
-          "author": "Nicholas A. Ferrell",
-          "description": "An essay which describes personal blogs as the soul of the web leads me to consider personal blogs as the centerpiece of a social web.\nPossibly related posts...\n\nFediverse Clone Wars and Decentralized Social Media\nThe Small Web, Artisanal Content, and Humane Design\nAn Early Review of Pixelfed - Instagram Alternative\nATW 〜 Murakami on Bad Social Media Content\nImportance of Bing Indexing For Alt Search\nFeeds and Read-It-Later for Online Reading\nA Note on Seeing From Along the Ray\nThe New Leaf Journal Twitter\nA Walk Across the Hamilton Avenue Footbridge",
-          "link": "https://thenewleafjournal.com/social-webs-of-personal-websites/",
-          "publishedOn": "2023-05-16T16:37:08.000Z",
-          "wordCount": 3749,
-          "title": "Social webs of personal websites",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
         }
       ]
     },
@@ -474,16 +464,6 @@
           "publishedOn": "2023-05-17T15:20:49.000Z",
           "wordCount": 1454,
           "title": "Notes on Kirby’s friends in Dreamland 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20032",
-          "author": "Nicholas A. Ferrell",
-          "description": "From Roaming rooster captured by cops in lower Manhattan (NY Post – March 22, 2023): Cops then flocked to the scene […]\nPossibly related posts...\n\nWasteful talk show subsidies in New York\nIn Support of the Lawsuit Against NYC Dining Sheds\nOn NYC Curfews and Essential Workers\nThe Questionable NYC Mayoral Campaign About Page of Maya…\nA Rooster Statue in Brooklyn\nThe Awful About Page for Sara Tirschwell's NYC Mayoral…\nHarry Wilson Wants My Vote For Governor\nThe Arrival of Sparrows in the United States\nLow Standards For NYC Dating Scene",
-          "link": "https://thenewleafjournal.com/leafbud/lost-rooster-detained-in-new-york-city/",
-          "publishedOn": "2023-05-16T17:00:28.000Z",
-          "wordCount": 1441,
-          "title": "Lost Rooster Detained in New York City",
           "imageUrl": null
         }
       ]
@@ -850,16 +830,6 @@
           "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110379345939956760",
-          "author": null,
-          "description": "Three years to the day, I published a section introduction and something of a statement of intent for the more thoughtful essays at The New Leaf Journal: \"Welcome to The Emu Café.\"\nhttps://thenewleafjournal.com/welcome-to-the-emu-cafe/\n#aesthetics #blog #writing #seasons #anecdote",
-          "link": "https://linuxrocks.online/@nafnlj/110379345939956760",
-          "publishedOn": "2023-05-16T16:39:16.000Z",
-          "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -895,6 +865,16 @@
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/13",
+          "author": null,
+          "description": "For hBlock: https://github.com/hectorm/hblock\nCommand for temporary clearing domain list from hosts file:\nhblock -S none -D none\n\nDiscussed in past article: https://thenewleafjournal.com/hblock-and-my-attempt-to-purchase-health-insurance-in-new-york/\nAlso found hBlock prevents sign-in to Washington Times.\n#hblock #adblocking #linux",
+          "link": "https://memos.emucafe.org/m/13",
+          "publishedOn": "2023-06-15T02:49:29.000Z",
+          "wordCount": 21,
+          "title": "For hBlock: https://github.com/hectorm/hblock",
+          "imageUrl": null
+        },
         {
           "id": "https://memos.emucafe.org/m/11",
           "author": null,
