@@ -53,6 +53,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20543",
+          "author": "Nicholas A. Ferrell",
+          "description": "We review a sentimental visual novel about family set in the Japanese countryside (mild sci-fi may also be included).\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nFlood of Tears - Visual Novel Review\nCrimsoness - Visual Novel Review\nRed Shift Visual Novel Review\nMay Sky - Visual Novel Review\nio [Christmas Eve] - Visual Novel Review\nFrom the Bottom of the Heart - VN Review\nPlain Song - Visual Novel Review\nUntil We Meet Again - Visual Novel Review",
+          "link": "https://thenewleafjournal.com/the-letter-tegami-visual-novel-review/",
+          "publishedOn": "2023-06-16T18:04:27.000Z",
+          "wordCount": 4354,
+          "title": "The Letter (Tegami) – Visual Novel Review",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/06/tegami-title.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20539",
           "author": "Nicholas A. Ferrell",
           "description": "NoPaste is a free and open source pastebin of sorts. It was created by Mr. Boris Kubiak and the source code is […]\nPossibly related posts...\n\nNew Leaf Journal Third Birthday Reader\nBird in Review 〜 Yellow Throated Toucan\nImplementing Article Series With WP Post Series\nJustin and Justina review 2022 at the NLJ\nMatter of Man, 12 I&N Dec. 305 (BIA 1967) - BIA Hong Kong…\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nReviewing Koko Analytics: A Simple Privacy-Friendly…\nOn DRM-Free Games on Steam\nSubstack Notes' Twitter clone war",
@@ -219,6 +229,16 @@
       "feedUrl": "https://thenewleafjournal.com/leaf/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20563",
+          "author": "Nicholas A. Ferrell",
+          "description": "I like peanut butter sandwiches on cinnamon raisin bread. I leave unsalted peanuts and raisins. I do not have cinnamon raisin […]\nPossibly related posts...\n\nHalloween Cooking and Decorating Tips From 1913\nThe Enigmatic Life and Death of Emperor Otho\nAmerican Breakfast, Lunch, and Dinner Home Menus From 1913\n\"Coffee Fruit Punch\" - A Cookbook Abomination\nTea, Bread, and The Spectator in England in 1710\nAnime Recommendations of the Decade (2011-20)\nACE Academy - Visual Novel Review\nThe al|together and Insani Visual Novel Translations\nThe Best of Anime in 2022: Year in Review",
+          "link": "https://thenewleafjournal.com/leaf/peanuts-and-raisins/",
+          "publishedOn": "2023-06-16T18:03:52.000Z",
+          "wordCount": 1390,
+          "title": "Peanuts and raisins",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/06/peanuts-and-raisins-nlj.jpg"
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=20537",
           "author": "Nicholas A. Ferrell",

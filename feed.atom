@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-16T13:18:06.549Z</updated>
+    <updated>2023-06-16T18:18:15.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Letter (Tegami) – Visual Novel Review]]></title>
+        <id>https://thenewleafjournal.com/?p=20543</id>
+        <link href="https://thenewleafjournal.com/the-letter-tegami-visual-novel-review/"/>
+        <updated>2023-06-16T18:04:27.000Z</updated>
+        <summary type="html"><![CDATA[We review a sentimental visual novel about family set in the Japanese countryside (mild sci-fi may also be included).
+Possibly related posts...
+
+The al|together and Insani Visual Novel Translations
+Flood of Tears - Visual Novel Review
+Crimsoness - Visual Novel Review
+Red Shift Visual Novel Review
+May Sky - Visual Novel Review
+io [Christmas Eve] - Visual Novel Review
+From the Bottom of the Heart - VN Review
+Plain Song - Visual Novel Review
+Until We Meet Again - Visual Novel Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peanuts and raisins]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20563</id>
+        <link href="https://thenewleafjournal.com/leaf/peanuts-and-raisins/"/>
+        <updated>2023-06-16T18:03:52.000Z</updated>
+        <summary type="html"><![CDATA[I like peanut butter sandwiches on cinnamon raisin bread. I leave unsalted peanuts and raisins. I do not have cinnamon raisin […]
+Possibly related posts...
+
+Halloween Cooking and Decorating Tips From 1913
+The Enigmatic Life and Death of Emperor Otho
+American Breakfast, Lunch, and Dinner Home Menus From 1913
+"Coffee Fruit Punch" - A Cookbook Abomination
+Tea, Bread, and The Spectator in England in 1710
+Anime Recommendations of the Decade (2011-20)
+ACE Academy - Visual Novel Review
+The al|together and Insani Visual Novel Translations
+The Best of Anime in 2022: Year in Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deploying NoPaste to Surge.sh]]></title>
         <id>https://thenewleafjournal.com/?p=20539</id>
