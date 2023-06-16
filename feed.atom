@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-15T23:15:24.540Z</updated>
+    <updated>2023-06-16T13:18:06.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deploying NoPaste to Surge.sh]]></title>
+        <id>https://thenewleafjournal.com/?p=20539</id>
+        <link href="https://thenewleafjournal.com/deploying-nopaste-to-surge/"/>
+        <updated>2023-06-16T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[NoPaste is a free and open source pastebin of sorts. It was created by Mr. Boris Kubiak and the source code is […]
+Possibly related posts...
+
+New Leaf Journal Third Birthday Reader
+Bird in Review 〜 Yellow Throated Toucan
+Implementing Article Series With WP Post Series
+Justin and Justina review 2022 at the NLJ
+Matter of Man, 12 I&N Dec. 305 (BIA 1967) - BIA Hong Kong…
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+Reviewing Koko Analytics: A Simple Privacy-Friendly…
+On DRM-Free Games on Steam
+Substack Notes' Twitter clone war]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[eCFR :: 8 CFR 1003.36 -- Record of proceeding.]]></title>
         <id>https://hypothes.is/a/9GuhpAvHEe6-cq8MKLOBSg</id>
@@ -1693,60 +1714,6 @@ Justin and Justina review 2022 at the NLJ
 Oldest Golfers to Contend for Majors Between the 1968 and…
 A 2021 List of Alternative Search Engines and Search…
 Help! I Think My TV Is Watching Me]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110384769840497228</id>
-        <link href="https://linuxrocks.online/@nafnlj/110384769840497228"/>
-        <updated>2023-05-17T15:38:38.000Z</updated>
-        <summary type="html"><![CDATA[An article on a scene from Thornton Wilder's classic 1937 play, Our Town, wherein a girl asks her mother "Am I Pretty?" After pressing her mother to give a "serious" answer, her mother responds "You're pretty enough for all normal purposes."
-https://thenewleafjournal.com/our-town-pretty-enough-for-all-normal-purposes/
-#play #ourtown #literature #parenting #humor]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Martha Stewart, SI Swimsuit, High School Memories]]></title>
-        <id>https://thenewleafjournal.com/?p=20065</id>
-        <link href="https://thenewleafjournal.com/martha-stewart-si-swimsuit-high-school-memories/"/>
-        <updated>2023-05-17T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let me tell you a story about how the news that Ms. Martha Stewart will be one of the cover models for the 2023 SI Swimsuit Issue reminded me of a story from my high school in 2007.
-Possibly related posts...
-
-The Nice Boat 〜 A Look Back at the School Days Anime
-Tokyo High Schools Change Hair Color Dress Code Policies
-Anime Recommendations of the Decade (2011-20)
-Hair Color Dress Code Rules in Japan
-Takaki's Memories in 5 Centimeters Per Second
-What Makes a Depressing Anime? Discussion and Selection.
-The July 4 Death of James Monroe
-At Summer's End - Visual Novel Review
-The Angel Next Door Spoils Me Rotten - Anime Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes on Kirby’s friends in Dreamland 2]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20033</id>
-        <link href="https://thenewleafjournal.com/leafbud/notes-on-kirbys-friends-in-dreamland-2/"/>
-        <updated>2023-05-17T15:20:49.000Z</updated>
-        <summary type="html"><![CDATA[From a report on the Nintendo Switch Virtual Console release of Kirby’s Dreamland 2, which was originally released for the Game […]
-Possibly related posts...
-
-Video Game Visuals That Age Well
-Paying Game Boy Dues For a Nintendo Switch
-Stadia and the Value of Owning Games
-Bonner's "In Dreamland" Bedtime Story
-The Aborted Nintendo-Minnesota Lottery Scheme
-The Quarantine Sessions: Covering The Beatles
-History of the Mario Party Gloves
-Mario Party's Joystick-Wrecking Rotation Games
-Bing's and DuckDuckGo's CCP Problem]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>

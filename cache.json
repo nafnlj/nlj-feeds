@@ -53,6 +53,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20539",
+          "author": "Nicholas A. Ferrell",
+          "description": "NoPaste is a free and open source pastebin of sorts. It was created by Mr. Boris Kubiak and the source code is […]\nPossibly related posts...\n\nNew Leaf Journal Third Birthday Reader\nBird in Review 〜 Yellow Throated Toucan\nImplementing Article Series With WP Post Series\nJustin and Justina review 2022 at the NLJ\nMatter of Man, 12 I&N Dec. 305 (BIA 1967) - BIA Hong Kong…\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nReviewing Koko Analytics: A Simple Privacy-Friendly…\nOn DRM-Free Games on Steam\nSubstack Notes' Twitter clone war",
+          "link": "https://thenewleafjournal.com/deploying-nopaste-to-surge/",
+          "publishedOn": "2023-06-16T11:30:00.000Z",
+          "wordCount": 2676,
+          "title": "Deploying NoPaste to Surge.sh",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/06/nopaste-capture.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20523",
           "author": "Nicholas A. Ferrell",
           "description": "I saw that the Denver Nuggets won their first NBA championship last night. I have been somewhat out of the NBA […]\nPossibly related posts...\n\nAll About the Saw-whet Owl\nNoncitizen Nationals as Immigrant Visa Petitioners\nMosley on Mayweather: Confidence and Fear\nTim Hortons Settles Claims Related to Creepy App\nSeeing Hopkins-Jones II at the Theater\nPlaying Through Cancer in Silence: Shawn Respert's NBA Story\nOn Learning How to Ride a Skateboard Before Learning Tricks\nHistory of Thanksgiving Proclamations in the Philippines\nImmigration Issues in NYPD Chinese Agent Case",
@@ -201,16 +211,6 @@
           "wordCount": 2993,
           "title": "Streaming from Android to PocketBook",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/05/http-screen-stream-sc.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20065",
-          "author": "Nicholas A. Ferrell",
-          "description": "Let me tell you a story about how the news that Ms. Martha Stewart will be one of the cover models for the 2023 SI Swimsuit Issue reminded me of a story from my high school in 2007.\nPossibly related posts...\n\nThe Nice Boat 〜 A Look Back at the School Days Anime\nTokyo High Schools Change Hair Color Dress Code Policies\nAnime Recommendations of the Decade (2011-20)\nHair Color Dress Code Rules in Japan\nTakaki's Memories in 5 Centimeters Per Second\nWhat Makes a Depressing Anime? Discussion and Selection.\nThe July 4 Death of James Monroe\nAt Summer's End - Visual Novel Review\nThe Angel Next Door Spoils Me Rotten - Anime Review",
-          "link": "https://thenewleafjournal.com/martha-stewart-si-swimsuit-high-school-memories/",
-          "publishedOn": "2023-05-17T15:30:00.000Z",
-          "wordCount": 2057,
-          "title": "Martha Stewart, SI Swimsuit, High School Memories",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
         }
       ]
     },
@@ -464,16 +464,6 @@
           "publishedOn": "2023-05-20T18:30:16.000Z",
           "wordCount": 1459,
           "title": "Good ending theme for ep 6 of Raeliana",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20033",
-          "author": "Nicholas A. Ferrell",
-          "description": "From a report on the Nintendo Switch Virtual Console release of Kirby’s Dreamland 2, which was originally released for the Game […]\nPossibly related posts...\n\nVideo Game Visuals That Age Well\nPaying Game Boy Dues For a Nintendo Switch\nStadia and the Value of Owning Games\nBonner's \"In Dreamland\" Bedtime Story\nThe Aborted Nintendo-Minnesota Lottery Scheme\nThe Quarantine Sessions: Covering The Beatles\nHistory of the Mario Party Gloves\nMario Party's Joystick-Wrecking Rotation Games\nBing's and DuckDuckGo's CCP Problem",
-          "link": "https://thenewleafjournal.com/leafbud/notes-on-kirbys-friends-in-dreamland-2/",
-          "publishedOn": "2023-05-17T15:20:49.000Z",
-          "wordCount": 1454,
-          "title": "Notes on Kirby’s friends in Dreamland 2",
           "imageUrl": null
         }
       ]
@@ -848,16 +838,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110401980107215464",
           "publishedOn": "2023-05-20T16:35:26.000Z",
           "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110384769840497228",
-          "author": null,
-          "description": "An article on a scene from Thornton Wilder's classic 1937 play, Our Town, wherein a girl asks her mother \"Am I Pretty?\" After pressing her mother to give a \"serious\" answer, her mother responds \"You're pretty enough for all normal purposes.\"\nhttps://thenewleafjournal.com/our-town-pretty-enough-for-all-normal-purposes/\n#play #ourtown #literature #parenting #humor",
-          "link": "https://linuxrocks.online/@nafnlj/110384769840497228",
-          "publishedOn": "2023-05-17T15:38:38.000Z",
-          "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
         }
