@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-17T13:16:03.764Z</updated>
+    <updated>2023-06-17T18:17:21.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RSS feed for staying on top of MikroTik Router OS updates:]]></title>
+        <id>https://memos.emucafe.org/m/15</id>
+        <link href="https://memos.emucafe.org/m/15"/>
+        <updated>2023-06-17T17:41:54.000Z</updated>
+        <summary type="html"><![CDATA[RSS feed for staying on top of MikroTik Router OS updates:
+https://mikrotik.com/current.rss
+#MikroTik #feeds]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110560631953354605</id>
+        <link href="https://linuxrocks.online/@nafnlj/110560631953354605"/>
+        <updated>2023-06-17T17:02:41.000Z</updated>
+        <summary type="html"><![CDATA[My Nintendo Switch Pro Controller died. My favorite game controller ever is the Dreamcast, so I decided to be creative and get a GuilKit KingKong 2 Pro with a Hall Effect joystick to rekindle the magic. It came in very nice packaging and the joystick feels nice. Will test it... soon.
+#nintendoswitch #guilkit #HallEffect #dreamcast #videogames]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Letter (Tegami) – Visual Novel Review]]></title>
         <id>https://thenewleafjournal.com/?p=20543</id>

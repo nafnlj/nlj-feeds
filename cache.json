@@ -592,6 +592,16 @@
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
         {
+          "id": "https://linuxrocks.online/@nafnlj/110560631953354605",
+          "author": null,
+          "description": "My Nintendo Switch Pro Controller died. My favorite game controller ever is the Dreamcast, so I decided to be creative and get a GuilKit KingKong 2 Pro with a Hall Effect joystick to rekindle the magic. It came in very nice packaging and the joystick feels nice. Will test it... soon.\n#nintendoswitch #guilkit #HallEffect #dreamcast #videogames",
+          "link": "https://linuxrocks.online/@nafnlj/110560631953354605",
+          "publishedOn": "2023-06-17T17:02:41.000Z",
+          "wordCount": 119,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxrocks.online/@nafnlj/110549078516588633",
           "author": null,
           "description": "For those who are interested, it can be downloaded and played for free from the official source. It is a bit finicky to run. It requires a Japanese language environment. It also needs Japanese fonts or things won't display correctly (the default fonts I installed from the AUR did not work well here). I ran it on top of WINE without any problems after the initial configuration.  Unlike most of the al|together translations, there is no native Linux version (this one was written in KiriKiri instead of ONScripter-EN).\nhttps://apothes.is/hosted/at2006/collage.html\n#visualnovel #visualnovels",
@@ -885,6 +895,16 @@
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/15",
+          "author": null,
+          "description": "RSS feed for staying on top of MikroTik Router OS updates:\nhttps://mikrotik.com/current.rss\n#MikroTik #feeds",
+          "link": "https://memos.emucafe.org/m/15",
+          "publishedOn": "2023-06-17T17:41:54.000Z",
+          "wordCount": 21,
+          "title": "RSS feed for staying on top of MikroTik Router OS updates:",
+          "imageUrl": null
+        },
         {
           "id": "https://memos.emucafe.org/m/14",
           "author": null,
