@@ -6,6 +6,16 @@
       "siteUrl": "https://github.com/nafnlj/nljfeeds/commits/main",
       "articles": [
         {
+          "id": "https://github.com/nafnlj/nljfeeds/commit/e23ba2cddb3683197df9a6c242dddad93b477584",
+          "author": null,
+          "description": "Update osmosfeed.yaml\n\nAdded NLJ RSS feed",
+          "link": "https://github.com/nafnlj/nljfeeds/commit/e23ba2cddb3683197df9a6c242dddad93b477584",
+          "publishedOn": "2023-06-17T23:43:56.000Z",
+          "wordCount": 445,
+          "title": "Update osmosfeed.yaml",
+          "imageUrl": "https://opengraph.githubassets.com/05cd139d02dad04a1c86c83578ad1a706ec373f3270be549693b2a4eb71c8d90/nafnlj/nljfeeds/commit/e23ba2cddb3683197df9a6c242dddad93b477584"
+        },
+        {
           "id": "https://github.com/nafnlj/nljfeeds/commit/e42228253eb74df650f9ba7e307b2bc0456a6047",
           "author": null,
           "description": "Update osmosfeed.yaml\n\nAdd N.A. Ferrell's Hacker News RSS feed",
@@ -1227,6 +1237,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Hacker News - Newest: \"thenewleafjournal\"",
+      "feedUrl": "https://hnrss.org/newest?q=thenewleafjournal",
+      "siteUrl": "https://news.ycombinator.com/newest",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

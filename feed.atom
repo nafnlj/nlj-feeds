@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-17T23:29:47.946Z</updated>
+    <updated>2023-06-17T23:44:17.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
+        <id>https://github.com/nafnlj/nljfeeds/commit/e23ba2cddb3683197df9a6c242dddad93b477584</id>
+        <link href="https://github.com/nafnlj/nljfeeds/commit/e23ba2cddb3683197df9a6c242dddad93b477584"/>
+        <updated>2023-06-17T23:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Update osmosfeed.yaml
+
+Added NLJ RSS feed]]></summary>
+        <author>
+            <name>Recent Commits to nljfeeds:main</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
         <id>https://github.com/nafnlj/nljfeeds/commit/e42228253eb74df650f9ba7e307b2bc0456a6047</id>
