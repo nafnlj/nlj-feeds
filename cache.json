@@ -54,16 +54,6 @@
           "wordCount": 423,
           "title": "Update osmosfeed.yaml",
           "imageUrl": "https://opengraph.githubassets.com/0c4de8f58ca5cd63044ca373d1a9e75dbd66bd46f40efcb3fac7c1a6df39e0e3/nafnlj/nljfeeds/commit/7d612c5d21fd720764954f55de62219f202a9841"
-        },
-        {
-          "id": "https://github.com/nafnlj/nljfeeds/commit/ffd247cd26b13b8f3bb47cbd5d95b2b7f717aeb6",
-          "author": null,
-          "description": "Update README.md\n\nAdd link to NLJ Osmosfeed article.",
-          "link": "https://github.com/nafnlj/nljfeeds/commit/ffd247cd26b13b8f3bb47cbd5d95b2b7f717aeb6",
-          "publishedOn": "2023-05-20T05:41:48.000Z",
-          "wordCount": 514,
-          "title": "Update README.md",
-          "imageUrl": "https://opengraph.githubassets.com/8f48485e069943e03e8f01f3cbc57bf0b5869d7c721adc6999f4a3e7ab95e6d7/nafnlj/nljfeeds/commit/ffd247cd26b13b8f3bb47cbd5d95b2b7f717aeb6"
         }
       ]
     },
@@ -356,6 +346,16 @@
       "feedUrl": "https://thenewleafjournal.com/leafbud/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20579",
+          "author": "Nicholas A. Ferrell",
+          "description": "From a May 15, 2023 article by Mr. Brad Linder of Liliputing: Now a startup called Telly is going a step […]\nPossibly related posts...\n\nWhat Makes a Depressing Anime? Discussion and Selection.\nJustin and Justina 〜 Convincing a Google Devotee to Try…\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nOn DRM-Free Games on Steam\nThe Poor Little Bird - Visual Novel Review\nMoving a WordPress Site With UpdraftPlus Free\nOn Improving the Environment For Gaming On Linux\nACE Academy - Visual Novel Review\nInstalling and Running Bodhi Linux on a 2007 MacBook",
+          "link": "https://thenewleafjournal.com/leafbud/tellys-free-dystopia-tv/",
+          "publishedOn": "2023-06-18T16:30:00.000Z",
+          "wordCount": 1544,
+          "title": "Telly’s “free” dystopia TV",
+          "imageUrl": null
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20359",
           "author": "Nicholas A. Ferrell",
@@ -878,6 +878,16 @@
       "feedUrl": "https://hypothes.is/stream.atom?user=nafnlj",
       "siteUrl": "https://hypothes.is/stream",
       "articles": [
+        {
+          "id": "https://hypothes.is/a/59PQ8A3zEe62l1eRbZcA5Q",
+          "author": null,
+          "description": "How do you organize all of the things you read?\nMy system is actually pretty simple, and it relies on organizing my regular reads, quick digesting and sorting one-off articles, and sometimes doing extensive note-taking with online apps.\nI agree that reading is a key part of writing.",
+          "link": "https://hypothes.is/a/59PQ8A3zEe62l1eRbZcA5Q",
+          "publishedOn": "2023-06-18T16:19:31.214Z",
+          "wordCount": 18,
+          "title": "How to Read and Organize Online Articles (Without Driving Yourself Crazy)",
+          "imageUrl": "/assets/images/share-image.png"
+        },
         {
           "id": "https://hypothes.is/a/KFq3yA2HEe6YGLdwLeok0Q",
           "author": null,

@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-18T13:16:22.229Z</updated>
+    <updated>2023-06-18T18:17:37.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Telly’s “free” dystopia TV]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20579</id>
+        <link href="https://thenewleafjournal.com/leafbud/tellys-free-dystopia-tv/"/>
+        <updated>2023-06-18T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[From a May 15, 2023 article by Mr. Brad Linder of Liliputing: Now a startup called Telly is going a step […]
+Possibly related posts...
+
+What Makes a Depressing Anime? Discussion and Selection.
+Justin and Justina 〜 Convincing a Google Devotee to Try…
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+On DRM-Free Games on Steam
+The Poor Little Bird - Visual Novel Review
+Moving a WordPress Site With UpdraftPlus Free
+On Improving the Environment For Gaming On Linux
+ACE Academy - Visual Novel Review
+Installing and Running Bodhi Linux on a 2007 MacBook]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Read and Organize Online Articles (Without Driving Yourself Crazy)]]></title>
+        <id>https://hypothes.is/a/59PQ8A3zEe62l1eRbZcA5Q</id>
+        <link href="https://hypothes.is/a/59PQ8A3zEe62l1eRbZcA5Q"/>
+        <updated>2023-06-18T16:19:31.214Z</updated>
+        <summary type="html"><![CDATA[How do you organize all of the things you read?
+My system is actually pretty simple, and it relies on organizing my regular reads, quick digesting and sorting one-off articles, and sometimes doing extensive note-taking with online apps.
+I agree that reading is a key part of writing.]]></summary>
+        <author>
+            <name>Hypothesis Stream</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Several of the spring 2023 anime season series have picked up in their second halves since I [expres...]]></title>
         <id>https://memos.emucafe.org/m/16</id>
@@ -1818,18 +1851,6 @@ https://thenewleafjournal.com/leaf/the-best-nintendo-controllers/
 #nintendo #videogames #controller #snes #switch #gamecube #nes #virtualboy #wiiu]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update README.md]]></title>
-        <id>https://github.com/nafnlj/nljfeeds/commit/ffd247cd26b13b8f3bb47cbd5d95b2b7f717aeb6</id>
-        <link href="https://github.com/nafnlj/nljfeeds/commit/ffd247cd26b13b8f3bb47cbd5d95b2b7f717aeb6"/>
-        <updated>2023-05-20T05:41:48.000Z</updated>
-        <summary type="html"><![CDATA[Update README.md
-
-Add link to NLJ Osmosfeed article.]]></summary>
-        <author>
-            <name>Recent Commits to nljfeeds:main</name>
         </author>
     </entry>
 </feed>
