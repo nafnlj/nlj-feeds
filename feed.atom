@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-19T23:15:31.212Z</updated>
+    <updated>2023-06-20T13:17:51.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1817,27 +1817,6 @@ The New Leaf Journal Celebrates Its First Birthday
 Dialogue: Alpacas, Virus Cures, and Paca Plus
 An Essay on Productivity, Production, and Productive Leisure
 Is my cat deaf, or does she just not give a...?]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoughts: Porn Hub blocks access in Utah]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20038</id>
-        <link href="https://thenewleafjournal.com/leafbud/thoughts-porn-hub-blocks-access-in-utah/"/>
-        <updated>2023-05-21T17:00:22.000Z</updated>
-        <summary type="html"><![CDATA[From a Catholic News Agency report (May 2, 2023): A Utah bill that is designed to prevent minors from accessing pornography […]
-Possibly related posts...
-
-Productivity Window Shopping and Backlogs
-An Essay on Productivity, Production, and Productive Leisure
-Cheap USB-C Hubs and Short-Lasting Tech
-The Great Chelsea Fire of 1908 - 114 Years Later
-Seeing the Blue Angels and Thunderbirds from Columbia Street…
-A Second Look at the April New York City Flyover
-The al|together and Insani Visual Novel Translations
-Implementing Article Series With WP Post Series
-Introducing the 1922 Better Homes in America Demonstration…]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
