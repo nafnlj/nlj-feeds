@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-21T18:18:21.851Z</updated>
+    <updated>2023-06-21T23:15:02.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Running Yuuki! Novel version of Tegami on top of WINE:]]></title>
+        <id>https://memos.emucafe.org/m/19</id>
+        <link href="https://memos.emucafe.org/m/19"/>
+        <updated>2023-06-21T21:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Running Yuuki! Novel version of Tegami on top of WINE:
+No special requirements other than Japanese language environment and Japanese fonts.
+Download: https://www.freem.ne.jp/win/game/834
+#tegami #visualnovels #yuukinovel]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The world to reverse – Visual Novel Review]]></title>
+        <id>https://thenewleafjournal.com/?p=20590</id>
+        <link href="https://thenewleafjournal.com/the-world-to-reverse-visual-novel-review/"/>
+        <updated>2023-06-21T19:51:19.000Z</updated>
+        <summary type="html"><![CDATA[The world to reverse contains two distinct visual novels: hallucinate and Flanca. Both are more than a bit experimental and grim.
+Possibly related posts...
+
+I, Too, Saw Dreams Through Air - VN Review
+Visual Novel Review - Adagio
+The al|together and Insani Visual Novel Translations
+What Makes a Depressing Anime? Discussion and Selection.
+Flood of Tears - Visual Novel Review
+Red Shift Visual Novel Review
+Running Linux Visual Novels With ONScripter
+May Sky - Visual Novel Review
+Version history of Aru Fuyu no Monogatari]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flushing Redis to clear deleted comments]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20586</id>
