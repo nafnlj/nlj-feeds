@@ -63,6 +63,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20612",
+          "author": "Nicholas A. Ferrell",
+          "description": "New York City has a problem with apparently homeless people sleeping in ATM vestibules at night. (I have been led to […]\nPossibly related posts...\n\nThomas Sowell on Hard-Core Troublemakers\n1883 Opening of the Brooklyn Bridge\nWasteful talk show subsidies in New York\nIn Support of the Lawsuit Against NYC Dining Sheds\nOn NYC Curfews and Essential Workers\nThe Questionable NYC Mayoral Campaign About Page of Maya…\nThe Awful About Page for Sara Tirschwell's NYC Mayoral…\nHarry Wilson Wants My Vote For Governor\nThe Arrival of Sparrows in the United States",
+          "link": "https://thenewleafjournal.com/against-camping-in-atm-vestibules/",
+          "publishedOn": "2023-06-22T11:17:00.000Z",
+          "wordCount": 2828,
+          "title": "Against camping in ATM vestibules",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20590",
           "author": "Nicholas A. Ferrell",
           "description": "The world to reverse contains two distinct visual novels: hallucinate and Flanca. Both are more than a bit experimental and grim.\nPossibly related posts...\n\nI, Too, Saw Dreams Through Air - VN Review\nVisual Novel Review - Adagio\nThe al|together and Insani Visual Novel Translations\nWhat Makes a Depressing Anime? Discussion and Selection.\nFlood of Tears - Visual Novel Review\nRed Shift Visual Novel Review\nRunning Linux Visual Novels With ONScripter\nMay Sky - Visual Novel Review\nVersion history of Aru Fuyu no Monogatari",
@@ -211,16 +221,6 @@
           "wordCount": 6860,
           "title": "1883 Opening of the Brooklyn Bridge",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/05/grand-display-of-fireworks-brooklyn-bridge.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20123",
-          "author": "Nicholas A. Ferrell",
-          "description": "Substack's view that its Notes platform is not a Twitter clone misses the forest through the trees.\nPossibly related posts...\n\nReviewing the Mastodon Twitter Crossposter\nAgainst Twitter as a Content Curator\nLearning How to Change a Twitter Username\nThe New Leaf Journal Twitter\nFediverse Clone Wars and Decentralized Social Media\nThe Enigmatic Life and Death of Emperor Otho\nHow to Find Substack RSS Feeds and Other Notes\nNew Leaf Journal Third Birthday Reader\nThe Best of Anime in 2022: Year in Review",
-          "link": "https://thenewleafjournal.com/substack-notes-twitter-clone-war/",
-          "publishedOn": "2023-05-23T17:32:12.000Z",
-          "wordCount": 3939,
-          "title": "Substack Notes’ Twitter clone war",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
         }
       ]
     },
@@ -348,16 +348,6 @@
           "wordCount": 1516,
           "title": "Building ONScripter-Insani on EndeavourOS",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20106",
-          "author": "Nicholas A. Ferrell",
-          "description": "From a Eurasianet report: Uzbekistan is to hold snap presidential elections on July 9, President Shavkat Mirziyoyev has said, citing the […]\nPossibly related posts...\n\nUzbek President Mirziyoyev's War and Peace of the Union\nHistory of Thanksgiving Proclamations in the Philippines\nBenjamin Harrison's Memorable July 4, 1888\nThe Story of Billy Possum, President Hoover's Pet Opossum\nCalvin Coolidge's 1922 \"Better Homes\" Remarks\nThe 999 Life of Herman Cain\nBiden, Lincoln, and Counting Back From the President's Birth\nAliens vs Noncitizens - The Anatomy of a Debate\nKazakhstan's Constitutional Reform",
-          "link": "https://thenewleafjournal.com/leaf/uzbek-snap-elections-and-presidential-term-limits/",
-          "publishedOn": "2023-05-23T16:30:17.000Z",
-          "wordCount": 1729,
-          "title": "Uzbek snap elections and presidential term limits",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
         }
       ]
     },

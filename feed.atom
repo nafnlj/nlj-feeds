@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-21T23:15:02.984Z</updated>
+    <updated>2023-06-22T13:18:17.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Against camping in ATM vestibules]]></title>
+        <id>https://thenewleafjournal.com/?p=20612</id>
+        <link href="https://thenewleafjournal.com/against-camping-in-atm-vestibules/"/>
+        <updated>2023-06-22T11:17:00.000Z</updated>
+        <summary type="html"><![CDATA[New York City has a problem with apparently homeless people sleeping in ATM vestibules at night. (I have been led to […]
+Possibly related posts...
+
+Thomas Sowell on Hard-Core Troublemakers
+1883 Opening of the Brooklyn Bridge
+Wasteful talk show subsidies in New York
+In Support of the Lawsuit Against NYC Dining Sheds
+On NYC Curfews and Essential Workers
+The Questionable NYC Mayoral Campaign About Page of Maya…
+The Awful About Page for Sara Tirschwell's NYC Mayoral…
+Harry Wilson Wants My Vote For Governor
+The Arrival of Sparrows in the United States]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Running Yuuki! Novel version of Tegami on top of WINE:]]></title>
         <id>https://memos.emucafe.org/m/19</id>
@@ -1788,48 +1809,6 @@ The Questionable NYC Mayoral Campaign About Page of Maya…
 The Awful About Page for Sara Tirschwell's NYC Mayoral…
 Harry Wilson Wants My Vote For Governor
 Freedom Tower in the Fog From the Brooklyn Bridge]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substack Notes’ Twitter clone war]]></title>
-        <id>https://thenewleafjournal.com/?p=20123</id>
-        <link href="https://thenewleafjournal.com/substack-notes-twitter-clone-war/"/>
-        <updated>2023-05-23T17:32:12.000Z</updated>
-        <summary type="html"><![CDATA[Substack's view that its Notes platform is not a Twitter clone misses the forest through the trees.
-Possibly related posts...
-
-Reviewing the Mastodon Twitter Crossposter
-Against Twitter as a Content Curator
-Learning How to Change a Twitter Username
-The New Leaf Journal Twitter
-Fediverse Clone Wars and Decentralized Social Media
-The Enigmatic Life and Death of Emperor Otho
-How to Find Substack RSS Feeds and Other Notes
-New Leaf Journal Third Birthday Reader
-The Best of Anime in 2022: Year in Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uzbek snap elections and presidential term limits]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20106</id>
-        <link href="https://thenewleafjournal.com/leaf/uzbek-snap-elections-and-presidential-term-limits/"/>
-        <updated>2023-05-23T16:30:17.000Z</updated>
-        <summary type="html"><![CDATA[From a Eurasianet report: Uzbekistan is to hold snap presidential elections on July 9, President Shavkat Mirziyoyev has said, citing the […]
-Possibly related posts...
-
-Uzbek President Mirziyoyev's War and Peace of the Union
-History of Thanksgiving Proclamations in the Philippines
-Benjamin Harrison's Memorable July 4, 1888
-The Story of Billy Possum, President Hoover's Pet Opossum
-Calvin Coolidge's 1922 "Better Homes" Remarks
-The 999 Life of Herman Cain
-Biden, Lincoln, and Counting Back From the President's Birth
-Aliens vs Noncitizens - The Anatomy of a Debate
-Kazakhstan's Constitutional Reform]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
