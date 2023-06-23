@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-22T23:18:43.612Z</updated>
+    <updated>2023-06-23T13:25:27.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Final thoughts:  *Skip to Loafer*]]></title>
+        <id>https://memos.emucafe.org/m/21</id>
+        <link href="https://memos.emucafe.org/m/21"/>
+        <updated>2023-06-23T02:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Final thoughts:  Skip to Loafer
+I was not familiar with the underlying Skip to Loafer manga when I saw a preview for the anime series, but the concept looked interesting enough.  Having finished the series, it left me a bit nonplussed.  The main character is Mitsumi Iwakura, an earnest girl from the countryside who attends high school in Tokyo to follow her dreams of becoming a politician who can revive her hometown.  Her friends play leading roles, but the co-main character is Sōsuke Shima, an attractive young man and former child actor who takes a liking to Mitsumi.  The entire series is pleasant enough, handled with care (see animation analysis) and I never considered not seeing it through to the end.  But while I have high tolerance for slow-paced shows and proverbial "slice of life* pieces, but Skip to Loafer took my tolerance a bit too far.  Mitsumi is charming, but not particularly interesting.  Souske sees some solid development in the end, but we never get to know him quite well enough to make his past engaging.  I could see a second season improving on the first with the initial character intros done, but the first, standing alone, was decent albeit forgettable.
+(The opening song and animation is very good, however.)
+#SkipToLoafer #anime]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penultimate episode thoughts:  *My Clueless First Friend*]]></title>
+        <id>https://memos.emucafe.org/m/20</id>
+        <link href="https://memos.emucafe.org/m/20"/>
+        <updated>2023-06-23T02:36:32.000Z</updated>
+        <summary type="html"><![CDATA[Penultimate episode thoughts:  My Clueless First Friend
+My Clueless First Friend is one of the better anime series of the season. I thought that episode 12, which aired on Sunday, was the final episode. It featured the most relationship development for the 5th grade main character duo and would have been a fine place to leave off. I was surprised at the end of the episode to see that there will be a 13th and final episode with 10 years later in the title.  While my assumption is that it will be a dream episode (my understanding is that the manga is ongoing), ending with a legitimate 10-year after look would be an interesting way to conclude an anime about a 5th grade boy extending a hand to a lonely girl and becoming aware of special feelings (the clueless concept is hardly extendable as they grow older).  I'm curious to see what the finale is.  A good finale would make My Clueless First Friend a viable year-end top six candidate.
+#anime #MyCluelessFirstFriend]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Against camping in ATM vestibules]]></title>
         <id>https://thenewleafjournal.com/?p=20612</id>
@@ -1790,27 +1815,6 @@ https://thenewleafjournal.com/1883-opening-of-the-brooklyn-bridge/
 #history #nyc #brooklyn #manhattan #brooklynbridge]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1883 Opening of the Brooklyn Bridge]]></title>
-        <id>https://thenewleafjournal.com/?p=20128</id>
-        <link href="https://thenewleafjournal.com/1883-opening-of-the-brooklyn-bridge/"/>
-        <updated>2023-05-24T17:29:24.000Z</updated>
-        <summary type="html"><![CDATA[A long post with original accounts from the May 24, 1883 opening of the Brooklyn Bridge.
-Possibly related posts...
-
-Wasteful talk show subsidies in New York
-In Support of the Lawsuit Against NYC Dining Sheds
-On NYC Curfews and Essential Workers
-A Trip Across Brooklyn's Summit Street Bridge
-The Brooklyn Bridge's Mysterious Cobweb Lane
-The Questionable NYC Mayoral Campaign About Page of Maya…
-The Awful About Page for Sara Tirschwell's NYC Mayoral…
-Harry Wilson Wants My Vote For Governor
-Freedom Tower in the Fog From the Brooklyn Bridge]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
