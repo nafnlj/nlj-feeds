@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-23T18:20:27.537Z</updated>
+    <updated>2023-06-23T23:16:39.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1803,18 +1803,6 @@ Visual Novel Review: "Summer, Cicadas, and the Girl"
 Visual Novel Review - Shooting Star Hill]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110424895385856676</id>
-        <link href="https://linuxrocks.online/@nafnlj/110424895385856676"/>
-        <updated>2023-05-24T17:43:05.000Z</updated>
-        <summary type="html"><![CDATA[New York City's iconic Brooklyn Bridge, which connects Brooklyn and Manhattan over the East River, officially opened to the public 140 years ago to the day. I collected original newspaper articles and materials to recount the events of festivities and ceremonies, which involved thousands of revelers and prominent persons, including then-President Chester Arthur.
-https://thenewleafjournal.com/1883-opening-of-the-brooklyn-bridge/
-#history #nyc #brooklyn #manhattan #brooklynbridge]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
