@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-25T23:16:41.086Z</updated>
+    <updated>2023-06-26T13:25:53.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo & Co. “Everyday (Buddy Holly)” Home Recording]]></title>
+        <id>https://www.youtube.com/watch?v=TRrwc3aqFbo</id>
+        <link href="https://www.youtube.com/watch?v=TRrwc3aqFbo"/>
+        <updated>2023-06-26T01:41:23.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Jouranl CXLI 〜 Newsletter to reverse. 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/141/</id>
@@ -1718,48 +1727,6 @@ Eisenhower's 1954 Veterans Day Proclamation]]></summary>
         <updated>2023-05-28T23:38:23.000Z</updated>
         <author>
             <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building ONScripter-Insani on EndeavourOS]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20248</id>
-        <link href="https://thenewleafjournal.com/leaf/building-onscripter-insani-on-endeavouros/"/>
-        <updated>2023-05-27T20:24:30.000Z</updated>
-        <summary type="html"><![CDATA[Insani, the visual translation circle behind most of the al|together visual novel translations that I am in the process of reviewing […]
-Possibly related posts...
-
-The al|together and Insani Visual Novel Translations
-Going From ONScripter Visual Novel .exe to Native Linux
-Running ONScripter-En in Linux Visual Novel Directory
-Running Linux Visual Novels With ONScripter
-Red Shift Visual Novel Review
-Flood of Tears - Visual Novel Review
-MIDI sound for games on Arch-based distro
-A Winter's Tale - Visual Novel Review
-io [Christmas Eve] - Visual Novel Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Journal CXXXVII 〜 crimson[ewsletter]ess 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/newsletter-journal-cxxxvii/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/newsletter-journal-cxxxvii/"/>
-        <updated>2023-05-27T16:46:54.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 137th edition of The Newsletter Leaf Journal, the official newsletter of the perenially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.
-We published some interesting articles and short posts during the last week. We also added a new section to The New Leaf Journal. We will recap all of that below along with interesting links from around the web and other news and notes.
-Table of contents
-Leaves from the week that was
-Leaves from around the web
-The Old Leaf Journal
-Most-turned leaves of the newsletter week
-News leaf journal
-Notable leaf journal
-Taking leaf
-Leaves from the week that was
-I published five regular articles and eight short posts sinc…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>

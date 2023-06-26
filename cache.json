@@ -318,16 +318,6 @@
           "wordCount": 1494,
           "title": "Radicale-DecSync AUR issues",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20248",
-          "author": "Nicholas A. Ferrell",
-          "description": "Insani, the visual translation circle behind most of the al|together visual novel translations that I am in the process of reviewing […]\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nGoing From ONScripter Visual Novel .exe to Native Linux\nRunning ONScripter-En in Linux Visual Novel Directory\nRunning Linux Visual Novels With ONScripter\nRed Shift Visual Novel Review\nFlood of Tears - Visual Novel Review\nMIDI sound for games on Arch-based distro\nA Winter's Tale - Visual Novel Review\nio [Christmas Eve] - Visual Novel Review",
-          "link": "https://thenewleafjournal.com/leaf/building-onscripter-insani-on-endeavouros/",
-          "publishedOn": "2023-05-27T20:24:30.000Z",
-          "wordCount": 1516,
-          "title": "Building ONScripter-Insani on EndeavourOS",
-          "imageUrl": null
         }
       ]
     },
@@ -505,16 +495,6 @@
           "wordCount": 2126,
           "title": "Newsletter Leaf Journal CXXXVIII 〜 The caged newsletter 〜",
           "imageUrl": "https://buttondown.imgix.net/images/f6cb8fe8-e242-4055-99aa-63eea09c0e23.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/newsletter-journal-cxxxvii/",
-          "author": null,
-          "description": "Welcome to the 137th edition of The Newsletter Leaf Journal, the official newsletter of the perenially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.\nWe published some interesting articles and short posts during the last week. We also added a new section to The New Leaf Journal. We will recap all of that below along with interesting links from around the web and other news and notes.\nTable of contents\nLeaves from the week that was\nLeaves from around the web\nThe Old Leaf Journal\nMost-turned leaves of the newsletter week\nNews leaf journal\nNotable leaf journal\nTaking leaf\nLeaves from the week that was\nI published five regular articles and eight short posts sinc…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/newsletter-journal-cxxxvii/",
-          "publishedOn": "2023-05-27T16:46:54.000Z",
-          "wordCount": 2416,
-          "title": "Newsletter Journal CXXXVII 〜 crimson[ewsletter]ess 〜",
-          "imageUrl": "https://buttondown.imgix.net/images/c8e443f6-987f-4c01-8ef5-a46998b6a036.png"
         }
       ]
     },
@@ -1186,6 +1166,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA",
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=TRrwc3aqFbo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TRrwc3aqFbo",
+          "publishedOn": "2023-06-26T01:41:23.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo & Co. “Everyday (Buddy Holly)” Home Recording",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=PDDJlp-unJM",
           "author": null,
