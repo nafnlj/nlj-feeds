@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-26T13:25:53.423Z</updated>
+    <updated>2023-06-26T18:21:24.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wild pigs swim in the sea]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20645</id>
+        <link href="https://thenewleafjournal.com/leafbud/wild-pigs-swim-in-the-sea/"/>
+        <updated>2023-06-26T14:24:14.000Z</updated>
+        <summary type="html"><![CDATA[I observed a humorous dispute between two friends in high school. Boy C dropped the following burn on Boy N: You’re […]
+Possibly related posts...
+
+Justin & Justina 〜 An Abyssinian Guinea Pig Birthday Present
+History of Thanksgiving Proclamations in the Philippines
+Bill's Secret Garden - A Pokémon Generation 1 Urban Legend
+Notes on the U.S. Border Patrol's Horse Patrol
+Anna Jarvis and the Origin of Mother's Day in the United…
+The Enigmatic Life and Death of Emperor Otho
+How the Forget-Me-Not Flower Found Its Name
+The Pine Tree Lovers of Takasago
+My great deep sea expectations]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victor V. Gurbo & Co. “Everyday (Buddy Holly)” Home Recording]]></title>
         <id>https://www.youtube.com/watch?v=TRrwc3aqFbo</id>
