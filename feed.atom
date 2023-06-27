@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-27T18:21:19.678Z</updated>
+    <updated>2023-06-27T23:16:52.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1790,27 +1790,6 @@ https://thenewleafjournal.com/flowers-for-brave-soldiers-memorial-poem/
 #memorialday #poem #poetry]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flowers for Brave Soldiers – Memorial Poem]]></title>
-        <id>https://thenewleafjournal.com/?p=20252</id>
-        <link href="https://thenewleafjournal.com/flowers-for-brave-soldiers-memorial-poem/"/>
-        <updated>2023-05-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[May 29, 2023 marks Memorial Day in the United States. Memorial Day is a special occasion for paying respects to American […]
-Possibly related posts...
-
-The Enigmatic Life and Death of Emperor Otho
-An 1895 Poem on Memorial Day and Piece by Theodore Roosevelt
-The Poetry of Charlotte Becker - Early Twentieth Century…
-Memorial Flowers - 1880 Memorial Day Poem
-Brave and DuckDuckGo Timer Search Shortcuts
-"Memorial Day" by Helen Leah Reed
-Anna Jarvis and the Origin of Mother's Day in the United…
-How the Forget-Me-Not Flower Found Its Name
-Eisenhower's 1954 Veterans Day Proclamation]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
