@@ -230,6 +230,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20666",
+          "author": "Nicholas A. Ferrell",
+          "description": "Today is primary day in New York City. The main attractions are City Council primaries and primaries for District Attorney in […]\nPossibly related posts...\n\nOne Man, One Vote, Two \"I Voted!\" Stickers\nYou Can't Fix Stupid - King Baby\nThe \"King Baby BKF\" Sticker in Gowanus, Brooklyn\nThe Enigmatic Life and Death of Emperor Otho\nThe Downed Stop Sign in Vinegar Hill\nAn Unpleasant Voting Odor\nThe Inspiring Political Comebacks of Byron Brown and Vito…\nCall in the Oligarchs to Restore Trust in Media? A Peculiar…\nBenjamin Harrison's Memorable July 4, 1888",
+          "link": "https://thenewleafjournal.com/leaf/spare-i-voted-sticker-for-2023/",
+          "publishedOn": "2023-06-27T15:53:32.000Z",
+          "wordCount": 1415,
+          "title": "Spare “I Voted” sticker for 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=20586",
           "author": "Nicholas A. Ferrell",
           "description": "I revived our Guestbook using WordPress’s native comments in early June 2023. As of June 19, 2023, it has received many […]\nPossibly related posts...\n\nClosing The New Leaf Journal Guestbook (Outdated)\nIntroducing The New Leaf Journal Guestbook\nRemoving pages from Yandex Turbo\nKeeping WP Comment Blacklist Up to Date\nWP Redis Object Cache and Link Hover Color\nHistory of Thanksgiving Proclamations in the Philippines\nWordPress Webmention Plugin Discovery\nComment on the NLJ with Hypothes.is\nFixing a WP Custom Post Type Permalink Error",
@@ -1204,6 +1214,26 @@
           "publishedOn": "2023-06-26T01:41:23.000Z",
           "wordCount": null,
           "title": "Victor V. Gurbo & Co. “Everyday (Buddy Holly)” Home Recording",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PDDJlp-unJM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PDDJlp-unJM",
+          "publishedOn": "2023-06-13T01:00:07.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo & Co. \"The Waltzing Fool\" Live at the Lustre Pearl Rainey (4/16/22)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=otbEY4oofr0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=otbEY4oofr0",
+          "publishedOn": "2023-06-06T01:00:08.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo & Co. \"I Am The Man Who's Always Late\" Live at the Lustre Pearl Rainey (4/16/22)",
           "imageUrl": null
         }
       ]
