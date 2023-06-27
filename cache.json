@@ -63,6 +63,26 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20650",
+          "author": "Nicholas A. Ferrell",
+          "description": "The strange story of how a poorly thought out 1997 trade by a 14-68 team for a 35-year old power forward led to said team losing the #2 pick in the 2003 NBA Draft.\nPossibly related posts...\n\nShould the Pistons have drafted Carmelo?\nESPN States Tim Duncan was \"Born Overseas\"\nVersion history of Aru Fuyu no Monogatari\nPlaying Through Cancer in Silence: Shawn Respert's NBA Story\nThe Enigmatic Life and Death of Emperor Otho\nOldest Golfers to Contend for Majors Between the 1968 and…\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nThe al|together and Insani Visual Novel Translations\nNintendo Power's 1999 Yoshi in Pokémon April Fools Prank",
+          "link": "https://thenewleafjournal.com/1997-otis-thorpe-trade-and-the-2003-nba-draft/",
+          "publishedOn": "2023-06-27T04:09:36.000Z",
+          "wordCount": 5721,
+          "title": "1997 Otis Thorpe trade and the 2003 NBA Draft",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
+          "id": "https://thenewleafjournal.com/?p=20646",
+          "author": "Nicholas A. Ferrell",
+          "description": "In a 20-year retrospective, I offer my opinion on whether the Detroit Pistons should have drafted Carmelo Anthony with the second pick in the 2003 NBA Draft.\nPossibly related posts...\n\n1997 Otis Thorpe trade and the 2003 NBA Draft\nESPN States Tim Duncan was \"Born Overseas\"\nVersion history of Aru Fuyu no Monogatari\nPlaying Through Cancer in Silence: Shawn Respert's NBA Story\nUpcoming Ferrell Vs Gurbo Pokémon Draft Battle\nWhy Would Anyone Believe Michael Jordan?\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nOldest Golfers to Contend for Majors Between the 1968 and…\nA Winter's Tale - Visual Novel Review",
+          "link": "https://thenewleafjournal.com/should-the-pistons-have-drafted-carmelo/",
+          "publishedOn": "2023-06-27T03:58:49.000Z",
+          "wordCount": 10436,
+          "title": "Should the Pistons have drafted Carmelo?",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20616",
           "author": "Nicholas A. Ferrell",
           "description": "Running the original 2005 Yuuki!Novel version of Tegami on top of WINE (and learning about a defunct Japanese visual novel engine in the process)\nPossibly related posts...\n\nThe Letter (Tegami) - Visual Novel Review\nOn Improving the Environment For Gaming On Linux\nThe al|together and Insani Visual Novel Translations\nVersion history of Aru Fuyu no Monogatari\nInstalling and Running Bodhi Linux on a 2007 MacBook\nGoing From ONScripter Visual Novel .exe to Native Linux\nRunning ONScripter-En in Linux Visual Novel Directory\nFlood of Tears - Visual Novel Review\nMIDI sound for games on Arch-based distro",
@@ -1184,26 +1204,6 @@
           "publishedOn": "2023-06-26T01:41:23.000Z",
           "wordCount": null,
           "title": "Victor V. Gurbo & Co. “Everyday (Buddy Holly)” Home Recording",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PDDJlp-unJM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PDDJlp-unJM",
-          "publishedOn": "2023-05-28T23:40:12.000Z",
-          "wordCount": null,
-          "title": "Victor V. Gurbo & Co. \"The Waltzing Fool\" Live at the Lustre Pearl Rainey (4/16/22)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=otbEY4oofr0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=otbEY4oofr0",
-          "publishedOn": "2023-05-28T23:38:23.000Z",
-          "wordCount": null,
-          "title": "Victor V. Gurbo & Co. \"I Am The Man Who's Always Late\" Live at the Lustre Pearl Rainey (4/16/22)",
           "imageUrl": null
         }
       ]
