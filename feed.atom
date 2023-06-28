@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-27T23:16:52.192Z</updated>
+    <updated>2023-06-28T13:25:39.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1759,35 +1759,6 @@ Excerpts From "A Weaver's Reverie"]]></summary>
         <summary type="html"><![CDATA[I read about an e-ink monitor for phones and thought the idea was interesting (as someone who wants an open source e-ink phone with a physical keyboard), but impractical. Instead of spending $300 to test a monitor (not that this was in the cards), I tried using the open source Screen Stream app on F-Droid to stream my phone screen with my feed reader to my PocketBook InkPad Color. Conclusion:  It *works* -- but there are some practical annoyances.
 https://thenewleafjournal.com/streaming-from-android-to-pocketbook/
 #fdroid #opensource #android #lineageos #eink #pocketbook]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metadata for Image Search and Discovery]]></title>
-        <id>https://news.ycombinator.com/item?id=36118390</id>
-        <link href="https://daily.jstor.org/metadata-for-image-search-and-discovery/"/>
-        <updated>2023-05-29T21:37:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://daily.jstor.org/metadata-for-image-search-and-discovery/
-Comments URL: https://news.ycombinator.com/item?id=36118390
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110452558946957067</id>
-        <link href="https://linuxrocks.online/@nafnlj/110452558946957067"/>
-        <updated>2023-05-29T14:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Re-printing Hannah Leah Reed's "Flowers for Brave Soldiers," a poem from her 1917 collection, "Memorial Day and Other Verse"
-"Flowers for brave soldiers—
-Flowers for those who loved us,
-Flowers to their memory,
-This fair spring day!"
-https://thenewleafjournal.com/flowers-for-brave-soldiers-memorial-poem/
-#memorialday #poem #poetry]]></summary>
         <author>
             <name>N.A. Ferrell</name>
         </author>
