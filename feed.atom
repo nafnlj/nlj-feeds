@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-28T23:17:14.824Z</updated>
+    <updated>2023-06-29T13:27:32.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1728,39 +1728,6 @@ The Quince Shortage - Justin and Justina
 American Breakfast, Lunch, and Dinner Home Menus From 1913]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I, Too, Saw Dreams Through Air – VN Review]]></title>
-        <id>https://thenewleafjournal.com/?p=20260</id>
-        <link href="https://thenewleafjournal.com/itsdta-visual-novel-review/"/>
-        <updated>2023-05-30T21:44:50.000Z</updated>
-        <summary type="html"><![CDATA[I review I, Too, Saw Dreams Through Air, a visual novel which offers two dream-like visual novels for the (free) price of one.
-Possibly related posts...
-
-The al|together and Insani Visual Novel Translations
-The Poetry of Charlotte Becker - Early Twentieth Century…
-All About the Saw-whet Owl
-The Nice Boat 〜 A Look Back at the School Days Anime
-Bird in Review 〜 Yellow Throated Toucan
-"Casey's Revenge" - Grantland Rice's 1896 Reply Poem to…
-Searching for School Days' Nice Boat
-Calvin Coolidge's 1922 "Better Homes" Remarks
-Excerpts From "A Weaver's Reverie"]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110458672137816217</id>
-        <link href="https://linuxrocks.online/@nafnlj/110458672137816217"/>
-        <updated>2023-05-30T16:52:58.000Z</updated>
-        <summary type="html"><![CDATA[I read about an e-ink monitor for phones and thought the idea was interesting (as someone who wants an open source e-ink phone with a physical keyboard), but impractical. Instead of spending $300 to test a monitor (not that this was in the cards), I tried using the open source Screen Stream app on F-Droid to stream my phone screen with my feed reader to my PocketBook InkPad Color. Conclusion:  It *works* -- but there are some practical annoyances.
-https://thenewleafjournal.com/streaming-from-android-to-pocketbook/
-#fdroid #opensource #android #lineageos #eink #pocketbook]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
