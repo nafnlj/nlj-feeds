@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-29T18:22:36.389Z</updated>
+    <updated>2023-06-29T23:16:29.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Encouraging public day-drinking]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20671</id>
+        <link href="https://thenewleafjournal.com/leafbud/encouraging-public-day-drinking/"/>
+        <updated>2023-06-29T20:01:27.000Z</updated>
+        <summary type="html"><![CDATA[On June 11, 2023, the New York Post reported that the NYPD has stepped up enforcement against public drinking in 2023. […]
+Possibly related posts...
+
+Justin and Justina review 2022 at the NLJ
+History of Thanksgiving Proclamations in the Philippines
+Anna Jarvis and the Origin of Mother's Day in the United…
+Kaori After Story - Visual Novel Review
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Social webs of personal websites
+The Pigeon in the Puddle
+Justin & Justina 〜 4th of July Grill Sacrifices to the…
+Calvin Coolidge's 1922 "Better Homes" Remarks]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spare “I Voted” sticker for 2023]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20666</id>
