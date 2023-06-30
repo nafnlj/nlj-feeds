@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-30T18:20:18.504Z</updated>
+    <updated>2023-06-30T23:15:57.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kevin Durant’s Twitter battles]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20673</id>
+        <link href="https://thenewleafjournal.com/leafbud/kevin-durants-twitter-battles/"/>
+        <updated>2023-06-30T19:23:26.000Z</updated>
+        <summary type="html"><![CDATA[I read a Washington Times article about NBA star (and legend) Kevin Durant taking the initiative when some people on Twitter […]
+Possibly related posts...
+
+Reviewing the Mastodon Twitter Crossposter
+Against Twitter as a Content Curator
+Kevin's "Goodbye Salad Days" Photos at Brooklyn Bridge…
+Masonic Portrait of George Washington
+Washington's 1789 Thanksgiving Proclamation
+Learning How to Change a Twitter Username
+Upcoming Ferrell Vs Gurbo Pokémon Draft Battle
+A Children's Poem on George Washington
+Substack Notes' Twitter clone war]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Encouraging public day-drinking]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20671</id>
