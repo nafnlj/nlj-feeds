@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-06-30T13:22:13.283Z</updated>
+    <updated>2023-06-30T18:20:18.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1693,27 +1693,6 @@ https://thenewleafjournal.com/may-2023-at-the-new-leaf-journal/
 #blogging #writing]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May 2023 at The New Leaf Journal]]></title>
-        <id>https://thenewleafjournal.com/?p=20303</id>
-        <link href="https://thenewleafjournal.com/may-2023-at-the-new-leaf-journal/"/>
-        <updated>2023-06-01T03:27:06.000Z</updated>
-        <summary type="html"><![CDATA[Recapping the fourth May at The New Leaf Journal.
-Possibly related posts...
-
-The New Leaf Journal Celebrates Its First Birthday
-At Summer's End - Visual Novel Review
-New Leaf Journal Third Birthday Reader
-Visual Novel Review: Bad End
-The Small Web, Artisanal Content, and Humane Design
-The Newsletter Leaf Journal at 100
-Working to Save The Bitter End
-Flood of Tears - Visual Novel Review
-The al|together and Insani Visual Novel Translations]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
