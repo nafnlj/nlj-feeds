@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-01T23:15:26.097Z</updated>
+    <updated>2023-07-02T13:19:26.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Most-Visited NLJ Articles of 1H 2023]]></title>
+        <id>https://thenewleafjournal.com/?p=20683</id>
+        <link href="https://thenewleafjournal.com/most-visited-nlj-articles-of-1h-2023/"/>
+        <updated>2023-07-02T01:34:44.000Z</updated>
+        <summary type="html"><![CDATA[Reviewing the (first half) year that was at The New Leaf Journal in 2023.
+Possibly related posts...
+
+Justin and Justina review 2022 at the NLJ
+New Leaf Journal Third Birthday Reader
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+The Best of Anime in 2022: Year in Review
+The New Leaf Journal Celebrates Its First Birthday
+The Angel Next Door Spoils Me Rotten - Anime Review
+The New Leaf Journal 2022 Half-Year Review
+The Best Anime Series of 2021
+Quince recipes from Mary Eales's receipts]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXLII 〜Newsletter draft trade〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/142/</id>
@@ -1714,48 +1735,6 @@ How to Find Substack RSS Feeds and Other Notes
 The New Leaf Journal Celebrates Its First Birthday
 The Newsletter Leaf Journal VIII
 An Introduction to RSS and Other Feed Formats]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Android-to-iOS anecdotes]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20310</id>
-        <link href="https://thenewleafjournal.com/leafbud/on-android-to-ios-anecdotes/"/>
-        <updated>2023-06-02T17:34:37.000Z</updated>
-        <summary type="html"><![CDATA[I read a Hacker News thread on a story about Android users moving to iOS. The thread revealed many takes, albeit […]
-Possibly related posts...
-
-What is an "Android Alternative"?
-Recommended F-Droid FOSS Apps For Android-Based Devices…
-Review of /e/ - An Android Alternative For Mobile Phones
-DecSync Review
-Transferring Photos From My BlackBerry Classic Using KDE…
-Justin and Justina review 2022 at the NLJ
-New Leaf Journal Third Birthday Reader
-Streaming from Android to PocketBook
-Installing GrapheneOS on a Google Pixel 6a]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Murena Teracube 2e to Pixel 3a XL with LineageOS]]></title>
-        <id>https://thenewleafjournal.com/?p=20314</id>
-        <link href="https://thenewleafjournal.com/from-murena-teracube-2e-to-pixel-3a-xl-with-lineageos/"/>
-        <updated>2023-06-02T17:29:27.000Z</updated>
-        <summary type="html"><![CDATA[The story of how I switched from my Murena Teracube 2e phone to a Google Pixel 3a XL running LineageOS without having planned to do so.
-Possibly related posts...
-
-Review of the Teracube 2e Smartphone
-Installing GrapheneOS on a Google Pixel 6a
-Review of /e/ - An Android Alternative For Mobile Phones
-Installing LineageOS on a 2013 Nexus 7 (Wi-Fi)
-Updating 2020 Murena Teracube 2e
-Transferring Photos From My BlackBerry Classic Using KDE…
-What is an "Android Alternative"?
-Justin and Justina review 2022 at the NLJ
-New Leaf Journal Third Birthday Reader]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
