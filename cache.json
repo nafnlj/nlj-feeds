@@ -562,6 +562,26 @@
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
         {
+          "id": "https://linuxrocks.online/@nafnlj/110645107016617496",
+          "author": null,
+          "description": "Battle 1: https://odysee.com/@newleafjournal:c/ferrell-gurbo-july4-2021-pok%C3%A9mon-battle:2\nBattle 2: https://odysee.com/@newleafjournal:c/ferrell-gurbo-july4-2021-pok%C3%A9mon-battle-2:a",
+          "link": "https://linuxrocks.online/@nafnlj/110645107016617496",
+          "publishedOn": "2023-07-02T15:05:48.000Z",
+          "wordCount": 114,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110645100810554710",
+          "author": null,
+          "description": "Back in 2021, my friend and I had two Independence Day-themed Pokémon in Sword (my friend) and Shield (me). I recorded the battles and posted them to LBRY. This article includes links to the battles and my commentary, including details about my team set-up and EV spreads. Come for the battles and stay for the side commentary.\nhttps://thenewleafjournal.com/two-independence-day-themed-pokemon-battles-ferrell-vs-gurbo/\n#pokemon #4thofjuly #independenceday #videogames #nintendoswitch",
+          "link": "https://linuxrocks.online/@nafnlj/110645100810554710",
+          "publishedOn": "2023-07-02T15:04:14.000Z",
+          "wordCount": 121,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxrocks.online/@nafnlj/110571487233275778",
           "author": null,
           "description": "NoPaste is an open source client-side paste tool which can be hosted as a static site. The GitHub repository has instructions for using GitHub pages or dropping the files on a static server. I was interested in trying surge.sh... so my post turned into a how-to and how-I-did for deploying NoPaste to surge.sh.\n(It's a neat tool. Were I to use it more seriously... I'd put it somewhere attached to my own domain.)\nhttps://thenewleafjournal.com/deploying-nopaste-to-surge/\n#pastebin #nopaste #staticsite #github #opensource",

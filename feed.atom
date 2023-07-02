@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-02T13:19:26.725Z</updated>
+    <updated>2023-07-02T18:19:31.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110645107016617496</id>
+        <link href="https://linuxrocks.online/@nafnlj/110645107016617496"/>
+        <updated>2023-07-02T15:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Battle 1: https://odysee.com/@newleafjournal:c/ferrell-gurbo-july4-2021-pok%C3%A9mon-battle:2
+Battle 2: https://odysee.com/@newleafjournal:c/ferrell-gurbo-july4-2021-pok%C3%A9mon-battle-2:a]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110645100810554710</id>
+        <link href="https://linuxrocks.online/@nafnlj/110645100810554710"/>
+        <updated>2023-07-02T15:04:14.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2021, my friend and I had two Independence Day-themed Pokémon in Sword (my friend) and Shield (me). I recorded the battles and posted them to LBRY. This article includes links to the battles and my commentary, including details about my team set-up and EV spreads. Come for the battles and stay for the side commentary.
+https://thenewleafjournal.com/two-independence-day-themed-pokemon-battles-ferrell-vs-gurbo/
+#pokemon #4thofjuly #independenceday #videogames #nintendoswitch]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Most-Visited NLJ Articles of 1H 2023]]></title>
         <id>https://thenewleafjournal.com/?p=20683</id>
