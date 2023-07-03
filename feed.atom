@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-03T13:26:14.213Z</updated>
+    <updated>2023-07-03T18:20:16.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXLII]]></title>
+        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20699</id>
+        <link href="https://thenewleafjournal.com/letter/newsletter-leaf-journal-cxlii/"/>
+        <updated>2023-07-03T16:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the syndicated version of Newsletter Leaf Journal 142. You can see the original version here. Our July 1 newsletter […]
+Possibly related posts...
+
+The Newsletter Leaf Journal at 100
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin and Justina review 2022 at the NLJ
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The New Leaf Journal Newsletter
+How to Find Substack RSS Feeds and Other Notes
+The New Leaf Journal Celebrates Its First Birthday
+The Newsletter Leaf Journal VIII
+Most-Visited NLJ Articles of 1H 2023]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Briar Desktop now supports MacOS]]></title>
+        <id>https://news.ycombinator.com/item?id=36574230</id>
+        <link href="https://briarproject.org/download-briar-desktop/"/>
+        <updated>2023-07-03T15:24:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://briarproject.org/download-briar-desktop/
+Comments URL: https://news.ycombinator.com/item?id=36574230
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeltaTouch, a community created client for Ubuntu Touch]]></title>
+        <id>https://news.ycombinator.com/item?id=36574128</id>
+        <link href="https://delta.chat/en/2023-07-02-deltatouch"/>
+        <updated>2023-07-03T15:18:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://delta.chat/en/2023-07-02-deltatouch
+Comments URL: https://news.ycombinator.com/item?id=36574128
+Points: 24
+# Comments: 9]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remove db lock in Pacman:]]></title>
         <id>https://memos.emucafe.org/m/23</id>
