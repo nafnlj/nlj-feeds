@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-03T18:20:16.203Z</updated>
+    <updated>2023-07-03T23:17:47.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Gulf War Game Boy Says Goodbye to Nintendo New York Store]]></title>
+        <id>https://news.ycombinator.com/item?id=36577563</id>
+        <link href="https://www.siliconera.com/the-gulf-war-game-boy-says-goodbye-to-nintendo-new-york-store-removed/"/>
+        <updated>2023-07-03T19:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.siliconera.com/the-gulf-war-game-boy-says-goodbye-to-nintendo-new-york-store-removed/
+Comments URL: https://news.ycombinator.com/item?id=36577563
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110651643761551830</id>
+        <link href="https://linuxrocks.online/@nafnlj/110651643761551830"/>
+        <updated>2023-07-03T18:48:11.000Z</updated>
+        <summary type="html"><![CDATA[On July 4, 1923, a Reverend Charles W. Lyons delivered an Independence Day oration titled "The American Mind" (the title was inspired by a Jefferson quote). In a 2021 article, I re-printed the entire oration and offered my own commentary. Having put my thoughts in the article, I submit a fun fact for Mastodon. Lyons, who was a Jesuit priest, is the only man to have served as president of four different American colleges (Gonzaga, St. Joseph's, Boston College, and Georgetown).
+https://thenewleafjournal.com/the-american-mind-a-1923-july-4th-oration-by-charles-w-lyons/
+#independenceday #4thofjuly #ushistory #ThomasJefferson]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXLII]]></title>
         <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20699</id>

@@ -552,6 +552,16 @@
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
         {
+          "id": "https://linuxrocks.online/@nafnlj/110651643761551830",
+          "author": null,
+          "description": "On July 4, 1923, a Reverend Charles W. Lyons delivered an Independence Day oration titled \"The American Mind\" (the title was inspired by a Jefferson quote). In a 2021 article, I re-printed the entire oration and offered my own commentary. Having put my thoughts in the article, I submit a fun fact for Mastodon. Lyons, who was a Jesuit priest, is the only man to have served as president of four different American colleges (Gonzaga, St. Joseph's, Boston College, and Georgetown).\nhttps://thenewleafjournal.com/the-american-mind-a-1923-july-4th-oration-by-charles-w-lyons/\n#independenceday #4thofjuly #ushistory #ThomasJefferson",
+          "link": "https://linuxrocks.online/@nafnlj/110651643761551830",
+          "publishedOn": "2023-07-03T18:48:11.000Z",
+          "wordCount": 121,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxrocks.online/@nafnlj/110645107016617496",
           "author": null,
           "description": "Battle 1: https://odysee.com/@newleafjournal:c/ferrell-gurbo-july4-2021-pok%C3%A9mon-battle:2\nBattle 2: https://odysee.com/@newleafjournal:c/ferrell-gurbo-july4-2021-pok%C3%A9mon-battle-2:a",
@@ -1022,6 +1032,16 @@
       "feedUrl": "https://hnrss.org/user?id=nafnlj",
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=36577563",
+          "author": "nafnlj",
+          "description": "Article URL: https://www.siliconera.com/the-gulf-war-game-boy-says-goodbye-to-nintendo-new-york-store-removed/\nComments URL: https://news.ycombinator.com/item?id=36577563\nPoints: 2\n# Comments: 0",
+          "link": "https://www.siliconera.com/the-gulf-war-game-boy-says-goodbye-to-nintendo-new-york-store-removed/",
+          "publishedOn": "2023-07-03T19:15:44.000Z",
+          "wordCount": 4287,
+          "title": "The Gulf War Game Boy Says Goodbye to Nintendo New York Store",
+          "imageUrl": "https://www.siliconera.com/wp-content/uploads/2023/06/game-boy-gulf-war.png"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=36574230",
           "author": "nafnlj",
