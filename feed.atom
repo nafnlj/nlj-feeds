@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-02T23:15:48.400Z</updated>
+    <updated>2023-07-03T13:26:14.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Remove db lock in Pacman:]]></title>
+        <id>https://memos.emucafe.org/m/23</id>
+        <link href="https://memos.emucafe.org/m/23"/>
+        <updated>2023-07-03T04:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Remove db lock in Pacman:
+$ rm /var/lib/pacman/db.lck
+
+#linux #pacman]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Gutenberg's scanned edition of Bradford Torrey's "A World of Green Hills" as a very aestheti...]]></title>
+        <id>https://memos.emucafe.org/m/22</id>
+        <link href="https://memos.emucafe.org/m/22"/>
+        <updated>2023-07-03T02:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Project Gutenberg's scanned edition of Bradford Torrey's "A World of Green Hills" as a very aesthetic cover:
+https://www.gutenberg.org/files/70026/70026-h/70026-h.htm
+#ProjectGutenberg]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do I have to watch My Tiny Senpai?]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20697</id>
@@ -1716,69 +1741,6 @@ Adding custom search shortcut for Wayback Machine
 Fixing Wallabag connect issue on Nexus 7
 Peekier Search Engine Review
 The Enigmatic Life and Death of Emperor Otho]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radicale-DecSync AUR issues]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20330</id>
-        <link href="https://thenewleafjournal.com/leaf/radicale-decsync-aur-issues/"/>
-        <updated>2023-06-03T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I wrote a review of DecSync on March 30. DecSync allows for syncing contacts, calendars, tasks, and even RSS feeds across […]
-Possibly related posts...
-
-DecSync Review
-Running Linux Visual Novels With ONScripter
-From AUR to Mainline Arch Thunderbird
-Using an Amiga OS-Inspired Window Theme In XFCE With XFWM4
-Nice Boat in the Arch User Repository
-"Just keep tapping the Enter key"
-From mullvad-vpn-cli to mullvad-vpn-bin
-Issue upgrading onscripter on EndeavourOS
-The Newsletter Leaf Journal at 100]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXXVIII 〜 The caged newsletter 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/138/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/138/"/>
-        <updated>2023-06-03T18:16:55.188Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 138th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the editor of The New Leaf Journal, Nicholas A. Ferrell.
-While we still technically have a couple of weeks of spring here in New York City, something about June feels like the start of summer. But regardless of the season, real or perceived, we have new leaves from the week that was, links from around the web, and your usual assortment of New Leaf Journal news and notes.
-Table of contents
-Leaves from the week that was
-Leaves from around the web
-The Old Leaf Journal
-Most-turned leaves of the newsletter week
-News leaf journal
-Notable leaf journal
-Taking leaf
-Leaves from the week that was
-I publ…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXXVII]]></title>
-        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20328</id>
-        <link href="https://thenewleafjournal.com/letter/137/"/>
-        <updated>2023-06-03T15:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the syndicated version of Newsletter Leaf Journal 137 (see original). I am supposed to syndicate our Saturday newsletters on […]
-Possibly related posts...
-
-The Newsletter Leaf Journal at 100
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin and Justina review 2022 at the NLJ
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The New Leaf Journal Newsletter
-How to Find Substack RSS Feeds and Other Notes
-The New Leaf Journal Celebrates Its First Birthday
-The Newsletter Leaf Journal VIII
-An Introduction to RSS and Other Feed Formats]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
