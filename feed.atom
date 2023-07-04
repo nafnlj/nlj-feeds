@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-03T23:17:47.572Z</updated>
+    <updated>2023-07-04T13:26:33.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Basil Hall on Benjamin Franklin’s grave]]></title>
+        <id>https://thenewleafjournal.com/?p=20701</id>
+        <link href="https://thenewleafjournal.com/basil-hall-on-benjamin-franklins-grave/"/>
+        <updated>2023-07-04T00:29:18.000Z</updated>
+        <summary type="html"><![CDATA[Re-printing a British officer's account of his 1827-28 visit to Benjamin Franklin's modest grave site.
+Possibly related posts...
+
+Benjamin Harrison's Memorable July 4, 1888
+The American Bee Journal World's Fair Report
+Justin & Justina 〜 4th of July Grill Sacrifices to the…
+1883 Opening of the Brooklyn Bridge
+Justin and Justina review 2022 at the NLJ
+A Charming Hometown Tax System Story
+Lincoln spares Frank R. Judd in 1864-65
+History of Thanksgiving Proclamations in the Philippines
+The Great Chelsea Fire of 1908 - 114 Years Later]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Gulf War Game Boy Says Goodbye to Nintendo New York Store]]></title>
         <id>https://news.ycombinator.com/item?id=36577563</id>
@@ -1792,27 +1813,6 @@ Reviewing "Calculator the Game" - A FOSS PWA Math Game For…
 Installing LineageOS on a 2013 Nexus 7 (Wi-Fi)
 Transferring Photos From My BlackBerry Classic Using KDE…
 Installing GrapheneOS on a Google Pixel 6a]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSA on Bromite and /e/ OS’s Browser]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20334</id>
-        <link href="https://thenewleafjournal.com/leaf/psa-on-bromite-and-murena-browser/"/>
-        <updated>2023-06-04T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Bromite is a free and open source hardened fork of Ungoogled Chromium for Android. I have recommended it in the past […]
-Possibly related posts...
-
-A Harmless Date Error in the Bromite Repository
-Recommended F-Droid FOSS Apps For Android-Based Devices…
-Review of /e/ - An Android Alternative For Mobile Phones
-Installing LineageOS on a 2013 Nexus 7 (Wi-Fi)
-Installing and Running Bodhi Linux on a 2007 MacBook
-Adding custom search shortcut for Wayback Machine
-Fixing Wallabag connect issue on Nexus 7
-Peekier Search Engine Review
-The Enigmatic Life and Death of Emperor Otho]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
