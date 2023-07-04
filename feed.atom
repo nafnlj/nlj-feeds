@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-04T13:26:33.185Z</updated>
+    <updated>2023-07-04T18:22:07.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Eagle, the National Seal, and turkies]]></title>
+        <id>https://thenewleafjournal.com/?p=20706</id>
+        <link href="https://thenewleafjournal.com/the-eagle-the-national-seal-and-turkies/"/>
+        <updated>2023-07-04T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We begin with a patriotic bedtime story and conclude with Benjamin Franklin's thoughts on the bald eagle vs the turkey.
+Possibly related posts...
+
+The Enigmatic Life and Death of Emperor Otho
+History of Thanksgiving Proclamations in the Philippines
+1883 Opening of the Brooklyn Bridge
+Tiki paralogue trick in Fire Emblem Engage
+Calvin Coolidge's 1923 Thanksgiving Proclamation
+ACE Academy - Visual Novel Review
+"The American Mind" 〜 A 1923 July 4th Oration by Rev.…
+Short Bio of Mary Graham Bonner
+Anime Recommendations of the Decade (2011-20)]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110656818750104788</id>
+        <link href="https://linuxrocks.online/@nafnlj/110656818750104788"/>
+        <updated>2023-07-04T16:44:15.000Z</updated>
+        <summary type="html"><![CDATA[Coolidge's July 4, 1926 speech is fairly well known by the standards of presidential speeches. Less well known are the remarks he delivered on July 4, 1918, as Lt. Gov of Massachusetts. The subject of the speech was broadly relations between the United States and Japan, and specifically the story of a certain Manjiro Nakahama.
+https://thenewleafjournal.com/calvin-coolidges-july-4-1918-remarks-in-fairhaven/
+#4thofjuly #independenceday #CalvinCoolidge #japan #ushistory #speech]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110656800938724828</id>
+        <link href="https://linuxrocks.online/@nafnlj/110656800938724828"/>
+        <updated>2023-07-04T16:39:43.000Z</updated>
+        <summary type="html"><![CDATA[On July 4, 1926, then-President Calvin Coolidge delivered a speech to commemorate the 150th anniversary of American independence. I discuss the speech in detail in my article. Fun additional fact... July 4, 1926 was also Coolidge's 54th birthday.
+https://thenewleafjournal.com/calvin-coolidge-on-why-we-celebrate-independence-day/
+#4thofjuly #independenceday #CalvinCoolidge #uspresidents #speech #ushistory]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Basil Hall on Benjamin Franklin’s grave]]></title>
         <id>https://thenewleafjournal.com/?p=20701</id>
