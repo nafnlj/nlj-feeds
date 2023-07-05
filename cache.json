@@ -1053,6 +1053,26 @@
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=36606976",
+          "author": "nafnlj",
+          "description": "Article URL: https://nex.nightfall.city/\nComments URL: https://news.ycombinator.com/item?id=36606976\nPoints: 3\n# Comments: 0",
+          "link": "https://nex.nightfall.city/",
+          "publishedOn": "2023-07-05T20:55:58.000Z",
+          "wordCount": 76,
+          "title": "Nex: A little internet protocol inspired by Gemini and Gopher",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=36606933",
+          "author": "nafnlj",
+          "description": "Article URL: https://metropolisjapan.com/rebuilding/\nComments URL: https://news.ycombinator.com/item?id=36606933\nPoints: 2\n# Comments: 0",
+          "link": "https://metropolisjapan.com/rebuilding/",
+          "publishedOn": "2023-07-05T20:52:07.000Z",
+          "wordCount": 2369,
+          "title": "Finding a way out of Japan's 30-year housing cycle",
+          "imageUrl": "https://metropolisjapan.com/wp-content/uploads/2023/03/credit-rammy2rammy-675x450.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=36594958",
           "author": "nafnlj",
           "description": "I opened your home page. The two guinea pig headlines were enough to convince me I should add this to my RSS feed list and read more.",

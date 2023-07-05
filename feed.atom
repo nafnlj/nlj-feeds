@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-05T18:22:10.683Z</updated>
+    <updated>2023-07-05T23:17:23.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nex: A little internet protocol inspired by Gemini and Gopher]]></title>
+        <id>https://news.ycombinator.com/item?id=36606976</id>
+        <link href="https://nex.nightfall.city/"/>
+        <updated>2023-07-05T20:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nex.nightfall.city/
+Comments URL: https://news.ycombinator.com/item?id=36606976
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding a way out of Japan's 30-year housing cycle]]></title>
+        <id>https://news.ycombinator.com/item?id=36606933</id>
+        <link href="https://metropolisjapan.com/rebuilding/"/>
+        <updated>2023-07-05T20:52:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://metropolisjapan.com/rebuilding/
+Comments URL: https://news.ycombinator.com/item?id=36606933
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110662183971883660</id>
