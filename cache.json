@@ -44,16 +44,6 @@
           "wordCount": 420,
           "title": "Update osmosfeed.yaml",
           "imageUrl": "https://opengraph.githubassets.com/e3ea64d6931197ac8aaa6a651e4789907164f4d0b4631a08a1d62ea3d6701e6f/nafnlj/nljfeeds/commit/4aa94ffec461740643d7bffaf7c5ad1065bbd958"
-        },
-        {
-          "id": "https://github.com/nafnlj/nljfeeds/commit/7d612c5d21fd720764954f55de62219f202a9841",
-          "author": null,
-          "description": "Update osmosfeed.yaml\n\nAdd nafnlj Listed blog to feed list.",
-          "link": "https://github.com/nafnlj/nljfeeds/commit/7d612c5d21fd720764954f55de62219f202a9841",
-          "publishedOn": "2023-06-05T20:27:24.000Z",
-          "wordCount": 423,
-          "title": "Update osmosfeed.yaml",
-          "imageUrl": "https://opengraph.githubassets.com/0c4de8f58ca5cd63044ca373d1a9e75dbd66bd46f40efcb3fac7c1a6df39e0e3/nafnlj/nljfeeds/commit/7d612c5d21fd720764954f55de62219f202a9841"
         }
       ]
     },
@@ -62,6 +52,16 @@
       "feedUrl": "https://thenewleafjournal.com/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?p=20706",
+          "author": "Nicholas A. Ferrell",
+          "description": "We begin with a patriotic bedtime story and conclude with Benjamin Franklin's thoughts on the bald eagle vs the turkey.\nPossibly related posts...\n\nThe Enigmatic Life and Death of Emperor Otho\nHistory of Thanksgiving Proclamations in the Philippines\n1883 Opening of the Brooklyn Bridge\nTiki paralogue trick in Fire Emblem Engage\nCalvin Coolidge's 1923 Thanksgiving Proclamation\nACE Academy - Visual Novel Review\n\"The American Mind\" 〜 A 1923 July 4th Oration by Rev.…\nShort Bio of Mary Graham Bonner\nAnime Recommendations of the Decade (2011-20)",
+          "link": "https://thenewleafjournal.com/the-eagle-the-national-seal-and-turkeys/",
+          "publishedOn": "2023-07-04T17:00:00.000Z",
+          "wordCount": 2105,
+          "title": "The Eagle, the National Seal, and turkeys",
+          "imageUrl": null
+        },
         {
           "id": "https://thenewleafjournal.com/?p=20706",
           "author": "Nicholas A. Ferrell",
@@ -211,16 +211,6 @@
           "wordCount": 3086,
           "title": "Using Nostr Verify for WordPress NIP-05",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/06/coracle-nostr-setup-swt.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20341",
-          "author": "Nicholas A. Ferrell",
-          "description": "A full review of a lightweight, minimal, open source launcher and app drawer for Android (LineageOS in my case).\nPossibly related posts...\n\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nReview of /e/ - An Android Alternative For Mobile Phones\nWhat is an \"Android Alternative\"?\nOn DRM-Free Games on Steam\nInstalling Ubuntu Touch on a Google Nexus 7 (2013)\nReviewing \"Calculator the Game\" - A FOSS PWA Math Game For…\nInstalling LineageOS on a 2013 Nexus 7 (Wi-Fi)\nTransferring Photos From My BlackBerry Classic Using KDE…\nInstalling GrapheneOS on a Google Pixel 6a",
-          "link": "https://thenewleafjournal.com/reviewing-keikai-launcher-android/",
-          "publishedOn": "2023-06-05T12:45:00.000Z",
-          "wordCount": 2713,
-          "title": "Reviewing Keikai Launcher (Android)",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/06/keikai-droid-ify-logo.jpg"
         }
       ]
     },
@@ -414,16 +404,6 @@
           "publishedOn": "2023-06-06T14:45:00.000Z",
           "wordCount": 1450,
           "title": "Baseball, home runs, and temperatures",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20339",
-          "author": "Nicholas A. Ferrell",
-          "description": "On March 16, the Library of Congress’ Global Legal Monitor published a report on Moldova changing its official state language from […]\nPossibly related posts...\n\nJohn Thomas James' Account of a Cemetery at Tchernigoff in…\nUzbek President Mirziyoyev's War and Peace of the Union\nKazakhstan's Constitutional Reform\nJustin and Justina review 2022 at the NLJ\nFlood of Tears - Visual Novel Review\nThe Enigmatic Life and Death of Emperor Otho\nSubstack Notes' Twitter clone war\nReturn to Shironagasu Island Review\nAnime Recommendations of the Decade (2011-20)",
-          "link": "https://thenewleafjournal.com/leafbud/similarities-between-moldovan-and-romanian/",
-          "publishedOn": "2023-06-05T15:05:00.000Z",
-          "wordCount": 1686,
-          "title": "Similarities between Moldovan and Romanian",
           "imageUrl": null
         }
       ]
@@ -1063,6 +1043,26 @@
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=36594958",
+          "author": "nafnlj",
+          "description": "I opened your home page. The two guinea pig headlines were enough to convince me I should add this to my RSS feed list and read more.",
+          "link": "https://news.ycombinator.com/item?id=36594958",
+          "publishedOn": "2023-07-05T02:41:10.000Z",
+          "wordCount": 102,
+          "title": "New comment by nafnlj in \"Ask HN: Could you share your personal blog here?\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=36594842",
+          "author": "nafnlj",
+          "description": "https://thenewleafjournal.com/\nI started NLJ back in 2020. It is built with WordPress (hosted on Hetzner VPS and managed with Cloudron). I have published more than 800 articles and 350 short-form posts (almost all posts by me, but my friend has published 30something articles). I write about whatever interests me (I tell myself this means there is something for everyone). Common topics include, but are not limited to, tech (digital ownership, open source software, feeds, and my learning Linux), history (usually American or Roman), old books and poems, anime, visual novels (mainly English translations of freeware NScripter/KiriKiri novels), photos from my walks, fictional dialogues, and occasional commentary about life in NYC.\nhttps://memos.emucafe.org/u/2\nI am testing out Memos (https://github.com/usememos/memos) for short-form notes and microblog-style posts, but very much a side project next to NLJ. Neat little tool.",
+          "link": "https://news.ycombinator.com/item?id=36594842",
+          "publishedOn": "2023-07-05T02:18:47.000Z",
+          "wordCount": 204,
+          "title": "New comment by nafnlj in \"Ask HN: Could you share your personal blog here?\"",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=36577563",
           "author": "nafnlj",
           "description": "Article URL: https://www.siliconera.com/the-gulf-war-game-boy-says-goodbye-to-nintendo-new-york-store-removed/\nComments URL: https://news.ycombinator.com/item?id=36577563\nPoints: 2\n# Comments: 0",
@@ -1274,16 +1274,6 @@
           "publishedOn": "2023-06-13T01:00:07.000Z",
           "wordCount": null,
           "title": "Victor V. Gurbo & Co. \"The Waltzing Fool\" Live at the Lustre Pearl Rainey (4/16/22)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=otbEY4oofr0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=otbEY4oofr0",
-          "publishedOn": "2023-06-06T01:00:08.000Z",
-          "wordCount": null,
-          "title": "Victor V. Gurbo & Co. \"I Am The Man Who's Always Late\" Live at the Lustre Pearl Rainey (4/16/22)",
           "imageUrl": null
         }
       ]

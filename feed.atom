@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-04T23:17:26.637Z</updated>
+    <updated>2023-07-05T13:28:37.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New comment by nafnlj in "Ask HN: Could you share your personal blog here?"]]></title>
+        <id>https://news.ycombinator.com/item?id=36594958</id>
+        <link href="https://news.ycombinator.com/item?id=36594958"/>
+        <updated>2023-07-05T02:41:10.000Z</updated>
+        <summary type="html"><![CDATA[I opened your home page. The two guinea pig headlines were enough to convince me I should add this to my RSS feed list and read more.]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New comment by nafnlj in "Ask HN: Could you share your personal blog here?"]]></title>
+        <id>https://news.ycombinator.com/item?id=36594842</id>
+        <link href="https://news.ycombinator.com/item?id=36594842"/>
+        <updated>2023-07-05T02:18:47.000Z</updated>
+        <summary type="html"><![CDATA[https://thenewleafjournal.com/
+I started NLJ back in 2020. It is built with WordPress (hosted on Hetzner VPS and managed with Cloudron). I have published more than 800 articles and 350 short-form posts (almost all posts by me, but my friend has published 30something articles). I write about whatever interests me (I tell myself this means there is something for everyone). Common topics include, but are not limited to, tech (digital ownership, open source software, feeds, and my learning Linux), history (usually American or Roman), old books and poems, anime, visual novels (mainly English translations of freeware NScripter/KiriKiri novels), photos from my walks, fictional dialogues, and occasional commentary about life in NYC.
+https://memos.emucafe.org/u/2
+I am testing out Memos (https://github.com/usememos/memos) for short-form notes and microblog-style posts, but very much a side project next to NLJ. Neat little tool.]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Eagle, the National Seal, and turkeys]]></title>
+        <id>https://thenewleafjournal.com/?p=20706</id>
+        <link href="https://thenewleafjournal.com/the-eagle-the-national-seal-and-turkeys/"/>
+        <updated>2023-07-04T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We begin with a patriotic bedtime story and conclude with Benjamin Franklin's thoughts on the bald eagle vs the turkey.
+Possibly related posts...
+
+The Enigmatic Life and Death of Emperor Otho
+History of Thanksgiving Proclamations in the Philippines
+1883 Opening of the Brooklyn Bridge
+Tiki paralogue trick in Fire Emblem Engage
+Calvin Coolidge's 1923 Thanksgiving Proclamation
+ACE Academy - Visual Novel Review
+"The American Mind" 〜 A 1923 July 4th Oration by Rev.…
+Short Bio of Mary Graham Bonner
+Anime Recommendations of the Decade (2011-20)]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Eagle, the National Seal, and turkies]]></title>
         <id>https://thenewleafjournal.com/?p=20706</id>
@@ -1795,69 +1839,6 @@ Justin & Justina 〜 The Pitching Injury
 Justin and Justina review 2022 at the NLJ
 Herbert Hoover's Better Homes Remarks: "The Home as an…
 Hot Coffee on Summer Walks]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victor V. Gurbo & Co. "I Am The Man Who's Always Late" Live at the Lustre Pearl Rainey (4/16/22)]]></title>
-        <id>https://www.youtube.com/watch?v=otbEY4oofr0</id>
-        <link href="https://www.youtube.com/watch?v=otbEY4oofr0"/>
-        <updated>2023-06-06T01:00:08.000Z</updated>
-        <author>
-            <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
-        <id>https://github.com/nafnlj/nljfeeds/commit/7d612c5d21fd720764954f55de62219f202a9841</id>
-        <link href="https://github.com/nafnlj/nljfeeds/commit/7d612c5d21fd720764954f55de62219f202a9841"/>
-        <updated>2023-06-05T20:27:24.000Z</updated>
-        <summary type="html"><![CDATA[Update osmosfeed.yaml
-
-Add nafnlj Listed blog to feed list.]]></summary>
-        <author>
-            <name>Recent Commits to nljfeeds:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Similarities between Moldovan and Romanian]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20339</id>
-        <link href="https://thenewleafjournal.com/leafbud/similarities-between-moldovan-and-romanian/"/>
-        <updated>2023-06-05T15:05:00.000Z</updated>
-        <summary type="html"><![CDATA[On March 16, the Library of Congress’ Global Legal Monitor published a report on Moldova changing its official state language from […]
-Possibly related posts...
-
-John Thomas James' Account of a Cemetery at Tchernigoff in…
-Uzbek President Mirziyoyev's War and Peace of the Union
-Kazakhstan's Constitutional Reform
-Justin and Justina review 2022 at the NLJ
-Flood of Tears - Visual Novel Review
-The Enigmatic Life and Death of Emperor Otho
-Substack Notes' Twitter clone war
-Return to Shironagasu Island Review
-Anime Recommendations of the Decade (2011-20)]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reviewing Keikai Launcher (Android)]]></title>
-        <id>https://thenewleafjournal.com/?p=20341</id>
-        <link href="https://thenewleafjournal.com/reviewing-keikai-launcher-android/"/>
-        <updated>2023-06-05T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[A full review of a lightweight, minimal, open source launcher and app drawer for Android (LineageOS in my case).
-Possibly related posts...
-
-Recommended F-Droid FOSS Apps For Android-Based Devices…
-Review of /e/ - An Android Alternative For Mobile Phones
-What is an "Android Alternative"?
-On DRM-Free Games on Steam
-Installing Ubuntu Touch on a Google Nexus 7 (2013)
-Reviewing "Calculator the Game" - A FOSS PWA Math Game For…
-Installing LineageOS on a 2013 Nexus 7 (Wi-Fi)
-Transferring Photos From My BlackBerry Classic Using KDE…
-Installing GrapheneOS on a Google Pixel 6a]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
