@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-05T13:28:37.728Z</updated>
+    <updated>2023-07-05T18:22:10.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110662183971883660</id>
+        <link href="https://linuxrocks.online/@nafnlj/110662183971883660"/>
+        <updated>2023-07-05T15:28:42.000Z</updated>
+        <summary type="html"><![CDATA[It was raining quite a bit in NYC yesterday. I will venture that may have led to some outdoor 4th of July gatherings being imperiled. For those who had a 4th of July event deferred, I present my 2021 (fictional) dialogue on the PURPOSE of July 4 grilling. As one of the three major characters in the dialogue argues -- the purpose is very clearly ritualistic sacrifices to the Founding Fathers ("argues" is the operative word).
+https://thenewleafjournal.com/justin-justina-4th-of-july-grill-sacrifices-to-the-spirits-of-the-founders/
+#4thofjuly #independenceday #humor #ushistory #foundingfathers]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New comment by nafnlj in "Ask HN: Could you share your personal blog here?"]]></title>
         <id>https://news.ycombinator.com/item?id=36594958</id>
