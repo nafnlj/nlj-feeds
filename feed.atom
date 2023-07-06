@@ -2,10 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-06T13:33:01.576Z</updated>
+    <updated>2023-07-06T18:20:49.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New comment by nafnlj in "Ask HN: What are your favorite RSS feeds?"]]></title>
+        <id>https://news.ycombinator.com/item?id=36619028</id>
+        <link href="https://news.ycombinator.com/item?id=36619028"/>
+        <updated>2023-07-06T16:57:37.000Z</updated>
+        <summary type="html"><![CDATA[Edit --
+Perishable Press feed: https://perishablepress.com/feed/atom]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New comment by nafnlj in "Ask HN: What are your favorite RSS feeds?"]]></title>
+        <id>https://news.ycombinator.com/item?id=36618362</id>
+        <link href="https://news.ycombinator.com/item?id=36618362"/>
+        <updated>2023-07-06T16:21:24.000Z</updated>
+        <summary type="html"><![CDATA[I have a long list, so I'll choose a few personal favorites that may be of interest to HN readers:
+https://nicole.express/feed.xml (tinkering with old games and game hardware)
+https://shumplations.com/feed (translations of Japanese game developer interviews)
+https://www.loc.gov/collections/global-legal-monitor/?fo=rss (summaries of legal news from around the world)
+https://reason.com/people/josh-blackman/feed (legal analysis and commentary from Josh Blackman)
+https://yukinu.com/feed/atom.xml (charming small web site with links to interesting sites, tech experiments, and looks at old tech)
+https://feed.tedium.co (well-researched essays on a variety of topics)
+https://blog.sakugabooru.com/feed (detailed essays on the anime industry and production)
+htpps://perishablepress.com/feed/atom (personal website of WordPress developer Jeff Starr)
+https://ai.mee.nu/feed/atom (daily tech news with strong opinions)
+https://www.washingtontimes.com/rss/authors/stephen-dinan (one of the best reporters on immigration law/border issues)
+https://liliputing.com/feed (news about mini PCs and mobile devices)
+https://worldofmatthew.com/index.xml (essays on digital ownership and random musings)
+I would also humbly recommend my own writing project, link in my profile if you're interested
+I also recommend looking at Morss.it (https://morss.it/) if there is a site you want to subscribe to without a feed. It generally works very well (RSS Bridge and RSS Hub serve the same purpose if you want to self-host).]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New comment by nafnlj in "Ask HN: What are your favorite RSS feeds?"]]></title>
+        <id>https://news.ycombinator.com/item?id=36618142</id>
+        <link href="https://news.ycombinator.com/item?id=36618142"/>
+        <updated>2023-07-06T16:07:09.000Z</updated>
+        <summary type="html"><![CDATA[You may be interested in Osmosfeed: https://github.com/osmoscraft/osmosfeed
+It is a static site feed aggregator primarily designed to go with GitHub Pages. I host one to aggregate my own writing on different sites. I think it may fit your use case because your Osmosfeed site itself outputs a single Atom feed. So, for example, if I have an Osmosfeed site that aggregates feeds 1, 2, and 3, the Osmosfeed site has a single feed which will include the three individual feeds. Mine has about 10-12 feeds and it has worked perfectly thus far with no issues. Not sure if it would have problems at higher numbers.]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An elegant new orchid is found hiding in plain sight]]></title>
+        <id>https://news.ycombinator.com/item?id=36617975</id>
+        <link href="https://phys.org/news/2023-03-elegant-orchid-plain-sight.html"/>
+        <updated>2023-07-06T15:57:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://phys.org/news/2023-03-elegant-orchid-plain-sight.html
+Comments URL: https://news.ycombinator.com/item?id=36617975
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110667735306176727</id>
+        <link href="https://linuxrocks.online/@nafnlj/110667735306176727"/>
+        <updated>2023-07-06T15:00:29.000Z</updated>
+        <summary type="html"><![CDATA[*odds going into 03-04, not 02-03... my guess was based on the perception of the state of affairs in the NBA between 02-03 and 03-04]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110667730506145861</id>
+        <link href="https://linuxrocks.online/@nafnlj/110667730506145861"/>
+        <updated>2023-07-06T14:59:15.000Z</updated>
+        <summary type="html"><![CDATA[In a companion article, I told the story of the 1997 trade which netted the Pistons the #2 pick off a 50-win season in 2003. The trade, which saw the then-Vancouver Grizzlies trade a future, lightly protected first round pick, for a 35-year old Otis Thorpe nearing the end of his career (note the Grizzlies were coming off a 14-68 season) was so bad that one need not even qualify a critique of the trade with "hindsight is 20/20." Had anyone stopped and thought for a moment, all of the sights would have advised not making that trade.
+https://thenewleafjournal.com/1997-otis-thorpe-trade-and-the-2003-nba-draft/
+#nba #basketball #management #stats]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110667717968890955</id>
+        <link href="https://linuxrocks.online/@nafnlj/110667717968890955"/>
+        <updated>2023-07-06T14:56:04.000Z</updated>
+        <summary type="html"><![CDATA[Last week, I commemorated the 20th anniversary of the 2003 NBA Draft by addressing a hypothetical -- should the Detroit Pistons, who lucked into the second overall pick despite coming off a 50 win season thanks to a trade from 1997, have drafted Carmelo Anthony? As we know, the Pistons drafted Darko Milicic, who played little in 2.5 seasons with the team, but they won the 2003-04 championship. After considering all the factors, I concluded in a long, stat-filled article, that with perfect hindsight, the Pistons should not have drafted Anthony, but I do offer some alternatives.
+(PS: I was proud of myself when I guessed the championship odds ranking going into 2002-03 and found that the betting odds rank on Basketball Reference matched my guess perfectly.)
+https://thenewleafjournal.com/should-the-pistons-have-drafted-carmelo/
+#nba #basketball #sports #stats]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nex: A little internet protocol inspired by Gemini and Gopher]]></title>
         <id>https://news.ycombinator.com/item?id=36606976</id>
