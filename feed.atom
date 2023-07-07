@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-07T13:23:49.049Z</updated>
+    <updated>2023-07-07T18:21:23.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110673929227087132</id>
+        <link href="https://linuxrocks.online/@nafnlj/110673929227087132"/>
+        <updated>2023-07-07T17:15:40.000Z</updated>
+        <summary type="html"><![CDATA[In 2021, I wrote a mini article centered on a photo I took of a banana bench outside a home in Gowanus, Brooklyn. I don't think anyone really read it (such is the fate of small photo posts). However, according to my local privacy-friendly analytics tool, Koko Analytics, I suddenly got a large number of referrals from Facebook (unusual, if not unprecedented) all pointing to the banana bench article. I guess someone shared it. However, I don't have Facebook, so the source will forever be a mystery. You too can enjoy the banana bench.
+https://thenewleafjournal.com/brooklyn-banana-bench-photo/
+#nyc #brooklyn #banana #bench #photography]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mafia Social Media Over-Sharing]]></title>
+        <id>https://thenewleafjournal.com/?p=20716</id>
+        <link href="https://thenewleafjournal.com/mafia-social-media-over-sharing/"/>
+        <updated>2023-07-07T17:08:19.000Z</updated>
+        <summary type="html"><![CDATA[When even the family of the Colombo consigliere cannot log off.
+Possibly related posts...
+
+1883 Opening of the Brooklyn Bridge
+Wasteful talk show subsidies in New York
+On NYC Curfews and Essential Workers
+ATW 〜 Murakami on Bad Social Media Content
+In Support of the Lawsuit Against NYC Dining Sheds
+On Children and Internet Sharing
+Fediverse Clone Wars and Decentralized Social Media
+The Questionable NYC Mayoral Campaign About Page of Maya…
+Feeds and Read-It-Later for Online Reading]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan's Switch Sales in June Were Reportedly a Record High for the Console]]></title>
+        <id>https://news.ycombinator.com/item?id=36634436</id>
+        <link href="https://www.nintendolife.com/news/2023/07/japans-switch-sales-in-june-were-reportedly-a-record-high-for-the-console"/>
+        <updated>2023-07-07T16:44:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nintendolife.com/news/2023/07/japans-switch-sales-in-june-were-reportedly-a-record-high-for-the-console
+Comments URL: https://news.ycombinator.com/item?id=36634436
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I stopped using Thunderbird for task management (I had been [using it with Radicale-DecSync](https:/...]]></title>
         <id>https://memos.emucafe.org/m/24</id>

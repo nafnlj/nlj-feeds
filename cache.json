@@ -53,6 +53,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20716",
+          "author": "Nicholas A. Ferrell",
+          "description": "When even the family of the Colombo consigliere cannot log off.\nPossibly related posts...\n\n1883 Opening of the Brooklyn Bridge\nWasteful talk show subsidies in New York\nOn NYC Curfews and Essential Workers\nATW 〜 Murakami on Bad Social Media Content\nIn Support of the Lawsuit Against NYC Dining Sheds\nOn Children and Internet Sharing\nFediverse Clone Wars and Decentralized Social Media\nThe Questionable NYC Mayoral Campaign About Page of Maya…\nFeeds and Read-It-Later for Online Reading",
+          "link": "https://thenewleafjournal.com/mafia-social-media-over-sharing/",
+          "publishedOn": "2023-07-07T17:08:19.000Z",
+          "wordCount": null,
+          "title": "Mafia Social Media Over-Sharing",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20706",
           "author": "Nicholas A. Ferrell",
           "description": "We begin with a patriotic bedtime story and conclude with Benjamin Franklin's thoughts on the bald eagle vs the turkey.\nPossibly related posts...\n\nThe Enigmatic Life and Death of Emperor Otho\nHistory of Thanksgiving Proclamations in the Philippines\n1883 Opening of the Brooklyn Bridge\nTiki paralogue trick in Fire Emblem Engage\nCalvin Coolidge's 1923 Thanksgiving Proclamation\nACE Academy - Visual Novel Review\n\"The American Mind\" 〜 A 1923 July 4th Oration by Rev.…\nShort Bio of Mary Graham Bonner\nAnime Recommendations of the Decade (2011-20)",
@@ -521,6 +531,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110673929227087132",
+          "author": null,
+          "description": "In 2021, I wrote a mini article centered on a photo I took of a banana bench outside a home in Gowanus, Brooklyn. I don't think anyone really read it (such is the fate of small photo posts). However, according to my local privacy-friendly analytics tool, Koko Analytics, I suddenly got a large number of referrals from Facebook (unusual, if not unprecedented) all pointing to the banana bench article. I guess someone shared it. However, I don't have Facebook, so the source will forever be a mystery. You too can enjoy the banana bench.\nhttps://thenewleafjournal.com/brooklyn-banana-bench-photo/\n#nyc #brooklyn #banana #bench #photography",
+          "link": "https://linuxrocks.online/@nafnlj/110673929227087132",
+          "publishedOn": "2023-07-07T17:15:40.000Z",
+          "wordCount": 122,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/110667735306176727",
           "author": null,
@@ -1052,6 +1072,16 @@
       "feedUrl": "https://hnrss.org/user?id=nafnlj",
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=36634436",
+          "author": "nafnlj",
+          "description": "Article URL: https://www.nintendolife.com/news/2023/07/japans-switch-sales-in-june-were-reportedly-a-record-high-for-the-console\nComments URL: https://news.ycombinator.com/item?id=36634436\nPoints: 2\n# Comments: 0",
+          "link": "https://www.nintendolife.com/news/2023/07/japans-switch-sales-in-june-were-reportedly-a-record-high-for-the-console",
+          "publishedOn": "2023-07-07T16:44:30.000Z",
+          "wordCount": 6624,
+          "title": "Japan's Switch Sales in June Were Reportedly a Record High for the Console",
+          "imageUrl": "https://images.nintendolife.com/4a3c480c62a67/1280x720.jpg"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=36626235",
           "author": "nafnlj",
