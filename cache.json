@@ -337,6 +337,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20724",
+          "author": "Nicholas A. Ferrell",
+          "description": "On April 12, 2023, the New York Post reported on the NYPD’s rescuing a coyote from the East River. Police departments […]\nPossibly related posts...\n\nDuck and Duckling Rescue Stories From Around the Web\nNLJ Brooklyn NYC pigeon rescue story\nThe Heroic Fallen Trash Can Rescue in Gowanus\nJustin & Justina: Most-Read NLJ Content of 2020\nHeights in “The Dangers in My Heart” Anime\nJustin & Justina 〜 4th of July Grill Sacrifices to the…\nThe NYPD's Duck Family Rescue in Midtown Manhattan\nTransferring Photos From My BlackBerry Classic Using KDE…\nThe L-Shaped Desk on Hamilton Avenue, Brooklyn",
+          "link": "https://thenewleafjournal.com/leafbud/the-well-actually-guy-on-coyote-rescue/",
+          "publishedOn": "2023-07-07T19:40:57.000Z",
+          "wordCount": 1533,
+          "title": "The “well actually” guy on coyote rescue",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20697",
           "author": "Nicholas A. Ferrell",
           "description": "I published an article about anime romances with significant height differences between the main romantic pair back in March (see height […]\nPossibly related posts...\n\nHeight differences in anime romances\nFutaba Igarashi's Hair Is Naturally Green?\nAnime Recommendations of the Decade (2011-20)\nThe Best Anime Series of 2021\nAnime romantic comedy gimmicks...\nLateral thinking to extend game console life-cycles\nPerspectives From Japan On Watching Movie Credits\nWhat Makes a Depressing Anime? Discussion and Selection.\nThe Questionable NYC Mayoral Campaign About Page of Maya…",
@@ -819,6 +829,16 @@
       "siteUrl": "https://hypothes.is/stream",
       "articles": [
         {
+          "id": "https://hypothes.is/a/BzHcsh0IEe6cjeuPJnTcrw",
+          "author": null,
+          "description": "\"After years of research, our engineers have created a revolution in social media technology: a Twitter clone on Instagram that offers the absolute worst of both worlds,\" said a VR headset-wearing Zuckerberg in an address to dozens of friends in the Metaverse. \"At long last, you can read caustic hot takes written by talentless idiots, while still enjoying oppressive censorship and sepia-toned thirst traps from yoga pants models with obnoxious lip injections. You're welcome!\"\nBabylon Bee article with made up Mark Zuckerberg quote touting the virtues of Threads.  This is some of the Bee's finest writing and not at all inaccurate.",
+          "link": "https://hypothes.is/a/BzHcsh0IEe6cjeuPJnTcrw",
+          "publishedOn": "2023-07-07T20:51:21.201Z",
+          "wordCount": 18,
+          "title": "New 'Threads' App Successfully Combines Everything You Hate About Twitter With Everything You Hate About Instagram",
+          "imageUrl": "/assets/images/share-image.png"
+        },
+        {
           "id": "https://hypothes.is/a/59PQ8A3zEe62l1eRbZcA5Q",
           "author": null,
           "description": "How do you organize all of the things you read?\nMy system is actually pretty simple, and it relies on organizing my regular reads, quick digesting and sorting one-off articles, and sometimes doing extensive note-taking with online apps.\nI agree that reading is a key part of writing.",
@@ -1072,6 +1092,16 @@
       "feedUrl": "https://hnrss.org/user?id=nafnlj",
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=36637882",
+          "author": "nafnlj",
+          "description": "Additional recommendation:\nYe Olde Blogroll: https://blogroll.org/",
+          "link": "https://news.ycombinator.com/item?id=36637882",
+          "publishedOn": "2023-07-07T20:28:18.000Z",
+          "wordCount": 69,
+          "title": "New comment by nafnlj in \"Show HN: Blogs.hn – tiny blog directory\"",
+          "imageUrl": null
+        },
         {
           "id": "https://news.ycombinator.com/item?id=36634436",
           "author": "nafnlj",

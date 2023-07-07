@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-07T18:21:23.856Z</updated>
+    <updated>2023-07-07T23:16:05.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New 'Threads' App Successfully Combines Everything You Hate About Twitter With Everything You Hate About Instagram]]></title>
+        <id>https://hypothes.is/a/BzHcsh0IEe6cjeuPJnTcrw</id>
+        <link href="https://hypothes.is/a/BzHcsh0IEe6cjeuPJnTcrw"/>
+        <updated>2023-07-07T20:51:21.201Z</updated>
+        <summary type="html"><![CDATA["After years of research, our engineers have created a revolution in social media technology: a Twitter clone on Instagram that offers the absolute worst of both worlds," said a VR headset-wearing Zuckerberg in an address to dozens of friends in the Metaverse. "At long last, you can read caustic hot takes written by talentless idiots, while still enjoying oppressive censorship and sepia-toned thirst traps from yoga pants models with obnoxious lip injections. You're welcome!"
+Babylon Bee article with made up Mark Zuckerberg quote touting the virtues of Threads.  This is some of the Bee's finest writing and not at all inaccurate.]]></summary>
+        <author>
+            <name>Hypothesis Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New comment by nafnlj in "Show HN: Blogs.hn – tiny blog directory"]]></title>
+        <id>https://news.ycombinator.com/item?id=36637882</id>
+        <link href="https://news.ycombinator.com/item?id=36637882"/>
+        <updated>2023-07-07T20:28:18.000Z</updated>
+        <summary type="html"><![CDATA[Additional recommendation:
+Ye Olde Blogroll: https://blogroll.org/]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “well actually” guy on coyote rescue]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20724</id>
+        <link href="https://thenewleafjournal.com/leafbud/the-well-actually-guy-on-coyote-rescue/"/>
+        <updated>2023-07-07T19:40:57.000Z</updated>
+        <summary type="html"><![CDATA[On April 12, 2023, the New York Post reported on the NYPD’s rescuing a coyote from the East River. Police departments […]
+Possibly related posts...
+
+Duck and Duckling Rescue Stories From Around the Web
+NLJ Brooklyn NYC pigeon rescue story
+The Heroic Fallen Trash Can Rescue in Gowanus
+Justin & Justina: Most-Read NLJ Content of 2020
+Heights in “The Dangers in My Heart” Anime
+Justin & Justina 〜 4th of July Grill Sacrifices to the…
+The NYPD's Duck Family Rescue in Midtown Manhattan
+Transferring Photos From My BlackBerry Classic Using KDE…
+The L-Shaped Desk on Hamilton Avenue, Brooklyn]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110673929227087132</id>
