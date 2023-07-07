@@ -385,16 +385,6 @@
           "wordCount": 1544,
           "title": "Telly’s “free” dystopia TV",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20359",
-          "author": "Nicholas A. Ferrell",
-          "description": "I quote from an interesting March 9, 2023 post on Privacy Dad’s Blog titled Control Your Own Content with RSS and […]\nPossibly related posts...\n\nATW 〜 Murakami on Bad Social Media Content\nFediverse Clone Wars and Decentralized Social Media\nAn Introduction to RSS and Other Feed Formats\nFeeds and Read-It-Later for Online Reading\nThe Enigmatic Life and Death of Emperor Otho\nSubstack Notes' Twitter clone war\nSocial webs of personal websites\nAn Early Review of Pixelfed - Instagram Alternative\nAgainst Twitter as a Content Curator",
-          "link": "https://thenewleafjournal.com/leafbud/rss-as-a-social-media-alternative/",
-          "publishedOn": "2023-06-07T15:17:43.000Z",
-          "wordCount": 1555,
-          "title": "RSS as a social media alternative",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
         }
       ]
     },
@@ -800,26 +790,6 @@
           "wordCount": 122,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110505668728369977",
-          "author": null,
-          "description": "I decided to test Nostr after coming across an easy-to-use WordPress plugin for using my site as a NIP-05 identifier (short write-up forthcoming). Then came across @melvincarvalho 's Nostr directory. Managed to sign my Twitter and Mastodon with my key. I'll figure out GitHub next. Pretty neat.\nhttps://nostr.directory/p/newleafjournal\n#nostr #mastodon #twitter #wordpress",
-          "link": "https://linuxrocks.online/@nafnlj/110505668728369977",
-          "publishedOn": "2023-06-08T00:04:49.000Z",
-          "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110504058302120030",
-          "author": null,
-          "description": "It's a bit smoky in Brooklyn, New York today.  But on the bright side, the Moon was an interesting shade of red last night.  Tsuki ga kirei desu ne indeed...\nhttps://thenewleafjournal.com/the-mystery-of-soseki-and-tsuki-ga-kirei/\n(How could I pass up a natural opportunity to share my history of the phrase tsuki ga kirei?)\n#nyc #haze #moon #history #japan",
-          "link": "https://linuxrocks.online/@nafnlj/110504058302120030",
-          "publishedOn": "2023-06-07T17:15:16.000Z",
-          "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -885,6 +855,16 @@
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/24",
+          "author": null,
+          "description": "I stopped using Thunderbird for task management (I had been using it with Radicale-DecSync), both because I found it cumbersome and I had some sync issues.  While I don't think I need a task management app per se, I decided to see how Zim works. I set up a new Planner notebook with the tasks and journal plugins enabled. I am getting the hang of it, but it has a neat, simple syntax out of the box. Thinking about some ways to turn it into a full-fledged planner.\nZim Task List plugin docs: https://zim-wiki.org/manual/Plugins/Task_List.html\n#zimwiki #planner #decsync",
+          "link": "https://memos.emucafe.org/m/24",
+          "publishedOn": "2023-07-07T04:30:04.000Z",
+          "wordCount": 21,
+          "title": "I stopped using Thunderbird for task management (I had been [using it with Radicale-DecSync](https:/...",
+          "imageUrl": null
+        },
         {
           "id": "https://memos.emucafe.org/m/23",
           "author": null,
@@ -1072,6 +1052,16 @@
       "feedUrl": "https://hnrss.org/user?id=nafnlj",
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=36626235",
+          "author": "nafnlj",
+          "description": "Article URL: https://ruk.ca/content/using-freshrss-blog-posts-webmention\nComments URL: https://news.ycombinator.com/item?id=36626235\nPoints: 2\n# Comments: 0",
+          "link": "https://ruk.ca/content/using-freshrss-blog-posts-webmention",
+          "publishedOn": "2023-07-07T02:22:40.000Z",
+          "wordCount": 1363,
+          "title": "Using FreshRSS to “Like” blog posts via Webmention (2019)",
+          "imageUrl": null
+        },
         {
           "id": "https://news.ycombinator.com/item?id=36619028",
           "author": "nafnlj",

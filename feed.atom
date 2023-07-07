@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-06T23:17:30.570Z</updated>
+    <updated>2023-07-07T13:23:49.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I stopped using Thunderbird for task management (I had been [using it with Radicale-DecSync](https:/...]]></title>
+        <id>https://memos.emucafe.org/m/24</id>
+        <link href="https://memos.emucafe.org/m/24"/>
+        <updated>2023-07-07T04:30:04.000Z</updated>
+        <summary type="html"><![CDATA[I stopped using Thunderbird for task management (I had been using it with Radicale-DecSync), both because I found it cumbersome and I had some sync issues.  While I don't think I need a task management app per se, I decided to see how Zim works. I set up a new Planner notebook with the tasks and journal plugins enabled. I am getting the hang of it, but it has a neat, simple syntax out of the box. Thinking about some ways to turn it into a full-fledged planner.
+Zim Task List plugin docs: https://zim-wiki.org/manual/Plugins/Task_List.html
+#zimwiki #planner #decsync]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using FreshRSS to “Like” blog posts via Webmention (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=36626235</id>
+        <link href="https://ruk.ca/content/using-freshrss-blog-posts-webmention"/>
+        <updated>2023-07-07T02:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ruk.ca/content/using-freshrss-blog-posts-webmention
+Comments URL: https://news.ycombinator.com/item?id=36626235
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New comment by nafnlj in "Ask HN: What are your favorite RSS feeds?"]]></title>
         <id>https://news.ycombinator.com/item?id=36619028</id>
@@ -1906,52 +1931,6 @@ https://thenewleafjournal.com/persona-4-coffee-and-children/
 #videogames #persona4 #coffee #nyc #haze]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110505668728369977</id>
-        <link href="https://linuxrocks.online/@nafnlj/110505668728369977"/>
-        <updated>2023-06-08T00:04:49.000Z</updated>
-        <summary type="html"><![CDATA[I decided to test Nostr after coming across an easy-to-use WordPress plugin for using my site as a NIP-05 identifier (short write-up forthcoming). Then came across @melvincarvalho 's Nostr directory. Managed to sign my Twitter and Mastodon with my key. I'll figure out GitHub next. Pretty neat.
-https://nostr.directory/p/newleafjournal
-#nostr #mastodon #twitter #wordpress]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110504058302120030</id>
-        <link href="https://linuxrocks.online/@nafnlj/110504058302120030"/>
-        <updated>2023-06-07T17:15:16.000Z</updated>
-        <summary type="html"><![CDATA[It's a bit smoky in Brooklyn, New York today.  But on the bright side, the Moon was an interesting shade of red last night.  Tsuki ga kirei desu ne indeed...
-https://thenewleafjournal.com/the-mystery-of-soseki-and-tsuki-ga-kirei/
-(How could I pass up a natural opportunity to share my history of the phrase tsuki ga kirei?)
-#nyc #haze #moon #history #japan]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSS as a social media alternative]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20359</id>
-        <link href="https://thenewleafjournal.com/leafbud/rss-as-a-social-media-alternative/"/>
-        <updated>2023-06-07T15:17:43.000Z</updated>
-        <summary type="html"><![CDATA[I quote from an interesting March 9, 2023 post on Privacy Dad’s Blog titled Control Your Own Content with RSS and […]
-Possibly related posts...
-
-ATW 〜 Murakami on Bad Social Media Content
-Fediverse Clone Wars and Decentralized Social Media
-An Introduction to RSS and Other Feed Formats
-Feeds and Read-It-Later for Online Reading
-The Enigmatic Life and Death of Emperor Otho
-Substack Notes' Twitter clone war
-Social webs of personal websites
-An Early Review of Pixelfed - Instagram Alternative
-Against Twitter as a Content Curator]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
