@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-07T23:16:05.648Z</updated>
+    <updated>2023-07-08T13:20:09.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1929,97 +1929,6 @@ Fixing a WP Custom Post Type Permalink Error]]></summary>
 Change title]]></summary>
         <author>
             <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110511355084471796</id>
-        <link href="https://linuxrocks.online/@nafnlj/110511355084471796"/>
-        <updated>2023-06-09T00:10:56.000Z</updated>
-        <summary type="html"><![CDATA[I use(d) Nomacs as my image viewer. It suddenly wouldn't open photos anymore. Tried reinstalling from AUR and it won't install. Apparently I'm not the only one with the issue. The search for a replacement begins...
-#aur #nomacs #linux]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110511197481144916</id>
-        <link href="https://linuxrocks.online/@nafnlj/110511197481144916"/>
-        <updated>2023-06-08T23:30:51.000Z</updated>
-        <summary type="html"><![CDATA[Interesting discussion on Manjaro going on. I used Manjaro (first KDE, then XFCE) for my first two years on Linux before switching to EndeavourOS. I chimed in to concur with a few commenters who much prefer EndeavourOS, but that comes with a caveat. While I am much happier on EndeavourOS, Manjaro's GUI tools, notably Pamac, helped me get up to speed three years ago having come from only using Windows. EndeavourOS would have been a much heavier lift when I started.
-(Note: Let us set aside that I should have been using something like Mint or one of the Ubuntus or derivatives thereof and not Manjaro.)
-https://news.ycombinator.com/item?id=36249036
-#linux #endeavouros #manjaro]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New comment by nafnlj in "Manjaro is a free and open source Linux operating system that emphasizes privacy"]]></title>
-        <id>https://news.ycombinator.com/item?id=36250764</id>
-        <link href="https://news.ycombinator.com/item?id=36250764"/>
-        <updated>2023-06-08T23:24:31.000Z</updated>
-        <summary type="html"><![CDATA[I switched from Manjaro to EndeavourOS last year after using Manjaro for two (Manjaro was my first experience with Linux as a daily driver) and agree with this fully. I much prefer using Arch's regular repositories to Manjaro's. But having used Manjaro as my first distribution (I shouldn't have been using an Arch-based distro, but that aside), I don't think EndeavourOS is a one-to-one normie replacement in all respects. While I don't need or want Manjaro's GUI tools now, Pamac and its GUI kernel/driver tools helped me make the adjustment from having only used Windows to Linux. I am sure I could have managed on EndeavourOS, but it would have been more difficult at the time.]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create contributing.md]]></title>
-        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/64e1f32423e19270567172756c7f349372feff86</id>
-        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/64e1f32423e19270567172756c7f349372feff86"/>
-        <updated>2023-06-08T21:36:14.000Z</updated>
-        <summary type="html"><![CDATA[Create contributing.md
-
-Add contributor guidelines]]></summary>
-        <author>
-            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re: Discovered but not crawled | URL cannot appear on Bing]]></title>
-        <id>https://hypothes.is/a/tysl9gZCEe6vbPNYOKqHug</id>
-        <link href="https://hypothes.is/a/tysl9gZCEe6vbPNYOKqHug"/>
-        <updated>2023-06-08T21:23:30.485Z</updated>
-        <summary type="html"><![CDATA[I got a result, but only by emailing bwtsupport at microsoft dot com. They resolved it. I also sent a letter to their legal dept, but I think emailing their support did the trick. This is not a published email I dug it up in a forum post. Worked. Hope you get help too.
-A Microsoft forum poster suggests an alternative email address, bwtsupport at microsoft dot com, for raising concerns about Bing de-indexing. This email is listed in some older posts from the official Bing blog.  I have not personally tested it yet but will keep a note here.]]></summary>
-        <author>
-            <name>Hypothesis Stream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update README.md]]></title>
-        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/042bddebf9c67cd5f4348bae80fbc56d5b7a94b5</id>
-        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/042bddebf9c67cd5f4348bae80fbc56d5b7a94b5"/>
-        <updated>2023-06-08T20:05:12.000Z</updated>
-        <summary type="html"><![CDATA[Update README.md
-
-Changed Readme title.]]></summary>
-        <author>
-            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Initial commit]]></title>
-        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/d8cb6c12b600cc4c447a29d704220e5f2ebf98cc</id>
-        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/d8cb6c12b600cc4c447a29d704220e5f2ebf98cc"/>
-        <updated>2023-06-08T20:03:47.000Z</updated>
-        <summary type="html"><![CDATA[Initial commit]]></summary>
-        <author>
-            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110509551049332696</id>
-        <link href="https://linuxrocks.online/@nafnlj/110509551049332696"/>
-        <updated>2023-06-08T16:32:08.000Z</updated>
-        <summary type="html"><![CDATA[I can see the strange Brooklyn NY haze from my window as I enjoy my coffee. The scene makes me sentimental (or sedimental) for one of my favorite video games -- a game which combined a foreboding fog with at least one touching family scene involving coffee.  I once wrote about this special scene and giving coffee to children on school nights.
-https://thenewleafjournal.com/persona-4-coffee-and-children/
-#videogames #persona4 #coffee #nyc #haze]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>

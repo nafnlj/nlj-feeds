@@ -790,36 +790,6 @@
           "wordCount": 122,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110511355084471796",
-          "author": null,
-          "description": "I use(d) Nomacs as my image viewer. It suddenly wouldn't open photos anymore. Tried reinstalling from AUR and it won't install. Apparently I'm not the only one with the issue. The search for a replacement begins...\n#aur #nomacs #linux",
-          "link": "https://linuxrocks.online/@nafnlj/110511355084471796",
-          "publishedOn": "2023-06-09T00:10:56.000Z",
-          "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110511197481144916",
-          "author": null,
-          "description": "Interesting discussion on Manjaro going on. I used Manjaro (first KDE, then XFCE) for my first two years on Linux before switching to EndeavourOS. I chimed in to concur with a few commenters who much prefer EndeavourOS, but that comes with a caveat. While I am much happier on EndeavourOS, Manjaro's GUI tools, notably Pamac, helped me get up to speed three years ago having come from only using Windows. EndeavourOS would have been a much heavier lift when I started.\n(Note: Let us set aside that I should have been using something like Mint or one of the Ubuntus or derivatives thereof and not Manjaro.)\nhttps://news.ycombinator.com/item?id=36249036\n#linux #endeavouros #manjaro",
-          "link": "https://linuxrocks.online/@nafnlj/110511197481144916",
-          "publishedOn": "2023-06-08T23:30:51.000Z",
-          "wordCount": 119,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110509551049332696",
-          "author": null,
-          "description": "I can see the strange Brooklyn NY haze from my window as I enjoy my coffee. The scene makes me sentimental (or sedimental) for one of my favorite video games -- a game which combined a foreboding fog with at least one touching family scene involving coffee.  I once wrote about this special scene and giving coffee to children on school nights.\nhttps://thenewleafjournal.com/persona-4-coffee-and-children/\n#videogames #persona4 #coffee #nyc #haze",
-          "link": "https://linuxrocks.online/@nafnlj/110509551049332696",
-          "publishedOn": "2023-06-08T16:32:08.000Z",
-          "wordCount": 122,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -876,16 +846,6 @@
           "publishedOn": "2023-06-13T15:07:13.353Z",
           "wordCount": 18,
           "title": "Jokic in 'legendary category' after Finals MVP run",
-          "imageUrl": "/assets/images/share-image.png"
-        },
-        {
-          "id": "https://hypothes.is/a/tysl9gZCEe6vbPNYOKqHug",
-          "author": null,
-          "description": "I got a result, but only by emailing bwtsupport at microsoft dot com. They resolved it. I also sent a letter to their legal dept, but I think emailing their support did the trick. This is not a published email I dug it up in a forum post. Worked. Hope you get help too.\nA Microsoft forum poster suggests an alternative email address, bwtsupport at microsoft dot com, for raising concerns about Bing de-indexing. This email is listed in some older posts from the official Bing blog.  I have not personally tested it yet but will keep a note here.",
-          "link": "https://hypothes.is/a/tysl9gZCEe6vbPNYOKqHug",
-          "publishedOn": "2023-06-08T21:23:30.485Z",
-          "wordCount": 18,
-          "title": "Re: Discovered but not crawled | URL cannot appear on Bing",
           "imageUrl": "/assets/images/share-image.png"
         }
       ]
@@ -1251,16 +1211,6 @@
           "wordCount": 3670,
           "title": "Beepers and Pagers: A Technology for More Than Drug Dealers",
           "imageUrl": "https://images.tedium.co/uploads/tedium060723.gif"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36250764",
-          "author": "nafnlj",
-          "description": "I switched from Manjaro to EndeavourOS last year after using Manjaro for two (Manjaro was my first experience with Linux as a daily driver) and agree with this fully. I much prefer using Arch's regular repositories to Manjaro's. But having used Manjaro as my first distribution (I shouldn't have been using an Arch-based distro, but that aside), I don't think EndeavourOS is a one-to-one normie replacement in all respects. While I don't need or want Manjaro's GUI tools now, Pamac and its GUI kernel/driver tools helped me make the adjustment from having only used Windows to Linux. I am sure I could have managed on EndeavourOS, but it would have been more difficult at the time.",
-          "link": "https://news.ycombinator.com/item?id=36250764",
-          "publishedOn": "2023-06-08T23:24:31.000Z",
-          "wordCount": 346,
-          "title": "New comment by nafnlj in \"Manjaro is a free and open source Linux operating system that emphasizes privacy\"",
-          "imageUrl": null
         }
       ]
     },
@@ -1358,36 +1308,6 @@
           "wordCount": 419,
           "title": "Update README.md",
           "imageUrl": "https://opengraph.githubassets.com/482e3f8a4c9e89bcf5cb71f6c4db018204807ae6b2f60c69d6127c998318f5f1/nafnlj/not-awesome-bing-bans-and-deindexing/commit/dc202fa55cde29d95279e4c340d772509a7b2b72"
-        },
-        {
-          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/64e1f32423e19270567172756c7f349372feff86",
-          "author": null,
-          "description": "Create contributing.md\n\nAdd contributor guidelines",
-          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/64e1f32423e19270567172756c7f349372feff86",
-          "publishedOn": "2023-06-08T21:36:14.000Z",
-          "wordCount": 509,
-          "title": "Create contributing.md",
-          "imageUrl": "https://opengraph.githubassets.com/8d0b0e07f149a9f39338cbf66fcc20b146b5e9722f6e2796374e90261e34f89c/nafnlj/not-awesome-bing-bans-and-deindexing/commit/64e1f32423e19270567172756c7f349372feff86"
-        },
-        {
-          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/042bddebf9c67cd5f4348bae80fbc56d5b7a94b5",
-          "author": null,
-          "description": "Update README.md\n\nChanged Readme title.",
-          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/042bddebf9c67cd5f4348bae80fbc56d5b7a94b5",
-          "publishedOn": "2023-06-08T20:05:12.000Z",
-          "wordCount": 415,
-          "title": "Update README.md",
-          "imageUrl": "https://opengraph.githubassets.com/73d64673b8c9af8329c4c05ac15c6bc6be52d72227e1ae11eaf034287914155d/nafnlj/not-awesome-bing-bans-and-deindexing/commit/042bddebf9c67cd5f4348bae80fbc56d5b7a94b5"
-        },
-        {
-          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/d8cb6c12b600cc4c447a29d704220e5f2ebf98cc",
-          "author": null,
-          "description": "Initial commit",
-          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/d8cb6c12b600cc4c447a29d704220e5f2ebf98cc",
-          "publishedOn": "2023-06-08T20:03:47.000Z",
-          "wordCount": 402,
-          "title": "Initial commit",
-          "imageUrl": "https://opengraph.githubassets.com/17c6e171be379007188a31b0aa32921bf6ef0c3944f93530d90d5463328014fa/nafnlj/not-awesome-bing-bans-and-deindexing/commit/d8cb6c12b600cc4c447a29d704220e5f2ebf98cc"
         }
       ]
     },
