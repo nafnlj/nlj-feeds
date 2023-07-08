@@ -1063,6 +1063,26 @@
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=36648368",
+          "author": "nafnlj",
+          "description": "Article URL: https://www.forbes.com/sites/dandiamond/2013/06/27/nba-draft-is-being-7-feet-tall-the-fastest-way-to-get-rich-in-america/\nComments URL: https://news.ycombinator.com/item?id=36648368\nPoints: 2\n# Comments: 1",
+          "link": "https://www.forbes.com/sites/dandiamond/2013/06/27/nba-draft-is-being-7-feet-tall-the-fastest-way-to-get-rich-in-america/",
+          "publishedOn": "2023-07-08T20:26:36.000Z",
+          "wordCount": 10387,
+          "title": "NBA Draft: Is Being 7 Feet Tall the Fastest Way to Get Rich in America (2013)",
+          "imageUrl": "https://imageio.forbes.com/blogs-images/thumbnails/blog_2238/pt_2238_949_o.jpg?format=jpg&width=1200"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=36648331",
+          "author": "nafnlj",
+          "description": "Article URL: https://github.com/jeherve/nostr-verify\nComments URL: https://news.ycombinator.com/item?id=36648331\nPoints: 2\n# Comments: 0",
+          "link": "https://github.com/jeherve/nostr-verify",
+          "publishedOn": "2023-07-08T20:22:47.000Z",
+          "wordCount": 828,
+          "title": "Nostr Verify: WordPress plugin for Nostr verification using NIP-05",
+          "imageUrl": "https://opengraph.githubassets.com/8cfc028a049863724495b39164839356aaa7eb69ee588fea4e38e8be3a59dd6c/jeherve/nostr-verify"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=36637882",
           "author": "nafnlj",
           "description": "Additional recommendation:\nYe Olde Blogroll: https://blogroll.org/",

@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-08T18:19:41.418Z</updated>
+    <updated>2023-07-08T23:15:36.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NBA Draft: Is Being 7 Feet Tall the Fastest Way to Get Rich in America (2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=36648368</id>
+        <link href="https://www.forbes.com/sites/dandiamond/2013/06/27/nba-draft-is-being-7-feet-tall-the-fastest-way-to-get-rich-in-america/"/>
+        <updated>2023-07-08T20:26:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.forbes.com/sites/dandiamond/2013/06/27/nba-draft-is-being-7-feet-tall-the-fastest-way-to-get-rich-in-america/
+Comments URL: https://news.ycombinator.com/item?id=36648368
+Points: 2
+# Comments: 1]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nostr Verify: WordPress plugin for Nostr verification using NIP-05]]></title>
+        <id>https://news.ycombinator.com/item?id=36648331</id>
+        <link href="https://github.com/jeherve/nostr-verify"/>
+        <updated>2023-07-08T20:22:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/jeherve/nostr-verify
+Comments URL: https://news.ycombinator.com/item?id=36648331
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXLIII 〜 Ben Franklin's favorite (maybe) 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/143/</id>
