@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-08T13:20:09.134Z</updated>
+    <updated>2023-07-08T18:19:41.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXLIII 〜 Ben Franklin's favorite (maybe) 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/143/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/143/"/>
+        <updated>2023-07-08T16:33:47.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 143rd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. We had a warm week to begin July here in New York City. But weather aside, I published several new articles. You will find links to and descriptions of our new article along with our usual assortment of links from around the web and other news and notes.
+Leaves from the week that was
+I published four regular articles since mailing Newsletter 142.  
+Most-Visited NLJ Articles of 1H 2023
+Many of the featured pieces on our 24 most-visited articles of the first half of 2023 will comes as little surprise to newslett…]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110679065307820129</id>
+        <link href="https://linuxrocks.online/@nafnlj/110679065307820129"/>
+        <updated>2023-07-08T15:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Our 24 most-visited articles of Jan 1-June 30, 2023, with links to each. Note that the ranking comes with the caveat that statistics come from Koko Analytics, which is an entirely local WordPress page counter with no third party scripts or connections. It respects Do Not Track and does not work for users who block JS, so it is (by design) not as robust as commercial solutions.  However, I have found that its recording of Google referrers is usually fairly close to what I see in Google Search Console (formerly Webmaster), so I'll count it as close enough for all normal, non-creepy purposes.
+https://thenewleafjournal.com/most-visited-nlj-articles-of-1h-2023/
+#blog #blogging #writing #KokoAnalytics]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New 'Threads' App Successfully Combines Everything You Hate About Twitter With Everything You Hate About Instagram]]></title>
         <id>https://hypothes.is/a/BzHcsh0IEe6cjeuPJnTcrw</id>
@@ -1906,29 +1932,6 @@ Reviewing Koko Analytics: A Simple Privacy-Friendly…
 Fixing a WP Custom Post Type Permalink Error]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110512404020789204</id>
-        <link href="https://linuxrocks.online/@nafnlj/110512404020789204"/>
-        <updated>2023-06-09T04:37:41.000Z</updated>
-        <summary type="html"><![CDATA[I decided to go with Shotwell for the time being instead of installing Nomacs as a Flatpak. Seems to do what I need (although I prefer Nomacs). I could not figure out how to change the size of the images though. Looked it up. You can only change size when saving? Weird. It works in the end...
-#linux #nomacs #shotwell]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update README.md]]></title>
-        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/dc202fa55cde29d95279e4c340d772509a7b2b72</id>
-        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/dc202fa55cde29d95279e4c340d772509a7b2b72"/>
-        <updated>2023-06-09T01:22:27.000Z</updated>
-        <summary type="html"><![CDATA[Update README.md
-
-Change title]]></summary>
-        <author>
-            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
         </author>
     </entry>
 </feed>

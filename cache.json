@@ -477,6 +477,16 @@
       "siteUrl": "https://buttondown.email/newsletterleafjournal",
       "articles": [
         {
+          "id": "https://buttondown.email/newsletterleafjournal/archive/143/",
+          "author": null,
+          "description": "Welcome to the 143rd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. We had a warm week to begin July here in New York City. But weather aside, I published several new articles. You will find links to and descriptions of our new article along with our usual assortment of links from around the web and other news and notes.\nLeaves from the week that was\nI published four regular articles since mailing Newsletter 142.  \nMost-Visited NLJ Articles of 1H 2023\nMany of the featured pieces on our 24 most-visited articles of the first half of 2023 will comes as little surprise to newslett…",
+          "link": "https://buttondown.email/newsletterleafjournal/archive/143/",
+          "publishedOn": "2023-07-08T16:33:47.000Z",
+          "wordCount": 2801,
+          "title": "Newsletter Leaf Journal CXLIII 〜 Ben Franklin's favorite (maybe) 〜",
+          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-subject?subject=Newsletter Leaf Journal CXLIII 〜 Ben Franklin's favorite (maybe) 〜&author=The Newsletter Leaf Journal&date=2023-07-08&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
+        },
+        {
           "id": "https://buttondown.email/newsletterleafjournal/archive/142/",
           "author": null,
           "description": "Welcome to the edition 142 of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. We welcome July with today's newsletter, and you can expect some new leaf fireworks (or at least links to some of our 4th of July posts) to go with the usual assortment of links from the week that was, links from around the web, and other news and notes.\nLeaves from the week that was\nI only published three full articles since mailing newsletter 141, with one being our June review. In my defense, however, the combined word count of these articles was above average.\nShould the Pistons have drafted Carmelo?\nI exami…",
@@ -541,6 +551,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110679065307820129",
+          "author": null,
+          "description": "Our 24 most-visited articles of Jan 1-June 30, 2023, with links to each. Note that the ranking comes with the caveat that statistics come from Koko Analytics, which is an entirely local WordPress page counter with no third party scripts or connections. It respects Do Not Track and does not work for users who block JS, so it is (by design) not as robust as commercial solutions.  However, I have found that its recording of Google referrers is usually fairly close to what I see in Google Search Console (formerly Webmaster), so I'll count it as close enough for all normal, non-creepy purposes.\nhttps://thenewleafjournal.com/most-visited-nlj-articles-of-1h-2023/\n#blog #blogging #writing #KokoAnalytics",
+          "link": "https://linuxrocks.online/@nafnlj/110679065307820129",
+          "publishedOn": "2023-07-08T15:01:51.000Z",
+          "wordCount": 120,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/110673929227087132",
           "author": null,
@@ -778,16 +798,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110514926094564865",
           "publishedOn": "2023-06-09T15:19:05.000Z",
           "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110512404020789204",
-          "author": null,
-          "description": "I decided to go with Shotwell for the time being instead of installing Nomacs as a Flatpak. Seems to do what I need (although I prefer Nomacs). I could not figure out how to change the size of the images though. Looked it up. You can only change size when saving? Weird. It works in the end...\n#linux #nomacs #shotwell",
-          "link": "https://linuxrocks.online/@nafnlj/110512404020789204",
-          "publishedOn": "2023-06-09T04:37:41.000Z",
-          "wordCount": 122,
           "title": "Untitled",
           "imageUrl": null
         }
@@ -1298,16 +1308,6 @@
           "wordCount": 2393,
           "title": "Update README.md",
           "imageUrl": "https://opengraph.githubassets.com/24157f957fc66cbd0e3083b9acc1a90ba31879e753726da9b2ae756fd16c6f19/nafnlj/not-awesome-bing-bans-and-deindexing/commit/15e2a160387bb560edfd1ea1a744db7acb993cfa"
-        },
-        {
-          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/dc202fa55cde29d95279e4c340d772509a7b2b72",
-          "author": null,
-          "description": "Update README.md\n\nChange title",
-          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/dc202fa55cde29d95279e4c340d772509a7b2b72",
-          "publishedOn": "2023-06-09T01:22:27.000Z",
-          "wordCount": 419,
-          "title": "Update README.md",
-          "imageUrl": "https://opengraph.githubassets.com/482e3f8a4c9e89bcf5cb71f6c4db018204807ae6b2f60c69d6127c998318f5f1/nafnlj/not-awesome-bing-bans-and-deindexing/commit/dc202fa55cde29d95279e4c340d772509a7b2b72"
         }
       ]
     },
