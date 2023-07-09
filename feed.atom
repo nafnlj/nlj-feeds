@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-09T13:20:09.098Z</updated>
+    <updated>2023-07-09T18:20:01.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1770,44 +1770,6 @@ https://thenewleafjournal.com/the-new-leaf-journal-twitter/
 #twitter #blogging #sharing #socialmedia]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update contributing.md]]></title>
-        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/0a7190e36fc44edef03ab331d4f6715f777df09e</id>
-        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/0a7190e36fc44edef03ab331d4f6715f777df09e"/>
-        <updated>2023-06-10T05:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Update contributing.md
-
-Add email contact option for readers who do not have GitHub accounts]]></summary>
-        <author>
-            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update README.md]]></title>
-        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/1b20e043ad71686a23b939b86e85cd47648e5c80</id>
-        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/1b20e043ad71686a23b939b86e85cd47648e5c80"/>
-        <updated>2023-06-10T05:24:38.000Z</updated>
-        <summary type="html"><![CDATA[Update README.md
-
-Added ToC.
-Fixed minor formatting issues.
-Added link to article about Seznam's issues being blocked by Webmasters.]]></summary>
-        <author>
-            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
-        <id>https://github.com/nafnlj/nljfeeds/commit/4aa94ffec461740643d7bffaf7c5ad1065bbd958</id>
-        <link href="https://github.com/nafnlj/nljfeeds/commit/4aa94ffec461740643d7bffaf7c5ad1065bbd958"/>
-        <updated>2023-06-10T05:11:59.000Z</updated>
-        <summary type="html"><![CDATA[Update osmosfeed.yaml
-
-Add NLJ Guestbook feed]]></summary>
-        <author>
-            <name>Recent Commits to nljfeeds:main</name>
         </author>
     </entry>
 </feed>

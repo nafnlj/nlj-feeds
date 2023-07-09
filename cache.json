@@ -34,16 +34,6 @@
           "wordCount": 472,
           "title": "Update osmosfeed.yaml",
           "imageUrl": "https://opengraph.githubassets.com/66de6ac5c53dd2c486956c7c019796850e2df82bb972f2a2bfa497ffc73a3063/nafnlj/nljfeeds/commit/6be8842d43b8ce251ee1132b7ae5485dc1e031ff"
-        },
-        {
-          "id": "https://github.com/nafnlj/nljfeeds/commit/4aa94ffec461740643d7bffaf7c5ad1065bbd958",
-          "author": null,
-          "description": "Update osmosfeed.yaml\n\nAdd NLJ Guestbook feed",
-          "link": "https://github.com/nafnlj/nljfeeds/commit/4aa94ffec461740643d7bffaf7c5ad1065bbd958",
-          "publishedOn": "2023-06-10T05:11:59.000Z",
-          "wordCount": 420,
-          "title": "Update osmosfeed.yaml",
-          "imageUrl": "https://opengraph.githubassets.com/e3ea64d6931197ac8aaa6a651e4789907164f4d0b4631a08a1d62ea3d6701e6f/nafnlj/nljfeeds/commit/4aa94ffec461740643d7bffaf7c5ad1065bbd958"
         }
       ]
     },
@@ -1198,28 +1188,7 @@
       "title": "Recent Commits to not-awesome-bing-bans-and-deindexing:main",
       "feedUrl": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commits/main.atom",
       "siteUrl": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commits/main",
-      "articles": [
-        {
-          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/0a7190e36fc44edef03ab331d4f6715f777df09e",
-          "author": null,
-          "description": "Update contributing.md\n\nAdd email contact option for readers who do not have GitHub accounts",
-          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/0a7190e36fc44edef03ab331d4f6715f777df09e",
-          "publishedOn": "2023-06-10T05:31:12.000Z",
-          "wordCount": 644,
-          "title": "Update contributing.md",
-          "imageUrl": "https://opengraph.githubassets.com/93dd38ab1c074ba5181cb3c0f439896f6c001762671541430dad40d8f3ae810a/nafnlj/not-awesome-bing-bans-and-deindexing/commit/0a7190e36fc44edef03ab331d4f6715f777df09e"
-        },
-        {
-          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/1b20e043ad71686a23b939b86e85cd47648e5c80",
-          "author": null,
-          "description": "Update README.md\n\nAdded ToC.\r\nFixed minor formatting issues.\r\nAdded link to article about Seznam's issues being blocked by Webmasters.",
-          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/1b20e043ad71686a23b939b86e85cd47648e5c80",
-          "publishedOn": "2023-06-10T05:24:38.000Z",
-          "wordCount": 826,
-          "title": "Update README.md",
-          "imageUrl": "https://opengraph.githubassets.com/85a597dd11262783969572ce97c8d1e8d33c5d8b96860125ac3498a490023538/nafnlj/not-awesome-bing-bans-and-deindexing/commit/1b20e043ad71686a23b939b86e85cd47648e5c80"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Victor V. Gurbo",
