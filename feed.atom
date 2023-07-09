@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-08T23:15:36.623Z</updated>
+    <updated>2023-07-09T13:20:09.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Installing Non-Listed Programs in PlayOnLinux]]></title>
+        <id>https://thenewleafjournal.com/?p=20729</id>
+        <link href="https://thenewleafjournal.com/installing-nonlisted-programs-playonlinux/"/>
+        <updated>2023-07-08T23:20:42.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step guide to using PlayOnLinux to install Windows programs on Linux.
+Possibly related posts...
+
+Japanese Environment in PoL, Lutris, and Bottles
+Installing and Running Bodhi Linux on a 2007 MacBook
+On Improving the Environment For Gaming On Linux
+Immigration Issues in NYPD Chinese Agent Case
+The al|together and Insani Visual Novel Translations
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin and Justina review 2022 at the NLJ
+Justin & Justina 〜 4th of July Grill Sacrifices to the…
+The Mystery of Sōseki and Tsuki ga Kirei]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NBA Draft: Is Being 7 Feet Tall the Fastest Way to Get Rich in America (2013)]]></title>
         <id>https://news.ycombinator.com/item?id=36648368</id>
@@ -1787,177 +1808,6 @@ Added link to article about Seznam's issues being blocked by Webmasters.]]></sum
 Add NLJ Guestbook feed]]></summary>
         <author>
             <name>Recent Commits to nljfeeds:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update README.md]]></title>
-        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/5b12ea87af3a69fc6b292492d9fdfd3ca5dbbe1c</id>
-        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/5b12ea87af3a69fc6b292492d9fdfd3ca5dbbe1c"/>
-        <updated>2023-06-09T23:45:33.000Z</updated>
-        <summary type="html"><![CDATA[Update README.md]]></summary>
-        <author>
-            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update README.md]]></title>
-        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/e644d547c1828c38287504876191887661d69f4a</id>
-        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/e644d547c1828c38287504876191887661d69f4a"/>
-        <updated>2023-06-09T23:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Update README.md
-
-Test]]></summary>
-        <author>
-            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update README.md]]></title>
-        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/7d030c674e1a89cb84422c8807be322f02620383</id>
-        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/7d030c674e1a89cb84422c8807be322f02620383"/>
-        <updated>2023-06-09T22:47:20.000Z</updated>
-        <summary type="html"><![CDATA[Update README.md
-
-Fixed spacing issue again]]></summary>
-        <author>
-            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update README.md]]></title>
-        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/a96a15478d26e1453b6b5742dfffa52f92e3f564</id>
-        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/a96a15478d26e1453b6b5742dfffa52f92e3f564"/>
-        <updated>2023-06-09T22:46:21.000Z</updated>
-        <summary type="html"><![CDATA[Update README.md
-
-Fixed spacing issue.]]></summary>
-        <author>
-            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update README.md]]></title>
-        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/ccbf3ad0dc165d8bd43e8331f37b908f810d653e</id>
-        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/ccbf3ad0dc165d8bd43e8331f37b908f810d653e"/>
-        <updated>2023-06-09T22:45:38.000Z</updated>
-        <summary type="html"><![CDATA[Update README.md
-
-Added missing date to Cheapskate's Guide link]]></summary>
-        <author>
-            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add Pingback Support to WordPress Pages]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20440</id>
-        <link href="https://thenewleafjournal.com/leaf/add-pingback-support-to-wordpress-pages/"/>
-        <updated>2023-06-09T21:34:43.000Z</updated>
-        <summary type="html"><![CDATA[I wanted to enable pingback and trackback support for WordPress pages in order to allow certain pages to accept and send […]
-Possibly related posts...
-
-Analysis of the From the Bottom of the Heart (Negaeba)…
-Review of the Original Persona 4 Artbook
-Removing pages from Yandex Turbo
-Persona 4 Golden Digital Artbook Review (Steam)
-The story of our Bing blacklisting
-IndieWeb Standards, RSS, and Atom
-Peekier Search Engine Review
-Upgrading WP Search With Relevanssi
-Moving a WordPress Site With UpdraftPlus Free]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110515542239280099</id>
-        <link href="https://linuxrocks.online/@nafnlj/110515542239280099"/>
-        <updated>2023-06-09T17:55:47.000Z</updated>
-        <summary type="html"><![CDATA[Bing has blocked The New Leaf Journal from appearing in web search results since January (we were de-indexed in March). I created a GitHub repository to collect stories and resources about similar cases to help others with strange Bing problems.
-(Note: For Microsoft reasons, I think this is one case were GitHub is the perfect host for this project.)
-https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing
-HT to @Dariusz_w for giving me the idea to share the story by publishing his excellent "Bing Jail" article and sharing it to Hacker News.
-#bing #searchengine #deindexing #seo #github]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update README.md]]></title>
-        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/15e2a160387bb560edfd1ea1a744db7acb993cfa</id>
-        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/15e2a160387bb560edfd1ea1a744db7acb993cfa"/>
-        <updated>2023-06-09T17:39:36.000Z</updated>
-        <summary type="html"><![CDATA[Update README.md
-
-Copy text for list from local file]]></summary>
-        <author>
-            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110515387434933715</id>
-        <link href="https://linuxrocks.online/@nafnlj/110515387434933715"/>
-        <updated>2023-06-09T17:16:25.000Z</updated>
-        <summary type="html"><![CDATA[I think I quipped on the NLJ a while back that I would like to see a remaster of Persona 3. I didn't think there would be one. The trailer looks slick, but no evidence of change other than much better graphics. I think P3 has the best underlying story and aesthetic of the modern Personas, but FES is weaker than 4 Golden and 5 overall (4 Golden is my favorite on account of writing and characters).  I'll reflect on this and think about what I'd like to see in a full 3 remake.
-https://personacentral.com/persona-3-reload-announced/
-#persona3 #persona4 #persona5 #videogames #jrpg]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collage – Visual Novel Review]]></title>
-        <id>https://thenewleafjournal.com/?p=20380</id>
-        <link href="https://thenewleafjournal.com/collage-visual-novel-review/"/>
-        <updated>2023-06-09T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Collage is the official 2006 English language translation of a 2004 freeware Japanese visual novel of the same year. The original […]
-Possibly related posts...
-
-The al|together and Insani Visual Novel Translations
-Red Shift Visual Novel Review
-Flood of Tears - Visual Novel Review
-Summer, Cicadas, and the Girl - VN Review
-Visual Novel Review: May Sky
-ACE Academy - Visual Novel Review
-Plain Song - Visual Novel Review
-Version history of Aru Fuyu no Monogatari
-Night of the Forget-Me-Nots: VN Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110514926094564865</id>
-        <link href="https://linuxrocks.online/@nafnlj/110514926094564865"/>
-        <updated>2023-06-09T15:19:05.000Z</updated>
-        <summary type="html"><![CDATA[I wrote a review of an open source Android launcher called Keikai Launcher a few days ago. On its own, Keikai is a simple bare-bones launcher. I would not use it as a primary launcher (I use TinyBit and Kiss would be my second choice), but it functions nicely for a second proposed use case -- an alternative app drawer.  When I need to survey my apps on my LineageOS phone, Keikai is a much more elegant solution than navigating to settings. Moreover, I could see it being very useful on locked down Android-derived devices which do not let the user change his or her default launcher, such as the Kindle Fire line. Keikai is available on GitHub and F-Droid.
-https://thenewleafjournal.com/reviewing-keikai-launcher-android/
-#android #lineageos #keikailauncher #opensource #fdroid]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Nostr Verify for WordPress NIP-05]]></title>
-        <id>https://thenewleafjournal.com/?p=20371</id>
-        <link href="https://thenewleafjournal.com/using-nostr-verify-for-wordpress-nip-05/"/>
-        <updated>2023-06-09T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to the Nostr Verify plugin for WordPress, you can find NLJ editor N.A. Ferrell on Nostr at nafnlj@thenewleafjournal.com.  I explain how it works, step-by-step.
-Possibly related posts...
-
-Naver Webmaster Trials and Tribulations
-Experiences in the Yandex Webmaster Portal
-Moving a WordPress Site With UpdraftPlus Free
-The BunnyPress Chronicles: Story and Review
-My WordPress Writing Workflow at The New Leaf Journal
-Upgrading WP Search With Relevanssi
-Removing pages from Yandex Turbo
-Reviewing Koko Analytics: A Simple Privacy-Friendly…
-Fixing a WP Custom Post Type Permalink Error]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>

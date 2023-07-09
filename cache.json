@@ -53,6 +53,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20729",
+          "author": "Nicholas A. Ferrell",
+          "description": "A step-by-step guide to using PlayOnLinux to install Windows programs on Linux.\nPossibly related posts...\n\nJapanese Environment in PoL, Lutris, and Bottles\nInstalling and Running Bodhi Linux on a 2007 MacBook\nOn Improving the Environment For Gaming On Linux\nImmigration Issues in NYPD Chinese Agent Case\nThe al|together and Insani Visual Novel Translations\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nJustin & Justina 〜 4th of July Grill Sacrifices to the…\nThe Mystery of Sōseki and Tsuki ga Kirei",
+          "link": "https://thenewleafjournal.com/installing-nonlisted-programs-playonlinux/",
+          "publishedOn": "2023-07-08T23:20:42.000Z",
+          "wordCount": 4890,
+          "title": "Installing Non-Listed Programs in PlayOnLinux",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/07/playonlinux-test-hallucinate.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20716",
           "author": "Nicholas A. Ferrell",
           "description": "When even the family of the Colombo consigliere cannot log off.\nPossibly related posts...\n\n1883 Opening of the Brooklyn Bridge\nWasteful talk show subsidies in New York\nOn NYC Curfews and Essential Workers\nATW 〜 Murakami on Bad Social Media Content\nIn Support of the Lawsuit Against NYC Dining Sheds\nOn Children and Internet Sharing\nFediverse Clone Wars and Decentralized Social Media\nThe Questionable NYC Mayoral Campaign About Page of Maya…\nFeeds and Read-It-Later for Online Reading",
@@ -201,26 +211,6 @@
           "wordCount": 2849,
           "title": "Keeping WP Comment Blacklist Up to Date",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20380",
-          "author": "Nicholas A. Ferrell",
-          "description": "Collage is the official 2006 English language translation of a 2004 freeware Japanese visual novel of the same year. The original […]\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nRed Shift Visual Novel Review\nFlood of Tears - Visual Novel Review\nSummer, Cicadas, and the Girl - VN Review\nVisual Novel Review: May Sky\nACE Academy - Visual Novel Review\nPlain Song - Visual Novel Review\nVersion history of Aru Fuyu no Monogatari\nNight of the Forget-Me-Nots: VN Review",
-          "link": "https://thenewleafjournal.com/collage-visual-novel-review/",
-          "publishedOn": "2023-06-09T16:30:00.000Z",
-          "wordCount": 6422,
-          "title": "Collage – Visual Novel Review",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/06/collage-title-screen.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20371",
-          "author": "Nicholas A. Ferrell",
-          "description": "Thanks to the Nostr Verify plugin for WordPress, you can find NLJ editor N.A. Ferrell on Nostr at nafnlj@thenewleafjournal.com.  I explain how it works, step-by-step.\nPossibly related posts...\n\nNaver Webmaster Trials and Tribulations\nExperiences in the Yandex Webmaster Portal\nMoving a WordPress Site With UpdraftPlus Free\nThe BunnyPress Chronicles: Story and Review\nMy WordPress Writing Workflow at The New Leaf Journal\nUpgrading WP Search With Relevanssi\nRemoving pages from Yandex Turbo\nReviewing Koko Analytics: A Simple Privacy-Friendly…\nFixing a WP Custom Post Type Permalink Error",
-          "link": "https://thenewleafjournal.com/using-nostr-verify-for-wordpress-nip-05/",
-          "publishedOn": "2023-06-09T12:00:00.000Z",
-          "wordCount": 3086,
-          "title": "Using Nostr Verify for WordPress NIP-05",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/06/coracle-nostr-setup-swt.jpg"
         }
       ]
     },
@@ -318,16 +308,6 @@
           "wordCount": 1368,
           "title": "Trying a Memos Server",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20440",
-          "author": "Nicholas A. Ferrell",
-          "description": "I wanted to enable pingback and trackback support for WordPress pages in order to allow certain pages to accept and send […]\nPossibly related posts...\n\nAnalysis of the From the Bottom of the Heart (Negaeba)…\nReview of the Original Persona 4 Artbook\nRemoving pages from Yandex Turbo\nPersona 4 Golden Digital Artbook Review (Steam)\nThe story of our Bing blacklisting\nIndieWeb Standards, RSS, and Atom\nPeekier Search Engine Review\nUpgrading WP Search With Relevanssi\nMoving a WordPress Site With UpdraftPlus Free",
-          "link": "https://thenewleafjournal.com/leaf/add-pingback-support-to-wordpress-pages/",
-          "publishedOn": "2023-06-09T21:34:43.000Z",
-          "wordCount": 1399,
-          "title": "Add Pingback Support to WordPress Pages",
-          "imageUrl": null
         }
       ]
     },
@@ -768,36 +748,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110520722548686144",
           "publishedOn": "2023-06-10T15:53:12.000Z",
           "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110515542239280099",
-          "author": null,
-          "description": "Bing has blocked The New Leaf Journal from appearing in web search results since January (we were de-indexed in March). I created a GitHub repository to collect stories and resources about similar cases to help others with strange Bing problems.\n(Note: For Microsoft reasons, I think this is one case were GitHub is the perfect host for this project.)\nhttps://github.com/nafnlj/not-awesome-bing-bans-and-deindexing\nHT to @Dariusz_w for giving me the idea to share the story by publishing his excellent \"Bing Jail\" article and sharing it to Hacker News.\n#bing #searchengine #deindexing #seo #github",
-          "link": "https://linuxrocks.online/@nafnlj/110515542239280099",
-          "publishedOn": "2023-06-09T17:55:47.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110515387434933715",
-          "author": null,
-          "description": "I think I quipped on the NLJ a while back that I would like to see a remaster of Persona 3. I didn't think there would be one. The trailer looks slick, but no evidence of change other than much better graphics. I think P3 has the best underlying story and aesthetic of the modern Personas, but FES is weaker than 4 Golden and 5 overall (4 Golden is my favorite on account of writing and characters).  I'll reflect on this and think about what I'd like to see in a full 3 remake.\nhttps://personacentral.com/persona-3-reload-announced/\n#persona3 #persona4 #persona5 #videogames #jrpg",
-          "link": "https://linuxrocks.online/@nafnlj/110515387434933715",
-          "publishedOn": "2023-06-09T17:16:25.000Z",
-          "wordCount": 124,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110514926094564865",
-          "author": null,
-          "description": "I wrote a review of an open source Android launcher called Keikai Launcher a few days ago. On its own, Keikai is a simple bare-bones launcher. I would not use it as a primary launcher (I use TinyBit and Kiss would be my second choice), but it functions nicely for a second proposed use case -- an alternative app drawer.  When I need to survey my apps on my LineageOS phone, Keikai is a much more elegant solution than navigating to settings. Moreover, I could see it being very useful on locked down Android-derived devices which do not let the user change his or her default launcher, such as the Kindle Fire line. Keikai is available on GitHub and F-Droid.\nhttps://thenewleafjournal.com/reviewing-keikai-launcher-android/\n#android #lineageos #keikailauncher #opensource #fdroid",
-          "link": "https://linuxrocks.online/@nafnlj/110514926094564865",
-          "publishedOn": "2023-06-09T15:19:05.000Z",
-          "wordCount": 121,
           "title": "Untitled",
           "imageUrl": null
         }
@@ -1268,66 +1218,6 @@
           "wordCount": 826,
           "title": "Update README.md",
           "imageUrl": "https://opengraph.githubassets.com/85a597dd11262783969572ce97c8d1e8d33c5d8b96860125ac3498a490023538/nafnlj/not-awesome-bing-bans-and-deindexing/commit/1b20e043ad71686a23b939b86e85cd47648e5c80"
-        },
-        {
-          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/5b12ea87af3a69fc6b292492d9fdfd3ca5dbbe1c",
-          "author": null,
-          "description": "Update README.md",
-          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/5b12ea87af3a69fc6b292492d9fdfd3ca5dbbe1c",
-          "publishedOn": "2023-06-09T23:45:33.000Z",
-          "wordCount": 531,
-          "title": "Update README.md",
-          "imageUrl": "https://opengraph.githubassets.com/89c5f266084ba46257a4ce80f337a611e1b2b59ed074c6173bee1a7c2b6b95b7/nafnlj/not-awesome-bing-bans-and-deindexing/commit/5b12ea87af3a69fc6b292492d9fdfd3ca5dbbe1c"
-        },
-        {
-          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/e644d547c1828c38287504876191887661d69f4a",
-          "author": null,
-          "description": "Update README.md\n\nTest",
-          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/e644d547c1828c38287504876191887661d69f4a",
-          "publishedOn": "2023-06-09T23:45:03.000Z",
-          "wordCount": 532,
-          "title": "Update README.md",
-          "imageUrl": "https://opengraph.githubassets.com/d06b68a09aedc4286922ae4d69c2fbdce936a8ef10129d99c1c6cdd3a75cfd5c/nafnlj/not-awesome-bing-bans-and-deindexing/commit/e644d547c1828c38287504876191887661d69f4a"
-        },
-        {
-          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/7d030c674e1a89cb84422c8807be322f02620383",
-          "author": null,
-          "description": "Update README.md\n\nFixed spacing issue again",
-          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/7d030c674e1a89cb84422c8807be322f02620383",
-          "publishedOn": "2023-06-09T22:47:20.000Z",
-          "wordCount": 541,
-          "title": "Update README.md",
-          "imageUrl": "https://opengraph.githubassets.com/56f28b80680e4bc992f32c8d6ab04637e8ea95b0d7a106cc837640c218ba488b/nafnlj/not-awesome-bing-bans-and-deindexing/commit/7d030c674e1a89cb84422c8807be322f02620383"
-        },
-        {
-          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/a96a15478d26e1453b6b5742dfffa52f92e3f564",
-          "author": null,
-          "description": "Update README.md\n\nFixed spacing issue.",
-          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/a96a15478d26e1453b6b5742dfffa52f92e3f564",
-          "publishedOn": "2023-06-09T22:46:21.000Z",
-          "wordCount": 557,
-          "title": "Update README.md",
-          "imageUrl": "https://opengraph.githubassets.com/5dae6a6dd297db79d1b6c21a34aaf9dd88495b68c06b9917a998dcbc7e50a09c/nafnlj/not-awesome-bing-bans-and-deindexing/commit/a96a15478d26e1453b6b5742dfffa52f92e3f564"
-        },
-        {
-          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/ccbf3ad0dc165d8bd43e8331f37b908f810d653e",
-          "author": null,
-          "description": "Update README.md\n\nAdded missing date to Cheapskate's Guide link",
-          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/ccbf3ad0dc165d8bd43e8331f37b908f810d653e",
-          "publishedOn": "2023-06-09T22:45:38.000Z",
-          "wordCount": 503,
-          "title": "Update README.md",
-          "imageUrl": "https://opengraph.githubassets.com/92fa4833ca73c4228f7c8885f1b63e82904e65f781e2db2f9cfa0444f6ad9fa0/nafnlj/not-awesome-bing-bans-and-deindexing/commit/ccbf3ad0dc165d8bd43e8331f37b908f810d653e"
-        },
-        {
-          "id": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/15e2a160387bb560edfd1ea1a744db7acb993cfa",
-          "author": null,
-          "description": "Update README.md\n\nCopy text for list from local file",
-          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/15e2a160387bb560edfd1ea1a744db7acb993cfa",
-          "publishedOn": "2023-06-09T17:39:36.000Z",
-          "wordCount": 2393,
-          "title": "Update README.md",
-          "imageUrl": "https://opengraph.githubassets.com/24157f957fc66cbd0e3083b9acc1a90ba31879e753726da9b2ae756fd16c6f19/nafnlj/not-awesome-bing-bans-and-deindexing/commit/15e2a160387bb560edfd1ea1a744db7acb993cfa"
         }
       ]
     },
