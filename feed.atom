@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-10T13:26:13.421Z</updated>
+    <updated>2023-07-10T18:21:11.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Girl I Like Forgot Her Glasses Ep1 Animation]]></title>
+        <id>https://thenewleafjournal.com/?p=20768</id>
+        <link href="https://thenewleafjournal.com/the-girl-i-like-forgot-her-glasses-ep1-animation/"/>
+        <updated>2023-07-10T17:54:35.000Z</updated>
+        <summary type="html"><![CDATA[I wade into a spirited debate about GoHands' animation techniques in episode 1 of The Girl I Like Forgot Her Glasses.
+Possibly related posts...
+
+A Walker's Review of BLUPOND's Knight Vision Night Driving…
+Anime Recommendations of the Decade (2011-20)
+The Best of Anime in 2022: Year in Review
+The Angel Next Door Spoils Me Rotten - Anime Review
+Anime romantic comedy gimmicks...
+Quince recipes from Mary Eales's receipts
+The Best Anime Series of 2021
+Two Independence Day-Themed Pokémon Battles: Ferrell vs…
+Additional Best of 2022 in Anime Awards]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXLIII]]></title>
+        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20726</id>
+        <link href="https://thenewleafjournal.com/letter/143/"/>
+        <updated>2023-07-10T16:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the (syndicated) version of The Newsletter Leaf Journal edition 143, originally mailed on Saturday, July 8, 2023. This newsletter […]
+Possibly related posts...
+
+The Newsletter Leaf Journal at 100
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin and Justina review 2022 at the NLJ
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The New Leaf Journal Celebrates Its First Birthday
+The New Leaf Journal Newsletter
+How to Find Substack RSS Feeds and Other Notes
+The Newsletter Leaf Journal VIII
+New Leaf Journal Third Birthday Reader]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110690525100036773</id>
+        <link href="https://linuxrocks.online/@nafnlj/110690525100036773"/>
+        <updated>2023-07-10T15:36:13.000Z</updated>
+        <summary type="html"><![CDATA[I had some difficulty explaining how to use PlayOnLinux (and by extension, PlayOnMac... probably) to my friend via text chat. I was going to send a guide after I remembered myself -- then I figured I ought to just publish the guide on the NLJ.  Note that I personally use Lutris (and occasionally Bottles) as a WINE GUI, but PlayOnLinux still works fairly well and is certainly the better choice for a 2007 MacBook with 1 GB of RAM running Bodhi Linux.
+https://thenewleafjournal.com/installing-nonlisted-programs-playonlinux/
+#playonlinux #playonmac #wine #linux]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blocking 2 High-Ranking Pages with Robots.txt]]></title>
+        <id>https://news.ycombinator.com/item?id=36667819</id>
+        <link href="https://ahrefs.com/blog/blocked-robots-test/"/>
+        <updated>2023-07-10T15:26:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ahrefs.com/blog/blocked-robots-test/
+Comments URL: https://news.ycombinator.com/item?id=36667819
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Installing Non-Listed Programs in PlayOnLinux]]></title>
         <id>https://thenewleafjournal.com/?p=20729</id>
@@ -1672,38 +1739,6 @@ Added three feeds:
 3. Feed for NAF's Memos account]]></summary>
         <author>
             <name>Recent Commits to nljfeeds:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trying a Memos Server]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20498</id>
-        <link href="https://thenewleafjournal.com/leaf/trying-a-memos-server/"/>
-        <updated>2023-06-11T04:26:29.000Z</updated>
-        <summary type="html"><![CDATA[I used Pikapods to set up a Memos server. What is Memos? Let us refer to the official website… A lightweight, […]
-Possibly related posts...
-
-DecSync Review
-Moving a WordPress Site With UpdraftPlus Free
-Google Analytics Legal Issues in Denmark
-Reviewing the Mastodon Twitter Crossposter
-Read the Fine Print - Buying a Cheap Mini PC For a Home…
-Fediverse Clone Wars and Decentralized Social Media
-Recommended F-Droid FOSS Apps For Android-Based Devices…
-A Casio Graphing Calculator Web-Server and IRC Client
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is [N.A. Ferrell](https://thenewleafjournal.com/author/naferrell/) of [*The New Leaf Journal*](...]]></title>
-        <id>https://memos.emucafe.org/m/3</id>
-        <link href="https://memos.emucafe.org/m/3"/>
-        <updated>2023-06-11T03:25:32.000Z</updated>
-        <summary type="html"><![CDATA[This is N.A. Ferrell of The New Leaf Journal. I was interested in testing Memos as a note-taking microblog. I thought about using a subdomain of The New Leaf Journal, but I decided to start fresh under a different, very official-sounding banner.
-#admin #newleafjournal]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
         </author>
     </entry>
 </feed>

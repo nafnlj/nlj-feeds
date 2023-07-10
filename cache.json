@@ -43,6 +43,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20768",
+          "author": "Nicholas A. Ferrell",
+          "description": "I wade into a spirited debate about GoHands' animation techniques in episode 1 of The Girl I Like Forgot Her Glasses.\nPossibly related posts...\n\nA Walker's Review of BLUPOND's Knight Vision Night Driving…\nAnime Recommendations of the Decade (2011-20)\nThe Best of Anime in 2022: Year in Review\nThe Angel Next Door Spoils Me Rotten - Anime Review\nAnime romantic comedy gimmicks...\nQuince recipes from Mary Eales's receipts\nThe Best Anime Series of 2021\nTwo Independence Day-Themed Pokémon Battles: Ferrell vs…\nAdditional Best of 2022 in Anime Awards",
+          "link": "https://thenewleafjournal.com/the-girl-i-like-forgot-her-glasses-ep1-animation/",
+          "publishedOn": "2023-07-10T17:54:35.000Z",
+          "wordCount": 8661,
+          "title": "The Girl I Like Forgot Her Glasses Ep1 Animation",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/07/ai-mie-in-wind.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20729",
           "author": "Nicholas A. Ferrell",
           "description": "A step-by-step guide to using PlayOnLinux to install Windows programs on Linux.\nPossibly related posts...\n\nJapanese Environment in PoL, Lutris, and Bottles\nInstalling and Running Bodhi Linux on a 2007 MacBook\nOn Improving the Environment For Gaming On Linux\nImmigration Issues in NYPD Chinese Agent Case\nThe al|together and Insani Visual Novel Translations\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nJustin & Justina 〜 4th of July Grill Sacrifices to the…\nThe Mystery of Sōseki and Tsuki ga Kirei",
@@ -288,16 +298,6 @@
           "wordCount": 1481,
           "title": "Enter difference between yay and dnf",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20498",
-          "author": "Nicholas A. Ferrell",
-          "description": "I used Pikapods to set up a Memos server. What is Memos? Let us refer to the official website… A lightweight, […]\nPossibly related posts...\n\nDecSync Review\nMoving a WordPress Site With UpdraftPlus Free\nGoogle Analytics Legal Issues in Denmark\nReviewing the Mastodon Twitter Crossposter\nRead the Fine Print - Buying a Cheap Mini PC For a Home…\nFediverse Clone Wars and Decentralized Social Media\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nA Casio Graphing Calculator Web-Server and IRC Client\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal",
-          "link": "https://thenewleafjournal.com/leaf/trying-a-memos-server/",
-          "publishedOn": "2023-06-11T04:26:29.000Z",
-          "wordCount": 1368,
-          "title": "Trying a Memos Server",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
         }
       ]
     },
@@ -383,6 +383,16 @@
       "feedUrl": "https://thenewleafjournal.com/letter/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=letter&p=20726",
+          "author": "Nicholas A. Ferrell",
+          "description": "Welcome to the (syndicated) version of The Newsletter Leaf Journal edition 143, originally mailed on Saturday, July 8, 2023. This newsletter […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Celebrates Its First Birthday\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe Newsletter Leaf Journal VIII\nNew Leaf Journal Third Birthday Reader",
+          "link": "https://thenewleafjournal.com/letter/143/",
+          "publishedOn": "2023-07-10T16:30:31.000Z",
+          "wordCount": 3463,
+          "title": "Newsletter Leaf Journal CXLIII",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=letter&p=20699",
           "author": "Nicholas A. Ferrell",
@@ -501,6 +511,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110690525100036773",
+          "author": null,
+          "description": "I had some difficulty explaining how to use PlayOnLinux (and by extension, PlayOnMac... probably) to my friend via text chat. I was going to send a guide after I remembered myself -- then I figured I ought to just publish the guide on the NLJ.  Note that I personally use Lutris (and occasionally Bottles) as a WINE GUI, but PlayOnLinux still works fairly well and is certainly the better choice for a 2007 MacBook with 1 GB of RAM running Bodhi Linux.\nhttps://thenewleafjournal.com/installing-nonlisted-programs-playonlinux/\n#playonlinux #playonmac #wine #linux",
+          "link": "https://linuxrocks.online/@nafnlj/110690525100036773",
+          "publishedOn": "2023-07-10T15:36:13.000Z",
+          "wordCount": 120,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/110679065307820129",
           "author": null,
@@ -944,16 +964,6 @@
           "wordCount": 21,
           "title": "Thoughts on anime episodes I watched yesterday:",
           "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/3",
-          "author": null,
-          "description": "This is N.A. Ferrell of The New Leaf Journal. I was interested in testing Memos as a note-taking microblog. I thought about using a subdomain of The New Leaf Journal, but I decided to start fresh under a different, very official-sounding banner.\n#admin #newleafjournal",
-          "link": "https://memos.emucafe.org/m/3",
-          "publishedOn": "2023-06-11T03:25:32.000Z",
-          "wordCount": 21,
-          "title": "This is [N.A. Ferrell](https://thenewleafjournal.com/author/naferrell/) of [*The New Leaf Journal*](...",
-          "imageUrl": null
         }
       ]
     },
@@ -962,6 +972,16 @@
       "feedUrl": "https://hnrss.org/user?id=nafnlj",
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=36667819",
+          "author": "nafnlj",
+          "description": "Article URL: https://ahrefs.com/blog/blocked-robots-test/\nComments URL: https://news.ycombinator.com/item?id=36667819\nPoints: 1\n# Comments: 0",
+          "link": "https://ahrefs.com/blog/blocked-robots-test/",
+          "publishedOn": "2023-07-10T15:26:52.000Z",
+          "wordCount": 12132,
+          "title": "Blocking 2 High-Ranking Pages with Robots.txt",
+          "imageUrl": "https://ahrefs.com/blog/wp-content/uploads/2023/07/the-story-of-blocking-2-high-ranking-by-patrick-stox-data-studies-1.jpg"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=36648368",
           "author": "nafnlj",
