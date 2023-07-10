@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-09T23:15:41.949Z</updated>
+    <updated>2023-07-10T13:26:13.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1704,72 +1704,6 @@ The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal]]></summary>
 #admin #newleafjournal]]></summary>
         <author>
             <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXXIX 〜 Newsletter collage 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/139/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/139/"/>
-        <updated>2023-06-10T20:56:59.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 139th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. While I did not publish many articles in the last week, one of the articles that I did publish is quite long. Moreover, this week saw the return of The New Leaf Journal Guestbook, albeit in a new form. Without further ado, let us cover the latest news, notes, and articles from around the web.
-Table of contents
-Leaves from the week that was
-Leaves from around the web
-The Old Leaf Journal
-Most-turned leaves of the newsletter week
-News leaf journal
-Notable leaf journal
-Taking leaf
-Leaves from the week that was
-I …]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXXXVIII]]></title>
-        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20492</id>
-        <link href="https://thenewleafjournal.com/letter/newsletter-leaf-journal-cxxxviii/"/>
-        <updated>2023-06-10T20:46:59.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the syndicated version of Newsletter Leaf Journal 138 (see original). I am supposed to syndicate our Saturday newsletters on […]
-Possibly related posts...
-
-The Newsletter Leaf Journal at 100
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin and Justina review 2022 at the NLJ
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The New Leaf Journal Newsletter
-How to Find Substack RSS Feeds and Other Notes
-The New Leaf Journal Celebrates Its First Birthday
-The Newsletter Leaf Journal VIII
-An Introduction to RSS and Other Feed Formats]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110520735986799339</id>
-        <link href="https://linuxrocks.online/@nafnlj/110520735986799339"/>
-        <updated>2023-06-10T15:56:37.000Z</updated>
-        <summary type="html"><![CDATA[But in full disclosure, Twitter did once come through in a big way for me. I am writing a long series of articles (now up to 21 reviews!) on old freeware Japanese visual novels that were translated for the 2005, 2006, and 2008 al|together festivals. A reader saw the series and sent a DM about trying to track down the novels. I did not see the DM for about 10 months. However, when I did, I worked with the sender (who is collecting them in a public MEGA Drive) on a couple of games and the interactions led me to track down the Japanese version of Manatsu no Kagerou, which is required for playingg the al|together translation since the English version is a patch. I found it in ONE older torrent... all of the original download links were dead.
-(Review forthcoming next month.)
-https://thenewleafjournal.com/leaf/on-the-hunt-for-manatsu-no-kagerou/
-#visualnovel #visualnovels #twitter #torrents]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110520722548686144</id>
-        <link href="https://linuxrocks.online/@nafnlj/110520722548686144"/>
-        <updated>2023-06-10T15:53:12.000Z</updated>
-        <summary type="html"><![CDATA[I was reliably informed yesterday that it had been three years since I made a Twitter account for The New Leaf Journal. In those three years, our account has picked up 43 followers (or 40 if we leave out one of my friends and my NLJ colleague) and my most shared post was in 2020. All of the successes I had on Twitter were from a few of my articles making Hacker News page one, all of which spread on Twitter without my doing anything. As such, I would have done about as well on Twitter had I never made an account. Let no one say, however, that I did not predict this outcome back in 2020.
-https://thenewleafjournal.com/the-new-leaf-journal-twitter/
-#twitter #blogging #sharing #socialmedia]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>

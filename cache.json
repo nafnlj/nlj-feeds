@@ -422,16 +422,6 @@
           "wordCount": 3258,
           "title": "Newsletter Leaf Journal CXXXIV",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=letter&p=20492",
-          "author": "Nicholas A. Ferrell",
-          "description": "Welcome to the syndicated version of Newsletter Leaf Journal 138 (see original). I am supposed to syndicate our Saturday newsletters on […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal VIII\nAn Introduction to RSS and Other Feed Formats",
-          "link": "https://thenewleafjournal.com/letter/newsletter-leaf-journal-cxxxviii/",
-          "publishedOn": "2023-06-10T20:46:59.000Z",
-          "wordCount": 2739,
-          "title": "Newsletter Leaf Journal CXXXVIII",
-          "imageUrl": null
         }
       ]
     },
@@ -485,16 +475,6 @@
           "wordCount": 1887,
           "title": "Newsletter Leaf Journal CXL 〜 Deploying newsletter 〜",
           "imageUrl": "https://image-generator.buttondown.email/api/emphasize-subject?subject=Newsletter Leaf Journal CXL 〜 Deploying newsletter 〜&author=The Newsletter Leaf Journal&date=2023-06-17&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/139/",
-          "author": null,
-          "description": "Welcome to the 139th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. While I did not publish many articles in the last week, one of the articles that I did publish is quite long. Moreover, this week saw the return of The New Leaf Journal Guestbook, albeit in a new form. Without further ado, let us cover the latest news, notes, and articles from around the web.\nTable of contents\nLeaves from the week that was\nLeaves from around the web\nThe Old Leaf Journal\nMost-turned leaves of the newsletter week\nNews leaf journal\nNotable leaf journal\nTaking leaf\nLeaves from the week that was\nI …",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/139/",
-          "publishedOn": "2023-06-10T20:56:59.000Z",
-          "wordCount": 2561,
-          "title": "Newsletter Leaf Journal CXXXIX 〜 Newsletter collage 〜",
-          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter Leaf Journal CXXXIX 〜 Newsletter collage 〜&author=The Newsletter Leaf Journal&date=2023-06-10&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
         }
       ]
     },
@@ -717,26 +697,6 @@
           "description": "I wanted to add pingback support to WordPress pages so I could enable Webmentions on my new Guestbook. After a bit of searching, I extrapolated the correct functions.php snippet from a guide for a different point and added the functionality to pages without breaking my site.\nhttps://thenewleafjournal.com/leaf/add-pingback-support-to-wordpress-pages/\n#wordpress #webmentions #indieweb #php",
           "link": "https://linuxrocks.online/@nafnlj/110526506157914198",
           "publishedOn": "2023-06-11T16:24:03.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110520735986799339",
-          "author": null,
-          "description": "But in full disclosure, Twitter did once come through in a big way for me. I am writing a long series of articles (now up to 21 reviews!) on old freeware Japanese visual novels that were translated for the 2005, 2006, and 2008 al|together festivals. A reader saw the series and sent a DM about trying to track down the novels. I did not see the DM for about 10 months. However, when I did, I worked with the sender (who is collecting them in a public MEGA Drive) on a couple of games and the interactions led me to track down the Japanese version of Manatsu no Kagerou, which is required for playingg the al|together translation since the English version is a patch. I found it in ONE older torrent... all of the original download links were dead.\n(Review forthcoming next month.)\nhttps://thenewleafjournal.com/leaf/on-the-hunt-for-manatsu-no-kagerou/\n#visualnovel #visualnovels #twitter #torrents",
-          "link": "https://linuxrocks.online/@nafnlj/110520735986799339",
-          "publishedOn": "2023-06-10T15:56:37.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110520722548686144",
-          "author": null,
-          "description": "I was reliably informed yesterday that it had been three years since I made a Twitter account for The New Leaf Journal. In those three years, our account has picked up 43 followers (or 40 if we leave out one of my friends and my NLJ colleague) and my most shared post was in 2020. All of the successes I had on Twitter were from a few of my articles making Hacker News page one, all of which spread on Twitter without my doing anything. As such, I would have done about as well on Twitter had I never made an account. Let no one say, however, that I did not predict this outcome back in 2020.\nhttps://thenewleafjournal.com/the-new-leaf-journal-twitter/\n#twitter #blogging #sharing #socialmedia",
-          "link": "https://linuxrocks.online/@nafnlj/110520722548686144",
-          "publishedOn": "2023-06-10T15:53:12.000Z",
           "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
