@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-11T13:25:14.438Z</updated>
+    <updated>2023-07-11T18:20:58.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110696798159248280</id>
+        <link href="https://linuxrocks.online/@nafnlj/110696798159248280"/>
+        <updated>2023-07-11T18:11:33.000Z</updated>
+        <summary type="html"><![CDATA[Before watching episode 2, I review the animation in episode 1 of The Girl I Like Forgot Her Glasses, one of the new anime series of the summer season. I was inspired to write the piece when I saw some dramatically different takes on the animation, ranging from crediting the first 3 minutes for having more frames than entire episodes of other shows to describing those same 3 minutes as being a crime against humanity.  On the whole, I offer some qualified praise for the style and attention to detail while also highlighting technical issues (inconsistent 3D assets, bad shadows, glitches) that are a bit concerning going forward.
+https://thenewleafjournal.com/the-girl-i-like-forgot-her-glasses-ep1-animation/
+#anime #animation #gohands #animereview]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Girl I Like Forgot Her Glasses Ep1 Animation]]></title>
         <id>https://thenewleafjournal.com/?p=20768</id>
@@ -1628,40 +1640,6 @@ Using an Amiga OS-Inspired Window Theme In XFCE With XFWM4
 DecSync Review]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My current visual novel review project, *The Letter*, is the 2008 translation of a 2007 Japanese vis...]]></title>
-        <id>https://memos.emucafe.org/m/10</id>
-        <link href="https://memos.emucafe.org/m/10"/>
-        <updated>2023-06-12T03:55:55.000Z</updated>
-        <summary type="html"><![CDATA[My current visual novel review project, The Letter, is the 2008 translation of a 2007 Japanese visual novel called Tegami. Like most of the al|together translation projects visual novels, Tegami was written in NScripter. However, the 2007 release was its second release. The first version was created with Yuuki! Novel. I looked up Yuuki! Novel and found a couple of interesting resources:
-https://web.archive.org/web/20160208042342/http://freett.com/yuukiex/yuukinovel.html (Last capture of official website, download links still work)
-https://visuallyneko.wordpress.com/visual-novel-tools/yuukinovel/ (short article about)
-I downloaded the latest release of Yuuki! Novel (latest being from 2005) and an English-language translation of some of its docs. File away for a future project.
-#tegami #insani #yuukinovel #visualnovels #NScripter]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I am reading through [*The Letter*](http://altogether.insani.org/2008/3.html) for my next [al|togeth...]]></title>
-        <id>https://memos.emucafe.org/m/9</id>
-        <link href="https://memos.emucafe.org/m/9"/>
-        <updated>2023-06-12T02:27:32.000Z</updated>
-        <summary type="html"><![CDATA[I am reading through The Letter for my next al|together review. I had an interesting issue that I will document here.
-Downloaded Windows installer from Insani's al|together 2008
-Extracted contents of Windows .exe into a new directory
-(Note: Running EndeavourOS with mainline Linux kernel)
-Ran Galladite's newest build of ONScripter-EN for Linux in the directory (https://github.com/Galladite27/ONScripter-en/releases/tag/2023-06-05)
-Initially had skipping and static noise in the music
-Tested Kaisernet's 2011 build and had the same issue
-Tested on secondary PC running Fedora and had no issue
-Rebooted my workstation and then sound worked with no issue with Galladite's newest ONScripter-EN build
-I don't know what the issue was -- but The Letter has a great soundtrack, so I am glad that I resolved it (somehow)
-#insani #ONScripter-EN #visualnovles #tegami]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
         </author>
     </entry>
 </feed>

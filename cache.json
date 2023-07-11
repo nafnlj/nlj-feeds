@@ -502,6 +502,16 @@
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
         {
+          "id": "https://linuxrocks.online/@nafnlj/110696798159248280",
+          "author": null,
+          "description": "Before watching episode 2, I review the animation in episode 1 of The Girl I Like Forgot Her Glasses, one of the new anime series of the summer season. I was inspired to write the piece when I saw some dramatically different takes on the animation, ranging from crediting the first 3 minutes for having more frames than entire episodes of other shows to describing those same 3 minutes as being a crime against humanity.  On the whole, I offer some qualified praise for the style and attention to detail while also highlighting technical issues (inconsistent 3D assets, bad shadows, glitches) that are a bit concerning going forward.\nhttps://thenewleafjournal.com/the-girl-i-like-forgot-her-glasses-ep1-animation/\n#anime #animation #gohands #animereview",
+          "link": "https://linuxrocks.online/@nafnlj/110696798159248280",
+          "publishedOn": "2023-07-11T18:11:33.000Z",
+          "wordCount": 119,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxrocks.online/@nafnlj/110690525100036773",
           "author": null,
           "description": "I had some difficulty explaining how to use PlayOnLinux (and by extension, PlayOnMac... probably) to my friend via text chat. I was going to send a guide after I remembered myself -- then I figured I ought to just publish the guide on the NLJ.  Note that I personally use Lutris (and occasionally Bottles) as a WINE GUI, but PlayOnLinux still works fairly well and is certainly the better choice for a 2007 MacBook with 1 GB of RAM running Bodhi Linux.\nhttps://thenewleafjournal.com/installing-nonlisted-programs-playonlinux/\n#playonlinux #playonmac #wine #linux",
@@ -893,26 +903,6 @@
           "publishedOn": "2023-06-12T17:39:28.000Z",
           "wordCount": 21,
           "title": "I was unable to print using my Brother printer from my EndeavourOS workstation. I resolved the issue...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/10",
-          "author": null,
-          "description": "My current visual novel review project, The Letter, is the 2008 translation of a 2007 Japanese visual novel called Tegami. Like most of the al|together translation projects visual novels, Tegami was written in NScripter. However, the 2007 release was its second release. The first version was created with Yuuki! Novel. I looked up Yuuki! Novel and found a couple of interesting resources:\nhttps://web.archive.org/web/20160208042342/http://freett.com/yuukiex/yuukinovel.html (Last capture of official website, download links still work)\nhttps://visuallyneko.wordpress.com/visual-novel-tools/yuukinovel/ (short article about)\nI downloaded the latest release of Yuuki! Novel (latest being from 2005) and an English-language translation of some of its docs. File away for a future project.\n#tegami #insani #yuukinovel #visualnovels #NScripter",
-          "link": "https://memos.emucafe.org/m/10",
-          "publishedOn": "2023-06-12T03:55:55.000Z",
-          "wordCount": 21,
-          "title": "My current visual novel review project, *The Letter*, is the 2008 translation of a 2007 Japanese vis...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/9",
-          "author": null,
-          "description": "I am reading through The Letter for my next al|together review. I had an interesting issue that I will document here.\nDownloaded Windows installer from Insani's al|together 2008\nExtracted contents of Windows .exe into a new directory\n(Note: Running EndeavourOS with mainline Linux kernel)\nRan Galladite's newest build of ONScripter-EN for Linux in the directory (https://github.com/Galladite27/ONScripter-en/releases/tag/2023-06-05)\nInitially had skipping and static noise in the music\nTested Kaisernet's 2011 build and had the same issue\nTested on secondary PC running Fedora and had no issue\nRebooted my workstation and then sound worked with no issue with Galladite's newest ONScripter-EN build\nI don't know what the issue was -- but The Letter has a great soundtrack, so I am glad that I resolved it (somehow)\n#insani #ONScripter-EN #visualnovles #tegami",
-          "link": "https://memos.emucafe.org/m/9",
-          "publishedOn": "2023-06-12T02:27:32.000Z",
-          "wordCount": 21,
-          "title": "I am reading through [*The Letter*](http://altogether.insani.org/2008/3.html) for my next [al|togeth...",
           "imageUrl": null
         }
       ]
