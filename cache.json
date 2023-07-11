@@ -24,16 +24,6 @@
           "wordCount": 433,
           "title": "Update osmosfeed.yaml",
           "imageUrl": "https://opengraph.githubassets.com/b4679f30d051c8f5f1e3c733daa6ebfc2ed84f4a64c9fa91711ee90e88b69f62/nafnlj/nljfeeds/commit/e42228253eb74df650f9ba7e307b2bc0456a6047"
-        },
-        {
-          "id": "https://github.com/nafnlj/nljfeeds/commit/6be8842d43b8ce251ee1132b7ae5485dc1e031ff",
-          "author": null,
-          "description": "Update osmosfeed.yaml\n\nAdded three feeds:\r\n\r\n1. Commits to NLJ Feeds YAML file\r\n2. Commits to Bing deindexing resource\r\n3. Feed for NAF's Memos account",
-          "link": "https://github.com/nafnlj/nljfeeds/commit/6be8842d43b8ce251ee1132b7ae5485dc1e031ff",
-          "publishedOn": "2023-06-11T15:54:10.000Z",
-          "wordCount": 472,
-          "title": "Update osmosfeed.yaml",
-          "imageUrl": "https://opengraph.githubassets.com/66de6ac5c53dd2c486956c7c019796850e2df82bb972f2a2bfa497ffc73a3063/nafnlj/nljfeeds/commit/6be8842d43b8ce251ee1132b7ae5485dc1e031ff"
         }
       ]
     },
@@ -710,16 +700,6 @@
           "wordCount": 118,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110526506157914198",
-          "author": null,
-          "description": "I wanted to add pingback support to WordPress pages so I could enable Webmentions on my new Guestbook. After a bit of searching, I extrapolated the correct functions.php snippet from a guide for a different point and added the functionality to pages without breaking my site.\nhttps://thenewleafjournal.com/leaf/add-pingback-support-to-wordpress-pages/\n#wordpress #webmentions #indieweb #php",
-          "link": "https://linuxrocks.online/@nafnlj/110526506157914198",
-          "publishedOn": "2023-06-11T16:24:03.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -933,36 +913,6 @@
           "publishedOn": "2023-06-12T02:27:32.000Z",
           "wordCount": 21,
           "title": "I am reading through [*The Letter*](http://altogether.insani.org/2008/3.html) for my next [al|togeth...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/8",
-          "author": null,
-          "description": "I previously noted that I could not start my local Radicale-DecSync server and that switching from the AUR package to the PyPi package resolved the issue.\nhttps://thenewleafjournal.com/leaf/radicale-decsync-aur-issues/\nHowever, I ran into the following error today when I tried to launch the local server:\n[2023-06-11 15:56:14 -0400] [2661] [CRITICAL] An exception occurred during server startup: Failed to load storage module 'radicale_storage_decsync': libcrypt.so.1: cannot open shared object file: No such file or directory\n\n\nSolution from AUR libdecsync package:  Install libxcrypt-compat\npacman -S libxcrypt-compat\n\n#linux #decsync #pacman #pypi",
-          "link": "https://memos.emucafe.org/m/8",
-          "publishedOn": "2023-06-11T20:02:44.000Z",
-          "wordCount": 21,
-          "title": "I previously noted that I could not start my local Radicale-DecSync server and that switching from t...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/7",
-          "author": null,
-          "description": "I started manually maintaining a list of stopwords for WordPress comments after opening our Guestbook. I figured that I could handle it manually instead of using a plugin. The approach was showing some results after two days, but it occurred to me that I could find a bigger stopword list.\nhttps://github.com/splorp/wordpress-comment-blacklist\nI found this big one on GitHub and copied it into my install. The repo notes that there are plugins for keeping it up-to-date, but I thought of a better idea. After some clicking around, I found the atom feed for updates to the blocklist text file. I added it to mfeed, a Firefox extension I use to keep track of feeds for repo and software updates.  Now I will not only be able to keep my stopwords list up to date, but I also have a NLJ topic on keeping the list up to date without a plugin.\n#wordpress #feeds #newleafjournal",
-          "link": "https://memos.emucafe.org/m/7",
-          "publishedOn": "2023-06-11T16:10:14.000Z",
-          "wordCount": 21,
-          "title": "I started manually maintaining a list of stopwords for WordPress comments after opening our Guestboo...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/6",
-          "author": null,
-          "description": "Thoughts on anime episodes I watched yesterday:\nThe Dangers in My Heart 11\nPosted its best episode for the second week in a row. The protagonist, Kyo, came to an important realization. In addition to the story progress, this episode featured some beautiful backgrounds for Kyo's abbreviated vacation. I am curious to see if it resolves key points in its conclusion in the same way that Angel Next Door did last season. Despite the strong finish, the series is held back by a rough start and our lack of insight into Anna's perspective and feelings.\nMy Love Story With Yamada-kun 11\nIt has improved a bit in its second half (having noted that I was not impressed with the first half, and episode 11 offers some hope that something will be resolved in the finale (I have my doubts).  Akane, like Kyo, appears to have come to a realization (albeit she will state it clearly in the next episode).\nMix S2 10\nGranting that I am watching Mix without the benefit of having seen Touch, it continues to meander at a slow pace with surprisingly little baseball action, even compared to season 1. Generally pleasant, but stronger signs in episode 10 that it is going in an unfortunate direction on one of its romantic stories than we had before (not that the signs haven't been there, that is). I did appreciate one scene where the main protagonist, Touma, offered some meta-commentary on people losing interest in slow stories.  The ending song and animation is still fantastic, especially for a show that has a 1980s animation aesthetic.\n#anime #dangersinmyheart #yamadakunat999 #mix-anime",
-          "link": "https://memos.emucafe.org/m/6",
-          "publishedOn": "2023-06-11T16:06:42.000Z",
-          "wordCount": 21,
-          "title": "Thoughts on anime episodes I watched yesterday:",
           "imageUrl": null
         }
       ]

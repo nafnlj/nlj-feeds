@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-10T23:16:25.376Z</updated>
+    <updated>2023-07-11T13:25:14.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1662,83 +1662,6 @@ I don't know what the issue was -- but The Letter has a great soundtrack, so I a
 #insani #ONScripter-EN #visualnovles #tegami]]></summary>
         <author>
             <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I previously noted that I could not start my local Radicale-DecSync server and that switching from t...]]></title>
-        <id>https://memos.emucafe.org/m/8</id>
-        <link href="https://memos.emucafe.org/m/8"/>
-        <updated>2023-06-11T20:02:44.000Z</updated>
-        <summary type="html"><![CDATA[I previously noted that I could not start my local Radicale-DecSync server and that switching from the AUR package to the PyPi package resolved the issue.
-https://thenewleafjournal.com/leaf/radicale-decsync-aur-issues/
-However, I ran into the following error today when I tried to launch the local server:
-[2023-06-11 15:56:14 -0400] [2661] [CRITICAL] An exception occurred during server startup: Failed to load storage module 'radicale_storage_decsync': libcrypt.so.1: cannot open shared object file: No such file or directory
-
-
-Solution from AUR libdecsync package:  Install libxcrypt-compat
-pacman -S libxcrypt-compat
-
-#linux #decsync #pacman #pypi]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110526506157914198</id>
-        <link href="https://linuxrocks.online/@nafnlj/110526506157914198"/>
-        <updated>2023-06-11T16:24:03.000Z</updated>
-        <summary type="html"><![CDATA[I wanted to add pingback support to WordPress pages so I could enable Webmentions on my new Guestbook. After a bit of searching, I extrapolated the correct functions.php snippet from a guide for a different point and added the functionality to pages without breaking my site.
-https://thenewleafjournal.com/leaf/add-pingback-support-to-wordpress-pages/
-#wordpress #webmentions #indieweb #php]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I started manually maintaining a list of stopwords for WordPress comments after opening our Guestboo...]]></title>
-        <id>https://memos.emucafe.org/m/7</id>
-        <link href="https://memos.emucafe.org/m/7"/>
-        <updated>2023-06-11T16:10:14.000Z</updated>
-        <summary type="html"><![CDATA[I started manually maintaining a list of stopwords for WordPress comments after opening our Guestbook. I figured that I could handle it manually instead of using a plugin. The approach was showing some results after two days, but it occurred to me that I could find a bigger stopword list.
-https://github.com/splorp/wordpress-comment-blacklist
-I found this big one on GitHub and copied it into my install. The repo notes that there are plugins for keeping it up-to-date, but I thought of a better idea. After some clicking around, I found the atom feed for updates to the blocklist text file. I added it to mfeed, a Firefox extension I use to keep track of feeds for repo and software updates.  Now I will not only be able to keep my stopwords list up to date, but I also have a NLJ topic on keeping the list up to date without a plugin.
-#wordpress #feeds #newleafjournal]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoughts on anime episodes I watched yesterday:]]></title>
-        <id>https://memos.emucafe.org/m/6</id>
-        <link href="https://memos.emucafe.org/m/6"/>
-        <updated>2023-06-11T16:06:42.000Z</updated>
-        <summary type="html"><![CDATA[Thoughts on anime episodes I watched yesterday:
-The Dangers in My Heart 11
-Posted its best episode for the second week in a row. The protagonist, Kyo, came to an important realization. In addition to the story progress, this episode featured some beautiful backgrounds for Kyo's abbreviated vacation. I am curious to see if it resolves key points in its conclusion in the same way that Angel Next Door did last season. Despite the strong finish, the series is held back by a rough start and our lack of insight into Anna's perspective and feelings.
-My Love Story With Yamada-kun 11
-It has improved a bit in its second half (having noted that I was not impressed with the first half, and episode 11 offers some hope that something will be resolved in the finale (I have my doubts).  Akane, like Kyo, appears to have come to a realization (albeit she will state it clearly in the next episode).
-Mix S2 10
-Granting that I am watching Mix without the benefit of having seen Touch, it continues to meander at a slow pace with surprisingly little baseball action, even compared to season 1. Generally pleasant, but stronger signs in episode 10 that it is going in an unfortunate direction on one of its romantic stories than we had before (not that the signs haven't been there, that is). I did appreciate one scene where the main protagonist, Touma, offered some meta-commentary on people losing interest in slow stories.  The ending song and animation is still fantastic, especially for a show that has a 1980s animation aesthetic.
-#anime #dangersinmyheart #yamadakunat999 #mix-anime]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
-        <id>https://github.com/nafnlj/nljfeeds/commit/6be8842d43b8ce251ee1132b7ae5485dc1e031ff</id>
-        <link href="https://github.com/nafnlj/nljfeeds/commit/6be8842d43b8ce251ee1132b7ae5485dc1e031ff"/>
-        <updated>2023-06-11T15:54:10.000Z</updated>
-        <summary type="html"><![CDATA[Update osmosfeed.yaml
-
-Added three feeds:
-
-1. Commits to NLJ Feeds YAML file
-2. Commits to Bing deindexing resource
-3. Feed for NAF's Memos account]]></summary>
-        <author>
-            <name>Recent Commits to nljfeeds:main</name>
         </author>
     </entry>
 </feed>
