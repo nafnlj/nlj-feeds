@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-12T13:26:33.246Z</updated>
+    <updated>2023-07-12T18:21:41.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Revises New Driver for Stadia Controller Rumble Support on Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=36696436</id>
+        <link href="https://www.phoronix.com/news/Stadia-Controller-FF-Linux"/>
+        <updated>2023-07-12T15:51:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.phoronix.com/news/Stadia-Controller-FF-Linux
+Comments URL: https://news.ycombinator.com/item?id=36696436
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stadia controller gets Linux rumble support]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20787</id>

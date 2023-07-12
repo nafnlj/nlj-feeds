@@ -873,6 +873,16 @@
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=36696436",
+          "author": "nafnlj",
+          "description": "Article URL: https://www.phoronix.com/news/Stadia-Controller-FF-Linux\nComments URL: https://news.ycombinator.com/item?id=36696436\nPoints: 1\n# Comments: 0",
+          "link": "https://www.phoronix.com/news/Stadia-Controller-FF-Linux",
+          "publishedOn": "2023-07-12T15:51:11.000Z",
+          "wordCount": 1393,
+          "title": "Google Revises New Driver for Stadia Controller Rumble Support on Linux",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=36667819",
           "author": "nafnlj",
           "description": "Article URL: https://ahrefs.com/blog/blocked-robots-test/\nComments URL: https://news.ycombinator.com/item?id=36667819\nPoints: 1\n# Comments: 0",
