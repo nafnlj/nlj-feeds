@@ -191,16 +191,6 @@
           "wordCount": 4089,
           "title": "ESPN States Tim Duncan was “Born Overseas”",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20509",
-          "author": "Nicholas A. Ferrell",
-          "description": "Using an ATOM feed and feed reader to stay abreast of the latest updates to a WordPress spam comment blacklist without using a plugin.\nPossibly related posts...\n\nThe story of our Bing blacklisting\nComment on the NLJ with Hypothes.is\nSave the Date - Visual Novel Review\nHistory of the Mario Party Gloves\nCapo vs Capo, a TikTok Debacle\nThe American Bee Journal World's Fair Report\nBiden, Lincoln, and Counting Back From the President's Birth\nLearning How to Change a Twitter Username\nClosing The New Leaf Journal Guestbook (Outdated)",
-          "link": "https://thenewleafjournal.com/keeping-wp-comment-blacklist-up-to-date/",
-          "publishedOn": "2023-06-12T21:27:47.000Z",
-          "wordCount": 2849,
-          "title": "Keeping WP Comment Blacklist Up to Date",
-          "imageUrl": null
         }
       ]
     },
@@ -278,16 +268,6 @@
           "wordCount": 1682,
           "title": "WordPress Webmention Plugin Discovery",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20507",
-          "author": "Nicholas A. Ferrell",
-          "description": "I run the Arch Linux-based EndeavourOS distribution on my main workstation. My primary package managers are pacman (for the regular Arch […]\nPossibly related posts...\n\nNice Boat in the Arch User Repository\nOld Games, MIDI, and EndeavourOS\n\"Just keep tapping the Enter key\"\nMIDI sound for games on Arch-based distro\nApt to Use Pacman - Forgetting Your Linux Distribution,…\nThe Enigmatic Life and Death of Emperor Otho\nRunning Linux Visual Novels With ONScripter\nUsing an Amiga OS-Inspired Window Theme In XFCE With XFWM4\nDecSync Review",
-          "link": "https://thenewleafjournal.com/leaf/enter-difference-between-yay-and-dnf/",
-          "publishedOn": "2023-06-12T15:32:50.000Z",
-          "wordCount": 1481,
-          "title": "Enter difference between yay and dnf",
-          "imageUrl": null
         }
       ]
     },
@@ -296,6 +276,16 @@
       "feedUrl": "https://thenewleafjournal.com/leafbud/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20787",
+          "author": "Nicholas A. Ferrell",
+          "description": "I wrote about the discontinuation of Google’s Stadia, a game streaming service, back in the context of game ownership. In that […]\nPossibly related posts...\n\nStadia and the Value of Owning Games\nThe best Nintendo controllers\nDon't Compare Stadia to the Dreamcast!\nHeight differences in anime romances\nGoogle Discontinues Stadia\nThe Sega Dreamcast Controller Joystick\nMario Party's Joystick-Wrecking Rotation Games\nThe Thin Digital Line Between \"Buy\" and \"Rent\"\nHistory of the Mario Party Gloves",
+          "link": "https://thenewleafjournal.com/leafbud/stadia-controller-gets-linux-rumble-support/",
+          "publishedOn": "2023-07-12T13:00:00.000Z",
+          "wordCount": 1460,
+          "title": "Stadia controller gets Linux rumble support",
+          "imageUrl": null
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20724",
           "author": "Nicholas A. Ferrell",
@@ -412,16 +402,6 @@
           "wordCount": 2540,
           "title": "Newsletter Leaf Journal CXL",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=letter&p=20494",
-          "author": "Nicholas A. Ferrell",
-          "description": "Welcome to the syndicated version of Newsletter Leaf Journal 139. After I was late in making my Monday syndication target for […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal VIII\nAn Introduction to RSS and Other Feed Formats",
-          "link": "https://thenewleafjournal.com/letter/139/",
-          "publishedOn": "2023-06-12T16:00:22.000Z",
-          "wordCount": 3258,
-          "title": "Newsletter Leaf Journal CXXXIV",
-          "imageUrl": null
         }
       ]
     },
@@ -690,26 +670,6 @@
           "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110532480511808219",
-          "author": null,
-          "description": "I just had an issue printing from my Brother printer (wi-fi connection) from my main workstation running EndeavourOS. I resolved the issue cleanly with the EndeavourOS Wiki and then detailed the steps with a link to the relevant section in my new Memos instance.\nhttps://memos.emucafe.org/m/11\n#endeavouros #arch #printers",
-          "link": "https://linuxrocks.online/@nafnlj/110532480511808219",
-          "publishedOn": "2023-06-12T17:43:24.000Z",
-          "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110532278917954416",
-          "author": null,
-          "description": "I used @jeremy 's Nostr Verify plugin for WordPress to verify my new Nostr profile, and explained the process in a short article. I was impressed with how quickly everything fell into place. This is well worth a look if you run a self-hosted WordPress site.\nhttps://thenewleafjournal.com/using-nostr-verify-for-wordpress-nip-05/\n#wordpress #wordpressplugin #nostr #nip05 #socialmedia",
-          "link": "https://linuxrocks.online/@nafnlj/110532278917954416",
-          "publishedOn": "2023-06-12T16:52:08.000Z",
-          "wordCount": 118,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -903,16 +863,6 @@
           "publishedOn": "2023-06-15T02:49:29.000Z",
           "wordCount": 21,
           "title": "For hBlock: https://github.com/hectorm/hblock",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/11",
-          "author": null,
-          "description": "I was unable to print using my Brother printer from my EndeavourOS workstation. I resolved the issue by following these steps on the EndeavourOS Wiki:\nhttps://discovery.endeavouros.com/printers/printers/#network-printer\nStep one:\npacman -Qs nss-mdns \n\nStep two:\nnano /etc/nsswitch.conf\n\nStep three:\nChange...\nhosts: mymachines resolve [!UNAVAIL=return] files myhostname dns\n\nTo...\nhosts: mymachines mdns_minimal [NOTFOUND=return] resolve [!UNAVAIL=return] files myhostname dns\n\n\n#linux #printers #Arch #EndeavourOS",
-          "link": "https://memos.emucafe.org/m/11",
-          "publishedOn": "2023-06-12T17:39:28.000Z",
-          "wordCount": 21,
-          "title": "I was unable to print using my Brother printer from my EndeavourOS workstation. I resolved the issue...",
           "imageUrl": null
         }
       ]
@@ -1133,16 +1083,6 @@
           "publishedOn": "2023-06-26T01:41:23.000Z",
           "wordCount": null,
           "title": "Victor V. Gurbo & Co. “Everyday (Buddy Holly)” Home Recording",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PDDJlp-unJM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PDDJlp-unJM",
-          "publishedOn": "2023-06-13T01:00:07.000Z",
-          "wordCount": null,
-          "title": "Victor V. Gurbo & Co. \"The Waltzing Fool\" Live at the Lustre Pearl Rainey (4/16/22)",
           "imageUrl": null
         }
       ]
