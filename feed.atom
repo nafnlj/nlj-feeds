@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-12T18:21:41.792Z</updated>
+    <updated>2023-07-12T23:16:20.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110702724382268776</id>
+        <link href="https://linuxrocks.online/@nafnlj/110702724382268776"/>
+        <updated>2023-07-12T19:18:39.000Z</updated>
+        <summary type="html"><![CDATA[If the consigliere of New York City's Colombo crime family cannot log off, what hope is there for the normies? I present the story of the unfortunate consequences of "oversharing" for a mob boss on the run. (Note: Problems in this particular case could have been avoided by not engaging in criminal racketeering.)
+https://thenewleafjournal.com/mafia-social-media-over-sharing/
+#mafia #nyc #socialmedia #twitter #crime #fbi #oversharing]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barbie & Oppenheimer without context]]></title>
+        <id>https://thenewleafjournal.com/?p=20790</id>
+        <link href="https://thenewleafjournal.com/barbie-oppenheimer-without-context/"/>
+        <updated>2023-07-12T18:59:00.000Z</updated>
+        <summary type="html"><![CDATA[I stumbled on a meme by accident and determined that the "meme" is more humorous without knowledge of the meme.
+Possibly related posts...
+
+Historic Districts and Looming Tall Buildings
+Justin & Justina 〜 A Christmas Present Struggle
+A Trip Across Brooklyn's Summit Street Bridge
+The Cows of Bloomingdale's and Macy's at the 2021 NYC Cow…
+A Bike in the Snow in Brooklyn
+Brooklyn Snowman and Winter Storm Gail Sights
+Snowman with Mask 〜 It's the thought that counts
+A Walk Across the Hamilton Avenue Footbridge
+Ed Durr Walks To A Stunning Election Upset In New Jersey]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Revises New Driver for Stadia Controller Rumble Support on Linux]]></title>
         <id>https://news.ycombinator.com/item?id=36696436</id>
