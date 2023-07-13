@@ -43,6 +43,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20795",
+          "author": "Nicholas A. Ferrell",
+          "description": "MikroTik is a Latvian-based company that produces networking equipment and maintains a proprietary Linux distribution for networking devices called RouterOS. RouterOS […]\nPossibly related posts...\n\nSigning into Winbox\nAn Introduction to RSS and Other Feed Formats\nHow to Find Substack RSS Feeds and Other Notes\nRSS as a Facebook Alternative\nIndieWeb Standards, RSS, and Atom\nWhat is an \"Android Alternative\"?\nThe American Bee Journal World's Fair Report\nReplacing soundbar and re-configuring universal remote for…\nAgainst Twitter as a Content Curator",
+          "link": "https://thenewleafjournal.com/rss-for-keeping-with-mikrotik-updates/",
+          "publishedOn": "2023-07-13T13:30:00.000Z",
+          "wordCount": 2702,
+          "title": "RSS for keeping with MikroTik updates",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/07/mikrotik-download-page.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20790",
           "author": "Nicholas A. Ferrell",
           "description": "I stumbled on a meme by accident and determined that the \"meme\" is more humorous without knowledge of the meme.\nPossibly related posts...\n\nHistoric Districts and Looming Tall Buildings\nJustin & Justina 〜 A Christmas Present Struggle\nA Trip Across Brooklyn's Summit Street Bridge\nThe Cows of Bloomingdale's and Macy's at the 2021 NYC Cow…\nA Bike in the Snow in Brooklyn\nBrooklyn Snowman and Winter Storm Gail Sights\nSnowman with Mask 〜 It's the thought that counts\nA Walk Across the Hamilton Avenue Footbridge\nEd Durr Walks To A Stunning Election Upset In New Jersey",
@@ -678,16 +688,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110549067506998554",
           "publishedOn": "2023-06-15T16:01:42.000Z",
           "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110538641600553897",
-          "author": null,
-          "description": "I noticed that crawlers sometimes look for an ads.txt file on The New Leaf Journal. I felt bad about them finding our 404 page instead of the information they were seeking. Not wanting to leave their bot hearts unfulfilled, I remedied the issue.\nhttps://thenewleafjournal.com/ads.txt\n#wordpress #textfile #ads",
-          "link": "https://linuxrocks.online/@nafnlj/110538641600553897",
-          "publishedOn": "2023-06-13T19:50:15.000Z",
-          "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
         }

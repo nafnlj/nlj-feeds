@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-13T05:56:17.539Z</updated>
+    <updated>2023-07-13T14:10:46.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RSS for keeping with MikroTik updates]]></title>
+        <id>https://thenewleafjournal.com/?p=20795</id>
+        <link href="https://thenewleafjournal.com/rss-for-keeping-with-mikrotik-updates/"/>
+        <updated>2023-07-13T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[MikroTik is a Latvian-based company that produces networking equipment and maintains a proprietary Linux distribution for networking devices called RouterOS. RouterOS […]
+Possibly related posts...
+
+Signing into Winbox
+An Introduction to RSS and Other Feed Formats
+How to Find Substack RSS Feeds and Other Notes
+RSS as a Facebook Alternative
+IndieWeb Standards, RSS, and Atom
+What is an "Android Alternative"?
+The American Bee Journal World's Fair Report
+Replacing soundbar and re-configuring universal remote for…
+Against Twitter as a Content Curator]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update update-feed.yaml]]></title>
         <id>https://github.com/nafnlj/nljfeeds/commit/dd4c7503ee378c12c0fc5b6c33ad39073e44cfcb</id>
@@ -1592,18 +1613,6 @@ History of Thanksgiving Proclamations in the Philippines
 Immigration Issues in NYPD Chinese Agent Case]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110538641600553897</id>
-        <link href="https://linuxrocks.online/@nafnlj/110538641600553897"/>
-        <updated>2023-06-13T19:50:15.000Z</updated>
-        <summary type="html"><![CDATA[I noticed that crawlers sometimes look for an ads.txt file on The New Leaf Journal. I felt bad about them finding our 404 page instead of the information they were seeking. Not wanting to leave their bot hearts unfulfilled, I remedied the issue.
-https://thenewleafjournal.com/ads.txt
-#wordpress #textfile #ads]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
