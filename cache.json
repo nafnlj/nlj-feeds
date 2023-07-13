@@ -6,6 +6,16 @@
       "siteUrl": "https://github.com/nafnlj/nljfeeds/commits/main",
       "articles": [
         {
+          "id": "https://github.com/nafnlj/nljfeeds/commit/dd4c7503ee378c12c0fc5b6c33ad39073e44cfcb",
+          "author": null,
+          "description": "Update update-feed.yaml\n\nChanged update schedule to 10 AM and 4 PM EST",
+          "link": "https://github.com/nafnlj/nljfeeds/commit/dd4c7503ee378c12c0fc5b6c33ad39073e44cfcb",
+          "publishedOn": "2023-07-13T05:55:52.000Z",
+          "wordCount": 481,
+          "title": "Update update-feed.yaml",
+          "imageUrl": "https://opengraph.githubassets.com/6767b1ac16291f9b965ff59e5f6581c353a66d70209692f14063bfd794c3453c/nafnlj/nljfeeds/commit/dd4c7503ee378c12c0fc5b6c33ad39073e44cfcb"
+        },
+        {
           "id": "https://github.com/nafnlj/nljfeeds/commit/e23ba2cddb3683197df9a6c242dddad93b477584",
           "author": null,
           "description": "Update osmosfeed.yaml\n\nAdded NLJ RSS feed",
@@ -268,16 +278,6 @@
           "wordCount": 1409,
           "title": "hBlock blocks Washington Times sign-in",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20519",
-          "author": "Nicholas A. Ferrell",
-          "description": "We use the Webmention plugin for WordPress to accept and send Webmentions. This is why I took the time to figure […]\nPossibly related posts...\n\nReviewing Koko Analytics: A Simple Privacy-Friendly…\nRemoving pages from Yandex Turbo\nFixing a WP Custom Post Type Permalink Error\nUpgrading WP Search With Relevanssi\nImplementing Article Series With WP Post Series\nUsing Nostr Verify for WordPress NIP-05\nMoving a WordPress Site With UpdraftPlus Free\nKeeping WP Comment Blacklist Up to Date\nIndieWeb Standards, RSS, and Atom",
-          "link": "https://thenewleafjournal.com/leaf/wordpress-webmention-plugin-discovery/",
-          "publishedOn": "2023-06-13T14:00:00.000Z",
-          "wordCount": 1682,
-          "title": "WordPress Webmention Plugin Discovery",
-          "imageUrl": null
         }
       ]
     },
@@ -747,16 +747,6 @@
           "wordCount": 18,
           "title": "eCFR :: 8 CFR 1003.36 -- Record of proceeding.",
           "imageUrl": "/assets/images/share-image.png"
-        },
-        {
-          "id": "https://hypothes.is/a/-vKnUgn7Ee6cELdc4l6Jpg",
-          "author": null,
-          "description": "Jokic joins Antetokounmpo, Dirk Nowitzki, Tony Parker, Tim Duncan and Hakeem Olajuwon as the only players born overseas to take home the Finals award.\nTim Duncan was born in the U.S. Virgin Islands, so I am not sure how \"overseas\" is being defined here.",
-          "link": "https://hypothes.is/a/-vKnUgn7Ee6cELdc4l6Jpg",
-          "publishedOn": "2023-06-13T15:07:13.353Z",
-          "wordCount": 18,
-          "title": "Jokic in 'legendary category' after Finals MVP run",
-          "imageUrl": "/assets/images/share-image.png"
         }
       ]
     },
@@ -765,6 +755,26 @@
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/26",
+          "author": null,
+          "description": "Obtaining Wireplumber logs:\nsystemctl --user stop wireplumber\nWIREPLUMBER_DEBUG=3 wireplumber 2>&1 | tee wireplumber.log\n\nhttps://gitlab.freedesktop.org/pipewire/wireplumber/-/issues/263\n#linux",
+          "link": "https://memos.emucafe.org/m/26",
+          "publishedOn": "2023-07-13T04:25:22.000Z",
+          "wordCount": 21,
+          "title": "Obtaining Wireplumber logs:",
+          "imageUrl": null
+        },
+        {
+          "id": "https://memos.emucafe.org/m/25",
+          "author": null,
+          "description": "Grub update command on EndeavourOS\nsudo grub-mkconfig -o /boot/grub/grub.cfg\n\n#linux #EndeavourOS",
+          "link": "https://memos.emucafe.org/m/25",
+          "publishedOn": "2023-07-13T02:46:07.000Z",
+          "wordCount": 21,
+          "title": "Grub update command on EndeavourOS",
+          "imageUrl": null
+        },
         {
           "id": "https://memos.emucafe.org/m/24",
           "author": null,
