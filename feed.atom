@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-13T20:12:40.258Z</updated>
+    <updated>2023-07-14T14:11:24.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110709049953570171</id>
+        <link href="https://linuxrocks.online/@nafnlj/110709049953570171"/>
+        <updated>2023-07-13T22:07:20.000Z</updated>
+        <summary type="html"><![CDATA[For whatever reason, my computer won't suspend or hibernate. I have generally assumed it has to do with using DisplayPort for my primary monitor and HDMI for my secondary... but never quite figured it out. It is not a big deal since I turn my computer off when I am not using it anyway. Instead of continuing to dig into the weeds... I decided to install Xscreensaver and enable almost all of the screensavers.  Left my computer for about 20 minutes and returned to Pacman on my primary monitor and a dancing wireframe box on my secondary monitor.  Highly recommended.
+#endeavouros #xfce #xscreensaver #powermanagement #linux]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110707366034443904</id>
@@ -1604,27 +1615,6 @@ Also found hBlock prevents sign-in to Washington Times.
 #hblock #adblocking #linux]]></summary>
         <author>
             <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESPN States Tim Duncan was “Born Overseas”]]></title>
-        <id>https://thenewleafjournal.com/?p=20523</id>
-        <link href="https://thenewleafjournal.com/espn-states-tim-duncan-was-born-overseas/"/>
-        <updated>2023-06-14T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[I saw that the Denver Nuggets won their first NBA championship last night. I have been somewhat out of the NBA […]
-Possibly related posts...
-
-All About the Saw-whet Owl
-Noncitizen Nationals as Immigrant Visa Petitioners
-Mosley on Mayweather: Confidence and Fear
-Tim Hortons Settles Claims Related to Creepy App
-Seeing Hopkins-Jones II at the Theater
-Playing Through Cancer in Silence: Shawn Respert's NBA Story
-On Learning How to Ride a Skateboard Before Learning Tricks
-History of Thanksgiving Proclamations in the Philippines
-Immigration Issues in NYPD Chinese Agent Case]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
