@@ -894,16 +894,6 @@
           "wordCount": 21,
           "title": "https://www.ecfr.gov/current/title-8/chapter-V/subchapter-A/part-1003/subpart-C/section-1003.36",
           "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/13",
-          "author": null,
-          "description": "For hBlock: https://github.com/hectorm/hblock\nCommand for temporary clearing domain list from hosts file:\nhblock -S none -D none\n\nDiscussed in past article: https://thenewleafjournal.com/hblock-and-my-attempt-to-purchase-health-insurance-in-new-york/\nAlso found hBlock prevents sign-in to Washington Times.\n#hblock #adblocking #linux",
-          "link": "https://memos.emucafe.org/m/13",
-          "publishedOn": "2023-06-15T02:49:29.000Z",
-          "wordCount": 21,
-          "title": "For hBlock: https://github.com/hectorm/hblock",
-          "imageUrl": null
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-14T14:11:24.794Z</updated>
+    <updated>2023-07-14T20:13:05.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1599,22 +1599,6 @@ https://thenewleafjournal.com/collage-visual-novel-review/
 #visualnovel #visualnovels #game #freeware #doujin #japan]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For hBlock: https://github.com/hectorm/hblock]]></title>
-        <id>https://memos.emucafe.org/m/13</id>
-        <link href="https://memos.emucafe.org/m/13"/>
-        <updated>2023-06-15T02:49:29.000Z</updated>
-        <summary type="html"><![CDATA[For hBlock: https://github.com/hectorm/hblock
-Command for temporary clearing domain list from hosts file:
-hblock -S none -D none
-
-Discussed in past article: https://thenewleafjournal.com/hblock-and-my-attempt-to-purchase-health-insurance-in-new-york/
-Also found hBlock prevents sign-in to Washington Times.
-#hblock #adblocking #linux]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
         </author>
     </entry>
 </feed>
