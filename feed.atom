@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-16T14:10:27.433Z</updated>
+    <updated>2023-07-16T20:12:22.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1533,30 +1533,6 @@ Points: 4
 # Comments: 0]]></summary>
         <author>
             <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110549078516588633</id>
-        <link href="https://linuxrocks.online/@nafnlj/110549078516588633"/>
-        <updated>2023-06-15T16:04:30.000Z</updated>
-        <summary type="html"><![CDATA[For those who are interested, it can be downloaded and played for free from the official source. It is a bit finicky to run. It requires a Japanese language environment. It also needs Japanese fonts or things won't display correctly (the default fonts I installed from the AUR did not work well here). I ran it on top of WINE without any problems after the initial configuration.  Unlike most of the al|together translations, there is no native Linux version (this one was written in KiriKiri instead of ONScripter-EN).
-https://apothes.is/hosted/at2006/collage.html
-#visualnovel #visualnovels]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110549067506998554</id>
-        <link href="https://linuxrocks.online/@nafnlj/110549067506998554"/>
-        <updated>2023-06-15T16:01:42.000Z</updated>
-        <summary type="html"><![CDATA[I reviewed a 2006 translation of a 2004 Japanese freeware visual novel called Collage last week. This one earns my clear recommendation. It is a story covering a couple of weeks in modern Japan told  from the perspective of three adults (probably in the age 28-30 range). Over the course of the story, we see how the lives of the characters are more connected than they seem. The translation reads very well and the story is clever. I also appreciated the game's visual flair and soundtrack, both of which reminded me a bit of Persona 3.
-https://thenewleafjournal.com/collage-visual-novel-review/
-#visualnovel #visualnovels #game #freeware #doujin #japan]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
