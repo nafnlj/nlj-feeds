@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-17T14:12:06.388Z</updated>
+    <updated>2023-07-17T20:13:21.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1398,34 +1398,6 @@ Installing and Running Bodhi Linux on a 2007 MacBook]]></summary>
         <summary type="html"><![CDATA[How do you organize all of the things you read?
 My system is actually pretty simple, and it relies on organizing my regular reads, quick digesting and sorting one-off articles, and sometimes doing extensive note-taking with online apps.
 I agree that reading is a key part of writing.]]></summary>
-        <author>
-            <name>Hypothesis Stream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Several of the spring 2023 anime season series have picked up in their second halves since I [expres...]]></title>
-        <id>https://memos.emucafe.org/m/16</id>
-        <link href="https://memos.emucafe.org/m/16"/>
-        <updated>2023-06-18T04:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Several of the spring 2023 anime season series have picked up in their second halves since I expressed by concerns at the half-way point that the first half of 2023 was looking bleak. One of the most interesting (and arguably the best) series of the season is Oshi no Ko, which has achieved great popularity. The series focuses on the entertainment industry in Japan, often in a gritty way. It has impressive production values, but the overall product is inconsistent. One thing it has not failed at is hitting the big moments though. The ends of episodes 1, 7, and 9 are three of the most striking moments of anime in 2023 thus far. 9 was particularly impressive. It was not a surprise when we learned that Kana Arima is a legitimately good singer, but the set-up of her music video and the reactions of her group mates was well-done enough to earn some applause. Of course, unlike my previous three anime series of the year, Oregairu S3, SSSS.Dynazenon, and Teasting Master Takagi-san S3, Oshi no Ko has not put together an entire episode up to the standard of its best scenes. But it is making me think about how much a single scene can carry an episode or how a series of stand-out scenes can define a series. This idea needs more work. It will turn into an article at some point.
-#OshiNoKo #anime #anime2023]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare considered harmful]]></title>
-        <id>https://hypothes.is/a/KFq3yA2HEe6YGLdwLeok0Q</id>
-        <link href="https://hypothes.is/a/KFq3yA2HEe6YGLdwLeok0Q"/>
-        <updated>2023-06-18T03:21:04.348Z</updated>
-        <summary type="html"><![CDATA[Where such denial-of-service conditions occur, Cloudflare provides a bizarre
-“one more step” page inviting the visitor to complete a reCAPTCHA to access the
-site. Cloudflare claims that this is based on IP reputation, which constitutes
-a fallacious equivocation of IPs and users which has been found to be highly
-detrimental to Tor users in terms of the browseability of the web.
-This is a good critique of Cloudflare CAPTCHAs. They are especially annoying when using a VPN (I use Mullvad) or unusual browser configurations. I wrote about how the Wayback Machine provides a good end-around the CAPTCHA deluge for pages which have been captured.
-
-https://thenewleafjournal.com/using-web-archives-to-get-around-captchas/]]></summary>
         <author>
             <name>Hypothesis Stream</name>
         </author>
