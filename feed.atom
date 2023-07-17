@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-16T20:12:22.945Z</updated>
+    <updated>2023-07-17T14:12:06.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1428,111 +1428,6 @@ This is a good critique of Cloudflare CAPTCHAs. They are especially annoying whe
 https://thenewleafjournal.com/using-web-archives-to-get-around-captchas/]]></summary>
         <author>
             <name>Hypothesis Stream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
-        <id>https://github.com/nafnlj/nljfeeds/commit/e23ba2cddb3683197df9a6c242dddad93b477584</id>
-        <link href="https://github.com/nafnlj/nljfeeds/commit/e23ba2cddb3683197df9a6c242dddad93b477584"/>
-        <updated>2023-06-17T23:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Update osmosfeed.yaml
-
-Added NLJ RSS feed]]></summary>
-        <author>
-            <name>Recent Commits to nljfeeds:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
-        <id>https://github.com/nafnlj/nljfeeds/commit/e42228253eb74df650f9ba7e307b2bc0456a6047</id>
-        <link href="https://github.com/nafnlj/nljfeeds/commit/e42228253eb74df650f9ba7e307b2bc0456a6047"/>
-        <updated>2023-06-17T23:29:28.000Z</updated>
-        <summary type="html"><![CDATA[Update osmosfeed.yaml
-
-Add N.A. Ferrell's Hacker News RSS feed]]></summary>
-        <author>
-            <name>Recent Commits to nljfeeds:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXL 〜 Deploying newsletter 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/140/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/140/"/>
-        <updated>2023-06-17T23:25:11.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 140th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. Today’s edition comes a bit late because I was tired last night (I am definitely not writing this on Saturday afternoon). But it will be a full newsletter all the same, packed to the brim with the sort of content one would expect to find in a Newsletter Leaf Journal composed by New Leaf Journal editor Nicholas A. Ferrell on his waterproof keyboard.
-Table of contents
-Leaves from the week that was
-Leaves from around the web
-The Old Leaf Journal
-Most-turned leaves of the newsletter week
-News leaf journal
-Notable leaf journal
-Taking leaf
-Leaves from the week that was
-I published four regular articles since mailing newsletter 139. I also pu…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110561477425602550</id>
-        <link href="https://linuxrocks.online/@nafnlj/110561477425602550"/>
-        <updated>2023-06-17T20:37:42.000Z</updated>
-        <summary type="html"><![CDATA[I received a sort of real response from Bing Webmaster support after sending my latest inquiry (we have to be close to 10 now).  Automated, yes, but a support number and inviting me to respond to the thread if I have updates.  This is good because I'm coming close to blocking Bingbot in robots.txt.  Just know I'm doing all of this out of the goodness of my heart for the DuckDuckGo/Ecosia/Qwant crowd out there.
-(Or so I tell myself.)
-#bing #microsoft #webmaster]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not-So-Awesome Bing Search Bans and De-Indexing]]></title>
-        <id>https://news.ycombinator.com/item?id=36373606</id>
-        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing"/>
-        <updated>2023-06-17T19:22:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing
-Comments URL: https://news.ycombinator.com/item?id=36373606
-Points: 2
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSS feed for staying on top of MikroTik Router OS updates:]]></title>
-        <id>https://memos.emucafe.org/m/15</id>
-        <link href="https://memos.emucafe.org/m/15"/>
-        <updated>2023-06-17T17:41:54.000Z</updated>
-        <summary type="html"><![CDATA[RSS feed for staying on top of MikroTik Router OS updates:
-https://mikrotik.com/current.rss
-#MikroTik #feeds]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110560631953354605</id>
-        <link href="https://linuxrocks.online/@nafnlj/110560631953354605"/>
-        <updated>2023-06-17T17:02:41.000Z</updated>
-        <summary type="html"><![CDATA[My Nintendo Switch Pro Controller died. My favorite game controller ever is the Dreamcast, so I decided to be creative and get a GuilKit KingKong 2 Pro with a Hall Effect joystick to rekindle the magic. It came in very nice packaging and the joystick feels nice. Will test it... soon.
-#nintendoswitch #guilkit #HallEffect #dreamcast #videogames]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beepers and Pagers: A Technology for More Than Drug Dealers]]></title>
-        <id>https://news.ycombinator.com/item?id=36370557</id>
-        <link href="https://tedium.co/2023/06/07/pager-schools-negative-reputation-history/"/>
-        <updated>2023-06-17T14:38:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tedium.co/2023/06/07/pager-schools-negative-reputation-history/
-Comments URL: https://news.ycombinator.com/item?id=36370557
-Points: 4
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
         </author>
     </entry>
 </feed>

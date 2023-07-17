@@ -14,26 +14,6 @@
           "wordCount": 481,
           "title": "Update update-feed.yaml",
           "imageUrl": "https://opengraph.githubassets.com/6767b1ac16291f9b965ff59e5f6581c353a66d70209692f14063bfd794c3453c/nafnlj/nljfeeds/commit/dd4c7503ee378c12c0fc5b6c33ad39073e44cfcb"
-        },
-        {
-          "id": "https://github.com/nafnlj/nljfeeds/commit/e23ba2cddb3683197df9a6c242dddad93b477584",
-          "author": null,
-          "description": "Update osmosfeed.yaml\n\nAdded NLJ RSS feed",
-          "link": "https://github.com/nafnlj/nljfeeds/commit/e23ba2cddb3683197df9a6c242dddad93b477584",
-          "publishedOn": "2023-06-17T23:43:56.000Z",
-          "wordCount": 445,
-          "title": "Update osmosfeed.yaml",
-          "imageUrl": "https://opengraph.githubassets.com/05cd139d02dad04a1c86c83578ad1a706ec373f3270be549693b2a4eb71c8d90/nafnlj/nljfeeds/commit/e23ba2cddb3683197df9a6c242dddad93b477584"
-        },
-        {
-          "id": "https://github.com/nafnlj/nljfeeds/commit/e42228253eb74df650f9ba7e307b2bc0456a6047",
-          "author": null,
-          "description": "Update osmosfeed.yaml\n\nAdd N.A. Ferrell's Hacker News RSS feed",
-          "link": "https://github.com/nafnlj/nljfeeds/commit/e42228253eb74df650f9ba7e307b2bc0456a6047",
-          "publishedOn": "2023-06-17T23:29:28.000Z",
-          "wordCount": 433,
-          "title": "Update osmosfeed.yaml",
-          "imageUrl": "https://opengraph.githubassets.com/b4679f30d051c8f5f1e3c733daa6ebfc2ed84f4a64c9fa91711ee90e88b69f62/nafnlj/nljfeeds/commit/e42228253eb74df650f9ba7e307b2bc0456a6047"
         }
       ]
     },
@@ -435,16 +415,6 @@
           "wordCount": 1984,
           "title": "Newsletter Leaf Jouranl CXLI 〜 Newsletter to reverse. 〜",
           "imageUrl": "https://image-generator.buttondown.email/api/emphasize-subject?subject=Newsletter Leaf Jouranl CXLI 〜 Newsletter to reverse. 〜&author=The Newsletter Leaf Journal&date=2023-06-24&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/140/",
-          "author": null,
-          "description": "Welcome to the 140th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. Today’s edition comes a bit late because I was tired last night (I am definitely not writing this on Saturday afternoon). But it will be a full newsletter all the same, packed to the brim with the sort of content one would expect to find in a Newsletter Leaf Journal composed by New Leaf Journal editor Nicholas A. Ferrell on his waterproof keyboard.\nTable of contents\nLeaves from the week that was\nLeaves from around the web\nThe Old Leaf Journal\nMost-turned leaves of the newsletter week\nNews leaf journal\nNotable leaf journal\nTaking leaf\nLeaves from the week that was\nI published four regular articles since mailing newsletter 139. I also pu…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/140/",
-          "publishedOn": "2023-06-17T23:25:11.000Z",
-          "wordCount": 1887,
-          "title": "Newsletter Leaf Journal CXL 〜 Deploying newsletter 〜",
-          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-subject?subject=Newsletter Leaf Journal CXL 〜 Deploying newsletter 〜&author=The Newsletter Leaf Journal&date=2023-06-17&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
         }
       ]
     },
@@ -640,26 +610,6 @@
           "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110561477425602550",
-          "author": null,
-          "description": "I received a sort of real response from Bing Webmaster support after sending my latest inquiry (we have to be close to 10 now).  Automated, yes, but a support number and inviting me to respond to the thread if I have updates.  This is good because I'm coming close to blocking Bingbot in robots.txt.  Just know I'm doing all of this out of the goodness of my heart for the DuckDuckGo/Ecosia/Qwant crowd out there.\n(Or so I tell myself.)\n#bing #microsoft #webmaster",
-          "link": "https://linuxrocks.online/@nafnlj/110561477425602550",
-          "publishedOn": "2023-06-17T20:37:42.000Z",
-          "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110560631953354605",
-          "author": null,
-          "description": "My Nintendo Switch Pro Controller died. My favorite game controller ever is the Dreamcast, so I decided to be creative and get a GuilKit KingKong 2 Pro with a Hall Effect joystick to rekindle the magic. It came in very nice packaging and the joystick feels nice. Will test it... soon.\n#nintendoswitch #guilkit #HallEffect #dreamcast #videogames",
-          "link": "https://linuxrocks.online/@nafnlj/110560631953354605",
-          "publishedOn": "2023-06-17T17:02:41.000Z",
-          "wordCount": 119,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -833,16 +783,6 @@
           "publishedOn": "2023-06-18T04:16:51.000Z",
           "wordCount": 21,
           "title": "Several of the spring 2023 anime season series have picked up in their second halves since I [expres...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/15",
-          "author": null,
-          "description": "RSS feed for staying on top of MikroTik Router OS updates:\nhttps://mikrotik.com/current.rss\n#MikroTik #feeds",
-          "link": "https://memos.emucafe.org/m/15",
-          "publishedOn": "2023-06-17T17:41:54.000Z",
-          "wordCount": 21,
-          "title": "RSS feed for staying on top of MikroTik Router OS updates:",
           "imageUrl": null
         }
       ]
@@ -1031,26 +971,6 @@
           "wordCount": 1338,
           "title": "DeltaTouch, a community created client for Ubuntu Touch",
           "imageUrl": "https://delta.chat/assets/blog/2023-07-openstore-badge.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36373606",
-          "author": "nafnlj",
-          "description": "Article URL: https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing\nComments URL: https://news.ycombinator.com/item?id=36373606\nPoints: 2\n# Comments: 0",
-          "link": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing",
-          "publishedOn": "2023-06-17T19:22:08.000Z",
-          "wordCount": 2660,
-          "title": "Not-So-Awesome Bing Search Bans and De-Indexing",
-          "imageUrl": "https://opengraph.githubassets.com/2b1d3527c1cbafe66f175567841cb7829a513c93958740f4ee9bd066e95351f6/nafnlj/not-awesome-bing-bans-and-deindexing"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36370557",
-          "author": "nafnlj",
-          "description": "Article URL: https://tedium.co/2023/06/07/pager-schools-negative-reputation-history/\nComments URL: https://news.ycombinator.com/item?id=36370557\nPoints: 4\n# Comments: 0",
-          "link": "https://tedium.co/2023/06/07/pager-schools-negative-reputation-history/",
-          "publishedOn": "2023-06-17T14:38:15.000Z",
-          "wordCount": 3670,
-          "title": "Beepers and Pagers: A Technology for More Than Drug Dealers",
-          "imageUrl": "https://images.tedium.co/uploads/tedium060723.gif"
         }
       ]
     },
