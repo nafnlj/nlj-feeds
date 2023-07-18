@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-17T20:13:21.561Z</updated>
+    <updated>2023-07-18T14:10:33.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1331,75 +1331,6 @@ https://vndb.org/t3378 (Surprised the ending of Hallucinate caused so much confu
 #al|together #visualnovels #TheWorldToReverse]]></summary>
         <author>
             <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONScripter-EN issue. It seems that old al|together games with MIDI sound do not have working sound w...]]></title>
-        <id>https://memos.emucafe.org/m/17</id>
-        <link href="https://memos.emucafe.org/m/17"/>
-        <updated>2023-06-19T02:04:12.000Z</updated>
-        <summary type="html"><![CDATA[ONScripter-EN issue. It seems that old al|together games with MIDI sound do not have working sound with my set-up and the 2023 ONScripter-EN builds. They do work with the 2011 version with two exceptions.
-Working with 2011: Night of the Forget-Me-Nots, Visions from the Other Side
-Working with neither:  Wanderers in the Sky (glitchy sound at title, the nothing), The World to Reverse -- Hallucinate (no music on Linux with any version, does work with original Windows .exe and Fluidsynth on top of WINE)
-Will test My Black Cat shortly since I recall that one also has a MIDI requirement and then file an issue report on GitHub. Off the top of my head, I think he other al|together games with MIDI issues were all KiriKiri.
-https://thenewleafjournal.com/midi-sound-for-games-on-arch-based-distro/
-#ONScripter-EN #linux #MIDI #al|together]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Dangers in My Heart gets S2]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20584</id>
-        <link href="https://thenewleafjournal.com/leafbud/the-dangers-in-my-heart-gets-s2/"/>
-        <updated>2023-06-18T20:45:00.000Z</updated>
-        <summary type="html"><![CDATA[From Anime News Network: The 12th episode for the television anime of Norio Sakurai’s The Dangers in My Heart (Boku no […]
-Possibly related posts...
-
-The Best of Anime in 2022: Year in Review
-The Best Anime Series of 2021
-Analysis of the From the Bottom of the Heart (Negaeba)…
-From the Bottom of the Heart - VN Review
-Anime Recommendations of the Decade (2011-20)
-Height differences in anime romances
-The Angel Next Door Spoils Me Rotten - Anime Review
-What Makes a Depressing Anime? Discussion and Selection.
-The Nice Boat 〜 A Look Back at the School Days Anime]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telly’s “free” dystopia TV]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20579</id>
-        <link href="https://thenewleafjournal.com/leafbud/tellys-free-dystopia-tv/"/>
-        <updated>2023-06-18T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[From a May 15, 2023 article by Mr. Brad Linder of Liliputing: Now a startup called Telly is going a step […]
-Possibly related posts...
-
-What Makes a Depressing Anime? Discussion and Selection.
-Justin and Justina 〜 Convincing a Google Devotee to Try…
-Recommended F-Droid FOSS Apps For Android-Based Devices…
-On DRM-Free Games on Steam
-The Poor Little Bird - Visual Novel Review
-Moving a WordPress Site With UpdraftPlus Free
-On Improving the Environment For Gaming On Linux
-ACE Academy - Visual Novel Review
-Installing and Running Bodhi Linux on a 2007 MacBook]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Read and Organize Online Articles (Without Driving Yourself Crazy)]]></title>
-        <id>https://hypothes.is/a/59PQ8A3zEe62l1eRbZcA5Q</id>
-        <link href="https://hypothes.is/a/59PQ8A3zEe62l1eRbZcA5Q"/>
-        <updated>2023-06-18T16:19:31.214Z</updated>
-        <summary type="html"><![CDATA[How do you organize all of the things you read?
-My system is actually pretty simple, and it relies on organizing my regular reads, quick digesting and sorting one-off articles, and sometimes doing extensive note-taking with online apps.
-I agree that reading is a key part of writing.]]></summary>
-        <author>
-            <name>Hypothesis Stream</name>
         </author>
     </entry>
 </feed>

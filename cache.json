@@ -295,26 +295,6 @@
           "wordCount": 1495,
           "title": "Wild pigs swim in the sea",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20584",
-          "author": "Nicholas A. Ferrell",
-          "description": "From Anime News Network: The 12th episode for the television anime of Norio Sakurai’s The Dangers in My Heart (Boku no […]\nPossibly related posts...\n\nThe Best of Anime in 2022: Year in Review\nThe Best Anime Series of 2021\nAnalysis of the From the Bottom of the Heart (Negaeba)…\nFrom the Bottom of the Heart - VN Review\nAnime Recommendations of the Decade (2011-20)\nHeight differences in anime romances\nThe Angel Next Door Spoils Me Rotten - Anime Review\nWhat Makes a Depressing Anime? Discussion and Selection.\nThe Nice Boat 〜 A Look Back at the School Days Anime",
-          "link": "https://thenewleafjournal.com/leafbud/the-dangers-in-my-heart-gets-s2/",
-          "publishedOn": "2023-06-18T20:45:00.000Z",
-          "wordCount": 1733,
-          "title": "The Dangers in My Heart gets S2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20579",
-          "author": "Nicholas A. Ferrell",
-          "description": "From a May 15, 2023 article by Mr. Brad Linder of Liliputing: Now a startup called Telly is going a step […]\nPossibly related posts...\n\nWhat Makes a Depressing Anime? Discussion and Selection.\nJustin and Justina 〜 Convincing a Google Devotee to Try…\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nOn DRM-Free Games on Steam\nThe Poor Little Bird - Visual Novel Review\nMoving a WordPress Site With UpdraftPlus Free\nOn Improving the Environment For Gaming On Linux\nACE Academy - Visual Novel Review\nInstalling and Running Bodhi Linux on a 2007 MacBook",
-          "link": "https://thenewleafjournal.com/leafbud/tellys-free-dystopia-tv/",
-          "publishedOn": "2023-06-18T16:30:00.000Z",
-          "wordCount": 1544,
-          "title": "Telly’s “free” dystopia TV",
-          "imageUrl": null
         }
       ]
     },
@@ -647,16 +627,6 @@
           "wordCount": 18,
           "title": "New 'Threads' App Successfully Combines Everything You Hate About Twitter With Everything You Hate About Instagram",
           "imageUrl": "/assets/images/share-image.png"
-        },
-        {
-          "id": "https://hypothes.is/a/59PQ8A3zEe62l1eRbZcA5Q",
-          "author": null,
-          "description": "How do you organize all of the things you read?\nMy system is actually pretty simple, and it relies on organizing my regular reads, quick digesting and sorting one-off articles, and sometimes doing extensive note-taking with online apps.\nI agree that reading is a key part of writing.",
-          "link": "https://hypothes.is/a/59PQ8A3zEe62l1eRbZcA5Q",
-          "publishedOn": "2023-06-18T16:19:31.214Z",
-          "wordCount": 18,
-          "title": "How to Read and Organize Online Articles (Without Driving Yourself Crazy)",
-          "imageUrl": "/assets/images/share-image.png"
         }
       ]
     },
@@ -753,16 +723,6 @@
           "publishedOn": "2023-06-19T03:44:24.000Z",
           "wordCount": 21,
           "title": "*The world to reverse* external reviews/links:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/17",
-          "author": null,
-          "description": "ONScripter-EN issue. It seems that old al|together games with MIDI sound do not have working sound with my set-up and the 2023 ONScripter-EN builds. They do work with the 2011 version with two exceptions.\nWorking with 2011: Night of the Forget-Me-Nots, Visions from the Other Side\nWorking with neither:  Wanderers in the Sky (glitchy sound at title, the nothing), The World to Reverse -- Hallucinate (no music on Linux with any version, does work with original Windows .exe and Fluidsynth on top of WINE)\nWill test My Black Cat shortly since I recall that one also has a MIDI requirement and then file an issue report on GitHub. Off the top of my head, I think he other al|together games with MIDI issues were all KiriKiri.\nhttps://thenewleafjournal.com/midi-sound-for-games-on-arch-based-distro/\n#ONScripter-EN #linux #MIDI #al|together",
-          "link": "https://memos.emucafe.org/m/17",
-          "publishedOn": "2023-06-19T02:04:12.000Z",
-          "wordCount": 21,
-          "title": "ONScripter-EN issue. It seems that old al|together games with MIDI sound do not have working sound w...",
           "imageUrl": null
         }
       ]
