@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-18T20:11:49.748Z</updated>
+    <updated>2023-07-19T14:09:50.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1279,40 +1279,6 @@ New Leaf Journal Third Birthday Reader
 ACE Academy - Visual Novel Review
 The al|together and Insani Visual Novel Translations
 The Best of Anime in 2022: Year in Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110571487233275778</id>
-        <link href="https://linuxrocks.online/@nafnlj/110571487233275778"/>
-        <updated>2023-06-19T15:03:20.000Z</updated>
-        <summary type="html"><![CDATA[NoPaste is an open source client-side paste tool which can be hosted as a static site. The GitHub repository has instructions for using GitHub pages or dropping the files on a static server. I was interested in trying surge.sh... so my post turned into a how-to and how-I-did for deploying NoPaste to surge.sh.
-(It's a neat tool. Were I to use it more seriously... I'd put it somewhere attached to my own domain.)
-https://thenewleafjournal.com/deploying-nopaste-to-surge/
-#pastebin #nopaste #staticsite #github #opensource]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit wars and precious John Oliver memes]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20582</id>
-        <link href="https://thenewleafjournal.com/leaf/reddit-wars-and-precious-john-oliver-memes/"/>
-        <updated>2023-06-19T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[I do not personally use Reddit. I do not like Reddit. I include Reddit in my Privacy Redirect toggle settings for […]
-Possibly related posts...
-
-A School Poem By Oliver Wendell Holmes Sr
-Searching for the Figure Behind the Blob Dylan Tags in NYC…
-History of the Mario Party Gloves
-The Enigmatic Life and Death of Emperor Otho
-The Life Masks of John Henri Isaac Browere
-Four May Issues of The Nursery Magazine (1873-81)
-"Uncle Susan is a Wolf" - A Graffiti Photo and Research…
-Applying Coolidge's Remarks on the Home to the Digital Home
-The July 4 Death of James Monroe]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
