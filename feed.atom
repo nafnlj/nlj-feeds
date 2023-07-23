@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-23T14:09:08.765Z</updated>
+    <updated>2023-07-23T20:10:52.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hallmarks of Former Service Members]]></title>
+        <id>https://thenewleafjournal.com/?p=20822</id>
+        <link href="https://thenewleafjournal.com/hallmarks-of-former-service-members/"/>
+        <updated>2023-07-23T18:32:45.000Z</updated>
+        <summary type="html"><![CDATA[The professor made an induction from the fact one older student addressed him as sir.
+Possibly related posts...
+
+Benjamin Harrison's Memorable July 4, 1888
+Anime Recommendations of the Decade (2011-20)
+Persona 4 Golden Digital Artbook Review (Steam)
+The Misuse of Impeachment and Roy Hibbert's Jersey
+The Quiet End of Google Bookmarks
+Golf and Immigration: Matter of Masters
+1883 Opening of the Brooklyn Bridge
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+The Enigmatic Life and Death of Emperor Otho]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXLV 〜 Barren tree 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/145/</id>
@@ -1130,48 +1151,6 @@ The world to reverse – Visual Novel Review
 The world to …]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running Yuuki!Novel Ver of Tegami on Linux]]></title>
-        <id>https://thenewleafjournal.com/?p=20616</id>
-        <link href="https://thenewleafjournal.com/running-yuukinovel-ver-of-tegami-on-linux/"/>
-        <updated>2023-06-24T03:19:38.000Z</updated>
-        <summary type="html"><![CDATA[Running the original 2005 Yuuki!Novel version of Tegami on top of WINE (and learning about a defunct Japanese visual novel engine in the process)
-Possibly related posts...
-
-The Letter (Tegami) - Visual Novel Review
-On Improving the Environment For Gaming On Linux
-The al|together and Insani Visual Novel Translations
-Version history of Aru Fuyu no Monogatari
-Installing and Running Bodhi Linux on a 2007 MacBook
-Going From ONScripter Visual Novel .exe to Native Linux
-Running ONScripter-En in Linux Visual Novel Directory
-Flood of Tears - Visual Novel Review
-MIDI sound for games on Arch-based distro]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXL]]></title>
-        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20614</id>
-        <link href="https://thenewleafjournal.com/letter/140/"/>
-        <updated>2023-06-24T02:40:11.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the syndicated version of Newsletter Leaf Journal 140, the official newsletter of this very New Leaf Journal (see original). […]
-Possibly related posts...
-
-The Newsletter Leaf Journal at 100
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin and Justina review 2022 at the NLJ
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The New Leaf Journal Newsletter
-How to Find Substack RSS Feeds and Other Notes
-The New Leaf Journal Celebrates Its First Birthday
-The Newsletter Leaf Journal VIII
-An Introduction to RSS and Other Feed Formats]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
