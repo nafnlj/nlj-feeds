@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-23T20:10:52.950Z</updated>
+    <updated>2023-07-24T14:11:00.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1128,29 +1128,6 @@ My great deep sea expectations]]></summary>
         <updated>2023-06-26T01:41:23.000Z</updated>
         <author>
             <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Jouranl CXLI 〜 Newsletter to reverse. 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/141/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/141/"/>
-        <updated>2023-06-24T23:16:37.974Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 141st edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. Last week was a bit slow in terms of New Leaf Journal developments, but I still have a full slate of topics to share for this newsletter.
-Table of contents
-Leaves from the week that was
-Leaves from around the web
-The Old Leaf Journal
-Most-turned leaves of the newsletter week
-News leaf journal
-Notable leaf journal
-Taking leaf
-Leaves from the week that was
-I published three new articles and several short posts since mailing Newsletter 140.
-Regular articles
-The world to reverse – Visual Novel Review
-The world to …]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>
