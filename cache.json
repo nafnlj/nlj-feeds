@@ -148,7 +148,18 @@
       "title": "Leaflets | The New Leaf Journal",
       "feedUrl": "https://thenewleafjournal.com/leaf/feed",
       "siteUrl": "https://thenewleafjournal.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20833",
+          "author": "Nicholas A. Ferrell",
+          "description": "On May 9, 2023, Mr. Brad Linder of Liliputing reported that the new PocketBook InkPad X Pro will use an Android-based […]\nPossibly related posts...\n\nStreaming from Android to PocketBook\nWhat is an \"Android Alternative\"?\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nReviewing FrogFind: A Search Engine For Vintage Computers\nReview of /e/ - An Android Alternative For Mobile Phones\nThe ideal phone, e-ink and QWERTY\nTransferring Photos From My BlackBerry Classic Using KDE…\nDecSync Review\nInstalling GrapheneOS on a Google Pixel 6a",
+          "link": "https://thenewleafjournal.com/leaf/on-an-android-based-pocketbook-ereader/",
+          "publishedOn": "2023-07-27T16:41:50.000Z",
+          "wordCount": 1593,
+          "title": "On an Android-based PocketBook ereader",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Leaf Buds | The New Leaf Journal",

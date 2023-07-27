@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-27T14:10:19.591Z</updated>
+    <updated>2023-07-27T20:11:13.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On an Android-based PocketBook ereader]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20833</id>
+        <link href="https://thenewleafjournal.com/leaf/on-an-android-based-pocketbook-ereader/"/>
+        <updated>2023-07-27T16:41:50.000Z</updated>
+        <summary type="html"><![CDATA[On May 9, 2023, Mr. Brad Linder of Liliputing reported that the new PocketBook InkPad X Pro will use an Android-based […]
+Possibly related posts...
+
+Streaming from Android to PocketBook
+What is an "Android Alternative"?
+Recommended F-Droid FOSS Apps For Android-Based Devices…
+Reviewing FrogFind: A Search Engine For Vintage Computers
+Review of /e/ - An Android Alternative For Mobile Phones
+The ideal phone, e-ink and QWERTY
+Transferring Photos From My BlackBerry Classic Using KDE…
+DecSync Review
+Installing GrapheneOS on a Google Pixel 6a]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YAML to add to Ghostwriter markdown document for Pandoc LaTeX conversion to PDF without page numbers...]]></title>
         <id>https://memos.emucafe.org/m/27</id>
