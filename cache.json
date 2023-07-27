@@ -148,18 +148,7 @@
       "title": "Leaflets | The New Leaf Journal",
       "feedUrl": "https://thenewleafjournal.com/leaf/feed",
       "siteUrl": "https://thenewleafjournal.com",
-      "articles": [
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20666",
-          "author": "Nicholas A. Ferrell",
-          "description": "Today is primary day in New York City. The main attractions are City Council primaries and primaries for District Attorney in […]\nPossibly related posts...\n\nOne Man, One Vote, Two \"I Voted!\" Stickers\nYou Can't Fix Stupid - King Baby\nThe \"King Baby BKF\" Sticker in Gowanus, Brooklyn\nThe Enigmatic Life and Death of Emperor Otho\nThe Downed Stop Sign in Vinegar Hill\nAn Unpleasant Voting Odor\nThe Inspiring Political Comebacks of Byron Brown and Vito…\nCall in the Oligarchs to Restore Trust in Media? A Peculiar…\nBenjamin Harrison's Memorable July 4, 1888",
-          "link": "https://thenewleafjournal.com/leaf/spare-i-voted-sticker-for-2023/",
-          "publishedOn": "2023-06-27T15:53:32.000Z",
-          "wordCount": 1415,
-          "title": "Spare “I Voted” sticker for 2023",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Leaf Buds | The New Leaf Journal",
@@ -535,6 +524,16 @@
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/27",
+          "author": null,
+          "description": "YAML to add to Ghostwriter markdown document for Pandoc LaTeX conversion to PDF without page numbers:\n---\npagestyle: empty\n\n---\n\n#Ghostwriter #markdown #pandoc #pdf",
+          "link": "https://memos.emucafe.org/m/27",
+          "publishedOn": "2023-07-26T21:54:31.000Z",
+          "wordCount": 21,
+          "title": "YAML to add to Ghostwriter markdown document for Pandoc LaTeX conversion to PDF without page numbers...",
+          "imageUrl": null
+        },
         {
           "id": "https://memos.emucafe.org/m/26",
           "author": null,

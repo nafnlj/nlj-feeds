@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-26T20:11:25.380Z</updated>
+    <updated>2023-07-27T14:10:19.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YAML to add to Ghostwriter markdown document for Pandoc LaTeX conversion to PDF without page numbers...]]></title>
+        <id>https://memos.emucafe.org/m/27</id>
+        <link href="https://memos.emucafe.org/m/27"/>
+        <updated>2023-07-26T21:54:31.000Z</updated>
+        <summary type="html"><![CDATA[YAML to add to Ghostwriter markdown document for Pandoc LaTeX conversion to PDF without page numbers:
+---
+pagestyle: empty
+
+---
+
+#Ghostwriter #markdown #pandoc #pdf]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hallmarks of Former Service Members]]></title>
         <id>https://thenewleafjournal.com/?p=20822</id>
@@ -1033,27 +1049,6 @@ Social webs of personal websites
 The Pigeon in the Puddle
 Justin & Justina 〜 4th of July Grill Sacrifices to the…
 Calvin Coolidge's 1922 "Better Homes" Remarks]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spare “I Voted” sticker for 2023]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20666</id>
-        <link href="https://thenewleafjournal.com/leaf/spare-i-voted-sticker-for-2023/"/>
-        <updated>2023-06-27T15:53:32.000Z</updated>
-        <summary type="html"><![CDATA[Today is primary day in New York City. The main attractions are City Council primaries and primaries for District Attorney in […]
-Possibly related posts...
-
-One Man, One Vote, Two "I Voted!" Stickers
-You Can't Fix Stupid - King Baby
-The "King Baby BKF" Sticker in Gowanus, Brooklyn
-The Enigmatic Life and Death of Emperor Otho
-The Downed Stop Sign in Vinegar Hill
-An Unpleasant Voting Odor
-The Inspiring Political Comebacks of Byron Brown and Vito…
-Call in the Oligarchs to Restore Trust in Media? A Peculiar…
-Benjamin Harrison's Memorable July 4, 1888]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
