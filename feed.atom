@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-28T16:04:20.036Z</updated>
+    <updated>2023-07-28T20:11:13.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create README.md]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/97aee72314d515f5f1b755411d1c1d246df7003b</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/97aee72314d515f5f1b755411d1c1d246df7003b"/>
+        <updated>2023-07-28T16:13:46.000Z</updated>
+        <summary type="html"><![CDATA[Create README.md
+
+Added readme specific to my fork.]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rename readme.md to readme-upstream-project.md]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8387f0b951c4d9881762c0b294fcbeb14df37229</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8387f0b951c4d9881762c0b294fcbeb14df37229"/>
+        <updated>2023-07-28T16:07:10.000Z</updated>
+        <summary type="html"><![CDATA[Rename readme.md to readme-upstream-project.md
+
+Changing title of upstream readme  to readme-upstream-project.]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
         <id>https://github.com/nafnlj/nljfeeds/commit/8619873137bc839b1e3b4da93e86f813aacf2ed5</id>
