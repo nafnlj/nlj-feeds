@@ -20,6 +20,7 @@ sources:
   - href: https://memos.emucafe.org/u/2/rss.xml
   - href: https://hnrss.org/user?id=nafnlj
   - href: https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commits/main.atom
+  - href: https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master.atom
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA
   - href: https://hnrss.org/newest?q=thenewleafjournal
   
