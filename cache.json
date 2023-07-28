@@ -6,6 +6,16 @@
       "siteUrl": "https://github.com/nafnlj/nljfeeds/commits/main",
       "articles": [
         {
+          "id": "https://github.com/nafnlj/nljfeeds/commit/8619873137bc839b1e3b4da93e86f813aacf2ed5",
+          "author": null,
+          "description": "Update osmosfeed.yaml\n\nAdded WordPress comment blacklist updates",
+          "link": "https://github.com/nafnlj/nljfeeds/commit/8619873137bc839b1e3b4da93e86f813aacf2ed5",
+          "publishedOn": "2023-07-28T16:03:11.000Z",
+          "wordCount": 461,
+          "title": "Update osmosfeed.yaml",
+          "imageUrl": "https://opengraph.githubassets.com/e39b75f49dde85c97c974315999422c2f7fd1da7908f4da6a54014f0efe35dbb/nafnlj/nljfeeds/commit/8619873137bc839b1e3b4da93e86f813aacf2ed5"
+        },
+        {
           "id": "https://github.com/nafnlj/nljfeeds/commit/dd4c7503ee378c12c0fc5b6c33ad39073e44cfcb",
           "author": null,
           "description": "Update update-feed.yaml\n\nChanged update schedule to 10 AM and 4 PM EST",
@@ -828,6 +838,213 @@
           "wordCount": 989,
           "title": "Update README.md",
           "imageUrl": "https://opengraph.githubassets.com/b4d813ff3668299454550a10d12ebb5001d8b4c5bd88f52863810c1f90d36ff7/nafnlj/not-awesome-bing-bans-and-deindexing/commit/2671b4c1bfcd7007ca66d09375eba59db3dcf1b5"
+        }
+      ]
+    },
+    {
+      "title": "Recent Commits to wordpress-comment-blacklist-NLJFork:master",
+      "feedUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master.atom",
+      "siteUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master",
+      "articles": [
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/27b285fc00275e15f3776f0712070cbfe308d86c",
+          "author": null,
+          "description": "Update blacklist.txt\n\nRemove empty like at 12090.",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/27b285fc00275e15f3776f0712070cbfe308d86c",
+          "publishedOn": "2023-07-28T15:51:36.000Z",
+          "wordCount": 444,
+          "title": "Update blacklist.txt",
+          "imageUrl": "https://opengraph.githubassets.com/ff9a07ca1cb1d67a6e8bc54aff645a3a98d63b6826ae8c3180c4a31f45f757ee/nafnlj/wordpress-comment-blacklist-NLJFork/commit/27b285fc00275e15f3776f0712070cbfe308d86c"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b06898606ff75c71022e64f693464fafbba95a0e",
+          "author": null,
+          "description": "Update blacklist.txt\n\nChanges:\r\n\r\npng file changed to png\r\nadd baget.com",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b06898606ff75c71022e64f693464fafbba95a0e",
+          "publishedOn": "2023-07-27T14:57:33.000Z",
+          "wordCount": 469,
+          "title": "Update blacklist.txt",
+          "imageUrl": "https://opengraph.githubassets.com/52a9ad298ad79f0f27f59576eded73731e7a6ff83da0a3432fba2fde5ffb53e5/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b06898606ff75c71022e64f693464fafbba95a0e"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d31e020af359ce60190f405f3b9d2f520e3ba80c",
+          "author": null,
+          "description": "Update blacklist.txt\n\nAdded terms:\r\n\r\namusing clip art\r\nbetter engraving\r\nlook and rate\r\nperfect gift\r\npng file\r\nкракена",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d31e020af359ce60190f405f3b9d2f520e3ba80c",
+          "publishedOn": "2023-07-26T17:03:26.000Z",
+          "wordCount": 574,
+          "title": "Update blacklist.txt",
+          "imageUrl": "https://opengraph.githubassets.com/9dc93756362317bc6ccf0e33c3c9b5fa987fdb8b97ef412b374689a845703876/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d31e020af359ce60190f405f3b9d2f520e3ba80c"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/713b53c4a483616772d963217b6b13d0814e59d6",
+          "author": null,
+          "description": "Update blacklist.txt\n\nAdded.\r\n\r\nbusiness opportunity\r\nno-site.com\r\nprompt response",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/713b53c4a483616772d963217b6b13d0814e59d6",
+          "publishedOn": "2023-07-25T15:48:42.000Z",
+          "wordCount": 494,
+          "title": "Update blacklist.txt",
+          "imageUrl": "https://opengraph.githubassets.com/7b7bf46ab30ba405a958d51018acb021c5f714d1a900b641bd12001368888ac7/nafnlj/wordpress-comment-blacklist-NLJFork/commit/713b53c4a483616772d963217b6b13d0814e59d6"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/804e4ebd1ac33fd662c3bfe18f1b72ebe8893cd8",
+          "author": null,
+          "description": "Merge branch 'splorp:master' into master",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/804e4ebd1ac33fd662c3bfe18f1b72ebe8893cd8",
+          "publishedOn": "2023-07-25T15:42:46.000Z",
+          "wordCount": 678,
+          "title": "Merge branch 'splorp:master' into master",
+          "imageUrl": "https://opengraph.githubassets.com/6156706e1ba0a36298b89715e1e1e7b688e255c08f7d77e15aadede6c084f2e5/nafnlj/wordpress-comment-blacklist-NLJFork/commit/804e4ebd1ac33fd662c3bfe18f1b72ebe8893cd8"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bde4b28c24e1f147ab5fcfba585acba4814e8c40",
+          "author": null,
+          "description": "Keyword additions — 20230725",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bde4b28c24e1f147ab5fcfba585acba4814e8c40",
+          "publishedOn": "2023-07-25T15:22:32.000Z",
+          "wordCount": 674,
+          "title": "Keyword additions — 20230725",
+          "imageUrl": "https://opengraph.githubassets.com/43eee1abd8a1f6881c00e19f1c41f9c0c73d3f7eaa09750bb6c0a3bc482faf4c/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bde4b28c24e1f147ab5fcfba585acba4814e8c40"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/ca0544e090277e4754ee2085e4fb998eaa43eae3",
+          "author": null,
+          "description": "Merge pull request #1 from nafnlj/patch-1\n\nUpdate blacklist.txt",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/ca0544e090277e4754ee2085e4fb998eaa43eae3",
+          "publishedOn": "2023-07-23T22:39:30.000Z",
+          "wordCount": 456,
+          "title": "Merge pull request #1 from nafnlj/patch-1",
+          "imageUrl": "https://opengraph.githubassets.com/50e24c3763fd44310b1fe12264182fe7730d68dace81da8025107245d42cc3a7/nafnlj/wordpress-comment-blacklist-NLJFork/commit/ca0544e090277e4754ee2085e4fb998eaa43eae3"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b6041ef8737770cdfb204881fc119eeb69732b07",
+          "author": null,
+          "description": "Update blacklist.txt\n\nAdded dreads",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b6041ef8737770cdfb204881fc119eeb69732b07",
+          "publishedOn": "2023-07-23T22:34:52.000Z",
+          "wordCount": 446,
+          "title": "Update blacklist.txt",
+          "imageUrl": "https://opengraph.githubassets.com/a8662b21aa3ef06efb9ff0fa5b0fc521db072213572294d54a953f5e9dc77f77/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b6041ef8737770cdfb204881fc119eeb69732b07"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/3dbc1ded4658b25872d2320e74e032eca7214838",
+          "author": null,
+          "description": "Update blacklist.txt\n\nAdded:\r\n\r\nbig sale\r\ndaily promotion\r\ntrading platform\r\nunique link\r\ngtx",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/3dbc1ded4658b25872d2320e74e032eca7214838",
+          "publishedOn": "2023-07-23T17:38:31.000Z",
+          "wordCount": 540,
+          "title": "Update blacklist.txt",
+          "imageUrl": "https://opengraph.githubassets.com/3a7f5af74ad662d53d1be5a0a5e85826761ddf69bb1b71d95a49b65b6ec7b0ac/nafnlj/wordpress-comment-blacklist-NLJFork/commit/3dbc1ded4658b25872d2320e74e032eca7214838"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/46439783008989886cc1944033edc73c07ea8c25",
+          "author": null,
+          "description": "Update blacklist.txt\n\n- Removed cbd terms and added cbd\r\n- Added slkjfdf\r\n- Added blacksprut\r\n- Added kraken",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/46439783008989886cc1944033edc73c07ea8c25",
+          "publishedOn": "2023-07-23T17:33:50.000Z",
+          "wordCount": 933,
+          "title": "Update blacklist.txt",
+          "imageUrl": "https://opengraph.githubassets.com/b92267e0196219def8049aad9026d0631f051f8b522eabac268c4833b3a5c720/nafnlj/wordpress-comment-blacklist-NLJFork/commit/46439783008989886cc1944033edc73c07ea8c25"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cb15c3be36e51baa6bbcf4d08afe91da0479c61d",
+          "author": null,
+          "description": "Update blacklist.txt",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cb15c3be36e51baa6bbcf4d08afe91da0479c61d",
+          "publishedOn": "2023-07-23T02:03:02.000Z",
+          "wordCount": 450,
+          "title": "Update blacklist.txt",
+          "imageUrl": "https://opengraph.githubassets.com/85ab71195f7f0e2ff6362b45525ddba6fb074eb2df3c5a3efe274206decf1b61/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cb15c3be36e51baa6bbcf4d08afe91da0479c61d"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7eaefd4efbdf37074b2b39fa93ba732978390d1c",
+          "author": null,
+          "description": "Update blacklist.txt\n\nAdded:\r\n\r\nblacksprut\r\ncbd\r\nhtc\r\nkraken\r\ngl.com\r\nsaocoitin.com\r\nslkjfdf.net\r\n.tw",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7eaefd4efbdf37074b2b39fa93ba732978390d1c",
+          "publishedOn": "2023-07-23T02:01:50.000Z",
+          "wordCount": 452,
+          "title": "Update blacklist.txt",
+          "imageUrl": "https://opengraph.githubassets.com/9277180c82795769f26629f75c3481bee661fb7c9a07c1301cf9aaad8b2863f0/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7eaefd4efbdf37074b2b39fa93ba732978390d1c"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/6d7962968391981e2f6ae4fd2381574b3d72468a",
+          "author": null,
+          "description": "Keyword additions and optimizations — 20230715\n\nWith contributions from @nafnlj … thanks!",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/6d7962968391981e2f6ae4fd2381574b3d72468a",
+          "publishedOn": "2023-07-15T19:07:29.000Z",
+          "wordCount": 943,
+          "title": "Keyword additions and optimizations — 20230715",
+          "imageUrl": "https://opengraph.githubassets.com/c0686b81b1fa9b9edf6ec3c73be98168da3909acbd56f723fe225cdb83c09767/nafnlj/wordpress-comment-blacklist-NLJFork/commit/6d7962968391981e2f6ae4fd2381574b3d72468a"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7bb4abe892453317907c4c436fa93511938ca84f",
+          "author": null,
+          "description": "Keyword additions — 20230714",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7bb4abe892453317907c4c436fa93511938ca84f",
+          "publishedOn": "2023-07-14T16:25:50.000Z",
+          "wordCount": 741,
+          "title": "Keyword additions — 20230714",
+          "imageUrl": "https://opengraph.githubassets.com/5c68b71f5dddac7cf4b6583891270d03876b089efc68d729baef220949129065/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7bb4abe892453317907c4c436fa93511938ca84f"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/fbfd6d2902d2f0c364f3c9e24217985c1d555281",
+          "author": null,
+          "description": "Keyword additions — 20230713",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/fbfd6d2902d2f0c364f3c9e24217985c1d555281",
+          "publishedOn": "2023-07-13T14:06:07.000Z",
+          "wordCount": 751,
+          "title": "Keyword additions — 20230713",
+          "imageUrl": "https://opengraph.githubassets.com/ab4ad9351ab69a999a0114de4f68f4ac3391f2492e9a73c9a97143abbb377b66/nafnlj/wordpress-comment-blacklist-NLJFork/commit/fbfd6d2902d2f0c364f3c9e24217985c1d555281"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/54975cf7cd2756993aa66e425f2129e99331d683",
+          "author": null,
+          "description": "Added yaplink.co shortener",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/54975cf7cd2756993aa66e425f2129e99331d683",
+          "publishedOn": "2023-07-13T14:05:30.000Z",
+          "wordCount": 534,
+          "title": "Added yaplink.co shortener",
+          "imageUrl": "https://opengraph.githubassets.com/7b7829e01b78a747cbdb19d8ee17a4dec4afbbfb7f7f1c52754bb3797e819b4c/nafnlj/wordpress-comment-blacklist-NLJFork/commit/54975cf7cd2756993aa66e425f2129e99331d683"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/229a7ef19acff38680f19872679da829d0e12c2b",
+          "author": null,
+          "description": "Keyword additions — 20230712",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/229a7ef19acff38680f19872679da829d0e12c2b",
+          "publishedOn": "2023-07-12T21:09:30.000Z",
+          "wordCount": 594,
+          "title": "Keyword additions — 20230712",
+          "imageUrl": "https://opengraph.githubassets.com/71a318035019b2e4a009561f4cec2b0da47e8819572bf6b6fcf7289f53a5cc2c/nafnlj/wordpress-comment-blacklist-NLJFork/commit/229a7ef19acff38680f19872679da829d0e12c2b"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b77a984e9e0538f9fe25e46f2a47d970ded5cadc",
+          "author": null,
+          "description": "Keyword additions — 20230711",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b77a984e9e0538f9fe25e46f2a47d970ded5cadc",
+          "publishedOn": "2023-07-11T22:02:22.000Z",
+          "wordCount": 686,
+          "title": "Keyword additions — 20230711",
+          "imageUrl": "https://opengraph.githubassets.com/19a27301aec7c7de565bd8780f72c58b377877cd2a4630d8edf0a14410d60182/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b77a984e9e0538f9fe25e46f2a47d970ded5cadc"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cca1193f55677cc050a51a375ddffb63cec1dc5a",
+          "author": null,
+          "description": "Keyword additions — 20230709",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cca1193f55677cc050a51a375ddffb63cec1dc5a",
+          "publishedOn": "2023-07-09T15:30:08.000Z",
+          "wordCount": 578,
+          "title": "Keyword additions — 20230709",
+          "imageUrl": "https://opengraph.githubassets.com/ab6cb2ae28d932686a3f477f26d4d1f7ff21641753fb24045082dc906fa3fae7/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cca1193f55677cc050a51a375ddffb63cec1dc5a"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/a8258b1b07de0789de2cd8e72b0edb37ec553646",
+          "author": null,
+          "description": "Keyword additions — 20230706",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/a8258b1b07de0789de2cd8e72b0edb37ec553646",
+          "publishedOn": "2023-07-06T22:28:27.000Z",
+          "wordCount": 574,
+          "title": "Keyword additions — 20230706",
+          "imageUrl": "https://opengraph.githubassets.com/e04f4b9f0cedf06a504fa9b9491207638210930f4b88fa9234050dea7ed8dfc5/nafnlj/wordpress-comment-blacklist-NLJFork/commit/a8258b1b07de0789de2cd8e72b0edb37ec553646"
         }
       ]
     },

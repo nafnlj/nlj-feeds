@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-28T14:10:24.535Z</updated>
+    <updated>2023-07-28T16:04:20.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
+        <id>https://github.com/nafnlj/nljfeeds/commit/8619873137bc839b1e3b4da93e86f813aacf2ed5</id>
+        <link href="https://github.com/nafnlj/nljfeeds/commit/8619873137bc839b1e3b4da93e86f813aacf2ed5"/>
+        <updated>2023-07-28T16:03:11.000Z</updated>
+        <summary type="html"><![CDATA[Update osmosfeed.yaml
+
+Added WordPress comment blacklist updates]]></summary>
+        <author>
+            <name>Recent Commits to nljfeeds:main</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/27b285fc00275e15f3776f0712070cbfe308d86c</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/27b285fc00275e15f3776f0712070cbfe308d86c"/>
+        <updated>2023-07-28T15:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt
+
+Remove empty like at 12090.]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110788382243514434</id>
@@ -86,6 +110,21 @@ Installing GrapheneOS on a Google Pixel 6a]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b06898606ff75c71022e64f693464fafbba95a0e</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b06898606ff75c71022e64f693464fafbba95a0e"/>
+        <updated>2023-07-27T14:57:33.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt
+
+Changes:
+
+png file changed to png
+add baget.com]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[YAML to add to Ghostwriter markdown document for Pandoc LaTeX conversion to PDF without page numbers...]]></title>
         <id>https://memos.emucafe.org/m/27</id>
         <link href="https://memos.emucafe.org/m/27"/>
@@ -99,6 +138,85 @@ pagestyle: empty
 #Ghostwriter #markdown #pandoc #pdf]]></summary>
         <author>
             <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d31e020af359ce60190f405f3b9d2f520e3ba80c</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d31e020af359ce60190f405f3b9d2f520e3ba80c"/>
+        <updated>2023-07-26T17:03:26.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt
+
+Added terms:
+
+amusing clip art
+better engraving
+look and rate
+perfect gift
+png file
+кракена]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/713b53c4a483616772d963217b6b13d0814e59d6</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/713b53c4a483616772d963217b6b13d0814e59d6"/>
+        <updated>2023-07-25T15:48:42.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt
+
+Added.
+
+business opportunity
+no-site.com
+prompt response]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'splorp:master' into master]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/804e4ebd1ac33fd662c3bfe18f1b72ebe8893cd8</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/804e4ebd1ac33fd662c3bfe18f1b72ebe8893cd8"/>
+        <updated>2023-07-25T15:42:46.000Z</updated>
+        <summary type="html"><![CDATA[Merge branch 'splorp:master' into master]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions — 20230725]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bde4b28c24e1f147ab5fcfba585acba4814e8c40</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bde4b28c24e1f147ab5fcfba585acba4814e8c40"/>
+        <updated>2023-07-25T15:22:32.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions — 20230725]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge pull request #1 from nafnlj/patch-1]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/ca0544e090277e4754ee2085e4fb998eaa43eae3</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/ca0544e090277e4754ee2085e4fb998eaa43eae3"/>
+        <updated>2023-07-23T22:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Merge pull request #1 from nafnlj/patch-1
+
+Update blacklist.txt]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b6041ef8737770cdfb204881fc119eeb69732b07</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b6041ef8737770cdfb204881fc119eeb69732b07"/>
+        <updated>2023-07-23T22:34:52.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt
+
+Added dreads]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
     <entry>
@@ -120,6 +238,70 @@ Recommended F-Droid FOSS Apps For Android-Based Devices…
 The Enigmatic Life and Death of Emperor Otho]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/3dbc1ded4658b25872d2320e74e032eca7214838</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/3dbc1ded4658b25872d2320e74e032eca7214838"/>
+        <updated>2023-07-23T17:38:31.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt
+
+Added:
+
+big sale
+daily promotion
+trading platform
+unique link
+gtx]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/46439783008989886cc1944033edc73c07ea8c25</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/46439783008989886cc1944033edc73c07ea8c25"/>
+        <updated>2023-07-23T17:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt
+
+- Removed cbd terms and added cbd
+- Added slkjfdf
+- Added blacksprut
+- Added kraken]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cb15c3be36e51baa6bbcf4d08afe91da0479c61d</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cb15c3be36e51baa6bbcf4d08afe91da0479c61d"/>
+        <updated>2023-07-23T02:03:02.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7eaefd4efbdf37074b2b39fa93ba732978390d1c</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7eaefd4efbdf37074b2b39fa93ba732978390d1c"/>
+        <updated>2023-07-23T02:01:50.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt
+
+Added:
+
+blacksprut
+cbd
+htc
+kraken
+gl.com
+saocoitin.com
+slkjfdf.net
+.tw]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
     <entry>
@@ -182,6 +364,18 @@ The Girl I Like Forgo…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Keyword additions and optimizations — 20230715]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/6d7962968391981e2f6ae4fd2381574b3d72468a</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/6d7962968391981e2f6ae4fd2381574b3d72468a"/>
+        <updated>2023-07-15T19:07:29.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions and optimizations — 20230715
+
+With contributions from @nafnlj … thanks!]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Japanese Language Env in Steam (Linux)]]></title>
         <id>https://thenewleafjournal.com/?p=20808</id>
         <link href="https://thenewleafjournal.com/japanese-language-env-in-steam-linux/"/>
@@ -200,6 +394,16 @@ Return to Shironagasu Island Review
 The al|together and Insani Visual Novel Translations]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions — 20230714]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7bb4abe892453317907c4c436fa93511938ca84f</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7bb4abe892453317907c4c436fa93511938ca84f"/>
+        <updated>2023-07-14T16:25:50.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions — 20230714]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
     <entry>
@@ -223,6 +427,26 @@ https://thenewleafjournal.com/espn-states-tim-duncan-was-born-overseas/
 #definitions #nba #basketball #law #overseas]]></summary>
         <author>
             <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions — 20230713]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/fbfd6d2902d2f0c364f3c9e24217985c1d555281</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/fbfd6d2902d2f0c364f3c9e24217985c1d555281"/>
+        <updated>2023-07-13T14:06:07.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions — 20230713]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Added yaplink.co shortener]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/54975cf7cd2756993aa66e425f2129e99331d683</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/54975cf7cd2756993aa66e425f2129e99331d683"/>
+        <updated>2023-07-13T14:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Added yaplink.co shortener]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
     <entry>
@@ -284,6 +508,16 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 #linux #EndeavourOS]]></summary>
         <author>
             <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions — 20230712]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/229a7ef19acff38680f19872679da829d0e12c2b</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/229a7ef19acff38680f19872679da829d0e12c2b"/>
+        <updated>2023-07-12T21:09:30.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions — 20230712]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
     <entry>
@@ -351,6 +585,16 @@ The Thin Digital Line Between "Buy" and "Rent"
 History of the Mario Party Gloves]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions — 20230711]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b77a984e9e0538f9fe25e46f2a47d970ded5cadc</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b77a984e9e0538f9fe25e46f2a47d970ded5cadc"/>
+        <updated>2023-07-11T22:02:22.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions — 20230711]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
     <entry>
@@ -441,6 +685,16 @@ Points: 1
 # Comments: 0]]></summary>
         <author>
             <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions — 20230709]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cca1193f55677cc050a51a375ddffb63cec1dc5a</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cca1193f55677cc050a51a375ddffb63cec1dc5a"/>
+        <updated>2023-07-09T15:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions — 20230709]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
     <entry>
@@ -628,6 +882,16 @@ Points: 2
 # Comments: 0]]></summary>
         <author>
             <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions — 20230706]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/a8258b1b07de0789de2cd8e72b0edb37ec553646</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/a8258b1b07de0789de2cd8e72b0edb37ec553646"/>
+        <updated>2023-07-06T22:28:27.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions — 20230706]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
     <entry>
