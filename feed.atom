@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-27T20:11:13.119Z</updated>
+    <updated>2023-07-28T14:10:24.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110788382243514434</id>
+        <link href="https://linuxrocks.online/@nafnlj/110788382243514434"/>
+        <updated>2023-07-27T22:22:35.000Z</updated>
+        <summary type="html"><![CDATA[I use KDE"s Ghostwriter for all of my markdown writing needs. It has a Pandoc GUI. I have reason for a work project to want to go from markdown to pdf but without page numbers on the resulting pdf output. I hunted for a solution and found a good YAML-based trick.
+https://memos.emucafe.org/m/27
+Do any pandoc experts have a better idea? This one does work without any additional Pandoc fiddling in Ghostwriter.
+#markdown #pandoc #ghostwriter #kde #pdf]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Techdirt Blocked or De-Indexed by Bing]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20834</id>
+        <link href="https://thenewleafjournal.com/leaf/techdirt-blocked-or-de-indexed-by-bing/"/>
+        <updated>2023-07-27T22:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Techdirt, which appears to be a fairly popular and well-trafficked tech site (note I am not too familiar with it) now […]
+Possibly related posts...
+
+The story of our Bing blacklisting
+Importance of Bing Indexing For Alt Search
+Bing's and DuckDuckGo's CCP Problem
+The Downstream Effects of Bing's Tiananmen Square Censorship
+Google Not Indexing Murena Phone Review
+A 2021 List of Alternative Search Engines and Search…
+Query for Bing on blacklisting and ChatGPT
+Naver Webmaster Trials and Tribulations
+Experiences in the Yandex Webmaster Portal]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update README.md]]></title>
+        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/c47c38953ccdf2df8c9d0313f9226c855af141a3</id>
+        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/c47c38953ccdf2df8c9d0313f9226c855af141a3"/>
+        <updated>2023-07-27T21:28:28.000Z</updated>
+        <summary type="html"><![CDATA[Update README.md
+
+Minor edit to introduction]]></summary>
+        <author>
+            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update README.md]]></title>
+        <id>https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/2671b4c1bfcd7007ca66d09375eba59db3dcf1b5</id>
+        <link href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commit/2671b4c1bfcd7007ca66d09375eba59db3dcf1b5"/>
+        <updated>2023-07-27T21:26:21.000Z</updated>
+        <summary type="html"><![CDATA[Update README.md
+
+Added news about Techdirt being blocked from appearing in Bing results]]></summary>
+        <author>
+            <name>Recent Commits to not-awesome-bing-bans-and-deindexing:main</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On an Android-based PocketBook ereader]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20833</id>
