@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-28T20:11:13.507Z</updated>
+    <updated>2023-07-29T14:08:57.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“The Old Men With Good Eyes”]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20844</id>
+        <link href="https://thenewleafjournal.com/leafbud/the-old-men-with-good-eyes/"/>
+        <updated>2023-07-29T01:27:57.000Z</updated>
+        <summary type="html"><![CDATA[The title of this article comes from a Hacker News comment by user ChrisMarshallNY. I quote the pertinent part of the […]
+Possibly related posts...
+
+What is an "Android Alternative"?
+I, Too, Saw Dreams Through Air - VN Review
+Seeing Hopkins-Jones II at the Theater
+Running Yuuki!Novel Ver of Tegami on Linux
+The world to reverse - Visual Novel Review
+Who Was the Last Western Roman Emperor?
+Plain Song - Visual Novel Review
+The Poor Little Bird - Visual Novel Review
+A Winter's Tale - Visual Novel Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo in the Bing Pond]]></title>
+        <id>https://thenewleafjournal.com/?p=20835</id>
+        <link href="https://thenewleafjournal.com/duckduckgo-in-the-bing-pond/"/>
+        <updated>2023-07-29T00:04:07.000Z</updated>
+        <summary type="html"><![CDATA[DuckDuckGo finds itself again dealing with the fallout of Bing being Bing.
+Possibly related posts...
+
+The story of our Bing blacklisting
+Comparing DuckDuckGo Lite and Qwant Lite
+Bing's and DuckDuckGo's CCP Problem
+A 2021 List of Alternative Search Engines and Search…
+Brave and DuckDuckGo Timer Search Shortcuts
+Importance of Bing Indexing For Alt Search
+The Downstream Effects of Bing's Tiananmen Square Censorship
+Performing Site-Specific Searches With DuckDuckGo
+Reviewing "Rashomon and Other Stories"]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/1ae71d80c2fd6db879e68b110ce1ce0468de7733</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/1ae71d80c2fd6db879e68b110ce1ce0468de7733"/>
+        <updated>2023-07-28T20:57:08.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt
+
+Added show more]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create README.md]]></title>
         <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/97aee72314d515f5f1b755411d1c1d246df7003b</id>
@@ -1395,27 +1449,6 @@ Learning How to Change a Twitter Username
 Upcoming Ferrell Vs Gurbo Pokémon Draft Battle
 A Children's Poem on George Washington
 Substack Notes' Twitter clone war]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Encouraging public day-drinking]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20671</id>
-        <link href="https://thenewleafjournal.com/leafbud/encouraging-public-day-drinking/"/>
-        <updated>2023-06-29T20:01:27.000Z</updated>
-        <summary type="html"><![CDATA[On June 11, 2023, the New York Post reported that the NYPD has stepped up enforcement against public drinking in 2023. […]
-Possibly related posts...
-
-Justin and Justina review 2022 at the NLJ
-History of Thanksgiving Proclamations in the Philippines
-Anna Jarvis and the Origin of Mother's Day in the United…
-Kaori After Story - Visual Novel Review
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Social webs of personal websites
-The Pigeon in the Puddle
-Justin & Justina 〜 4th of July Grill Sacrifices to the…
-Calvin Coolidge's 1922 "Better Homes" Remarks]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>

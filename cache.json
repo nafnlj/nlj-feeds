@@ -33,6 +33,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20835",
+          "author": "Nicholas A. Ferrell",
+          "description": "DuckDuckGo finds itself again dealing with the fallout of Bing being Bing.\nPossibly related posts...\n\nThe story of our Bing blacklisting\nComparing DuckDuckGo Lite and Qwant Lite\nBing's and DuckDuckGo's CCP Problem\nA 2021 List of Alternative Search Engines and Search…\nBrave and DuckDuckGo Timer Search Shortcuts\nImportance of Bing Indexing For Alt Search\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nPerforming Site-Specific Searches With DuckDuckGo\nReviewing \"Rashomon and Other Stories\"",
+          "link": "https://thenewleafjournal.com/duckduckgo-in-the-bing-pond/",
+          "publishedOn": "2023-07-29T00:04:07.000Z",
+          "wordCount": null,
+          "title": "DuckDuckGo in the Bing Pond",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20822",
           "author": "Nicholas A. Ferrell",
           "description": "The professor made an induction from the fact one older student addressed him as sir.\nPossibly related posts...\n\nBenjamin Harrison's Memorable July 4, 1888\nAnime Recommendations of the Decade (2011-20)\nPersona 4 Golden Digital Artbook Review (Steam)\nThe Misuse of Impeachment and Roy Hibbert's Jersey\nThe Quiet End of Google Bookmarks\nGolf and Immigration: Matter of Masters\n1883 Opening of the Brooklyn Bridge\nRecommended F-Droid FOSS Apps For Android-Based Devices…\nThe Enigmatic Life and Death of Emperor Otho",
@@ -187,6 +197,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20844",
+          "author": "Nicholas A. Ferrell",
+          "description": "The title of this article comes from a Hacker News comment by user ChrisMarshallNY. I quote the pertinent part of the […]\nPossibly related posts...\n\nWhat is an \"Android Alternative\"?\nI, Too, Saw Dreams Through Air - VN Review\nSeeing Hopkins-Jones II at the Theater\nRunning Yuuki!Novel Ver of Tegami on Linux\nThe world to reverse - Visual Novel Review\nWho Was the Last Western Roman Emperor?\nPlain Song - Visual Novel Review\nThe Poor Little Bird - Visual Novel Review\nA Winter's Tale - Visual Novel Review",
+          "link": "https://thenewleafjournal.com/leafbud/the-old-men-with-good-eyes/",
+          "publishedOn": "2023-07-29T01:27:57.000Z",
+          "wordCount": null,
+          "title": "“The Old Men With Good Eyes”",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20787",
           "author": "Nicholas A. Ferrell",
           "description": "I wrote about the discontinuation of Google’s Stadia, a game streaming service, back in the context of game ownership. In that […]\nPossibly related posts...\n\nStadia and the Value of Owning Games\nThe best Nintendo controllers\nDon't Compare Stadia to the Dreamcast!\nHeight differences in anime romances\nGoogle Discontinues Stadia\nThe Sega Dreamcast Controller Joystick\nMario Party's Joystick-Wrecking Rotation Games\nThe Thin Digital Line Between \"Buy\" and \"Rent\"\nHistory of the Mario Party Gloves",
@@ -224,16 +244,6 @@
           "publishedOn": "2023-06-30T19:23:26.000Z",
           "wordCount": 1709,
           "title": "Kevin Durant’s Twitter battles",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20671",
-          "author": "Nicholas A. Ferrell",
-          "description": "On June 11, 2023, the New York Post reported that the NYPD has stepped up enforcement against public drinking in 2023. […]\nPossibly related posts...\n\nJustin and Justina review 2022 at the NLJ\nHistory of Thanksgiving Proclamations in the Philippines\nAnna Jarvis and the Origin of Mother's Day in the United…\nKaori After Story - Visual Novel Review\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nSocial webs of personal websites\nThe Pigeon in the Puddle\nJustin & Justina 〜 4th of July Grill Sacrifices to the…\nCalvin Coolidge's 1922 \"Better Homes\" Remarks",
-          "link": "https://thenewleafjournal.com/leafbud/encouraging-public-day-drinking/",
-          "publishedOn": "2023-06-29T20:01:27.000Z",
-          "wordCount": 1534,
-          "title": "Encouraging public day-drinking",
           "imageUrl": null
         }
       ]
@@ -846,6 +856,16 @@
       "feedUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master.atom",
       "siteUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master",
       "articles": [
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/1ae71d80c2fd6db879e68b110ce1ce0468de7733",
+          "author": null,
+          "description": "Update blacklist.txt\n\nAdded show more",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/1ae71d80c2fd6db879e68b110ce1ce0468de7733",
+          "publishedOn": "2023-07-28T20:57:08.000Z",
+          "wordCount": 448,
+          "title": "Update blacklist.txt",
+          "imageUrl": "https://opengraph.githubassets.com/50e56b121de26ea99994fe2a0bb78c27ed913bb535ddcc9e0870e1676e2585fd/nafnlj/wordpress-comment-blacklist-NLJFork/commit/1ae71d80c2fd6db879e68b110ce1ce0468de7733"
+        },
         {
           "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/97aee72314d515f5f1b755411d1c1d246df7003b",
           "author": null,
