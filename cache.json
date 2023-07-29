@@ -254,6 +254,26 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=letter&p=20856",
+          "author": "Nicholas A. Ferrell",
+          "description": "Welcome to the (syndicated version) 145th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal VIII\nMost-Visited NLJ Articles of 1H 2023",
+          "link": "https://thenewleafjournal.com/letter/145/",
+          "publishedOn": "2023-07-29T18:07:34.000Z",
+          "wordCount": 2730,
+          "title": "Newsletter Leaf Journal CXLV",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2022/09/new-leaf-journal-mr-envelope-sr-c.opti_.jpg"
+        },
+        {
+          "id": "https://thenewleafjournal.com/?post_type=letter&p=20854",
+          "author": "Nicholas A. Ferrell",
+          "description": "Welcome to the (syndicated) 144th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal VIII\nMost-Visited NLJ Articles of 1H 2023",
+          "link": "https://thenewleafjournal.com/letter/144/",
+          "publishedOn": "2023-07-29T18:00:42.000Z",
+          "wordCount": 2285,
+          "title": "Newsletter Leaf Journal CXLIV",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=letter&p=20726",
           "author": "Nicholas A. Ferrell",
           "description": "Welcome to the (syndicated) version of The Newsletter Leaf Journal edition 143, originally mailed on Saturday, July 8, 2023. This newsletter […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Celebrates Its First Birthday\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe Newsletter Leaf Journal VIII\nNew Leaf Journal Third Birthday Reader",
@@ -296,6 +316,16 @@
       "feedUrl": "https://buttondown.email/newsletterleafjournal/rss",
       "siteUrl": "https://buttondown.email/newsletterleafjournal",
       "articles": [
+        {
+          "id": "https://buttondown.email/newsletterleafjournal/archive/146/",
+          "author": null,
+          "description": "Welcome to the 146th edition of The Newsletter Leaf Journal, the official writing magazine of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. While it was not a busy week at The New Leaf Journal, I easily surpassed our publishing output of no articles last week. Thus, you can expect a more traditional newsletter below with our most recent articles, links from around the web, and some surprising news and notes.\nLeaves from the week that was\nI published two regular articles and three leaflets/leaf buds in the previous week. First, I present the articles.\nHallmarks of Former Service Members\nA story from my college days about how the professor inf…",
+          "link": "https://buttondown.email/newsletterleafjournal/archive/146/",
+          "publishedOn": "2023-07-29T19:16:51.000Z",
+          "wordCount": 2210,
+          "title": "Newsletter Leaf Journal CXLVI 〜 Waning Moon 〜",
+          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter Leaf Journal CXLVI 〜 Waning Moon 〜&author=The Newsletter Leaf Journal&date=2023-07-29&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
+        },
         {
           "id": "https://buttondown.email/newsletterleafjournal/archive/145/",
           "author": null,
@@ -361,6 +391,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110798718221233857",
+          "author": null,
+          "description": "Last week's Newsletter Leaf Journal was unusual because I did not publish any articles between July 15-22. Thus, with no NEW articles to share, I resorted to sharing more links from our archives than usual and 18 links from around the web. I thought the selection was solid.\nhttps://thenewleafjournal.com/letter/145/\n#newsletter #aroundtheweb #atw #links #tech",
+          "link": "https://linuxrocks.online/@nafnlj/110798718221233857",
+          "publishedOn": "2023-07-29T18:11:09.000Z",
+          "wordCount": 119,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/110788382243514434",
           "author": null,
@@ -538,6 +578,16 @@
       "feedUrl": "https://hypothes.is/stream.atom?user=nafnlj",
       "siteUrl": "https://hypothes.is/stream",
       "articles": [
+        {
+          "id": "https://hypothes.is/a/IDcd5i42Ee6bBtsnD2rqEw",
+          "author": null,
+          "description": "As Threads \"soars\", Bluesky and Mastodon are adopting algorithmic feeds.  (Tech Crunch)\n      \n      You will eat the bugs.  You will live in the pod.  You will read what we tell you.  You will own nothing and we don't much care if you are happy.\nApplying the WEF meme about pods and bugs to Threads inspiring Bluesky and one Mastodon app to push algorithmic feeds.",
+          "link": "https://hypothes.is/a/IDcd5i42Ee6bBtsnD2rqEw",
+          "publishedOn": "2023-07-29T17:34:09.836Z",
+          "wordCount": 18,
+          "title": "Daily Tech News 29 July 2023",
+          "imageUrl": "/assets/images/share-image.png"
+        },
         {
           "id": "https://hypothes.is/a/GkSX2COREe6TqutR_YFFEA",
           "author": null,

@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-29T14:08:57.372Z</updated>
+    <updated>2023-07-29T20:09:53.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXLVI 〜 Waning Moon 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/146/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/146/"/>
+        <updated>2023-07-29T19:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 146th edition of The Newsletter Leaf Journal, the official writing magazine of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. While it was not a busy week at The New Leaf Journal, I easily surpassed our publishing output of no articles last week. Thus, you can expect a more traditional newsletter below with our most recent articles, links from around the web, and some surprising news and notes.
+Leaves from the week that was
+I published two regular articles and three leaflets/leaf buds in the previous week. First, I present the articles.
+Hallmarks of Former Service Members
+A story from my college days about how the professor inf…]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110798718221233857</id>
+        <link href="https://linuxrocks.online/@nafnlj/110798718221233857"/>
+        <updated>2023-07-29T18:11:09.000Z</updated>
+        <summary type="html"><![CDATA[Last week's Newsletter Leaf Journal was unusual because I did not publish any articles between July 15-22. Thus, with no NEW articles to share, I resorted to sharing more links from our archives than usual and 18 links from around the web. I thought the selection was solid.
+https://thenewleafjournal.com/letter/145/
+#newsletter #aroundtheweb #atw #links #tech]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXLV]]></title>
+        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20856</id>
+        <link href="https://thenewleafjournal.com/letter/145/"/>
+        <updated>2023-07-29T18:07:34.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the (syndicated version) 145th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing […]
+Possibly related posts...
+
+The Newsletter Leaf Journal at 100
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin and Justina review 2022 at the NLJ
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The New Leaf Journal Newsletter
+How to Find Substack RSS Feeds and Other Notes
+The New Leaf Journal Celebrates Its First Birthday
+The Newsletter Leaf Journal VIII
+Most-Visited NLJ Articles of 1H 2023]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXLIV]]></title>
+        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20854</id>
+        <link href="https://thenewleafjournal.com/letter/144/"/>
+        <updated>2023-07-29T18:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the (syndicated) 144th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, […]
+Possibly related posts...
+
+The Newsletter Leaf Journal at 100
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin and Justina review 2022 at the NLJ
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The New Leaf Journal Newsletter
+How to Find Substack RSS Feeds and Other Notes
+The New Leaf Journal Celebrates Its First Birthday
+The Newsletter Leaf Journal VIII
+Most-Visited NLJ Articles of 1H 2023]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Tech News 29 July 2023]]></title>
+        <id>https://hypothes.is/a/IDcd5i42Ee6bBtsnD2rqEw</id>
+        <link href="https://hypothes.is/a/IDcd5i42Ee6bBtsnD2rqEw"/>
+        <updated>2023-07-29T17:34:09.836Z</updated>
+        <summary type="html"><![CDATA[As Threads "soars", Bluesky and Mastodon are adopting algorithmic feeds.  (Tech Crunch)
+      
+      You will eat the bugs.  You will live in the pod.  You will read what we tell you.  You will own nothing and we don't much care if you are happy.
+Applying the WEF meme about pods and bugs to Threads inspiring Bluesky and one Mastodon app to push algorithmic feeds.]]></summary>
+        <author>
+            <name>Hypothesis Stream</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“The Old Men With Good Eyes”]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20844</id>
