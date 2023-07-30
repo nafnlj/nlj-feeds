@@ -6,6 +6,16 @@
       "siteUrl": "https://github.com/nafnlj/nljfeeds/commits/main",
       "articles": [
         {
+          "id": "https://github.com/nafnlj/nljfeeds/commit/7121e64e165b7928eb6ed327edf1e7ced2c6bd35",
+          "author": null,
+          "description": "Update osmosfeed.yaml\n\nAdded NLJ collections",
+          "link": "https://github.com/nafnlj/nljfeeds/commit/7121e64e165b7928eb6ed327edf1e7ced2c6bd35",
+          "publishedOn": "2023-07-30T03:36:04.000Z",
+          "wordCount": 462,
+          "title": "Update osmosfeed.yaml",
+          "imageUrl": "https://opengraph.githubassets.com/2c4f3e18548c4918f13debfd3528714336c606ce0baad4c9bfafa4de4f7b0d34/nafnlj/nljfeeds/commit/7121e64e165b7928eb6ed327edf1e7ced2c6bd35"
+        },
+        {
           "id": "https://github.com/nafnlj/nljfeeds/commit/8619873137bc839b1e3b4da93e86f813aacf2ed5",
           "author": null,
           "description": "Update osmosfeed.yaml\n\nAdded WordPress comment blacklist updates",
@@ -32,6 +42,16 @@
       "feedUrl": "https://thenewleafjournal.com/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?p=20846",
+          "author": "Nicholas A. Ferrell",
+          "description": "I say what the reports left implicit about the fact that two fraudsters created 25 convincing Basquiat forgeries with nothing more than cardboard and a few minutes of painting.\nPossibly related posts...\n\nJustin and Justina review 2022 at the NLJ\nHistory of the Mario Party Gloves\nEGM's 2001 Sega Neptune April Fools Joke\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nFrom Murena Teracube 2e to Pixel 3a XL with LineageOS\nRunning Yuuki!Novel Ver of Tegami on Linux\n1897 Magazine Offer - Pocket Kodak and Kodak No. 4 Bulls-Eye…\nThe New Leaf Journal Twitter\nGrafting a Bird's Head Cane Handle Onto a Wooden Umbrella",
+          "link": "https://thenewleafjournal.com/basquiat-forgeries-made-with-alarming-ease/",
+          "publishedOn": "2023-07-29T21:00:00.000Z",
+          "wordCount": null,
+          "title": "Basquiat Forgeries Made With Alarming Ease",
+          "imageUrl": null
+        },
         {
           "id": "https://thenewleafjournal.com/?p=20835",
           "author": "Nicholas A. Ferrell",
@@ -302,6 +322,33 @@
           "wordCount": 2668,
           "title": "Newsletter Leaf Journal CXLI",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Collections | The New Leaf Journal",
+      "feedUrl": "https://thenewleafjournal.com/collection/feed",
+      "siteUrl": "https://thenewleafjournal.com",
+      "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=collection&p=20868",
+          "author": "Nicholas A. Ferrell",
+          "description": "I (N.A. Ferrell) watch a good amount of anime. Anime has been a somewhat regular article topic here at The New […]\nPossibly related posts...\n\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nAnime Recommendations of the Decade (2011-20)\nThe New Leaf Journal Celebrates Its First Birthday\nThe Best of Anime in 2022: Year in Review\nJustin and Justina review 2022 at the NLJ\nThe Best Anime Series of 2021\nWhat Makes a Depressing Anime? Discussion and Selection.\nClean 51 most-visited articles of 2022\nNew Leaf Journal Third Birthday Reader",
+          "link": "https://thenewleafjournal.com/collection/responses-to-online-anime-questions/",
+          "publishedOn": "2023-07-30T02:10:16.000Z",
+          "wordCount": null,
+          "title": "Responses to Online Anime Questions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thenewleafjournal.com/?post_type=collection&p=20365",
+          "author": "Nicholas A. Ferrell",
+          "description": "I have published a long-running series of dialogues between two fictional characters in New York City, Justin and Justina. Many of […]\nPossibly related posts...\n\nJustin and Justina review 2022 at the NLJ\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin & Justina: Most-Read NLJ Content of 2020\nJustin & Justina 〜 4th of July Grill Sacrifices to the…\nThe Quince Shortage - Justin and Justina\nJustin and Justina 〜 Merry Christmas. Who checks the mail…\nJustin and Justina 〜 Convincing a Google Devotee to Try…\nApril Fools With Justin and Justina\nDialogue: Alpacas, Virus Cures, and Paca Plus",
+          "link": "https://thenewleafjournal.com/collection/justin-and-justina-dialogues/",
+          "publishedOn": "2023-07-30T01:33:38.000Z",
+          "wordCount": null,
+          "title": "Collected Justin and Justina Dialogues",
+          "imageUrl": null
         }
       ]
     },
@@ -906,6 +953,36 @@
       "feedUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master.atom",
       "siteUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master",
       "articles": [
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/6b246fed26841e0c76d75129cc30c8685975fd26",
+          "author": null,
+          "description": "Update blacklist.txt\n\nAdded:\r\n\r\nnew boiler\r\nskilled technicians\r\nshower installation",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/6b246fed26841e0c76d75129cc30c8685975fd26",
+          "publishedOn": "2023-07-30T02:19:33.000Z",
+          "wordCount": 501,
+          "title": "Update blacklist.txt",
+          "imageUrl": "https://opengraph.githubassets.com/aadcf95665f48b162673f0ebafab7fe16017b4b25307a84181501524fa7ec471/nafnlj/wordpress-comment-blacklist-NLJFork/commit/6b246fed26841e0c76d75129cc30c8685975fd26"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/85f9d0c969a142f700d9928d5ce39a4d8fda85f7",
+          "author": null,
+          "description": "Merge branch 'splorp:master' into master",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/85f9d0c969a142f700d9928d5ce39a4d8fda85f7",
+          "publishedOn": "2023-07-30T02:15:27.000Z",
+          "wordCount": 684,
+          "title": "Merge branch 'splorp:master' into master",
+          "imageUrl": "https://opengraph.githubassets.com/e92ebb574398026c9288595c8cbe42b4de10da572fb94d147e3ab6f2668aa2c3/nafnlj/wordpress-comment-blacklist-NLJFork/commit/85f9d0c969a142f700d9928d5ce39a4d8fda85f7"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/aaeefcf82eee9a9c0a1abe14824a2293b758fdf6",
+          "author": null,
+          "description": "Keyword additions and optimizations — 20230728",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/aaeefcf82eee9a9c0a1abe14824a2293b758fdf6",
+          "publishedOn": "2023-07-28T23:09:21.000Z",
+          "wordCount": 684,
+          "title": "Keyword additions and optimizations — 20230728",
+          "imageUrl": "https://opengraph.githubassets.com/015a0b5f963779c6ef7751e30321111988142f32f11844e78cae7d887d34e6fc/nafnlj/wordpress-comment-blacklist-NLJFork/commit/aaeefcf82eee9a9c0a1abe14824a2293b758fdf6"
+        },
         {
           "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/1ae71d80c2fd6db879e68b110ce1ce0468de7733",
           "author": null,

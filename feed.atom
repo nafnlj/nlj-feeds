@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-29T20:09:53.321Z</updated>
+    <updated>2023-07-30T03:37:12.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
+        <id>https://github.com/nafnlj/nljfeeds/commit/7121e64e165b7928eb6ed327edf1e7ced2c6bd35</id>
+        <link href="https://github.com/nafnlj/nljfeeds/commit/7121e64e165b7928eb6ed327edf1e7ced2c6bd35"/>
+        <updated>2023-07-30T03:36:04.000Z</updated>
+        <summary type="html"><![CDATA[Update osmosfeed.yaml
+
+Added NLJ collections]]></summary>
+        <author>
+            <name>Recent Commits to nljfeeds:main</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/6b246fed26841e0c76d75129cc30c8685975fd26</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/6b246fed26841e0c76d75129cc30c8685975fd26"/>
+        <updated>2023-07-30T02:19:33.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt
+
+Added:
+
+new boiler
+skilled technicians
+shower installation]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'splorp:master' into master]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/85f9d0c969a142f700d9928d5ce39a4d8fda85f7</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/85f9d0c969a142f700d9928d5ce39a4d8fda85f7"/>
+        <updated>2023-07-30T02:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Merge branch 'splorp:master' into master]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responses to Online Anime Questions]]></title>
+        <id>https://thenewleafjournal.com/?post_type=collection&amp;p=20868</id>
+        <link href="https://thenewleafjournal.com/collection/responses-to-online-anime-questions/"/>
+        <updated>2023-07-30T02:10:16.000Z</updated>
+        <summary type="html"><![CDATA[I (N.A. Ferrell) watch a good amount of anime. Anime has been a somewhat regular article topic here at The New […]
+Possibly related posts...
+
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Anime Recommendations of the Decade (2011-20)
+The New Leaf Journal Celebrates Its First Birthday
+The Best of Anime in 2022: Year in Review
+Justin and Justina review 2022 at the NLJ
+The Best Anime Series of 2021
+What Makes a Depressing Anime? Discussion and Selection.
+Clean 51 most-visited articles of 2022
+New Leaf Journal Third Birthday Reader]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collected Justin and Justina Dialogues]]></title>
+        <id>https://thenewleafjournal.com/?post_type=collection&amp;p=20365</id>
+        <link href="https://thenewleafjournal.com/collection/justin-and-justina-dialogues/"/>
+        <updated>2023-07-30T01:33:38.000Z</updated>
+        <summary type="html"><![CDATA[I have published a long-running series of dialogues between two fictional characters in New York City, Justin and Justina. Many of […]
+Possibly related posts...
+
+Justin and Justina review 2022 at the NLJ
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin & Justina: Most-Read NLJ Content of 2020
+Justin & Justina 〜 4th of July Grill Sacrifices to the…
+The Quince Shortage - Justin and Justina
+Justin and Justina 〜 Merry Christmas. Who checks the mail…
+Justin and Justina 〜 Convincing a Google Devotee to Try…
+April Fools With Justin and Justina
+Dialogue: Alpacas, Virus Cures, and Paca Plus]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basquiat Forgeries Made With Alarming Ease]]></title>
+        <id>https://thenewleafjournal.com/?p=20846</id>
+        <link href="https://thenewleafjournal.com/basquiat-forgeries-made-with-alarming-ease/"/>
+        <updated>2023-07-29T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I say what the reports left implicit about the fact that two fraudsters created 25 convincing Basquiat forgeries with nothing more than cardboard and a few minutes of painting.
+Possibly related posts...
+
+Justin and Justina review 2022 at the NLJ
+History of the Mario Party Gloves
+EGM's 2001 Sega Neptune April Fools Joke
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+From Murena Teracube 2e to Pixel 3a XL with LineageOS
+Running Yuuki!Novel Ver of Tegami on Linux
+1897 Magazine Offer - Pocket Kodak and Kodak No. 4 Bulls-Eye…
+The New Leaf Journal Twitter
+Grafting a Bird's Head Cane Handle Onto a Wooden Umbrella]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXLVI 〜 Waning Moon 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/146/</id>
@@ -127,6 +228,16 @@ Performing Site-Specific Searches With DuckDuckGo
 Reviewing "Rashomon and Other Stories"]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions and optimizations — 20230728]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/aaeefcf82eee9a9c0a1abe14824a2293b758fdf6</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/aaeefcf82eee9a9c0a1abe14824a2293b758fdf6"/>
+        <updated>2023-07-28T23:09:21.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions and optimizations — 20230728]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
     <entry>
