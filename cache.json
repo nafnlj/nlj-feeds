@@ -43,6 +43,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20872",
+          "author": "Nicholas A. Ferrell",
+          "description": "Are the reports of Japan's population decline greatly exaggerated? Justin looks to 2023 anime series for the answer.\nPossibly related posts...\n\nJustin and Justina review 2022 at the NLJ\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin & Justina 〜 4th of July Grill Sacrifices to the…\nJustin & Justina: Most-Read NLJ Content of 2020\nThe Quince Shortage - Justin and Justina\nJustin and Justina 〜 Merry Christmas. Who checks the mail…\nJustin and Justina 〜 Convincing a Google Devotee to Try…\nApril Fools With Justin and Justina\nDialogue: Alpacas, Virus Cures, and Paca Plus",
+          "link": "https://thenewleafjournal.com/anime-case-against-japans-population-loss/",
+          "publishedOn": "2023-07-30T15:18:17.000Z",
+          "wordCount": null,
+          "title": "Anime Case Against Japan’s Population Loss",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20846",
           "author": "Nicholas A. Ferrell",
           "description": "I say what the reports left implicit about the fact that two fraudsters created 25 convincing Basquiat forgeries with nothing more than cardboard and a few minutes of painting.\nPossibly related posts...\n\nJustin and Justina review 2022 at the NLJ\nHistory of the Mario Party Gloves\nEGM's 2001 Sega Neptune April Fools Joke\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nFrom Murena Teracube 2e to Pixel 3a XL with LineageOS\nRunning Yuuki!Novel Ver of Tegami on Linux\n1897 Magazine Offer - Pocket Kodak and Kodak No. 4 Bulls-Eye…\nThe New Leaf Journal Twitter\nGrafting a Bird's Head Cane Handle Onto a Wooden Umbrella",
@@ -171,16 +181,6 @@
           "wordCount": 2532,
           "title": "Most-Visited NLJ Articles of 1H 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20675",
-          "author": "Nicholas A. Ferrell",
-          "description": "Today marks the end of June 2023. As we move into the heart of summer, we take a break to review […]\nPossibly related posts...\n\nJustin and Justina review 2022 at the NLJ\nThe New Leaf Journal Celebrates Its First Birthday\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nOriginal LOH: Trails in the Sky GIF ad\nThe al|together and Insani Visual Novel Translations\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nAnime Recommendations of the Decade (2011-20)\nA 2021 List of Alternative Search Engines and Search…\nAnna Jarvis and the Origin of Mother's Day in the United…",
-          "link": "https://thenewleafjournal.com/june-2023-at-the-new-leaf-journal/",
-          "publishedOn": "2023-07-01T02:10:44.000Z",
-          "wordCount": 2794,
-          "title": "June 2023 at The New Leaf Journal",
-          "imageUrl": null
         }
       ]
     },
@@ -216,6 +216,16 @@
       "feedUrl": "https://thenewleafjournal.com/leafbud/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20851",
+          "author": "Nicholas A. Ferrell",
+          "description": "From Using FreshRSS to “Like” blog posts via Webmention by Mr. Peter Rukavina: Although it took some fiddling to make all […]\nPossibly related posts...\n\nRSS as a Facebook Alternative\nShooting Star Hill - Visual Novel Analysis\n\"Technological Imbecile\" Retweeted by President\nThe Pokémon Special Split in Generation 2 - Statistics and…\nOn Improving the Environment For Gaming On Linux\nJustin and Justina review 2022 at the NLJ\nPerspectives From Japan On Watching Movie Credits\nAn Early Review of Pixelfed - Instagram Alternative\nThe New Leaf Journal Twitter",
+          "link": "https://thenewleafjournal.com/leafbud/leaving-likes-from-freshrss/",
+          "publishedOn": "2023-07-30T17:20:00.000Z",
+          "wordCount": null,
+          "title": "Leaving “likes” from FreshRSS",
+          "imageUrl": null
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20844",
           "author": "Nicholas A. Ferrell",
@@ -418,6 +428,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/110803798743621545",
+          "author": null,
+          "description": "My thoughts on PocketBook apparently planning to release an Android-based e-reader.\nhttps://thenewleafjournal.com/leaf/on-an-android-based-pocketbook-ereader/\n#android #pocketbook #ereader #eink",
+          "link": "https://linuxrocks.online/@nafnlj/110803798743621545",
+          "publishedOn": "2023-07-30T15:43:12.000Z",
+          "wordCount": 119,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/110798718221233857",
           "author": null,
