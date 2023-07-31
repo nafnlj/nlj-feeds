@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-30T20:10:35.403Z</updated>
+    <updated>2023-07-31T14:11:01.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On Algorithmic Feeds and Owning Nothing]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20853</id>
+        <link href="https://thenewleafjournal.com/leafbud/on-algorithmic-feeds-and-owning-nothing/"/>
+        <updated>2023-07-31T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Pixy Misa of Ambient Irony on a Tech Crunch article on Bluesky and one Mastodon app pushing algorithmic feeds after the […]
+Possibly related posts...
+
+Social webs of personal websites
+Reddit wars and precious John Oliver memes
+Defective second-hand graphics cards
+Calvin Coolidge's 1922 "Better Homes" Remarks
+The Enigmatic Life and Death of Emperor Otho
+Feeds and Read-It-Later for Online Reading
+A BlackBerry-esque mini Linux computer...
+On the Google Nexus 7 (2013) Tablet
+ACE Academy - Visual Novel Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f5aa4d8e7ab58eb4801e0316f7cbc3b36a763ce5</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f5aa4d8e7ab58eb4801e0316f7cbc3b36a763ce5"/>
+        <updated>2023-07-31T01:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt
+
+Add:
+gouter
+goûter]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leaving “likes” from FreshRSS]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20851</id>
@@ -1599,41 +1634,6 @@ https://thenewleafjournal.com/two-independence-day-themed-pokemon-battles-ferrel
 #pokemon #4thofjuly #independenceday #videogames #nintendoswitch]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most-Visited NLJ Articles of 1H 2023]]></title>
-        <id>https://thenewleafjournal.com/?p=20683</id>
-        <link href="https://thenewleafjournal.com/most-visited-nlj-articles-of-1h-2023/"/>
-        <updated>2023-07-02T01:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Reviewing the (first half) year that was at The New Leaf Journal in 2023.
-Possibly related posts...
-
-Justin and Justina review 2022 at the NLJ
-New Leaf Journal Third Birthday Reader
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-The Best of Anime in 2022: Year in Review
-The New Leaf Journal Celebrates Its First Birthday
-The Angel Next Door Spoils Me Rotten - Anime Review
-The New Leaf Journal 2022 Half-Year Review
-The Best Anime Series of 2021
-Quince recipes from Mary Eales's receipts]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXLII 〜Newsletter draft trade〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/142/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/142/"/>
-        <updated>2023-07-01T21:39:43.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the edition 142 of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. We welcome July with today's newsletter, and you can expect some new leaf fireworks (or at least links to some of our 4th of July posts) to go with the usual assortment of links from the week that was, links from around the web, and other news and notes.
-Leaves from the week that was
-I only published three full articles since mailing newsletter 141, with one being our June review. In my defense, however, the combined word count of these articles was above average.
-Should the Pistons have drafted Carmelo?
-I exami…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>

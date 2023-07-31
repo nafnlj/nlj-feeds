@@ -171,16 +171,6 @@
           "wordCount": 3348,
           "title": "Basil Hall on Benjamin Franklin’s grave",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/07/franklin-gravesite-christchurch.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20683",
-          "author": "Nicholas A. Ferrell",
-          "description": "Reviewing the (first half) year that was at The New Leaf Journal in 2023.\nPossibly related posts...\n\nJustin and Justina review 2022 at the NLJ\nNew Leaf Journal Third Birthday Reader\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nThe Best of Anime in 2022: Year in Review\nThe New Leaf Journal Celebrates Its First Birthday\nThe Angel Next Door Spoils Me Rotten - Anime Review\nThe New Leaf Journal 2022 Half-Year Review\nThe Best Anime Series of 2021\nQuince recipes from Mary Eales's receipts",
-          "link": "https://thenewleafjournal.com/most-visited-nlj-articles-of-1h-2023/",
-          "publishedOn": "2023-07-02T01:34:44.000Z",
-          "wordCount": 2532,
-          "title": "Most-Visited NLJ Articles of 1H 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -216,6 +206,16 @@
       "feedUrl": "https://thenewleafjournal.com/leafbud/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20853",
+          "author": "Nicholas A. Ferrell",
+          "description": "Pixy Misa of Ambient Irony on a Tech Crunch article on Bluesky and one Mastodon app pushing algorithmic feeds after the […]\nPossibly related posts...\n\nSocial webs of personal websites\nReddit wars and precious John Oliver memes\nDefective second-hand graphics cards\nCalvin Coolidge's 1922 \"Better Homes\" Remarks\nThe Enigmatic Life and Death of Emperor Otho\nFeeds and Read-It-Later for Online Reading\nA BlackBerry-esque mini Linux computer...\nOn the Google Nexus 7 (2013) Tablet\nACE Academy - Visual Novel Review",
+          "link": "https://thenewleafjournal.com/leafbud/on-algorithmic-feeds-and-owning-nothing/",
+          "publishedOn": "2023-07-31T13:30:00.000Z",
+          "wordCount": null,
+          "title": "On Algorithmic Feeds and Owning Nothing",
+          "imageUrl": null
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20851",
           "author": "Nicholas A. Ferrell",
@@ -392,16 +392,6 @@
           "wordCount": 2801,
           "title": "Newsletter Leaf Journal CXLIII 〜 Ben Franklin's favorite (maybe) 〜",
           "imageUrl": "https://image-generator.buttondown.email/api/emphasize-subject?subject=Newsletter Leaf Journal CXLIII 〜 Ben Franklin's favorite (maybe) 〜&author=The Newsletter Leaf Journal&date=2023-07-08&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/142/",
-          "author": null,
-          "description": "Welcome to the edition 142 of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. We welcome July with today's newsletter, and you can expect some new leaf fireworks (or at least links to some of our 4th of July posts) to go with the usual assortment of links from the week that was, links from around the web, and other news and notes.\nLeaves from the week that was\nI only published three full articles since mailing newsletter 141, with one being our June review. In my defense, however, the combined word count of these articles was above average.\nShould the Pistons have drafted Carmelo?\nI exami…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/142/",
-          "publishedOn": "2023-07-01T21:39:43.000Z",
-          "wordCount": 2617,
-          "title": "Newsletter Leaf Journal CXLII 〜Newsletter draft trade〜",
-          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-subject?subject=Newsletter Leaf Journal 〜Newsletter draft trade〜&author=The Newsletter Leaf Journal&date=2023-07-01&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
         }
       ]
     },
@@ -953,6 +943,16 @@
       "feedUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master.atom",
       "siteUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master",
       "articles": [
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f5aa4d8e7ab58eb4801e0316f7cbc3b36a763ce5",
+          "author": null,
+          "description": "Update blacklist.txt\n\nAdd:\r\ngouter\r\ngoûter",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f5aa4d8e7ab58eb4801e0316f7cbc3b36a763ce5",
+          "publishedOn": "2023-07-31T01:33:17.000Z",
+          "wordCount": 447,
+          "title": "Update blacklist.txt",
+          "imageUrl": "https://opengraph.githubassets.com/f802d215c24e1e2657b7f734840975d489300afc10ff01d2f04fee406296707d/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f5aa4d8e7ab58eb4801e0316f7cbc3b36a763ce5"
+        },
         {
           "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/6b246fed26841e0c76d75129cc30c8685975fd26",
           "author": null,
