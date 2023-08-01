@@ -711,26 +711,6 @@
           "wordCount": 21,
           "title": "I stopped using Thunderbird for task management (I had been [using it with Radicale-DecSync](https:/...",
           "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/23",
-          "author": null,
-          "description": "Remove db lock in Pacman:\n$ rm /var/lib/pacman/db.lck\n\n#linux #pacman",
-          "link": "https://memos.emucafe.org/m/23",
-          "publishedOn": "2023-07-03T04:02:05.000Z",
-          "wordCount": 21,
-          "title": "Remove db lock in Pacman:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/22",
-          "author": null,
-          "description": "Project Gutenberg's scanned edition of Bradford Torrey's \"A World of Green Hills\" as a very aesthetic cover:\nhttps://www.gutenberg.org/files/70026/70026-h/70026-h.htm\n#ProjectGutenberg",
-          "link": "https://memos.emucafe.org/m/22",
-          "publishedOn": "2023-07-03T02:59:23.000Z",
-          "wordCount": 21,
-          "title": "Project Gutenberg's scanned edition of Bradford Torrey's \"A World of Green Hills\" as a very aestheti...",
-          "imageUrl": null
         }
       ]
     },
