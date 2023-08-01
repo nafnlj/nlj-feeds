@@ -2,10 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-07-31T20:11:27.213Z</updated>
+    <updated>2023-08-01T14:10:32.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Last Nintendo Wii Games]]></title>
+        <id>https://thenewleafjournal.com/?p=20880</id>
+        <link href="https://thenewleafjournal.com/the-last-nintendo-wii-games/"/>
+        <updated>2023-08-01T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Was Just Dance 2020 really the last Nintendo Wii game? It depends on where you look.
+Possibly related posts...
+
+The best Nintendo controllers
+History of the Mario Party Gloves
+Motion controls in Mario Kart Wii
+Lateral thinking to extend game console life-cycles
+The Aborted Nintendo-Minnesota Lottery Scheme
+On Nintendo's Pro-User Cartridge-First Strategy
+On Improving the Environment For Gaming On Linux
+Nintendo Power's 1999 Yoshi in Pokémon April Fools Prank
+Video Game Visuals That Age Well]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aesthetic Bradford Torrey Cover]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20859</id>
+        <link href="https://thenewleafjournal.com/leaf/aesthetic-bradford-torrey-cover/"/>
+        <updated>2023-08-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Project Gutenberg is an amazing resource for out-of-copyright old books, and one that has inspired many articles (especially in our 19th […]
+Possibly related posts...
+
+New Leaf Spring Content, New and Old
+Quince recipes from Mary Eales's receipts
+Four May Issues of The Nursery Magazine (1873-81)
+Performing Site-Specific Searches With DuckDuckGo
+A Tanka on Ant Home Invasions in the Spring
+"The American Mind" 〜 A 1923 July 4th Oration by Rev.…
+All About the Saw-whet Owl
+Project Gutenberg Sources on the Life and Reign of Romulus…
+The Quarantine Sessions: Covering The Beatles]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 2023 at The New Leaf Journal]]></title>
+        <id>https://thenewleafjournal.com/?p=20899</id>
+        <link href="https://thenewleafjournal.com/july-2023-at-the-new-leaf-journal/"/>
+        <updated>2023-08-01T03:50:22.000Z</updated>
+        <summary type="html"><![CDATA[We recap July and I show off a new, cleaner way of showing our one- and three-month article popularity rankings.
+Possibly related posts...
+
+The New Leaf Journal Celebrates Its First Birthday
+Justin and Justina review 2022 at the NLJ
+The al|together and Insani Visual Novel Translations
+Justin & Justina: Most-Read NLJ Content of 2020
+A 2021 List of Alternative Search Engines and Search…
+Oldest Golfers to Contend for Majors Between the 1968 and…
+The Small Web, Artisanal Content, and Humane Design
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin & Justina 〜 4th of July Grill Sacrifices to the…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Newsletter Leaf Journal CXLVI]]></title>
+        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20902</id>
+        <link href="https://thenewleafjournal.com/letter/146/"/>
+        <updated>2023-08-01T02:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the (syndicated) 146th edition of our official newsletter The Newsletter Leaf Journal. I sent the original to our subscriber’s […]
+Possibly related posts...
+
+The Newsletter Leaf Journal at 100
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin and Justina review 2022 at the NLJ
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The New Leaf Journal Newsletter
+How to Find Substack RSS Feeds and Other Notes
+The New Leaf Journal Celebrates Its First Birthday
+The Newsletter Leaf Journal VIII
+Most-Visited NLJ Articles of 1H 2023]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the brink: Namibia’s wild desert horses]]></title>
+        <id>https://news.ycombinator.com/item?id=36949070</id>
+        <link href="https://africageographic.com/stories/namibias-wild-desert-horses/"/>
+        <updated>2023-07-31T21:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://africageographic.com/stories/namibias-wild-desert-horses/
+Comments URL: https://news.ycombinator.com/item?id=36949070
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On Algorithmic Feeds and Owning Nothing]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20853</id>
@@ -1590,50 +1687,6 @@ https://www.gutenberg.org/files/70026/70026-h/70026-h.htm
 #ProjectGutenberg]]></summary>
         <author>
             <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do I have to watch My Tiny Senpai?]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20697</id>
-        <link href="https://thenewleafjournal.com/leafbud/do-i-have-to-watch-my-tiny-senpai/"/>
-        <updated>2023-07-02T21:16:55.000Z</updated>
-        <summary type="html"><![CDATA[I published an article about anime romances with significant height differences between the main romantic pair back in March (see height […]
-Possibly related posts...
-
-Height differences in anime romances
-Futaba Igarashi's Hair Is Naturally Green?
-Anime Recommendations of the Decade (2011-20)
-The Best Anime Series of 2021
-Anime romantic comedy gimmicks...
-Lateral thinking to extend game console life-cycles
-Perspectives From Japan On Watching Movie Credits
-What Makes a Depressing Anime? Discussion and Selection.
-The Questionable NYC Mayoral Campaign About Page of Maya…]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110645107016617496</id>
-        <link href="https://linuxrocks.online/@nafnlj/110645107016617496"/>
-        <updated>2023-07-02T15:05:48.000Z</updated>
-        <summary type="html"><![CDATA[Battle 1: https://odysee.com/@newleafjournal:c/ferrell-gurbo-july4-2021-pok%C3%A9mon-battle:2
-Battle 2: https://odysee.com/@newleafjournal:c/ferrell-gurbo-july4-2021-pok%C3%A9mon-battle-2:a]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110645100810554710</id>
-        <link href="https://linuxrocks.online/@nafnlj/110645100810554710"/>
-        <updated>2023-07-02T15:04:14.000Z</updated>
-        <summary type="html"><![CDATA[Back in 2021, my friend and I had two Independence Day-themed Pokémon in Sword (my friend) and Shield (me). I recorded the battles and posted them to LBRY. This article includes links to the battles and my commentary, including details about my team set-up and EV spreads. Come for the battles and stay for the side commentary.
-https://thenewleafjournal.com/two-independence-day-themed-pokemon-battles-ferrell-vs-gurbo/
-#pokemon #4thofjuly #independenceday #videogames #nintendoswitch]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
