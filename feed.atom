@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-01T20:11:38.889Z</updated>
+    <updated>2023-08-02T14:10:21.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[8BitDo Hall Effect Kit for N64 Controller]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20862</id>
+        <link href="https://thenewleafjournal.com/leafbud/8bitdo-hall-effect-kit-for-n64-controller/"/>
+        <updated>2023-08-02T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From a June 2, 2023 report published by Nintendo Life: If you’re looking for more ways to use an N64 gamepad […]
+Possibly related posts...
+
+The Two Decade Mario Party Finally Ends
+The best Nintendo controllers
+Basil Hall on Benjamin Franklin's grave
+History of the Mario Party Gloves
+"Kitty's First Pie" - An 1881 Children's Poem From Harper's…
+The Sega Dreamcast Controller Joystick
+Video Game Visuals That Age Well
+Mario Party's Joystick-Wrecking Rotation Games
+NLJ Recommendations From Around the Web II]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'splorp:master' into master]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/daf65647415ec210cfde13e60629c6432bd61e0e</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/daf65647415ec210cfde13e60629c6432bd61e0e"/>
+        <updated>2023-08-02T04:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Merge branch 'splorp:master' into master]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Last Nintendo Wii Games]]></title>
         <id>https://thenewleafjournal.com/?p=20880</id>
@@ -101,6 +132,16 @@ Points: 2
 # Comments: 0]]></summary>
         <author>
             <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions — 20230731]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4c9032114993ddc282ce19483ef5cbd18a0efd06</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4c9032114993ddc282ce19483ef5cbd18a0efd06"/>
+        <updated>2023-07-31T17:45:46.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions — 20230731]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
     <entry>
@@ -1569,99 +1610,6 @@ https://thenewleafjournal.com/calvin-coolidge-on-why-we-celebrate-independence-d
 #4thofjuly #independenceday #CalvinCoolidge #uspresidents #speech #ushistory]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basil Hall on Benjamin Franklin’s grave]]></title>
-        <id>https://thenewleafjournal.com/?p=20701</id>
-        <link href="https://thenewleafjournal.com/basil-hall-on-benjamin-franklins-grave/"/>
-        <updated>2023-07-04T00:29:18.000Z</updated>
-        <summary type="html"><![CDATA[Re-printing a British officer's account of his 1827-28 visit to Benjamin Franklin's modest grave site.
-Possibly related posts...
-
-Benjamin Harrison's Memorable July 4, 1888
-The American Bee Journal World's Fair Report
-Justin & Justina 〜 4th of July Grill Sacrifices to the…
-1883 Opening of the Brooklyn Bridge
-Justin and Justina review 2022 at the NLJ
-A Charming Hometown Tax System Story
-Lincoln spares Frank R. Judd in 1864-65
-History of Thanksgiving Proclamations in the Philippines
-The Great Chelsea Fire of 1908 - 114 Years Later]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Gulf War Game Boy Says Goodbye to Nintendo New York Store]]></title>
-        <id>https://news.ycombinator.com/item?id=36577563</id>
-        <link href="https://www.siliconera.com/the-gulf-war-game-boy-says-goodbye-to-nintendo-new-york-store-removed/"/>
-        <updated>2023-07-03T19:15:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.siliconera.com/the-gulf-war-game-boy-says-goodbye-to-nintendo-new-york-store-removed/
-Comments URL: https://news.ycombinator.com/item?id=36577563
-Points: 2
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110651643761551830</id>
-        <link href="https://linuxrocks.online/@nafnlj/110651643761551830"/>
-        <updated>2023-07-03T18:48:11.000Z</updated>
-        <summary type="html"><![CDATA[On July 4, 1923, a Reverend Charles W. Lyons delivered an Independence Day oration titled "The American Mind" (the title was inspired by a Jefferson quote). In a 2021 article, I re-printed the entire oration and offered my own commentary. Having put my thoughts in the article, I submit a fun fact for Mastodon. Lyons, who was a Jesuit priest, is the only man to have served as president of four different American colleges (Gonzaga, St. Joseph's, Boston College, and Georgetown).
-https://thenewleafjournal.com/the-american-mind-a-1923-july-4th-oration-by-charles-w-lyons/
-#independenceday #4thofjuly #ushistory #ThomasJefferson]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXLII]]></title>
-        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20699</id>
-        <link href="https://thenewleafjournal.com/letter/newsletter-leaf-journal-cxlii/"/>
-        <updated>2023-07-03T16:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the syndicated version of Newsletter Leaf Journal 142. You can see the original version here. Our July 1 newsletter […]
-Possibly related posts...
-
-The Newsletter Leaf Journal at 100
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin and Justina review 2022 at the NLJ
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The New Leaf Journal Newsletter
-How to Find Substack RSS Feeds and Other Notes
-The New Leaf Journal Celebrates Its First Birthday
-The Newsletter Leaf Journal VIII
-Most-Visited NLJ Articles of 1H 2023]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Briar Desktop now supports MacOS]]></title>
-        <id>https://news.ycombinator.com/item?id=36574230</id>
-        <link href="https://briarproject.org/download-briar-desktop/"/>
-        <updated>2023-07-03T15:24:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://briarproject.org/download-briar-desktop/
-Comments URL: https://news.ycombinator.com/item?id=36574230
-Points: 3
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeltaTouch, a community created client for Ubuntu Touch]]></title>
-        <id>https://news.ycombinator.com/item?id=36574128</id>
-        <link href="https://delta.chat/en/2023-07-02-deltatouch"/>
-        <updated>2023-07-03T15:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://delta.chat/en/2023-07-02-deltatouch
-Comments URL: https://news.ycombinator.com/item?id=36574128
-Points: 24
-# Comments: 9]]></summary>
-        <author>
-            <name>nafnlj</name>
         </author>
     </entry>
 </feed>
