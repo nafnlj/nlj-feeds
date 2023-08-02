@@ -439,6 +439,16 @@
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
         {
+          "id": "https://linuxrocks.online/@nafnlj/110820835676098371",
+          "author": null,
+          "description": "I drafted a new article about DuckDuckGo's reliance on Bing. Shortly after drafting, and before editing, I read that TechCrunch had been blacklisted/de-indexed by Bing. I suppose the timing was good for the article but it created more work for me. (Obligatory note that NLJ is de-indexed by Bing, and as a result, invisible to DuckDuckGo.)\nhttps://thenewleafjournal.com/duckduckgo-in-the-bing-pond/\n#bing #duckduckgo #searchengine #microsoft",
+          "link": "https://linuxrocks.online/@nafnlj/110820835676098371",
+          "publishedOn": "2023-08-02T15:55:55.000Z",
+          "wordCount": 119,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxrocks.online/@nafnlj/110803798743621545",
           "author": null,
           "description": "My thoughts on PocketBook apparently planning to release an Android-based e-reader.\nhttps://thenewleafjournal.com/leaf/on-an-android-based-pocketbook-ereader/\n#android #pocketbook #ereader #eink",
@@ -893,6 +903,16 @@
       "feedUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master.atom",
       "siteUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master",
       "articles": [
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d0590bf26c061f2ad82ca91093163624c0b304a9",
+          "author": null,
+          "description": "Update blacklist.txt\n\nRemoved: Png\r\n\r\nAdded: barbie dollhouse, push it to the limit, cool wolf, you can do anything, you can do everything, asap darknet asap market, asapmarket, etsy.com, affordable plans, reliable performance, excellent customer support, exceptional speed, advanced security",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d0590bf26c061f2ad82ca91093163624c0b304a9",
+          "publishedOn": "2023-08-02T18:40:57.000Z",
+          "wordCount": 766,
+          "title": "Update blacklist.txt",
+          "imageUrl": "https://opengraph.githubassets.com/37ae7c38ce4ae7b32e7c28dff5c5376ead5cab95a47f287c4443bdc8fa93ad78/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d0590bf26c061f2ad82ca91093163624c0b304a9"
+        },
         {
           "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/daf65647415ec210cfde13e60629c6432bd61e0e",
           "author": null,

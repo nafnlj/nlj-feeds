@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-02T14:10:21.708Z</updated>
+    <updated>2023-08-02T20:11:30.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d0590bf26c061f2ad82ca91093163624c0b304a9</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d0590bf26c061f2ad82ca91093163624c0b304a9"/>
+        <updated>2023-08-02T18:40:57.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt
+
+Removed: Png
+
+Added: barbie dollhouse, push it to the limit, cool wolf, you can do anything, you can do everything, asap darknet asap market, asapmarket, etsy.com, affordable plans, reliable performance, excellent customer support, exceptional speed, advanced security]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110820835676098371</id>
+        <link href="https://linuxrocks.online/@nafnlj/110820835676098371"/>
+        <updated>2023-08-02T15:55:55.000Z</updated>
+        <summary type="html"><![CDATA[I drafted a new article about DuckDuckGo's reliance on Bing. Shortly after drafting, and before editing, I read that TechCrunch had been blacklisted/de-indexed by Bing. I suppose the timing was good for the article but it created more work for me. (Obligatory note that NLJ is de-indexed by Bing, and as a result, invisible to DuckDuckGo.)
+https://thenewleafjournal.com/duckduckgo-in-the-bing-pond/
+#bing #duckduckgo #searchengine #microsoft]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8BitDo Hall Effect Kit for N64 Controller]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20862</id>
