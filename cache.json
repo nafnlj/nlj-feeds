@@ -419,6 +419,16 @@
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
         {
+          "id": "https://linuxrocks.online/@nafnlj/110826255787433795",
+          "author": null,
+          "description": "Published one year to the day... an analysis of the cover design of a strange unsolicited direct mail religious conversion narrative (actually had more about a lawsuit than the conversion) found in my mailbox. I always know when the direct mail campaign is back on when this post suddenly sees a surge of views.\nhttps://thenewleafjournal.com/tom-cantors-changed-has-poor-color-scheme/\n#design #book #directmail #spam #humor",
+          "link": "https://linuxrocks.online/@nafnlj/110826255787433795",
+          "publishedOn": "2023-08-03T14:54:19.000Z",
+          "wordCount": 121,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxrocks.online/@nafnlj/110820835676098371",
           "author": null,
           "description": "I drafted a new article about DuckDuckGo's reliance on Bing. Shortly after drafting, and before editing, I read that TechCrunch had been blacklisted/de-indexed by Bing. I suppose the timing was good for the article but it created more work for me. (Obligatory note that NLJ is de-indexed by Bing, and as a result, invisible to DuckDuckGo.)\nhttps://thenewleafjournal.com/duckduckgo-in-the-bing-pond/\n#bing #duckduckgo #searchengine #microsoft",
@@ -808,26 +818,6 @@
           "wordCount": 2369,
           "title": "Finding a way out of Japan's 30-year housing cycle",
           "imageUrl": "https://metropolisjapan.com/wp-content/uploads/2023/03/credit-rammy2rammy-675x450.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36594958",
-          "author": "nafnlj",
-          "description": "I opened your home page. The two guinea pig headlines were enough to convince me I should add this to my RSS feed list and read more.",
-          "link": "https://news.ycombinator.com/item?id=36594958",
-          "publishedOn": "2023-07-05T02:41:10.000Z",
-          "wordCount": 102,
-          "title": "New comment by nafnlj in \"Ask HN: Could you share your personal blog here?\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36594842",
-          "author": "nafnlj",
-          "description": "https://thenewleafjournal.com/\nI started NLJ back in 2020. It is built with WordPress (hosted on Hetzner VPS and managed with Cloudron). I have published more than 800 articles and 350 short-form posts (almost all posts by me, but my friend has published 30something articles). I write about whatever interests me (I tell myself this means there is something for everyone). Common topics include, but are not limited to, tech (digital ownership, open source software, feeds, and my learning Linux), history (usually American or Roman), old books and poems, anime, visual novels (mainly English translations of freeware NScripter/KiriKiri novels), photos from my walks, fictional dialogues, and occasional commentary about life in NYC.\nhttps://memos.emucafe.org/u/2\nI am testing out Memos (https://github.com/usememos/memos) for short-form notes and microblog-style posts, but very much a side project next to NLJ. Neat little tool.",
-          "link": "https://news.ycombinator.com/item?id=36594842",
-          "publishedOn": "2023-07-05T02:18:47.000Z",
-          "wordCount": 204,
-          "title": "New comment by nafnlj in \"Ask HN: Could you share your personal blog here?\"",
-          "imageUrl": null
         }
       ]
     },
@@ -1169,7 +1159,18 @@
       "title": "Victor V. Gurbo",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA",
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=f_87T7rS6Mk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=f_87T7rS6Mk",
+          "publishedOn": "2023-08-03T20:01:10.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo \"The What-Ifs\" Live at The Organic Grill (7/31/23)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Hacker News - Newest: \"thenewleafjournal\"",

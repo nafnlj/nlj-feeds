@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-03T14:10:24.897Z</updated>
+    <updated>2023-08-03T20:11:15.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo "The What-Ifs" Live at The Organic Grill (7/31/23)]]></title>
+        <id>https://www.youtube.com/watch?v=f_87T7rS6Mk</id>
+        <link href="https://www.youtube.com/watch?v=f_87T7rS6Mk"/>
+        <updated>2023-08-03T20:01:10.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110826255787433795</id>
+        <link href="https://linuxrocks.online/@nafnlj/110826255787433795"/>
+        <updated>2023-08-03T14:54:19.000Z</updated>
+        <summary type="html"><![CDATA[Published one year to the day... an analysis of the cover design of a strange unsolicited direct mail religious conversion narrative (actually had more about a lawsuit than the conversion) found in my mailbox. I always know when the direct mail campaign is back on when this post suddenly sees a surge of views.
+https://thenewleafjournal.com/tom-cantors-changed-has-poor-color-scheme/
+#design #book #directmail #spam #humor]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update blacklist.txt]]></title>
         <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d0590bf26c061f2ad82ca91093163624c0b304a9</id>
@@ -1547,29 +1568,6 @@ https://thenewleafjournal.com/justin-justina-4th-of-july-grill-sacrifices-to-the
 #4thofjuly #independenceday #humor #ushistory #foundingfathers]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New comment by nafnlj in "Ask HN: Could you share your personal blog here?"]]></title>
-        <id>https://news.ycombinator.com/item?id=36594958</id>
-        <link href="https://news.ycombinator.com/item?id=36594958"/>
-        <updated>2023-07-05T02:41:10.000Z</updated>
-        <summary type="html"><![CDATA[I opened your home page. The two guinea pig headlines were enough to convince me I should add this to my RSS feed list and read more.]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New comment by nafnlj in "Ask HN: Could you share your personal blog here?"]]></title>
-        <id>https://news.ycombinator.com/item?id=36594842</id>
-        <link href="https://news.ycombinator.com/item?id=36594842"/>
-        <updated>2023-07-05T02:18:47.000Z</updated>
-        <summary type="html"><![CDATA[https://thenewleafjournal.com/
-I started NLJ back in 2020. It is built with WordPress (hosted on Hetzner VPS and managed with Cloudron). I have published more than 800 articles and 350 short-form posts (almost all posts by me, but my friend has published 30something articles). I write about whatever interests me (I tell myself this means there is something for everyone). Common topics include, but are not limited to, tech (digital ownership, open source software, feeds, and my learning Linux), history (usually American or Roman), old books and poems, anime, visual novels (mainly English translations of freeware NScripter/KiriKiri novels), photos from my walks, fictional dialogues, and occasional commentary about life in NYC.
-https://memos.emucafe.org/u/2
-I am testing out Memos (https://github.com/usememos/memos) for short-form notes and microblog-style posts, but very much a side project next to NLJ. Neat little tool.]]></summary>
-        <author>
-            <name>nafnlj</name>
         </author>
     </entry>
 </feed>
