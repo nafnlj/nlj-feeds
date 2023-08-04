@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-04T14:09:21.665Z</updated>
+    <updated>2023-08-04T20:11:28.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“I could get like the keys and come back”]]></title>
+        <id>https://thenewleafjournal.com/?p=20911</id>
+        <link href="https://thenewleafjournal.com/i-could-get-like-the-keys-and-come-back/"/>
+        <updated>2023-08-04T17:10:50.000Z</updated>
+        <summary type="html"><![CDATA[She said "I could get like the keys and come back."
+Possibly related posts...
+
+Should the Pistons have drafted Carmelo?
+The Enigmatic Life and Death of Emperor Otho
+Reviewing Bob Dylan's "Shadow Kingdom" Stream
+The al|together and Insani Visual Novel Translations
+Red Shift Visual Novel Review
+io [Christmas Eve] - Visual Novel Review
+Anime Recommendations of the Decade (2011-20)
+The Mystery of Sōseki and Tsuki ga Kirei
+The Best of Anime in 2022: Year in Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How not to write a restaurant review]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20909</id>
