@@ -207,6 +207,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20909",
+          "author": "Nicholas A. Ferrell",
+          "description": "From the Brooklyn Heights Blog’s review of a new Georgian restaurant called Chama Mama (original, archived): Apologies for no photos of […]\nPossibly related posts...\n\nIn Support of the Lawsuit Against NYC Dining Sheds\n1883 Opening of the Brooklyn Bridge\nThe NYC Outdoor Dining Standing Water Crisis\nSave the Date - Visual Novel Review\nUsagi Drop 〜 A Complicated Anime Pick\nA Broken Sign and Graffiti at the Brooklyn Heights Gristedes\nUpside-Down Stop Sign in Brooklyn Heights\nBusiness Women, Poem by Charlotte Becker\nMatt Damon's Brooklyn Heights Crane Game",
+          "link": "https://thenewleafjournal.com/leafbud/how-not-to-write-a-restaurant-review/",
+          "publishedOn": "2023-08-04T11:45:00.000Z",
+          "wordCount": 1434,
+          "title": "How not to write a restaurant review",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20862",
           "author": "Nicholas A. Ferrell",
           "description": "From a June 2, 2023 report published by Nintendo Life: If you’re looking for more ways to use an N64 gamepad […]\nPossibly related posts...\n\nThe Two Decade Mario Party Finally Ends\nThe best Nintendo controllers\nBasil Hall on Benjamin Franklin's grave\nHistory of the Mario Party Gloves\n\"Kitty's First Pie\" - An 1881 Children's Poem From Harper's…\nThe Sega Dreamcast Controller Joystick\nVideo Game Visuals That Age Well\nMario Party's Joystick-Wrecking Rotation Games\nNLJ Recommendations From Around the Web II",
@@ -567,16 +577,6 @@
           "wordCount": 119,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110662183971883660",
-          "author": null,
-          "description": "It was raining quite a bit in NYC yesterday. I will venture that may have led to some outdoor 4th of July gatherings being imperiled. For those who had a 4th of July event deferred, I present my 2021 (fictional) dialogue on the PURPOSE of July 4 grilling. As one of the three major characters in the dialogue argues -- the purpose is very clearly ritualistic sacrifices to the Founding Fathers (\"argues\" is the operative word).\nhttps://thenewleafjournal.com/justin-justina-4th-of-july-grill-sacrifices-to-the-spirits-of-the-founders/\n#4thofjuly #independenceday #humor #ushistory #foundingfathers",
-          "link": "https://linuxrocks.online/@nafnlj/110662183971883660",
-          "publishedOn": "2023-07-05T15:28:42.000Z",
-          "wordCount": 122,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -798,26 +798,6 @@
           "wordCount": 2037,
           "title": "An elegant new orchid is found hiding in plain sight",
           "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-elegant-new-orchid-1.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36606976",
-          "author": "nafnlj",
-          "description": "Article URL: https://nex.nightfall.city/\nComments URL: https://news.ycombinator.com/item?id=36606976\nPoints: 3\n# Comments: 0",
-          "link": "https://nex.nightfall.city/",
-          "publishedOn": "2023-07-05T20:55:58.000Z",
-          "wordCount": 76,
-          "title": "Nex: A little internet protocol inspired by Gemini and Gopher",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36606933",
-          "author": "nafnlj",
-          "description": "Article URL: https://metropolisjapan.com/rebuilding/\nComments URL: https://news.ycombinator.com/item?id=36606933\nPoints: 2\n# Comments: 0",
-          "link": "https://metropolisjapan.com/rebuilding/",
-          "publishedOn": "2023-07-05T20:52:07.000Z",
-          "wordCount": 2369,
-          "title": "Finding a way out of Japan's 30-year housing cycle",
-          "imageUrl": "https://metropolisjapan.com/wp-content/uploads/2023/03/credit-rammy2rammy-675x450.jpg"
         }
       ]
     },
@@ -1160,6 +1140,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA",
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=oDQPWQ3i50g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oDQPWQ3i50g",
+          "publishedOn": "2023-08-03T21:20:33.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo & Mark Caserta \"Goodnight, Irene\" (Leadbelly) Live at Make Music New York (6/21/23)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=magrFQjI7lI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=magrFQjI7lI",
+          "publishedOn": "2023-08-03T20:03:16.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo feat. Kat & Vern Woodhead \"You Win Again\" Live at The Organic Grill (7/31/23)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=f_87T7rS6Mk",
           "author": null,

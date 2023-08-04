@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-03T20:11:15.393Z</updated>
+    <updated>2023-08-04T14:09:21.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How not to write a restaurant review]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20909</id>
+        <link href="https://thenewleafjournal.com/leafbud/how-not-to-write-a-restaurant-review/"/>
+        <updated>2023-08-04T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[From the Brooklyn Heights Blog’s review of a new Georgian restaurant called Chama Mama (original, archived): Apologies for no photos of […]
+Possibly related posts...
+
+In Support of the Lawsuit Against NYC Dining Sheds
+1883 Opening of the Brooklyn Bridge
+The NYC Outdoor Dining Standing Water Crisis
+Save the Date - Visual Novel Review
+Usagi Drop 〜 A Complicated Anime Pick
+A Broken Sign and Graffiti at the Brooklyn Heights Gristedes
+Upside-Down Stop Sign in Brooklyn Heights
+Business Women, Poem by Charlotte Becker
+Matt Damon's Brooklyn Heights Crane Game]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo & Mark Caserta "Goodnight, Irene" (Leadbelly) Live at Make Music New York (6/21/23)]]></title>
+        <id>https://www.youtube.com/watch?v=oDQPWQ3i50g</id>
+        <link href="https://www.youtube.com/watch?v=oDQPWQ3i50g"/>
+        <updated>2023-08-03T21:20:33.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo feat. Kat & Vern Woodhead "You Win Again" Live at The Organic Grill (7/31/23)]]></title>
+        <id>https://www.youtube.com/watch?v=magrFQjI7lI</id>
+        <link href="https://www.youtube.com/watch?v=magrFQjI7lI"/>
+        <updated>2023-08-03T20:03:16.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victor V. Gurbo "The What-Ifs" Live at The Organic Grill (7/31/23)]]></title>
         <id>https://www.youtube.com/watch?v=f_87T7rS6Mk</id>
@@ -1528,44 +1567,6 @@ https://thenewleafjournal.com/1997-otis-thorpe-trade-and-the-2003-nba-draft/
 (PS: I was proud of myself when I guessed the championship odds ranking going into 2002-03 and found that the betting odds rank on Basketball Reference matched my guess perfectly.)
 https://thenewleafjournal.com/should-the-pistons-have-drafted-carmelo/
 #nba #basketball #sports #stats]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nex: A little internet protocol inspired by Gemini and Gopher]]></title>
-        <id>https://news.ycombinator.com/item?id=36606976</id>
-        <link href="https://nex.nightfall.city/"/>
-        <updated>2023-07-05T20:55:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nex.nightfall.city/
-Comments URL: https://news.ycombinator.com/item?id=36606976
-Points: 3
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding a way out of Japan's 30-year housing cycle]]></title>
-        <id>https://news.ycombinator.com/item?id=36606933</id>
-        <link href="https://metropolisjapan.com/rebuilding/"/>
-        <updated>2023-07-05T20:52:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://metropolisjapan.com/rebuilding/
-Comments URL: https://news.ycombinator.com/item?id=36606933
-Points: 2
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110662183971883660</id>
-        <link href="https://linuxrocks.online/@nafnlj/110662183971883660"/>
-        <updated>2023-07-05T15:28:42.000Z</updated>
-        <summary type="html"><![CDATA[It was raining quite a bit in NYC yesterday. I will venture that may have led to some outdoor 4th of July gatherings being imperiled. For those who had a 4th of July event deferred, I present my 2021 (fictional) dialogue on the PURPOSE of July 4 grilling. As one of the three major characters in the dialogue argues -- the purpose is very clearly ritualistic sacrifices to the Founding Fathers ("argues" is the operative word).
-https://thenewleafjournal.com/justin-justina-4th-of-july-grill-sacrifices-to-the-spirits-of-the-founders/
-#4thofjuly #independenceday #humor #ushistory #foundingfathers]]></summary>
         <author>
             <name>N.A. Ferrell</name>
         </author>
