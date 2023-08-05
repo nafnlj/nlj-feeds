@@ -557,36 +557,6 @@
           "wordCount": 122,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110667735306176727",
-          "author": null,
-          "description": "*odds going into 03-04, not 02-03... my guess was based on the perception of the state of affairs in the NBA between 02-03 and 03-04",
-          "link": "https://linuxrocks.online/@nafnlj/110667735306176727",
-          "publishedOn": "2023-07-06T15:00:29.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110667730506145861",
-          "author": null,
-          "description": "In a companion article, I told the story of the 1997 trade which netted the Pistons the #2 pick off a 50-win season in 2003. The trade, which saw the then-Vancouver Grizzlies trade a future, lightly protected first round pick, for a 35-year old Otis Thorpe nearing the end of his career (note the Grizzlies were coming off a 14-68 season) was so bad that one need not even qualify a critique of the trade with \"hindsight is 20/20.\" Had anyone stopped and thought for a moment, all of the sights would have advised not making that trade.\nhttps://thenewleafjournal.com/1997-otis-thorpe-trade-and-the-2003-nba-draft/\n#nba #basketball #management #stats",
-          "link": "https://linuxrocks.online/@nafnlj/110667730506145861",
-          "publishedOn": "2023-07-06T14:59:15.000Z",
-          "wordCount": 122,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110667717968890955",
-          "author": null,
-          "description": "Last week, I commemorated the 20th anniversary of the 2003 NBA Draft by addressing a hypothetical -- should the Detroit Pistons, who lucked into the second overall pick despite coming off a 50 win season thanks to a trade from 1997, have drafted Carmelo Anthony? As we know, the Pistons drafted Darko Milicic, who played little in 2.5 seasons with the team, but they won the 2003-04 championship. After considering all the factors, I concluded in a long, stat-filled article, that with perfect hindsight, the Pistons should not have drafted Anthony, but I do offer some alternatives.\n(PS: I was proud of myself when I guessed the championship odds ranking going into 2002-03 and found that the betting odds rank on Basketball Reference matched my guess perfectly.)\nhttps://thenewleafjournal.com/should-the-pistons-have-drafted-carmelo/\n#nba #basketball #sports #stats",
-          "link": "https://linuxrocks.online/@nafnlj/110667717968890955",
-          "publishedOn": "2023-07-06T14:56:04.000Z",
-          "wordCount": 119,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -768,46 +738,6 @@
           "wordCount": 1363,
           "title": "Using FreshRSS to “Like” blog posts via Webmention (2019)",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36619028",
-          "author": "nafnlj",
-          "description": "Edit --\nPerishable Press feed: https://perishablepress.com/feed/atom",
-          "link": "https://news.ycombinator.com/item?id=36619028",
-          "publishedOn": "2023-07-06T16:57:37.000Z",
-          "wordCount": 70,
-          "title": "New comment by nafnlj in \"Ask HN: What are your favorite RSS feeds?\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36618362",
-          "author": "nafnlj",
-          "description": "I have a long list, so I'll choose a few personal favorites that may be of interest to HN readers:\nhttps://nicole.express/feed.xml (tinkering with old games and game hardware)\nhttps://shumplations.com/feed (translations of Japanese game developer interviews)\nhttps://www.loc.gov/collections/global-legal-monitor/?fo=rss (summaries of legal news from around the world)\nhttps://reason.com/people/josh-blackman/feed (legal analysis and commentary from Josh Blackman)\nhttps://yukinu.com/feed/atom.xml (charming small web site with links to interesting sites, tech experiments, and looks at old tech)\nhttps://feed.tedium.co (well-researched essays on a variety of topics)\nhttps://blog.sakugabooru.com/feed (detailed essays on the anime industry and production)\nhtpps://perishablepress.com/feed/atom (personal website of WordPress developer Jeff Starr)\nhttps://ai.mee.nu/feed/atom (daily tech news with strong opinions)\nhttps://www.washingtontimes.com/rss/authors/stephen-dinan (one of the best reporters on immigration law/border issues)\nhttps://liliputing.com/feed (news about mini PCs and mobile devices)\nhttps://worldofmatthew.com/index.xml (essays on digital ownership and random musings)\nI would also humbly recommend my own writing project, link in my profile if you're interested\nI also recommend looking at Morss.it (https://morss.it/) if there is a site you want to subscribe to without a feed. It generally works very well (RSS Bridge and RSS Hub serve the same purpose if you want to self-host).",
-          "link": "https://news.ycombinator.com/item?id=36618362",
-          "publishedOn": "2023-07-06T16:21:24.000Z",
-          "wordCount": 255,
-          "title": "New comment by nafnlj in \"Ask HN: What are your favorite RSS feeds?\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36618142",
-          "author": "nafnlj",
-          "description": "You may be interested in Osmosfeed: https://github.com/osmoscraft/osmosfeed\nIt is a static site feed aggregator primarily designed to go with GitHub Pages. I host one to aggregate my own writing on different sites. I think it may fit your use case because your Osmosfeed site itself outputs a single Atom feed. So, for example, if I have an Osmosfeed site that aggregates feeds 1, 2, and 3, the Osmosfeed site has a single feed which will include the three individual feeds. Mine has about 10-12 feeds and it has worked perfectly thus far with no issues. Not sure if it would have problems at higher numbers.",
-          "link": "https://news.ycombinator.com/item?id=36618142",
-          "publishedOn": "2023-07-06T16:07:09.000Z",
-          "wordCount": 172,
-          "title": "New comment by nafnlj in \"Ask HN: What are your favorite RSS feeds?\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36617975",
-          "author": "nafnlj",
-          "description": "Article URL: https://phys.org/news/2023-03-elegant-orchid-plain-sight.html\nComments URL: https://news.ycombinator.com/item?id=36617975\nPoints: 2\n# Comments: 0",
-          "link": "https://phys.org/news/2023-03-elegant-orchid-plain-sight.html",
-          "publishedOn": "2023-07-06T15:57:17.000Z",
-          "wordCount": 2037,
-          "title": "An elegant new orchid is found hiding in plain sight",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-elegant-new-orchid-1.jpg"
         }
       ]
     },
@@ -1132,16 +1062,6 @@
           "wordCount": 578,
           "title": "Keyword additions — 20230709",
           "imageUrl": "https://opengraph.githubassets.com/ab6cb2ae28d932686a3f477f26d4d1f7ff21641753fb24045082dc906fa3fae7/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cca1193f55677cc050a51a375ddffb63cec1dc5a"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/a8258b1b07de0789de2cd8e72b0edb37ec553646",
-          "author": null,
-          "description": "Keyword additions — 20230706",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/a8258b1b07de0789de2cd8e72b0edb37ec553646",
-          "publishedOn": "2023-07-06T22:28:27.000Z",
-          "wordCount": 574,
-          "title": "Keyword additions — 20230706",
-          "imageUrl": "https://opengraph.githubassets.com/e04f4b9f0cedf06a504fa9b9491207638210930f4b88fa9234050dea7ed8dfc5/nafnlj/wordpress-comment-blacklist-NLJFork/commit/a8258b1b07de0789de2cd8e72b0edb37ec553646"
         }
       ]
     },
