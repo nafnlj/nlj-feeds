@@ -641,16 +641,6 @@
           "wordCount": 21,
           "title": "Grub update command on EndeavourOS",
           "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/24",
-          "author": null,
-          "description": "I stopped using Thunderbird for task management (I had been using it with Radicale-DecSync), both because I found it cumbersome and I had some sync issues.  While I don't think I need a task management app per se, I decided to see how Zim works. I set up a new Planner notebook with the tasks and journal plugins enabled. I am getting the hang of it, but it has a neat, simple syntax out of the box. Thinking about some ways to turn it into a full-fledged planner.\nZim Task List plugin docs: https://zim-wiki.org/manual/Plugins/Task_List.html\n#zimwiki #planner #decsync",
-          "link": "https://memos.emucafe.org/m/24",
-          "publishedOn": "2023-07-07T04:30:04.000Z",
-          "wordCount": 21,
-          "title": "I stopped using Thunderbird for task management (I had been [using it with Radicale-DecSync](https:/...",
-          "imageUrl": null
         }
       ]
     },
@@ -728,16 +718,6 @@
           "wordCount": 6624,
           "title": "Japan's Switch Sales in June Were Reportedly a Record High for the Console",
           "imageUrl": "https://images.nintendolife.com/4a3c480c62a67/1280x720.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36626235",
-          "author": "nafnlj",
-          "description": "Article URL: https://ruk.ca/content/using-freshrss-blog-posts-webmention\nComments URL: https://news.ycombinator.com/item?id=36626235\nPoints: 2\n# Comments: 0",
-          "link": "https://ruk.ca/content/using-freshrss-blog-posts-webmention",
-          "publishedOn": "2023-07-07T02:22:40.000Z",
-          "wordCount": 1363,
-          "title": "Using FreshRSS to “Like” blog posts via Webmention (2019)",
-          "imageUrl": null
         }
       ]
     },
