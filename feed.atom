@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-05T20:10:18.470Z</updated>
+    <updated>2023-08-06T14:09:19.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXLVII 〜 Just Newsletter 2023 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/147/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/147/"/>
+        <updated>2023-08-05T21:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 147th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. After a slow two weeks of publishing, we returned to a normal publishing schedule last week. Below, we review our most recent posts, links from around the web, and other news and notes.
+Leaves from the week that was
+We published five new articles since mailing Newsletter 146.
+Basquiat Forgeries Made With Alarming Ease
+Wherein I ponder the implications of how easy it was for frauders to create convincing Basquiat forgeries.  
+Anime Case Against Japan's Population Loss
+Our Justin and Justina dialogue duo returns…]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“I could get like the keys and come back”]]></title>
         <id>https://thenewleafjournal.com/?p=20911</id>
@@ -1372,95 +1388,6 @@ https://thenewleafjournal.com/most-visited-nlj-articles-of-1h-2023/
 #blog #blogging #writing #KokoAnalytics]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New 'Threads' App Successfully Combines Everything You Hate About Twitter With Everything You Hate About Instagram]]></title>
-        <id>https://hypothes.is/a/BzHcsh0IEe6cjeuPJnTcrw</id>
-        <link href="https://hypothes.is/a/BzHcsh0IEe6cjeuPJnTcrw"/>
-        <updated>2023-07-07T20:51:21.201Z</updated>
-        <summary type="html"><![CDATA["After years of research, our engineers have created a revolution in social media technology: a Twitter clone on Instagram that offers the absolute worst of both worlds," said a VR headset-wearing Zuckerberg in an address to dozens of friends in the Metaverse. "At long last, you can read caustic hot takes written by talentless idiots, while still enjoying oppressive censorship and sepia-toned thirst traps from yoga pants models with obnoxious lip injections. You're welcome!"
-Babylon Bee article with made up Mark Zuckerberg quote touting the virtues of Threads.  This is some of the Bee's finest writing and not at all inaccurate.]]></summary>
-        <author>
-            <name>Hypothesis Stream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New comment by nafnlj in "Show HN: Blogs.hn – tiny blog directory"]]></title>
-        <id>https://news.ycombinator.com/item?id=36637882</id>
-        <link href="https://news.ycombinator.com/item?id=36637882"/>
-        <updated>2023-07-07T20:28:18.000Z</updated>
-        <summary type="html"><![CDATA[Additional recommendation:
-Ye Olde Blogroll: https://blogroll.org/]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “well actually” guy on coyote rescue]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20724</id>
-        <link href="https://thenewleafjournal.com/leafbud/the-well-actually-guy-on-coyote-rescue/"/>
-        <updated>2023-07-07T19:40:57.000Z</updated>
-        <summary type="html"><![CDATA[On April 12, 2023, the New York Post reported on the NYPD’s rescuing a coyote from the East River. Police departments […]
-Possibly related posts...
-
-Duck and Duckling Rescue Stories From Around the Web
-NLJ Brooklyn NYC pigeon rescue story
-The Heroic Fallen Trash Can Rescue in Gowanus
-Justin & Justina: Most-Read NLJ Content of 2020
-Heights in “The Dangers in My Heart” Anime
-Justin & Justina 〜 4th of July Grill Sacrifices to the…
-The NYPD's Duck Family Rescue in Midtown Manhattan
-Transferring Photos From My BlackBerry Classic Using KDE…
-The L-Shaped Desk on Hamilton Avenue, Brooklyn]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110673929227087132</id>
-        <link href="https://linuxrocks.online/@nafnlj/110673929227087132"/>
-        <updated>2023-07-07T17:15:40.000Z</updated>
-        <summary type="html"><![CDATA[In 2021, I wrote a mini article centered on a photo I took of a banana bench outside a home in Gowanus, Brooklyn. I don't think anyone really read it (such is the fate of small photo posts). However, according to my local privacy-friendly analytics tool, Koko Analytics, I suddenly got a large number of referrals from Facebook (unusual, if not unprecedented) all pointing to the banana bench article. I guess someone shared it. However, I don't have Facebook, so the source will forever be a mystery. You too can enjoy the banana bench.
-https://thenewleafjournal.com/brooklyn-banana-bench-photo/
-#nyc #brooklyn #banana #bench #photography]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mafia Social Media Over-Sharing]]></title>
-        <id>https://thenewleafjournal.com/?p=20716</id>
-        <link href="https://thenewleafjournal.com/mafia-social-media-over-sharing/"/>
-        <updated>2023-07-07T17:08:19.000Z</updated>
-        <summary type="html"><![CDATA[When even the family of the Colombo consigliere cannot log off.
-Possibly related posts...
-
-1883 Opening of the Brooklyn Bridge
-Wasteful talk show subsidies in New York
-On NYC Curfews and Essential Workers
-ATW 〜 Murakami on Bad Social Media Content
-In Support of the Lawsuit Against NYC Dining Sheds
-On Children and Internet Sharing
-Fediverse Clone Wars and Decentralized Social Media
-The Questionable NYC Mayoral Campaign About Page of Maya…
-Feeds and Read-It-Later for Online Reading]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan's Switch Sales in June Were Reportedly a Record High for the Console]]></title>
-        <id>https://news.ycombinator.com/item?id=36634436</id>
-        <link href="https://www.nintendolife.com/news/2023/07/japans-switch-sales-in-june-were-reportedly-a-record-high-for-the-console"/>
-        <updated>2023-07-07T16:44:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nintendolife.com/news/2023/07/japans-switch-sales-in-june-were-reportedly-a-record-high-for-the-console
-Comments URL: https://news.ycombinator.com/item?id=36634436
-Points: 2
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
         </author>
     </entry>
 </feed>
