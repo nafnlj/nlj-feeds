@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-06T14:09:19.019Z</updated>
+    <updated>2023-08-06T20:10:41.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MTA announces G-Train Upgrades]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20915</id>
+        <link href="https://thenewleafjournal.com/leafbud/mta-announces-g-train-upgrades/"/>
+        <updated>2023-08-06T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[From Greenpointers (see article): Luckily, the MTA recently announced a new rollout of subway service enhancements, starting this month. Weekend service […]
+Possibly related posts...
+
+Reverend Warneford’s 1890s Miniature Model Railroad System…
+Until We Meet Again - Visual Novel Review
+On NYC Curfews and Essential Workers
+From Planes to Trains in Switzerland
+Takaki's Memories in 5 Centimeters Per Second
+"Uncle Susan is a Wolf" - A Graffiti Photo and Research…
+"Why did the chicken cross the rails?"
+NLJ Recommendations From Around the Web VIII
+On DRM-Free Games on Steam]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXLVII 〜 Just Newsletter 2023 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/147/</id>
