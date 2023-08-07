@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-06T20:10:41.095Z</updated>
+    <updated>2023-08-07T14:10:42.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1336,79 +1336,6 @@ Points: 1
         <summary type="html"><![CDATA[Keyword additions — 20230709]]></summary>
         <author>
             <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Installing Non-Listed Programs in PlayOnLinux]]></title>
-        <id>https://thenewleafjournal.com/?p=20729</id>
-        <link href="https://thenewleafjournal.com/installing-nonlisted-programs-playonlinux/"/>
-        <updated>2023-07-08T23:20:42.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step guide to using PlayOnLinux to install Windows programs on Linux.
-Possibly related posts...
-
-Japanese Environment in PoL, Lutris, and Bottles
-Installing and Running Bodhi Linux on a 2007 MacBook
-On Improving the Environment For Gaming On Linux
-Immigration Issues in NYPD Chinese Agent Case
-The al|together and Insani Visual Novel Translations
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin and Justina review 2022 at the NLJ
-Justin & Justina 〜 4th of July Grill Sacrifices to the…
-The Mystery of Sōseki and Tsuki ga Kirei]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NBA Draft: Is Being 7 Feet Tall the Fastest Way to Get Rich in America (2013)]]></title>
-        <id>https://news.ycombinator.com/item?id=36648368</id>
-        <link href="https://www.forbes.com/sites/dandiamond/2013/06/27/nba-draft-is-being-7-feet-tall-the-fastest-way-to-get-rich-in-america/"/>
-        <updated>2023-07-08T20:26:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.forbes.com/sites/dandiamond/2013/06/27/nba-draft-is-being-7-feet-tall-the-fastest-way-to-get-rich-in-america/
-Comments URL: https://news.ycombinator.com/item?id=36648368
-Points: 2
-# Comments: 1]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nostr Verify: WordPress plugin for Nostr verification using NIP-05]]></title>
-        <id>https://news.ycombinator.com/item?id=36648331</id>
-        <link href="https://github.com/jeherve/nostr-verify"/>
-        <updated>2023-07-08T20:22:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/jeherve/nostr-verify
-Comments URL: https://news.ycombinator.com/item?id=36648331
-Points: 2
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXLIII 〜 Ben Franklin's favorite (maybe) 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/143/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/143/"/>
-        <updated>2023-07-08T16:33:47.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 143rd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. We had a warm week to begin July here in New York City. But weather aside, I published several new articles. You will find links to and descriptions of our new article along with our usual assortment of links from around the web and other news and notes.
-Leaves from the week that was
-I published four regular articles since mailing Newsletter 142.  
-Most-Visited NLJ Articles of 1H 2023
-Many of the featured pieces on our 24 most-visited articles of the first half of 2023 will comes as little surprise to newslett…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110679065307820129</id>
-        <link href="https://linuxrocks.online/@nafnlj/110679065307820129"/>
-        <updated>2023-07-08T15:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Our 24 most-visited articles of Jan 1-June 30, 2023, with links to each. Note that the ranking comes with the caveat that statistics come from Koko Analytics, which is an entirely local WordPress page counter with no third party scripts or connections. It respects Do Not Track and does not work for users who block JS, so it is (by design) not as robust as commercial solutions.  However, I have found that its recording of Google referrers is usually fairly close to what I see in Google Search Console (formerly Webmaster), so I'll count it as close enough for all normal, non-creepy purposes.
-https://thenewleafjournal.com/most-visited-nlj-articles-of-1h-2023/
-#blog #blogging #writing #KokoAnalytics]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>

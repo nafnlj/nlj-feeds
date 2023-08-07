@@ -151,16 +151,6 @@
           "wordCount": 8661,
           "title": "The Girl I Like Forgot Her Glasses Ep1 Animation",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/07/ai-mie-in-wind.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20729",
-          "author": "Nicholas A. Ferrell",
-          "description": "A step-by-step guide to using PlayOnLinux to install Windows programs on Linux.\nPossibly related posts...\n\nJapanese Environment in PoL, Lutris, and Bottles\nInstalling and Running Bodhi Linux on a 2007 MacBook\nOn Improving the Environment For Gaming On Linux\nImmigration Issues in NYPD Chinese Agent Case\nThe al|together and Insani Visual Novel Translations\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nJustin & Justina 〜 4th of July Grill Sacrifices to the…\nThe Mystery of Sōseki and Tsuki ga Kirei",
-          "link": "https://thenewleafjournal.com/installing-nonlisted-programs-playonlinux/",
-          "publishedOn": "2023-07-08T23:20:42.000Z",
-          "wordCount": 4890,
-          "title": "Installing Non-Listed Programs in PlayOnLinux",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/07/playonlinux-test-hallucinate.jpg"
         }
       ]
     },
@@ -402,16 +392,6 @@
           "wordCount": 1606,
           "title": "Newsletter Leaf Journal CXLIV 〜 The NLJ didn't forget its newsletter 〜",
           "imageUrl": "https://buttondown.imgix.net/images/6c92abcf-1108-490b-aafe-1f83380be2c1.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/143/",
-          "author": null,
-          "description": "Welcome to the 143rd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. We had a warm week to begin July here in New York City. But weather aside, I published several new articles. You will find links to and descriptions of our new article along with our usual assortment of links from around the web and other news and notes.\nLeaves from the week that was\nI published four regular articles since mailing Newsletter 142.  \nMost-Visited NLJ Articles of 1H 2023\nMany of the featured pieces on our 24 most-visited articles of the first half of 2023 will comes as little surprise to newslett…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/143/",
-          "publishedOn": "2023-07-08T16:33:47.000Z",
-          "wordCount": 2801,
-          "title": "Newsletter Leaf Journal CXLIII 〜 Ben Franklin's favorite (maybe) 〜",
-          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-subject?subject=Newsletter Leaf Journal CXLIII 〜 Ben Franklin's favorite (maybe) 〜&author=The Newsletter Leaf Journal&date=2023-07-08&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
         }
       ]
     },
@@ -537,16 +517,6 @@
           "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110679065307820129",
-          "author": null,
-          "description": "Our 24 most-visited articles of Jan 1-June 30, 2023, with links to each. Note that the ranking comes with the caveat that statistics come from Koko Analytics, which is an entirely local WordPress page counter with no third party scripts or connections. It respects Do Not Track and does not work for users who block JS, so it is (by design) not as robust as commercial solutions.  However, I have found that its recording of Google referrers is usually fairly close to what I see in Google Search Console (formerly Webmaster), so I'll count it as close enough for all normal, non-creepy purposes.\nhttps://thenewleafjournal.com/most-visited-nlj-articles-of-1h-2023/\n#blog #blogging #writing #KokoAnalytics",
-          "link": "https://linuxrocks.online/@nafnlj/110679065307820129",
-          "publishedOn": "2023-07-08T15:01:51.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -658,26 +628,6 @@
           "wordCount": 12132,
           "title": "Blocking 2 High-Ranking Pages with Robots.txt",
           "imageUrl": "https://ahrefs.com/blog/wp-content/uploads/2023/07/the-story-of-blocking-2-high-ranking-by-patrick-stox-data-studies-1.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36648368",
-          "author": "nafnlj",
-          "description": "Article URL: https://www.forbes.com/sites/dandiamond/2013/06/27/nba-draft-is-being-7-feet-tall-the-fastest-way-to-get-rich-in-america/\nComments URL: https://news.ycombinator.com/item?id=36648368\nPoints: 2\n# Comments: 1",
-          "link": "https://www.forbes.com/sites/dandiamond/2013/06/27/nba-draft-is-being-7-feet-tall-the-fastest-way-to-get-rich-in-america/",
-          "publishedOn": "2023-07-08T20:26:36.000Z",
-          "wordCount": 10387,
-          "title": "NBA Draft: Is Being 7 Feet Tall the Fastest Way to Get Rich in America (2013)",
-          "imageUrl": "https://imageio.forbes.com/blogs-images/thumbnails/blog_2238/pt_2238_949_o.jpg?format=jpg&width=1200"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36648331",
-          "author": "nafnlj",
-          "description": "Article URL: https://github.com/jeherve/nostr-verify\nComments URL: https://news.ycombinator.com/item?id=36648331\nPoints: 2\n# Comments: 0",
-          "link": "https://github.com/jeherve/nostr-verify",
-          "publishedOn": "2023-07-08T20:22:47.000Z",
-          "wordCount": 828,
-          "title": "Nostr Verify: WordPress plugin for Nostr verification using NIP-05",
-          "imageUrl": "https://opengraph.githubassets.com/8cfc028a049863724495b39164839356aaa7eb69ee588fea4e38e8be3a59dd6c/jeherve/nostr-verify"
         }
       ]
     },
