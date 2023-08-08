@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-07T20:11:30.833Z</updated>
+    <updated>2023-08-08T14:10:21.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1326,16 +1326,6 @@ Points: 1
 # Comments: 0]]></summary>
         <author>
             <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyword additions — 20230709]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cca1193f55677cc050a51a375ddffb63cec1dc5a</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cca1193f55677cc050a51a375ddffb63cec1dc5a"/>
-        <updated>2023-07-09T15:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Keyword additions — 20230709]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
 </feed>
