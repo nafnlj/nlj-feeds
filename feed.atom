@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-08T20:11:59.019Z</updated>
+    <updated>2023-08-09T14:11:28.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/25e4cb42c4791dbcf9a77b3ad9dc6ecf839cbd10</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/25e4cb42c4791dbcf9a77b3ad9dc6ecf839cbd10"/>
+        <updated>2023-08-09T13:49:18.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt
+
+Added autoflower, pint77.com, etsy.com,.]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'splorp:master' into master]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f10a557195ce8c651c7736378f456106dafa43cd</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f10a557195ce8c651c7736378f456106dafa43cd"/>
+        <updated>2023-08-09T13:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Merge branch 'splorp:master' into master]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brave no longer relying on Bing images]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20919</id>
+        <link href="https://thenewleafjournal.com/leaf/brave-no-longer-relying-on-bing-images/"/>
+        <updated>2023-08-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I previously wrote about Brave Search dropping its partial dependency on Bing for web search results. As the webmaster of a […]
+Possibly related posts...
+
+The story of our Bing blacklisting
+Brave and DuckDuckGo Timer Search Shortcuts
+A 2021 List of Alternative Search Engines and Search…
+Quince recipes from Mary Eales's receipts
+The Downstream Effects of Bing's Tiananmen Square Censorship
+Importance of Bing Indexing For Alt Search
+DuckDuckGo in the Bing Pond
+Bing's and DuckDuckGo's CCP Problem
+Adding custom search shortcut for Wayback Machine]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions and optimizations — 20230808]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/df53cf4d0e704b8659579a3e7442873c8335ff92</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/df53cf4d0e704b8659579a3e7442873c8335ff92"/>
+        <updated>2023-08-08T21:27:56.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions and optimizations — 20230808]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MTA announces G-Train Upgrades]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20915</id>
@@ -28,6 +81,16 @@ On DRM-Free Games on Steam]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Keyword additions — 20230806]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8b29ea410afcd013f1c79100277fd453f740684e</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8b29ea410afcd013f1c79100277fd453f740684e"/>
+        <updated>2023-08-06T15:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions — 20230806]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXLVII 〜 Just Newsletter 2023 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/147/</id>
         <link href="https://buttondown.email/newsletterleafjournal/archive/147/"/>
@@ -41,6 +104,26 @@ Anime Case Against Japan's Population Loss
 Our Justin and Justina dialogue duo returns…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions — 20230804]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/9b3693559e6339517e3ca27c8321a2dc96cb3090</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/9b3693559e6339517e3ca27c8321a2dc96cb3090"/>
+        <updated>2023-08-04T21:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions — 20230804]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Added 2ip.ru shortener]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/29140b3c10c7c5d304a1b59056ec44b1061809dd</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/29140b3c10c7c5d304a1b59056ec44b1061809dd"/>
+        <updated>2023-08-04T21:31:10.000Z</updated>
+        <summary type="html"><![CDATA[Added 2ip.ru shortener]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
     <entry>
@@ -83,6 +166,16 @@ Business Women, Poem by Charlotte Becker
 Matt Damon's Brooklyn Heights Crane Game]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions and optimizations — 20230803]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f4b2c8bcf7c5a11f71a5483c9c619426422748c2</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f4b2c8bcf7c5a11f71a5483c9c619426422748c2"/>
+        <updated>2023-08-03T22:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions and optimizations — 20230803]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
     <entry>
@@ -1259,73 +1352,6 @@ https://thenewleafjournal.com/the-girl-i-like-forgot-her-glasses-ep1-animation/
 #anime #animation #gohands #animereview]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Girl I Like Forgot Her Glasses Ep1 Animation]]></title>
-        <id>https://thenewleafjournal.com/?p=20768</id>
-        <link href="https://thenewleafjournal.com/the-girl-i-like-forgot-her-glasses-ep1-animation/"/>
-        <updated>2023-07-10T17:54:35.000Z</updated>
-        <summary type="html"><![CDATA[I wade into a spirited debate about GoHands' animation techniques in episode 1 of The Girl I Like Forgot Her Glasses.
-Possibly related posts...
-
-A Walker's Review of BLUPOND's Knight Vision Night Driving…
-Anime Recommendations of the Decade (2011-20)
-The Best of Anime in 2022: Year in Review
-The Angel Next Door Spoils Me Rotten - Anime Review
-Anime romantic comedy gimmicks...
-Quince recipes from Mary Eales's receipts
-The Best Anime Series of 2021
-Two Independence Day-Themed Pokémon Battles: Ferrell vs…
-Additional Best of 2022 in Anime Awards]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXLIII]]></title>
-        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20726</id>
-        <link href="https://thenewleafjournal.com/letter/143/"/>
-        <updated>2023-07-10T16:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the (syndicated) version of The Newsletter Leaf Journal edition 143, originally mailed on Saturday, July 8, 2023. This newsletter […]
-Possibly related posts...
-
-The Newsletter Leaf Journal at 100
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin and Justina review 2022 at the NLJ
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The New Leaf Journal Celebrates Its First Birthday
-The New Leaf Journal Newsletter
-How to Find Substack RSS Feeds and Other Notes
-The Newsletter Leaf Journal VIII
-New Leaf Journal Third Birthday Reader]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110690525100036773</id>
-        <link href="https://linuxrocks.online/@nafnlj/110690525100036773"/>
-        <updated>2023-07-10T15:36:13.000Z</updated>
-        <summary type="html"><![CDATA[I had some difficulty explaining how to use PlayOnLinux (and by extension, PlayOnMac... probably) to my friend via text chat. I was going to send a guide after I remembered myself -- then I figured I ought to just publish the guide on the NLJ.  Note that I personally use Lutris (and occasionally Bottles) as a WINE GUI, but PlayOnLinux still works fairly well and is certainly the better choice for a 2007 MacBook with 1 GB of RAM running Bodhi Linux.
-https://thenewleafjournal.com/installing-nonlisted-programs-playonlinux/
-#playonlinux #playonmac #wine #linux]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blocking 2 High-Ranking Pages with Robots.txt]]></title>
-        <id>https://news.ycombinator.com/item?id=36667819</id>
-        <link href="https://ahrefs.com/blog/blocked-robots-test/"/>
-        <updated>2023-07-10T15:26:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ahrefs.com/blog/blocked-robots-test/
-Comments URL: https://news.ycombinator.com/item?id=36667819
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
         </author>
     </entry>
 </feed>

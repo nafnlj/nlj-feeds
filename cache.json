@@ -141,16 +141,6 @@
           "wordCount": 2218,
           "title": "Barbie & Oppenheimer without context",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/07/barbie-oppenheimer-cobble-hill-cinema.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20768",
-          "author": "Nicholas A. Ferrell",
-          "description": "I wade into a spirited debate about GoHands' animation techniques in episode 1 of The Girl I Like Forgot Her Glasses.\nPossibly related posts...\n\nA Walker's Review of BLUPOND's Knight Vision Night Driving…\nAnime Recommendations of the Decade (2011-20)\nThe Best of Anime in 2022: Year in Review\nThe Angel Next Door Spoils Me Rotten - Anime Review\nAnime romantic comedy gimmicks...\nQuince recipes from Mary Eales's receipts\nThe Best Anime Series of 2021\nTwo Independence Day-Themed Pokémon Battles: Ferrell vs…\nAdditional Best of 2022 in Anime Awards",
-          "link": "https://thenewleafjournal.com/the-girl-i-like-forgot-her-glasses-ep1-animation/",
-          "publishedOn": "2023-07-10T17:54:35.000Z",
-          "wordCount": 8661,
-          "title": "The Girl I Like Forgot Her Glasses Ep1 Animation",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/07/ai-mie-in-wind.jpg"
         }
       ]
     },
@@ -159,6 +149,16 @@
       "feedUrl": "https://thenewleafjournal.com/leaf/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20919",
+          "author": "Nicholas A. Ferrell",
+          "description": "I previously wrote about Brave Search dropping its partial dependency on Bing for web search results. As the webmaster of a […]\nPossibly related posts...\n\nThe story of our Bing blacklisting\nBrave and DuckDuckGo Timer Search Shortcuts\nA 2021 List of Alternative Search Engines and Search…\nQuince recipes from Mary Eales's receipts\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nImportance of Bing Indexing For Alt Search\nDuckDuckGo in the Bing Pond\nBing's and DuckDuckGo's CCP Problem\nAdding custom search shortcut for Wayback Machine",
+          "link": "https://thenewleafjournal.com/leaf/brave-no-longer-relying-on-bing-images/",
+          "publishedOn": "2023-08-09T13:00:00.000Z",
+          "wordCount": 1399,
+          "title": "Brave no longer relying on Bing images",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=20859",
           "author": "Nicholas A. Ferrell",
@@ -302,16 +302,6 @@
           "wordCount": 2285,
           "title": "Newsletter Leaf Journal CXLIV",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=letter&p=20726",
-          "author": "Nicholas A. Ferrell",
-          "description": "Welcome to the (syndicated) version of The Newsletter Leaf Journal edition 143, originally mailed on Saturday, July 8, 2023. This newsletter […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Celebrates Its First Birthday\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe Newsletter Leaf Journal VIII\nNew Leaf Journal Third Birthday Reader",
-          "link": "https://thenewleafjournal.com/letter/143/",
-          "publishedOn": "2023-07-10T16:30:31.000Z",
-          "wordCount": 3463,
-          "title": "Newsletter Leaf Journal CXLIII",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
         }
       ]
     },
@@ -507,16 +497,6 @@
           "wordCount": 119,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110690525100036773",
-          "author": null,
-          "description": "I had some difficulty explaining how to use PlayOnLinux (and by extension, PlayOnMac... probably) to my friend via text chat. I was going to send a guide after I remembered myself -- then I figured I ought to just publish the guide on the NLJ.  Note that I personally use Lutris (and occasionally Bottles) as a WINE GUI, but PlayOnLinux still works fairly well and is certainly the better choice for a 2007 MacBook with 1 GB of RAM running Bodhi Linux.\nhttps://thenewleafjournal.com/installing-nonlisted-programs-playonlinux/\n#playonlinux #playonmac #wine #linux",
-          "link": "https://linuxrocks.online/@nafnlj/110690525100036773",
-          "publishedOn": "2023-07-10T15:36:13.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -618,16 +598,6 @@
           "wordCount": 1393,
           "title": "Google Revises New Driver for Stadia Controller Rumble Support on Linux",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36667819",
-          "author": "nafnlj",
-          "description": "Article URL: https://ahrefs.com/blog/blocked-robots-test/\nComments URL: https://news.ycombinator.com/item?id=36667819\nPoints: 1\n# Comments: 0",
-          "link": "https://ahrefs.com/blog/blocked-robots-test/",
-          "publishedOn": "2023-07-10T15:26:52.000Z",
-          "wordCount": 12132,
-          "title": "Blocking 2 High-Ranking Pages with Robots.txt",
-          "imageUrl": "https://ahrefs.com/blog/wp-content/uploads/2023/07/the-story-of-blocking-2-high-ranking-by-patrick-stox-data-studies-1.jpg"
         }
       ]
     },
@@ -663,6 +633,76 @@
       "feedUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master.atom",
       "siteUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master",
       "articles": [
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/25e4cb42c4791dbcf9a77b3ad9dc6ecf839cbd10",
+          "author": null,
+          "description": "Update blacklist.txt\n\nAdded autoflower, pint77.com, etsy.com,.",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/25e4cb42c4791dbcf9a77b3ad9dc6ecf839cbd10",
+          "publishedOn": "2023-08-09T13:49:18.000Z",
+          "wordCount": 530,
+          "title": "Update blacklist.txt",
+          "imageUrl": "https://opengraph.githubassets.com/cd2773d2082481b10764107b3e7d6667036894938398f3c1b66eacb3c468bea4/nafnlj/wordpress-comment-blacklist-NLJFork/commit/25e4cb42c4791dbcf9a77b3ad9dc6ecf839cbd10"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f10a557195ce8c651c7736378f456106dafa43cd",
+          "author": null,
+          "description": "Merge branch 'splorp:master' into master",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f10a557195ce8c651c7736378f456106dafa43cd",
+          "publishedOn": "2023-08-09T13:41:40.000Z",
+          "wordCount": 1216,
+          "title": "Merge branch 'splorp:master' into master",
+          "imageUrl": "https://opengraph.githubassets.com/ecd41adfa96f71407312819067e9fdb41448945d1a0f0a9d5734694a23925e4f/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f10a557195ce8c651c7736378f456106dafa43cd"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/df53cf4d0e704b8659579a3e7442873c8335ff92",
+          "author": null,
+          "description": "Keyword additions and optimizations — 20230808",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/df53cf4d0e704b8659579a3e7442873c8335ff92",
+          "publishedOn": "2023-08-08T21:27:56.000Z",
+          "wordCount": 521,
+          "title": "Keyword additions and optimizations — 20230808",
+          "imageUrl": "https://opengraph.githubassets.com/a51d873876de1116d11e9988857adf178f959a9d6254285439932458615268bd/nafnlj/wordpress-comment-blacklist-NLJFork/commit/df53cf4d0e704b8659579a3e7442873c8335ff92"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8b29ea410afcd013f1c79100277fd453f740684e",
+          "author": null,
+          "description": "Keyword additions — 20230806",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8b29ea410afcd013f1c79100277fd453f740684e",
+          "publishedOn": "2023-08-06T15:15:50.000Z",
+          "wordCount": 858,
+          "title": "Keyword additions — 20230806",
+          "imageUrl": "https://opengraph.githubassets.com/6ee27e628d34b4aff2a90f8d96622e77bc77e18b2cdeb08869814a23712192f8/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8b29ea410afcd013f1c79100277fd453f740684e"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/9b3693559e6339517e3ca27c8321a2dc96cb3090",
+          "author": null,
+          "description": "Keyword additions — 20230804",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/9b3693559e6339517e3ca27c8321a2dc96cb3090",
+          "publishedOn": "2023-08-04T21:32:02.000Z",
+          "wordCount": 529,
+          "title": "Keyword additions — 20230804",
+          "imageUrl": "https://opengraph.githubassets.com/2124c8a3dd5e8ac286c04eaaa94bf79b8e245cf8cb1b5a1b13bec9873a79b532/nafnlj/wordpress-comment-blacklist-NLJFork/commit/9b3693559e6339517e3ca27c8321a2dc96cb3090"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/29140b3c10c7c5d304a1b59056ec44b1061809dd",
+          "author": null,
+          "description": "Added 2ip.ru shortener",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/29140b3c10c7c5d304a1b59056ec44b1061809dd",
+          "publishedOn": "2023-08-04T21:31:10.000Z",
+          "wordCount": 530,
+          "title": "Added 2ip.ru shortener",
+          "imageUrl": "https://opengraph.githubassets.com/cbeb960655bcd787afa80e8d57bb2dbf7b02c2c27c7a95b30fd9afb2a9bd575a/nafnlj/wordpress-comment-blacklist-NLJFork/commit/29140b3c10c7c5d304a1b59056ec44b1061809dd"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f4b2c8bcf7c5a11f71a5483c9c619426422748c2",
+          "author": null,
+          "description": "Keyword additions and optimizations — 20230803",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f4b2c8bcf7c5a11f71a5483c9c619426422748c2",
+          "publishedOn": "2023-08-03T22:12:52.000Z",
+          "wordCount": 556,
+          "title": "Keyword additions and optimizations — 20230803",
+          "imageUrl": "https://opengraph.githubassets.com/10e469d68bffa953ddbd4df0041ea9328ddce6d3b934eb1b95ed445b0c403538/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f4b2c8bcf7c5a11f71a5483c9c619426422748c2"
+        },
         {
           "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d0590bf26c061f2ad82ca91093163624c0b304a9",
           "author": null,
