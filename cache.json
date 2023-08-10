@@ -43,6 +43,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20928",
+          "author": "Nicholas A. Ferrell",
+          "description": "Memories of past Brooklyn Bridge walks -- memorialized with BlackBerry Classic photography.\nPossibly related posts...\n\n1997 Otis Thorpe trade and the 2003 NBA Draft\n1883 Opening of the Brooklyn Bridge\nThe Heroic Fallen Trash Can Rescue in Gowanus\nShould the Pistons have drafted Carmelo?\nA Trip Across Brooklyn's Summit Street Bridge\nThe Brooklyn Bridge's Mysterious Cobweb Lane\nJustin and Justina review 2022 at the NLJ\nFreedom Tower in the Fog From the Brooklyn Bridge\nJustin & Justina: Most-Read NLJ Content of 2020",
+          "link": "https://thenewleafjournal.com/trash-pick-up-vehicle-on-brooklyn-bridge/",
+          "publishedOn": "2023-08-10T14:03:46.000Z",
+          "wordCount": 1638,
+          "title": "Trash pick-up vehicle on Brooklyn Bridge",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20911",
           "author": "Nicholas A. Ferrell",
           "description": "She said \"I could get like the keys and come back.\"\nPossibly related posts...\n\nShould the Pistons have drafted Carmelo?\nThe Enigmatic Life and Death of Emperor Otho\nReviewing Bob Dylan's \"Shadow Kingdom\" Stream\nThe al|together and Insani Visual Novel Translations\nRed Shift Visual Novel Review\nio [Christmas Eve] - Visual Novel Review\nAnime Recommendations of the Decade (2011-20)\nThe Mystery of Sōseki and Tsuki ga Kirei\nThe Best of Anime in 2022: Year in Review",
@@ -149,6 +159,16 @@
       "feedUrl": "https://thenewleafjournal.com/leaf/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20926",
+          "author": "Nicholas A. Ferrell",
+          "description": "I published a Leaflet yesterday about Brave Search no longer using Bing for its image search results. Mojeek, a fully independent […]\nPossibly related posts...\n\nA 2021 List of Alternative Search Engines and Search…\nThe story of our Bing blacklisting\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nThe Enigmatic Life and Death of Emperor Otho\nDuckDuckGo in the Bing Pond\nImportance of Bing Indexing For Alt Search\n1914 Moral Story For Children on Responsibility\nBing's and DuckDuckGo's CCP Problem\nMojeek Search's Calculator",
+          "link": "https://thenewleafjournal.com/leaf/mojeek-drops-bing-and-adds-openverse/",
+          "publishedOn": "2023-08-10T11:30:00.000Z",
+          "wordCount": 1420,
+          "title": "Mojeek drops Bing and adds Openverse",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=20919",
           "author": "Nicholas A. Ferrell",
@@ -487,16 +507,6 @@
           "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110696798159248280",
-          "author": null,
-          "description": "Before watching episode 2, I review the animation in episode 1 of The Girl I Like Forgot Her Glasses, one of the new anime series of the summer season. I was inspired to write the piece when I saw some dramatically different takes on the animation, ranging from crediting the first 3 minutes for having more frames than entire episodes of other shows to describing those same 3 minutes as being a crime against humanity.  On the whole, I offer some qualified praise for the style and attention to detail while also highlighting technical issues (inconsistent 3D assets, bad shadows, glitches) that are a bit concerning going forward.\nhttps://thenewleafjournal.com/the-girl-i-like-forgot-her-glasses-ep1-animation/\n#anime #animation #gohands #animereview",
-          "link": "https://linuxrocks.online/@nafnlj/110696798159248280",
-          "publishedOn": "2023-07-11T18:11:33.000Z",
-          "wordCount": 119,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -523,16 +533,6 @@
           "publishedOn": "2023-07-16T04:27:41.274Z",
           "wordCount": 18,
           "title": "Golf - FAQ - Game Boy - By winnie_the_poop - GameFAQs",
-          "imageUrl": "/assets/images/share-image.png"
-        },
-        {
-          "id": "https://hypothes.is/a/tqDBFCAYEe6k8W_5vm28Nw",
-          "author": null,
-          "description": "The star ratings that we dole out for Preview Guide aren't indicative of a show's overall quality, of course; we've only got one or two episodes to go on, after all. Instead, they indicate how good of a job a first episode does at convincing viewers to keep on watching in the coming weeks.\nJames Beckett of Anime News Network explains how he scores series in the ANN season preview guides, noting that the purpose is to offer readers an opinion on whether a series is worth following based on its opening episode.",
-          "link": "https://hypothes.is/a/tqDBFCAYEe6k8W_5vm28Nw",
-          "publishedOn": "2023-07-11T18:28:20.923Z",
-          "wordCount": 18,
-          "title": "The Summer 2023 Anime Preview Guide - Zom 100: Bucket List of the Dead",
           "imageUrl": "/assets/images/share-image.png"
         }
       ]
@@ -972,16 +972,6 @@
           "wordCount": 594,
           "title": "Keyword additions — 20230712",
           "imageUrl": "https://opengraph.githubassets.com/71a318035019b2e4a009561f4cec2b0da47e8819572bf6b6fcf7289f53a5cc2c/nafnlj/wordpress-comment-blacklist-NLJFork/commit/229a7ef19acff38680f19872679da829d0e12c2b"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b77a984e9e0538f9fe25e46f2a47d970ded5cadc",
-          "author": null,
-          "description": "Keyword additions — 20230711",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b77a984e9e0538f9fe25e46f2a47d970ded5cadc",
-          "publishedOn": "2023-07-11T22:02:22.000Z",
-          "wordCount": 686,
-          "title": "Keyword additions — 20230711",
-          "imageUrl": "https://opengraph.githubassets.com/19a27301aec7c7de565bd8780f72c58b377877cd2a4630d8edf0a14410d60182/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b77a984e9e0538f9fe25e46f2a47d970ded5cadc"
         }
       ]
     },
