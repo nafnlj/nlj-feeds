@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-10T14:10:31.011Z</updated>
+    <updated>2023-08-10T20:11:16.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[America’s Beloved Meyer Lemon Caused a Mid-Century Citrus Panic]]></title>
+        <id>https://news.ycombinator.com/item?id=37076452</id>
+        <link href="https://www.atlasobscura.com/articles/meyer-lemon"/>
+        <updated>2023-08-10T14:17:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/meyer-lemon
+Comments URL: https://news.ycombinator.com/item?id=37076452
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXLVII]]></title>
+        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20937</id>
+        <link href="https://thenewleafjournal.com/letter/147/"/>
+        <updated>2023-08-10T14:13:18.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the syndicated version of the 147th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid […]
+Possibly related posts...
+
+The Newsletter Leaf Journal at 100
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin and Justina review 2022 at the NLJ
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The New Leaf Journal Newsletter
+How to Find Substack RSS Feeds and Other Notes
+The New Leaf Journal Celebrates Its First Birthday
+The Newsletter Leaf Journal VIII
+Most-Visited NLJ Articles of 1H 2023]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trash pick-up vehicle on Brooklyn Bridge]]></title>
         <id>https://thenewleafjournal.com/?p=20928</id>
