@@ -141,16 +141,6 @@
           "wordCount": 2702,
           "title": "RSS for keeping with MikroTik updates",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/07/mikrotik-download-page.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20790",
-          "author": "Nicholas A. Ferrell",
-          "description": "I stumbled on a meme by accident and determined that the \"meme\" is more humorous without knowledge of the meme.\nPossibly related posts...\n\nHistoric Districts and Looming Tall Buildings\nJustin & Justina 〜 A Christmas Present Struggle\nA Trip Across Brooklyn's Summit Street Bridge\nThe Cows of Bloomingdale's and Macy's at the 2021 NYC Cow…\nA Bike in the Snow in Brooklyn\nBrooklyn Snowman and Winter Storm Gail Sights\nSnowman with Mask 〜 It's the thought that counts\nA Walk Across the Hamilton Avenue Footbridge\nEd Durr Walks To A Stunning Election Upset In New Jersey",
-          "link": "https://thenewleafjournal.com/barbie-oppenheimer-without-context/",
-          "publishedOn": "2023-07-12T18:59:00.000Z",
-          "wordCount": 2218,
-          "title": "Barbie & Oppenheimer without context",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/07/barbie-oppenheimer-cobble-hill-cinema.jpg"
         }
       ]
     },
@@ -274,16 +264,6 @@
           "publishedOn": "2023-07-29T01:27:57.000Z",
           "wordCount": null,
           "title": "“The Old Men With Good Eyes”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20787",
-          "author": "Nicholas A. Ferrell",
-          "description": "I wrote about the discontinuation of Google’s Stadia, a game streaming service, back in the context of game ownership. In that […]\nPossibly related posts...\n\nStadia and the Value of Owning Games\nThe best Nintendo controllers\nDon't Compare Stadia to the Dreamcast!\nHeight differences in anime romances\nGoogle Discontinues Stadia\nThe Sega Dreamcast Controller Joystick\nMario Party's Joystick-Wrecking Rotation Games\nThe Thin Digital Line Between \"Buy\" and \"Rent\"\nHistory of the Mario Party Gloves",
-          "link": "https://thenewleafjournal.com/leafbud/stadia-controller-gets-linux-rumble-support/",
-          "publishedOn": "2023-07-12T13:00:00.000Z",
-          "wordCount": 1460,
-          "title": "Stadia controller gets Linux rumble support",
           "imageUrl": null
         }
       ]
@@ -507,16 +487,6 @@
           "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110702724382268776",
-          "author": null,
-          "description": "If the consigliere of New York City's Colombo crime family cannot log off, what hope is there for the normies? I present the story of the unfortunate consequences of \"oversharing\" for a mob boss on the run. (Note: Problems in this particular case could have been avoided by not engaging in criminal racketeering.)\nhttps://thenewleafjournal.com/mafia-social-media-over-sharing/\n#mafia #nyc #socialmedia #twitter #crime #fbi #oversharing",
-          "link": "https://linuxrocks.online/@nafnlj/110702724382268776",
-          "publishedOn": "2023-07-12T19:18:39.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -608,16 +578,6 @@
           "wordCount": 3737,
           "title": "On the brink: Namibia’s wild desert horses",
           "imageUrl": "https://africageographic.com/wp-content/uploads/2023/01/Cover.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36696436",
-          "author": "nafnlj",
-          "description": "Article URL: https://www.phoronix.com/news/Stadia-Controller-FF-Linux\nComments URL: https://news.ycombinator.com/item?id=36696436\nPoints: 1\n# Comments: 0",
-          "link": "https://www.phoronix.com/news/Stadia-Controller-FF-Linux",
-          "publishedOn": "2023-07-12T15:51:11.000Z",
-          "wordCount": 1393,
-          "title": "Google Revises New Driver for Stadia Controller Rumble Support on Linux",
-          "imageUrl": null
         }
       ]
     },
@@ -982,16 +942,6 @@
           "wordCount": 534,
           "title": "Added yaplink.co shortener",
           "imageUrl": "https://opengraph.githubassets.com/7b7829e01b78a747cbdb19d8ee17a4dec4afbbfb7f7f1c52754bb3797e819b4c/nafnlj/wordpress-comment-blacklist-NLJFork/commit/54975cf7cd2756993aa66e425f2129e99331d683"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/229a7ef19acff38680f19872679da829d0e12c2b",
-          "author": null,
-          "description": "Keyword additions — 20230712",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/229a7ef19acff38680f19872679da829d0e12c2b",
-          "publishedOn": "2023-07-12T21:09:30.000Z",
-          "wordCount": 594,
-          "title": "Keyword additions — 20230712",
-          "imageUrl": "https://opengraph.githubassets.com/71a318035019b2e4a009561f4cec2b0da47e8819572bf6b6fcf7289f53a5cc2c/nafnlj/wordpress-comment-blacklist-NLJFork/commit/229a7ef19acff38680f19872679da829d0e12c2b"
         }
       ]
     },
@@ -1000,6 +950,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA",
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=U53omUiCMjQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=U53omUiCMjQ",
+          "publishedOn": "2023-08-10T20:53:54.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo & Mark Caserta \"The Weight\" (The Band) Home Recording 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=oDQPWQ3i50g",
           "author": null,

@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-10T20:11:16.464Z</updated>
+    <updated>2023-08-11T14:09:01.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo & Mark Caserta "The Weight" (The Band) Home Recording 2022]]></title>
+        <id>https://www.youtube.com/watch?v=U53omUiCMjQ</id>
+        <link href="https://www.youtube.com/watch?v=U53omUiCMjQ"/>
+        <updated>2023-08-10T20:53:54.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[America’s Beloved Meyer Lemon Caused a Mid-Century Citrus Panic]]></title>
         <id>https://news.ycombinator.com/item?id=37076452</id>
@@ -1318,83 +1327,6 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 #linux #EndeavourOS]]></summary>
         <author>
             <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyword additions — 20230712]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/229a7ef19acff38680f19872679da829d0e12c2b</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/229a7ef19acff38680f19872679da829d0e12c2b"/>
-        <updated>2023-07-12T21:09:30.000Z</updated>
-        <summary type="html"><![CDATA[Keyword additions — 20230712]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110702724382268776</id>
-        <link href="https://linuxrocks.online/@nafnlj/110702724382268776"/>
-        <updated>2023-07-12T19:18:39.000Z</updated>
-        <summary type="html"><![CDATA[If the consigliere of New York City's Colombo crime family cannot log off, what hope is there for the normies? I present the story of the unfortunate consequences of "oversharing" for a mob boss on the run. (Note: Problems in this particular case could have been avoided by not engaging in criminal racketeering.)
-https://thenewleafjournal.com/mafia-social-media-over-sharing/
-#mafia #nyc #socialmedia #twitter #crime #fbi #oversharing]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barbie & Oppenheimer without context]]></title>
-        <id>https://thenewleafjournal.com/?p=20790</id>
-        <link href="https://thenewleafjournal.com/barbie-oppenheimer-without-context/"/>
-        <updated>2023-07-12T18:59:00.000Z</updated>
-        <summary type="html"><![CDATA[I stumbled on a meme by accident and determined that the "meme" is more humorous without knowledge of the meme.
-Possibly related posts...
-
-Historic Districts and Looming Tall Buildings
-Justin & Justina 〜 A Christmas Present Struggle
-A Trip Across Brooklyn's Summit Street Bridge
-The Cows of Bloomingdale's and Macy's at the 2021 NYC Cow…
-A Bike in the Snow in Brooklyn
-Brooklyn Snowman and Winter Storm Gail Sights
-Snowman with Mask 〜 It's the thought that counts
-A Walk Across the Hamilton Avenue Footbridge
-Ed Durr Walks To A Stunning Election Upset In New Jersey]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Revises New Driver for Stadia Controller Rumble Support on Linux]]></title>
-        <id>https://news.ycombinator.com/item?id=36696436</id>
-        <link href="https://www.phoronix.com/news/Stadia-Controller-FF-Linux"/>
-        <updated>2023-07-12T15:51:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.phoronix.com/news/Stadia-Controller-FF-Linux
-Comments URL: https://news.ycombinator.com/item?id=36696436
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stadia controller gets Linux rumble support]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20787</id>
-        <link href="https://thenewleafjournal.com/leafbud/stadia-controller-gets-linux-rumble-support/"/>
-        <updated>2023-07-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I wrote about the discontinuation of Google’s Stadia, a game streaming service, back in the context of game ownership. In that […]
-Possibly related posts...
-
-Stadia and the Value of Owning Games
-The best Nintendo controllers
-Don't Compare Stadia to the Dreamcast!
-Height differences in anime romances
-Google Discontinues Stadia
-The Sega Dreamcast Controller Joystick
-Mario Party's Joystick-Wrecking Rotation Games
-The Thin Digital Line Between "Buy" and "Rent"
-History of the Mario Party Gloves]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
