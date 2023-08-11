@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-11T14:09:01.043Z</updated>
+    <updated>2023-08-11T20:11:26.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1287,46 +1287,6 @@ Replacing soundbar and re-configuring universal remote for…
 Against Twitter as a Content Curator]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update update-feed.yaml]]></title>
-        <id>https://github.com/nafnlj/nljfeeds/commit/dd4c7503ee378c12c0fc5b6c33ad39073e44cfcb</id>
-        <link href="https://github.com/nafnlj/nljfeeds/commit/dd4c7503ee378c12c0fc5b6c33ad39073e44cfcb"/>
-        <updated>2023-07-13T05:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Update update-feed.yaml
-
-Changed update schedule to 10 AM and 4 PM EST]]></summary>
-        <author>
-            <name>Recent Commits to nljfeeds:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Obtaining Wireplumber logs:]]></title>
-        <id>https://memos.emucafe.org/m/26</id>
-        <link href="https://memos.emucafe.org/m/26"/>
-        <updated>2023-07-13T04:25:22.000Z</updated>
-        <summary type="html"><![CDATA[Obtaining Wireplumber logs:
-systemctl --user stop wireplumber
-WIREPLUMBER_DEBUG=3 wireplumber 2>&1 | tee wireplumber.log
-
-https://gitlab.freedesktop.org/pipewire/wireplumber/-/issues/263
-#linux]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grub update command on EndeavourOS]]></title>
-        <id>https://memos.emucafe.org/m/25</id>
-        <link href="https://memos.emucafe.org/m/25"/>
-        <updated>2023-07-13T02:46:07.000Z</updated>
-        <summary type="html"><![CDATA[Grub update command on EndeavourOS
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-
-#linux #EndeavourOS]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
         </author>
     </entry>
 </feed>

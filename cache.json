@@ -24,16 +24,6 @@
           "wordCount": 461,
           "title": "Update osmosfeed.yaml",
           "imageUrl": "https://opengraph.githubassets.com/e39b75f49dde85c97c974315999422c2f7fd1da7908f4da6a54014f0efe35dbb/nafnlj/nljfeeds/commit/8619873137bc839b1e3b4da93e86f813aacf2ed5"
-        },
-        {
-          "id": "https://github.com/nafnlj/nljfeeds/commit/dd4c7503ee378c12c0fc5b6c33ad39073e44cfcb",
-          "author": null,
-          "description": "Update update-feed.yaml\n\nChanged update schedule to 10 AM and 4 PM EST",
-          "link": "https://github.com/nafnlj/nljfeeds/commit/dd4c7503ee378c12c0fc5b6c33ad39073e44cfcb",
-          "publishedOn": "2023-07-13T05:55:52.000Z",
-          "wordCount": 481,
-          "title": "Update update-feed.yaml",
-          "imageUrl": "https://opengraph.githubassets.com/6767b1ac16291f9b965ff59e5f6581c353a66d70209692f14063bfd794c3453c/nafnlj/nljfeeds/commit/dd4c7503ee378c12c0fc5b6c33ad39073e44cfcb"
         }
       ]
     },
@@ -530,26 +520,6 @@
           "publishedOn": "2023-07-26T21:54:31.000Z",
           "wordCount": 21,
           "title": "YAML to add to Ghostwriter markdown document for Pandoc LaTeX conversion to PDF without page numbers...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/26",
-          "author": null,
-          "description": "Obtaining Wireplumber logs:\nsystemctl --user stop wireplumber\nWIREPLUMBER_DEBUG=3 wireplumber 2>&1 | tee wireplumber.log\n\nhttps://gitlab.freedesktop.org/pipewire/wireplumber/-/issues/263\n#linux",
-          "link": "https://memos.emucafe.org/m/26",
-          "publishedOn": "2023-07-13T04:25:22.000Z",
-          "wordCount": 21,
-          "title": "Obtaining Wireplumber logs:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/25",
-          "author": null,
-          "description": "Grub update command on EndeavourOS\nsudo grub-mkconfig -o /boot/grub/grub.cfg\n\n#linux #EndeavourOS",
-          "link": "https://memos.emucafe.org/m/25",
-          "publishedOn": "2023-07-13T02:46:07.000Z",
-          "wordCount": 21,
-          "title": "Grub update command on EndeavourOS",
           "imageUrl": null
         }
       ]
