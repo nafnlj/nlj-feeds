@@ -33,6 +33,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20939",
+          "author": "Nicholas A. Ferrell",
+          "description": "Digging up an old user-created guide for Nintendo's 1990 Golf entry for Game Boy on Game FAQs.\nPossibly related posts...\n\nOldest Golfers to Contend for Majors Between the 1968 and…\nGolf and Immigration: Matter of Masters\nThe Poor Little Bird - Visual Novel Review\nWhat is an \"Android Alternative\"?\nInstalling and Running Bodhi Linux on a 2007 MacBook\nThe Model and the Model Maker\nBookmark: Death of Feedburner?\nOn the Game Boy Renaissance\n30 Golf Carts Destroyed in Thailand Fire",
+          "link": "https://thenewleafjournal.com/game-faqs-guide-for-game-boy-golf-1990/",
+          "publishedOn": "2023-08-12T19:30:00.000Z",
+          "wordCount": null,
+          "title": "Game FAQs Guide for Game Boy Golf (1990)",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20928",
           "author": "Nicholas A. Ferrell",
           "description": "Memories of past Brooklyn Bridge walks -- memorialized with BlackBerry Classic photography.\nPossibly related posts...\n\n1997 Otis Thorpe trade and the 2003 NBA Draft\n1883 Opening of the Brooklyn Bridge\nThe Heroic Fallen Trash Can Rescue in Gowanus\nShould the Pistons have drafted Carmelo?\nA Trip Across Brooklyn's Summit Street Bridge\nThe Brooklyn Bridge's Mysterious Cobweb Lane\nJustin and Justina review 2022 at the NLJ\nFreedom Tower in the Fog From the Brooklyn Bridge\nJustin & Justina: Most-Read NLJ Content of 2020",
@@ -333,6 +343,16 @@
       "feedUrl": "https://buttondown.email/newsletterleafjournal/rss",
       "siteUrl": "https://buttondown.email/newsletterleafjournal",
       "articles": [
+        {
+          "id": "https://buttondown.email/newsletterleafjournal/archive/148/",
+          "author": null,
+          "description": "Welcome to the 148th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. We had a slow week in terms of article publishing, but that will not slow down this newsletter.\nLeaves from the week that was\nI published one new article since mailing newsletter 147.\nTrash pick-up vehicle on Brooklyn Bridge\nA 2019 photo of a small New York City DOT truck on the Brooklyn Bridge's then-narrower pedestrian walkway.\nI also published three short posts.\nMTA announces G-Train Upgrades (I offer some brief thoughts on one of the most unique NYC Subway lines)\nBrave no longer relying on Bing images (Brave drops i…",
+          "link": "https://buttondown.email/newsletterleafjournal/archive/148/",
+          "publishedOn": "2023-08-12T14:26:16.000Z",
+          "wordCount": 2298,
+          "title": "Newsletter Leaf Journal CXLVIII 〜 Driving down the walkway 〜",
+          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter Leaf Journal CXLVIII 〜 Driving down the walkway 〜&author=The Newsletter Leaf Journal&date=2023-08-12&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
+        },
         {
           "id": "https://buttondown.email/newsletterleafjournal/archive/147/",
           "author": null,

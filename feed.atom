@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-12T14:09:02.855Z</updated>
+    <updated>2023-08-12T20:10:14.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Game FAQs Guide for Game Boy Golf (1990)]]></title>
+        <id>https://thenewleafjournal.com/?p=20939</id>
+        <link href="https://thenewleafjournal.com/game-faqs-guide-for-game-boy-golf-1990/"/>
+        <updated>2023-08-12T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Digging up an old user-created guide for Nintendo's 1990 Golf entry for Game Boy on Game FAQs.
+Possibly related posts...
+
+Oldest Golfers to Contend for Majors Between the 1968 and…
+Golf and Immigration: Matter of Masters
+The Poor Little Bird - Visual Novel Review
+What is an "Android Alternative"?
+Installing and Running Bodhi Linux on a 2007 MacBook
+The Model and the Model Maker
+Bookmark: Death of Feedburner?
+On the Game Boy Renaissance
+30 Golf Carts Destroyed in Thailand Fire]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXLVIII 〜 Driving down the walkway 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/148/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/148/"/>
+        <updated>2023-08-12T14:26:16.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 148th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. We had a slow week in terms of article publishing, but that will not slow down this newsletter.
+Leaves from the week that was
+I published one new article since mailing newsletter 147.
+Trash pick-up vehicle on Brooklyn Bridge
+A 2019 photo of a small New York City DOT truck on the Brooklyn Bridge's then-narrower pedestrian walkway.
+I also published three short posts.
+MTA announces G-Train Upgrades (I offer some brief thoughts on one of the most unique NYC Subway lines)
+Brave no longer relying on Bing images (Brave drops i…]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victor V. Gurbo & Mark Caserta "The Weight" (The Band) Home Recording 2022]]></title>
         <id>https://www.youtube.com/watch?v=U53omUiCMjQ</id>
