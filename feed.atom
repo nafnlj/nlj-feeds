@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-12T20:10:14.356Z</updated>
+    <updated>2023-08-13T14:09:05.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[See my associated article: https://thenewleafjournal.com/trash-pick-up-vehicle-on-brooklyn-bridge/
+
+I took this photo on New York City's Brooklyn Bridge with my BlackBerry Classic phone camera on August 12, 2019. This photo is next to the first Manhattan pedestrian exit and close to the second. Back in 2019, the small pedestrian walkway was split between walkers and bikers (the bikes were banished to a separate path in 2021). The Bridge was difficult to navigate without NYC DOT trucks doing trash pickup in broad daylight. My photo does not capture how much it was struggling, but note that the only way around it was for walkers to go into the bike path (left side was for walkers).
+
+#nyc #brooklynbridge #manhattan #truck #trash #pedestrians #walkway #shotonblackberry #blackberryclassic #newleafjournal #thenewleafjournal]]></title>
+        <id>https://pixelfed.social/p/nafnlj/596176005138926699</id>
+        <link href="https://pixelfed.social/p/nafnlj/596176005138926699"/>
+        <updated>2023-08-13T03:10:36.000Z</updated>
+        <summary type="html"><![CDATA[See my associated article: <a href="https://thenewleafjournal.com/trash-pick-up-vehicle-on-brooklyn-bridge/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/trash-pick-up-vehicle-on-brooklyn-bridge/</a><br />
+<br />
+I took this photo on New York City's Brooklyn Bridge with my BlackBerry Classic phone camera on August 12, 2019. This photo is next to the first Manhattan pedestrian exit and close to the second. Back in 2019, the small pedestrian walkway was split between walkers and bikers (the bikes were banished to a separate path in 2021). The Bridge was difficult to navigate without NYC DOT trucks doing trash pickup in broad daylight. My photo does not capture how much it was struggling, but note that the only way around it was for walkers to go into the bike path (left side was for walkers).<br />
+<br />
+<a href="https://pixelfed.social/discover/tags/nyc?src=hash" title="#nyc" class="u-url hashtag" rel="external nofollow noopener">#nyc</a> <a href="https://pixelfed.social/discover/tags/brooklynbridge?src=hash" title="#brooklynbridge" class="u-url hashtag" rel="external nofollow noopener">#brooklynbridge</a> <a href="https://pixelfed.social/discover/tags/manhattan?src=hash" title="#manhattan" class="u-url hashtag" rel="external nofollow noopener">#manhattan</a> <a href="https://pixelfed.social/discover/tags/truck?src=hash" title="#truck" class="u-url hashtag" rel="external nofollow noopener">#truck</a> <a href="https://pixelfed.social/discover/tags/trash?src=hash" title="#trash" class="u-url hashtag" rel="external nofollow noopener">#trash</a> <a href="https://pixelfed.social/discover/tags/pedestrians?src=hash" title="#pedestrians" class="u-url hashtag" rel="external nofollow noopener">#pedestrians</a> <a href="https://pixelfed.social/discover/tags/walkway?src=hash" title="#walkway" class="u-url hashtag" rel="external nofollow noopener">#walkway</a> <a href="https://pixelfed.social/discover/tags/shotonblackberry?src=hash" title="#shotonblackberry" class="u-url hashtag" rel="external nofollow noopener">#shotonblackberry</a> <a href="https://pixelfed.social/discover/tags/blackberryclassic?src=hash" title="#blackberryclassic" class="u-url hashtag" rel="external nofollow noopener">#blackberryclassic</a> <a href="https://pixelfed.social/discover/tags/newleafjournal?src=hash" title="#newleafjournal" class="u-url hashtag" rel="external nofollow noopener">#newleafjournal</a> <a href="https://pixelfed.social/discover/tags/thenewleafjournal?src=hash" title="#thenewleafjournal" class="u-url hashtag" rel="external nofollow noopener">#thenewleafjournal</a>]]></summary>
+        <author>
+            <name>nafnlj on Pixelfed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disabling Intel E-Cores CPU Nets 50% Better Performance in Atlas Fallen]]></title>
+        <id>https://news.ycombinator.com/item?id=37106005</id>
+        <link href="https://wccftech.com/disabling-intel-e-cores-hybrid-cpu-50-percent-better-performance-atlas-fallen/"/>
+        <updated>2023-08-13T02:11:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wccftech.com/disabling-intel-e-cores-hybrid-cpu-50-percent-better-performance-atlas-fallen/
+Comments URL: https://news.ycombinator.com/item?id=37106005
+Points: 8
+# Comments: 3]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Game FAQs Guide for Game Boy Golf (1990)]]></title>
         <id>https://thenewleafjournal.com/?p=20939</id>
@@ -1228,37 +1259,6 @@ The Girl I Like Forgo…]]></summary>
         <summary type="html"><![CDATA[Keyword additions and optimizations — 20230715
 
 With contributions from @nafnlj … thanks!]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japanese Language Env in Steam (Linux)]]></title>
-        <id>https://thenewleafjournal.com/?p=20808</id>
-        <link href="https://thenewleafjournal.com/japanese-language-env-in-steam-linux/"/>
-        <updated>2023-07-15T00:35:43.000Z</updated>
-        <summary type="html"><![CDATA[Last year, I wrote a guide for Linux users on how to configure a Japanese language environment for three graphical interfaces […]
-Possibly related posts...
-
-On DRM-Free Games on Steam
-On Improving the Environment For Gaming On Linux
-Digital Purchases as Indefinite Rentals
-LoveChoice Visual Novel Review
-Kaori After Story - Visual Novel Review
-The Mystery of Sōseki and Tsuki ga Kirei
-ACE Academy - Visual Novel Review
-Return to Shironagasu Island Review
-The al|together and Insani Visual Novel Translations]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyword additions — 20230714]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7bb4abe892453317907c4c436fa93511938ca84f</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7bb4abe892453317907c4c436fa93511938ca84f"/>
-        <updated>2023-07-14T16:25:50.000Z</updated>
-        <summary type="html"><![CDATA[Keyword additions — 20230714]]></summary>
         <author>
             <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
