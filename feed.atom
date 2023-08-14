@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-14T14:10:30.562Z</updated>
+    <updated>2023-08-14T20:11:32.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXLVIII]]></title>
+        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20964</id>
+        <link href="https://thenewleafjournal.com/letter/148/"/>
+        <updated>2023-08-14T16:27:58.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the syndicated 148th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, […]
+Possibly related posts...
+
+The Newsletter Leaf Journal at 100
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin and Justina review 2022 at the NLJ
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The New Leaf Journal Newsletter
+How to Find Substack RSS Feeds and Other Notes
+The New Leaf Journal Celebrates Its First Birthday
+The Newsletter Leaf Journal VIII
+Most-Visited NLJ Articles of 1H 2023]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TikTok Encroaches on Amazon’s Turf]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20959</id>
@@ -1291,38 +1312,6 @@ The Old Leaf Journal
 While I did not publish new articles, we can dig into the arc…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golf - FAQ - Game Boy - By winnie_the_poop - GameFAQs]]></title>
-        <id>https://hypothes.is/a/GkSX2COREe6TqutR_YFFEA</id>
-        <link href="https://hypothes.is/a/GkSX2COREe6TqutR_YFFEA"/>
-        <updated>2023-07-16T04:27:41.274Z</updated>
-        <summary type="html"><![CDATA[The toughest part of the game is easily deciding which club you will use
-because the game gives you absolutely no clue on how long a club will take
-you, if you use its full potiental. Well, I calculated the distances... use
-this table to find which club you would use when in need.
-
- ----------------------------
-|   Club   |  Max. Distance  |
-|----------------------------|
-|    1W    |    260 yards    |
-|    3W    |    230 yards    |
-|    4W    |    220 yards    |
-|    1I    |    210 yards    |
-|    3I    |    190 yards    |
-|    4I    |    180 yards    |
-|    5I    |    170 yards    |
-|    6I    |    160 yards    |
-|    7I    |    150 yards    |
-|    8I    |    140 yards    |
-|    9I    |    125 yards    |
-|    PW    |    100 yards    |
-|    SW    |     75 yards    |
-|    PT    |     30 yards
-Guide for club distance in original Game Boy Golf.]]></summary>
-        <author>
-            <name>Hypothesis Stream</name>
         </author>
     </entry>
 </feed>

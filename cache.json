@@ -284,6 +284,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=letter&p=20964",
+          "author": "Nicholas A. Ferrell",
+          "description": "Welcome to the syndicated 148th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal VIII\nMost-Visited NLJ Articles of 1H 2023",
+          "link": "https://thenewleafjournal.com/letter/148/",
+          "publishedOn": "2023-08-14T16:27:58.000Z",
+          "wordCount": null,
+          "title": "Newsletter Leaf Journal CXLVIII",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=letter&p=20937",
           "author": "Nicholas A. Ferrell",
           "description": "Welcome to the syndicated version of the 147th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal VIII\nMost-Visited NLJ Articles of 1H 2023",
@@ -514,16 +524,6 @@
           "publishedOn": "2023-07-29T17:34:09.836Z",
           "wordCount": 18,
           "title": "Daily Tech News 29 July 2023",
-          "imageUrl": "/assets/images/share-image.png"
-        },
-        {
-          "id": "https://hypothes.is/a/GkSX2COREe6TqutR_YFFEA",
-          "author": null,
-          "description": "The toughest part of the game is easily deciding which club you will use\nbecause the game gives you absolutely no clue on how long a club will take\nyou, if you use its full potiental. Well, I calculated the distances... use\nthis table to find which club you would use when in need.\n\n ----------------------------\n|   Club   |  Max. Distance  |\n|----------------------------|\n|    1W    |    260 yards    |\n|    3W    |    230 yards    |\n|    4W    |    220 yards    |\n|    1I    |    210 yards    |\n|    3I    |    190 yards    |\n|    4I    |    180 yards    |\n|    5I    |    170 yards    |\n|    6I    |    160 yards    |\n|    7I    |    150 yards    |\n|    8I    |    140 yards    |\n|    9I    |    125 yards    |\n|    PW    |    100 yards    |\n|    SW    |     75 yards    |\n|    PT    |     30 yards\nGuide for club distance in original Game Boy Golf.",
-          "link": "https://hypothes.is/a/GkSX2COREe6TqutR_YFFEA",
-          "publishedOn": "2023-07-16T04:27:41.274Z",
-          "wordCount": 18,
-          "title": "Golf - FAQ - Game Boy - By winnie_the_poop - GameFAQs",
           "imageUrl": "/assets/images/share-image.png"
         }
       ]
