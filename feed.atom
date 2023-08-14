@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-13T20:10:25.730Z</updated>
+    <updated>2023-08-14T14:10:30.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TikTok Encroaches on Amazon’s Turf]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20959</id>
+        <link href="https://thenewleafjournal.com/leafbud/tiktok-encroaches-on-amazons-turf/"/>
+        <updated>2023-08-14T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[From a July 25, 2023 article in The Greater China Journal: TikTok plans to launch a new e-commerce platform in early […]
+Possibly related posts...
+
+The Thin Digital Line Between "Buy" and "Rent"
+DRM and losing the quality you paid for
+A Look at ProxiTok, a TikTok Frontend
+On Children, TikTok, and Social Media Stardom
+Amazon Black Hat Seller Scenario
+Justin and Justina review 2022 at the NLJ
+The Misleading DRM E-Book Buy Button
+Capo vs Capo, a TikTok Debacle
+Reviewing Keikai Launcher (Android)]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lighthouse for Sale in Michigan]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20955</id>
@@ -1302,32 +1323,6 @@ this table to find which club you would use when in need.
 Guide for club distance in original Game Boy Golf.]]></summary>
         <author>
             <name>Hypothesis Stream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXLIV 〜 The NLJ didn't forget its newsletter 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/144/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/144/"/>
-        <updated>2023-07-15T21:56:28.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 144th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal, with content too amazing for Bing and DuckDuckGo.  This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. I published a decent number of regular articles this week (not too many short posts, however), and we will review those below in conjunction with links from around the web and other news and notes.
-Leaves from the week that was
-I published five normal articles.
-Installing Non-Listed Programs in PlayOnLinux: A step-by-step guide to running Windows programs with the help of PlayOnLinux (the guide is probably applicable to PlayOnMac as well)
-The Girl I Like Forgo…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyword additions and optimizations — 20230715]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/6d7962968391981e2f6ae4fd2381574b3d72468a</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/6d7962968391981e2f6ae4fd2381574b3d72468a"/>
-        <updated>2023-07-15T19:07:29.000Z</updated>
-        <summary type="html"><![CDATA[Keyword additions and optimizations — 20230715
-
-With contributions from @nafnlj … thanks!]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
 </feed>
