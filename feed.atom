@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-15T14:09:06.455Z</updated>
+    <updated>2023-08-15T20:10:48.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Changing My View of School Days’ Setsuna]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20960</id>
+        <link href="https://thenewleafjournal.com/leaf/changing-my-view-of-school-days-setsuna/"/>
+        <updated>2023-08-15T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Note: School Days anime spoilers ahead. I hope that does not matter to you since School Days is 16 years old […]
+Possibly related posts...
+
+The Nice Boat 〜 A Look Back at the School Days Anime
+What Makes a Depressing Anime? Discussion and Selection.
+The Best of Anime in 2022: Year in Review
+The Best Anime Series of 2021
+Height differences in anime romances
+Anime Recommendations of the Decade (2011-20)
+Learning How to Change a Twitter Username
+The Angel Next Door Spoils Me Rotten - Anime Review
+The Girl I Like Forgot Her Glasses Ep1 Animation]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update blacklist.txt]]></title>
         <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4452d99aec1435a6f7fcb101e8c6bf85c103ed53</id>
