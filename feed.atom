@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-14T20:11:32.198Z</updated>
+    <updated>2023-08-15T14:09:06.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4452d99aec1435a6f7fcb101e8c6bf85c103ed53</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4452d99aec1435a6f7fcb101e8c6bf85c103ed53"/>
+        <updated>2023-08-15T14:04:14.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt
+
+Added sauri-sushi]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update blacklist.txt]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/578b3bdf3776df2493b758a44767cc64ea86f61f</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/578b3bdf3776df2493b758a44767cc64ea86f61f"/>
+        <updated>2023-08-14T23:52:56.000Z</updated>
+        <summary type="html"><![CDATA[Update blacklist.txt
+
+Added:
+famos-store
+cloud-korea
+helpful work
+best gifts]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'splorp:master' into master]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bf47eccf4ca73e34ec6772597e9a58d5eb06a490</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bf47eccf4ca73e34ec6772597e9a58d5eb06a490"/>
+        <updated>2023-08-14T23:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Merge branch 'splorp:master' into master]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions — 20230814]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4dccaf0bca1c01bf25e68d3730a81de8e6ff8b1d</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4dccaf0bca1c01bf25e68d3730a81de8e6ff8b1d"/>
+        <updated>2023-08-14T17:41:23.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions — 20230814]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXLVIII]]></title>
         <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20964</id>
@@ -147,6 +195,16 @@ Points: 8
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bumped history]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d4aa80a99e77fe281928907f780706c3ed4b5b1b</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d4aa80a99e77fe281928907f780706c3ed4b5b1b"/>
+        <updated>2023-08-12T19:32:10.000Z</updated>
+        <summary type="html"><![CDATA[Bumped history]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Game FAQs Guide for Game Boy Golf (1990)]]></title>
         <id>https://thenewleafjournal.com/?p=20939</id>
         <link href="https://thenewleafjournal.com/game-faqs-guide-for-game-boy-golf-1990/"/>
@@ -168,6 +226,26 @@ On the Game Boy Renaissance
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Remove potential false positives per #61]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/883df6922a3b5e42ae45bf8d207b454a632208d3</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/883df6922a3b5e42ae45bf8d207b454a632208d3"/>
+        <updated>2023-08-12T19:27:03.000Z</updated>
+        <summary type="html"><![CDATA[Remove potential false positives per #61]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions — 20230812]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/e062ac3cbcc6a40ada02dcf10e6200b9877868d9</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/e062ac3cbcc6a40ada02dcf10e6200b9877868d9"/>
+        <updated>2023-08-12T18:20:44.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions — 20230812]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CXLVIII 〜 Driving down the walkway 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/148/</id>
         <link href="https://buttondown.email/newsletterleafjournal/archive/148/"/>
@@ -182,6 +260,16 @@ MTA announces G-Train Upgrades (I offer some brief thoughts on one of the most u
 Brave no longer relying on Bing images (Brave drops i…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions and optimizations — 20230811]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4991c96f6acba60f8e6ad4f59a73e34ca744e86c</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4991c96f6acba60f8e6ad4f59a73e34ca744e86c"/>
+        <updated>2023-08-11T20:51:31.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions and optimizations — 20230811]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
     <entry>
