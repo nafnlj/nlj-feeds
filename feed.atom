@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-16T20:11:26.839Z</updated>
+    <updated>2023-08-17T14:10:02.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'splorp:master' into master]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/35952f9d30690e8ecc1d5f94aebbd6f67b9819ab</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/35952f9d30690e8ecc1d5f94aebbd6f67b9819ab"/>
+        <updated>2023-08-16T21:22:59.000Z</updated>
+        <summary type="html"><![CDATA[Merge branch 'splorp:master' into master]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyword additions — 20230816]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/77b20e35b6fba3295dd492dd5cc62055199252bc</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/77b20e35b6fba3295dd492dd5cc62055199252bc"/>
+        <updated>2023-08-16T15:14:28.000Z</updated>
+        <summary type="html"><![CDATA[Keyword additions — 20230816]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changing My View of School Days’ Setsuna]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20960</id>

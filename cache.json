@@ -635,6 +635,26 @@
       "siteUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master",
       "articles": [
         {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/35952f9d30690e8ecc1d5f94aebbd6f67b9819ab",
+          "author": null,
+          "description": "Merge branch 'splorp:master' into master",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/35952f9d30690e8ecc1d5f94aebbd6f67b9819ab",
+          "publishedOn": "2023-08-16T21:22:59.000Z",
+          "wordCount": 678,
+          "title": "Merge branch 'splorp:master' into master",
+          "imageUrl": "https://opengraph.githubassets.com/b2f0f3485e440d1dae28f2c8be3b2884b717d1298b2472dfed555aa505a1ca5c/nafnlj/wordpress-comment-blacklist-NLJFork/commit/35952f9d30690e8ecc1d5f94aebbd6f67b9819ab"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/77b20e35b6fba3295dd492dd5cc62055199252bc",
+          "author": null,
+          "description": "Keyword additions — 20230816",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/77b20e35b6fba3295dd492dd5cc62055199252bc",
+          "publishedOn": "2023-08-16T15:14:28.000Z",
+          "wordCount": 674,
+          "title": "Keyword additions — 20230816",
+          "imageUrl": "https://opengraph.githubassets.com/c64a77b5c709a4fee44d5305aa8d3aa544eb3a1b272528465c0b1370c85044c2/nafnlj/wordpress-comment-blacklist-NLJFork/commit/77b20e35b6fba3295dd492dd5cc62055199252bc"
+        },
+        {
           "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4452d99aec1435a6f7fcb101e8c6bf85c103ed53",
           "author": null,
           "description": "Update blacklist.txt\n\nAdded sauri-sushi",
