@@ -544,6 +544,16 @@
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
         {
+          "id": "https://memos.emucafe.org/m/28",
+          "author": null,
+          "description": "I set up an repository for osmosmemo. I can use a Firefox extension to immediately save links (with notes and tags) into a GitHub readme. One drawback is that it only works with GitHub. But I used the same token that I created to give the extension read/write access to clone the repo to my Gitea instance. Seems like a neat tool.\n#Bookmarking",
+          "link": "https://memos.emucafe.org/m/28",
+          "publishedOn": "2023-08-17T18:09:55.000Z",
+          "wordCount": 21,
+          "title": "I set up an repository for [osmosmemo](https://github.com/osmoscraft/osmosmemo-template). I can use ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://memos.emucafe.org/m/27",
           "author": null,
           "description": "YAML to add to Ghostwriter markdown document for Pandoc LaTeX conversion to PDF without page numbers:\n---\npagestyle: empty\n\n---\n\n#Ghostwriter #markdown #pandoc #pdf",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-17T14:10:02.382Z</updated>
+    <updated>2023-08-17T20:11:44.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I set up an repository for [osmosmemo](https://github.com/osmoscraft/osmosmemo-template). I can use ...]]></title>
+        <id>https://memos.emucafe.org/m/28</id>
+        <link href="https://memos.emucafe.org/m/28"/>
+        <updated>2023-08-17T18:09:55.000Z</updated>
+        <summary type="html"><![CDATA[I set up an repository for osmosmemo. I can use a Firefox extension to immediately save links (with notes and tags) into a GitHub readme. One drawback is that it only works with GitHub. But I used the same token that I created to give the extension read/write access to clone the repo to my Gitea instance. Seems like a neat tool.
+#Bookmarking]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'splorp:master' into master]]></title>
         <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/35952f9d30690e8ecc1d5f94aebbd6f67b9819ab</id>
