@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-18T20:11:13.088Z</updated>
+    <updated>2023-08-19T14:08:19.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Merge pull request #2 from nafnlj/nafnlj-patch-1]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/e634fc2e4c5c596dc5d581863d976ea048d993d9</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/e634fc2e4c5c596dc5d581863d976ea048d993d9"/>
+        <updated>2023-08-19T05:54:59.000Z</updated>
+        <summary type="html"><![CDATA[Merge pull request #2 from nafnlj/nafnlj-patch-1
+
+Rename README1.md to README.md]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rename README1.md to README.md]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bd2d4c7b408e6c9bad9b5d8573e2724bd534b4cf</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bd2d4c7b408e6c9bad9b5d8573e2724bd534b4cf"/>
+        <updated>2023-08-19T05:53:39.000Z</updated>
+        <summary type="html"><![CDATA[Rename README1.md to README.md]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rename README.md to README-upstream.md]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b576e7c8771b33818b6cd9ff9b2f2ba8453ed170</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b576e7c8771b33818b6cd9ff9b2f2ba8453ed170"/>
+        <updated>2023-08-19T05:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Rename README.md to README-upstream.md]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rename readme-upstream-project.md to README.md]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/ea980325ab734cc9dbfcae2b0ccd2749f07098bb</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/ea980325ab734cc9dbfcae2b0ccd2749f07098bb"/>
+        <updated>2023-08-19T05:52:30.000Z</updated>
+        <summary type="html"><![CDATA[Rename readme-upstream-project.md to README.md
+
+Temp-change]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rename README.md to README1.md]]></title>
+        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8aacbf50b543373b323c3e5fe7a07f783ca123c9</id>
+        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8aacbf50b543373b323c3e5fe7a07f783ca123c9"/>
+        <updated>2023-08-19T05:51:38.000Z</updated>
+        <summary type="html"><![CDATA[Rename README.md to README1.md
+
+Temporary change]]></summary>
+        <author>
+            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baby Shark Games and Censorship]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20968</id>
+        <link href="https://thenewleafjournal.com/leafbud/baby-shark-games-and-censorship/"/>
+        <updated>2023-08-19T01:29:33.000Z</updated>
+        <summary type="html"><![CDATA[From a June 26, 2023 report in Nintendo Life: Yes, you read that headline correctly. Outright Games has today announced that […]
+Possibly related posts...
+
+Flood of Tears - Visual Novel Review
+The "King Baby BKF" Sticker in Gowanus, Brooklyn
+You Can't Fix Stupid - King Baby
+The Downstream Effects of Bing's Tiananmen Square Censorship
+Four May Issues of The Nursery Magazine (1873-81)
+The Enigmatic Life and Death of Emperor Otho
+"King Baby" Graffiti on a Truck in Gowanus
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Duck and Duckling Rescue Stories From Around the Web]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I set up an repository for [osmosmemo](https://github.com/osmoscraft/osmosmemo-template). I can use ...]]></title>
         <id>https://memos.emucafe.org/m/28</id>

@@ -207,6 +207,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20968",
+          "author": "Nicholas A. Ferrell",
+          "description": "From a June 26, 2023 report in Nintendo Life: Yes, you read that headline correctly. Outright Games has today announced that […]\nPossibly related posts...\n\nFlood of Tears - Visual Novel Review\nThe \"King Baby BKF\" Sticker in Gowanus, Brooklyn\nYou Can't Fix Stupid - King Baby\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nFour May Issues of The Nursery Magazine (1873-81)\nThe Enigmatic Life and Death of Emperor Otho\n\"King Baby\" Graffiti on a Truck in Gowanus\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nDuck and Duckling Rescue Stories From Around the Web",
+          "link": "https://thenewleafjournal.com/leafbud/baby-shark-games-and-censorship/",
+          "publishedOn": "2023-08-19T01:29:33.000Z",
+          "wordCount": 1402,
+          "title": "Baby Shark Games and Censorship",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20959",
           "author": "Nicholas A. Ferrell",
           "description": "From a July 25, 2023 article in The Greater China Journal: TikTok plans to launch a new e-commerce platform in early […]\nPossibly related posts...\n\nThe Thin Digital Line Between \"Buy\" and \"Rent\"\nDRM and losing the quality you paid for\nA Look at ProxiTok, a TikTok Frontend\nOn Children, TikTok, and Social Media Stardom\nAmazon Black Hat Seller Scenario\nJustin and Justina review 2022 at the NLJ\nThe Misleading DRM E-Book Buy Button\nCapo vs Capo, a TikTok Debacle\nReviewing Keikai Launcher (Android)",
@@ -644,6 +654,56 @@
       "feedUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master.atom",
       "siteUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master",
       "articles": [
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/e634fc2e4c5c596dc5d581863d976ea048d993d9",
+          "author": null,
+          "description": "Merge pull request #2 from nafnlj/nafnlj-patch-1\n\nRename README1.md to README.md",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/e634fc2e4c5c596dc5d581863d976ea048d993d9",
+          "publishedOn": "2023-08-19T05:54:59.000Z",
+          "wordCount": 388,
+          "title": "Merge pull request #2 from nafnlj/nafnlj-patch-1",
+          "imageUrl": "https://opengraph.githubassets.com/973fbeef1b71bcc73c6a6ccadbdab7bb4715cd3ebcf1308801a34650344801e4/nafnlj/wordpress-comment-blacklist-NLJFork/commit/e634fc2e4c5c596dc5d581863d976ea048d993d9"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bd2d4c7b408e6c9bad9b5d8573e2724bd534b4cf",
+          "author": null,
+          "description": "Rename README1.md to README.md",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bd2d4c7b408e6c9bad9b5d8573e2724bd534b4cf",
+          "publishedOn": "2023-08-19T05:53:39.000Z",
+          "wordCount": 378,
+          "title": "Rename README1.md to README.md",
+          "imageUrl": "https://opengraph.githubassets.com/6545646edb763075b012a105c2322b9a5e3d393bc94bffd74f4b3ba38858c526/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bd2d4c7b408e6c9bad9b5d8573e2724bd534b4cf"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b576e7c8771b33818b6cd9ff9b2f2ba8453ed170",
+          "author": null,
+          "description": "Rename README.md to README-upstream.md",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b576e7c8771b33818b6cd9ff9b2f2ba8453ed170",
+          "publishedOn": "2023-08-19T05:53:25.000Z",
+          "wordCount": 378,
+          "title": "Rename README.md to README-upstream.md",
+          "imageUrl": "https://opengraph.githubassets.com/bcb3c0db2c76eb9b4d980b77fb31c0e4603bd26d358cfa6b99f0bc4c59f40b56/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b576e7c8771b33818b6cd9ff9b2f2ba8453ed170"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/ea980325ab734cc9dbfcae2b0ccd2749f07098bb",
+          "author": null,
+          "description": "Rename readme-upstream-project.md to README.md\n\nTemp-change",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/ea980325ab734cc9dbfcae2b0ccd2749f07098bb",
+          "publishedOn": "2023-08-19T05:52:30.000Z",
+          "wordCount": 379,
+          "title": "Rename readme-upstream-project.md to README.md",
+          "imageUrl": "https://opengraph.githubassets.com/8c067bb5462f89f5f7593f0dfa969f14f82e5ee517359220c2cf00b6d87ce7fc/nafnlj/wordpress-comment-blacklist-NLJFork/commit/ea980325ab734cc9dbfcae2b0ccd2749f07098bb"
+        },
+        {
+          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8aacbf50b543373b323c3e5fe7a07f783ca123c9",
+          "author": null,
+          "description": "Rename README.md to README1.md\n\nTemporary change",
+          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8aacbf50b543373b323c3e5fe7a07f783ca123c9",
+          "publishedOn": "2023-08-19T05:51:38.000Z",
+          "wordCount": 380,
+          "title": "Rename README.md to README1.md",
+          "imageUrl": "https://opengraph.githubassets.com/25968a05a13dc29fc4820c58f63775a03b0a74f8fa8eee4eb264b7ffbbf27ca1/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8aacbf50b543373b323c3e5fe7a07f783ca123c9"
+        },
         {
           "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/35952f9d30690e8ecc1d5f94aebbd6f67b9819ab",
           "author": null,
