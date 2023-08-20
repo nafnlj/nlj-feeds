@@ -33,6 +33,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=20979",
+          "author": "Nicholas A. Ferrell",
+          "description": "Calvin Coolidge described seeing then-President Benjamin Harrison speak when Coolidge was in college. I decided to find the story of Harrison's 1891 orations in Bennington, Vermont.\nPossibly related posts...\n\nBenjamin Harrison's Memorable July 4, 1888\nCalvin Coolidge's 1922 \"Better Homes\" Remarks\nCalvin Coolidge Describes His Mother, Victoria\nCalvin Coolidge On Why We Celebrate Independence Day\nWhen President Coolidge Spared a Raccoon From Thanksgiving…\nCalvin Coolidge's 1923 Thanksgiving Proclamation\nCalvin Coolidge's July 4, 1918 Remarks in Fairhaven\nApplying Coolidge's Remarks on the Home to the Digital Home\nThe Story of Billy Possum, President Hoover's Pet Opossum",
+          "link": "https://thenewleafjournal.com/coolidge-and-harrison-in-bennington/",
+          "publishedOn": "2023-08-20T17:04:15.000Z",
+          "wordCount": 4942,
+          "title": "Coolidge and Harrison in Bennington",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=20949",
           "author": "Victor V. Gurbo",
           "description": "\"The Band’s impact on the world of music has been immense, and they will live on in their work – and will always be, to me, very much alive whenever I play their records.\"\nPossibly related posts...\n\nFour May Issues of The Nursery Magazine (1873-81)\nThe Life Masks of John Henri Isaac Browere\nThe Enigmatic Life and Death of Emperor Otho\nBlue Violets - An 1880 Children's Poem\nJohn Browere's Death Mask of James Monroe\nMartial's Epigram on Emperor Otho\nTeaching the Art of the Video Game Snafu\nBarbie & Oppenheimer without context\nOn Children and Internet Sharing",
@@ -206,6 +216,16 @@
       "feedUrl": "https://thenewleafjournal.com/leafbud/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20977",
+          "author": "Nicholas A. Ferrell",
+          "description": "To the extent I have a preference for any form of social media, I prefer decentralization and ownership of one’s own […]\nPossibly related posts...\n\nReviewing the Mastodon Twitter Crossposter\nAgainst Twitter as a Content Curator\nLearning How to Change a Twitter Username\nSubstack Notes' Twitter clone war\nThe New Leaf Journal Twitter\nFediverse Clone Wars and Decentralized Social Media\nShutdown of dev Mastodon Twitter Crossposter instance\nThe Great Suspender and Twitter Stardom\nOn Improving the Environment For Gaming On Linux",
+          "link": "https://thenewleafjournal.com/leafbud/the-problem-with-remaking-twitter/",
+          "publishedOn": "2023-08-20T18:30:00.000Z",
+          "wordCount": 1532,
+          "title": "The problem with remaking Twitter",
+          "imageUrl": null
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20968",
           "author": "Nicholas A. Ferrell",
