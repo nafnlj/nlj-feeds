@@ -452,16 +452,6 @@
           "wordCount": 2210,
           "title": "Newsletter Leaf Journal CXLVI 〜 Waning Moon 〜",
           "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter Leaf Journal CXLVI 〜 Waning Moon 〜&author=The Newsletter Leaf Journal&date=2023-07-29&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/145/",
-          "author": null,
-          "description": "Welcome to the 145th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.\nThis will be an unusual newsletter since I did not actually publish any articles this week. I was busy with work and plagued by sinus issues. I do have an article in the pipeline, but I have not gotten around to publishing it yet. (Next week will likely be on the quiet side as well, albeit busy compared to a week of no publishing.) But we need not let the lack of publishing at The New Leaf Journal hinder its newsletter cousin...\nThe Old Leaf Journal\nWhile I did not publish new articles, we can dig into the arc…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/145/",
-          "publishedOn": "2023-07-22T22:14:06.000Z",
-          "wordCount": 2083,
-          "title": "Newsletter Leaf Journal CXLV 〜 Barren tree 〜",
-          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter Leaf Journal CXLV 〜 Barren tree 〜&author=The Newsletter Leaf Journal&date=2023-07-22&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
         }
       ]
     },
@@ -1103,26 +1093,6 @@
           "wordCount": 933,
           "title": "Update blacklist.txt",
           "imageUrl": "https://opengraph.githubassets.com/b92267e0196219def8049aad9026d0631f051f8b522eabac268c4833b3a5c720/nafnlj/wordpress-comment-blacklist-NLJFork/commit/46439783008989886cc1944033edc73c07ea8c25"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cb15c3be36e51baa6bbcf4d08afe91da0479c61d",
-          "author": null,
-          "description": "Update blacklist.txt",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cb15c3be36e51baa6bbcf4d08afe91da0479c61d",
-          "publishedOn": "2023-07-23T02:03:02.000Z",
-          "wordCount": 450,
-          "title": "Update blacklist.txt",
-          "imageUrl": "https://opengraph.githubassets.com/85ab71195f7f0e2ff6362b45525ddba6fb074eb2df3c5a3efe274206decf1b61/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cb15c3be36e51baa6bbcf4d08afe91da0479c61d"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7eaefd4efbdf37074b2b39fa93ba732978390d1c",
-          "author": null,
-          "description": "Update blacklist.txt\n\nAdded:\r\n\r\nblacksprut\r\ncbd\r\nhtc\r\nkraken\r\ngl.com\r\nsaocoitin.com\r\nslkjfdf.net\r\n.tw",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7eaefd4efbdf37074b2b39fa93ba732978390d1c",
-          "publishedOn": "2023-07-23T02:01:50.000Z",
-          "wordCount": 452,
-          "title": "Update blacklist.txt",
-          "imageUrl": "https://opengraph.githubassets.com/9277180c82795769f26629f75c3481bee661fb7c9a07c1301cf9aaad8b2863f0/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7eaefd4efbdf37074b2b39fa93ba732978390d1c"
         }
       ]
     },

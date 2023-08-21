@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-20T20:09:49.908Z</updated>
+    <updated>2023-08-21T14:09:54.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1542,50 +1542,6 @@ gtx]]></summary>
 - Added kraken]]></summary>
         <author>
             <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update blacklist.txt]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cb15c3be36e51baa6bbcf4d08afe91da0479c61d</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/cb15c3be36e51baa6bbcf4d08afe91da0479c61d"/>
-        <updated>2023-07-23T02:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Update blacklist.txt]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update blacklist.txt]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7eaefd4efbdf37074b2b39fa93ba732978390d1c</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/7eaefd4efbdf37074b2b39fa93ba732978390d1c"/>
-        <updated>2023-07-23T02:01:50.000Z</updated>
-        <summary type="html"><![CDATA[Update blacklist.txt
-
-Added:
-
-blacksprut
-cbd
-htc
-kraken
-gl.com
-saocoitin.com
-slkjfdf.net
-.tw]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXLV 〜 Barren tree 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/145/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/145/"/>
-        <updated>2023-07-22T22:14:06.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 145th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.
-This will be an unusual newsletter since I did not actually publish any articles this week. I was busy with work and plagued by sinus issues. I do have an article in the pipeline, but I have not gotten around to publishing it yet. (Next week will likely be on the quiet side as well, albeit busy compared to a week of no publishing.) But we need not let the lack of publishing at The New Leaf Journal hinder its newsletter cousin...
-The Old Leaf Journal
-While I did not publish new articles, we can dig into the arc…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>
