@@ -150,6 +150,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20988",
+          "author": "Nicholas A. Ferrell",
+          "description": "The New Leaf Journal has been hidden from Bing’s regular web search results since mid-January 2023. As a consequence, we have […]\nPossibly related posts...\n\nThe New Leaf Journal Celebrates Its First Birthday\nThe story of our Bing blacklisting\nThe Newsletter Leaf Journal at 100\nA 2021 List of Alternative Search Engines and Search…\nThe al|together and Insani Visual Novel Translations\nJustin & Justina: Most-Read NLJ Content of 2020\nJustin and Justina review 2022 at the NLJ\nBing's and DuckDuckGo's CCP Problem\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal",
+          "link": "https://thenewleafjournal.com/leaf/new-leaf-journal-maybe-back-on-bing/",
+          "publishedOn": "2023-08-21T17:03:57.000Z",
+          "wordCount": 1641,
+          "title": "New Leaf Journal (Maybe) Back on Bing",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=20960",
           "author": "Nicholas A. Ferrell",
           "description": "Note: School Days anime spoilers ahead. I hope that does not matter to you since School Days is 16 years old […]\nPossibly related posts...\n\nThe Nice Boat 〜 A Look Back at the School Days Anime\nWhat Makes a Depressing Anime? Discussion and Selection.\nThe Best of Anime in 2022: Year in Review\nThe Best Anime Series of 2021\nHeight differences in anime romances\nAnime Recommendations of the Decade (2011-20)\nLearning How to Change a Twitter Username\nThe Angel Next Door Spoils Me Rotten - Anime Review\nThe Girl I Like Forgot Her Glasses Ep1 Animation",
@@ -324,6 +334,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=letter&p=20974",
+          "author": "Nicholas A. Ferrell",
+          "description": "Welcome to the (syndicated) 149th edition of The Newsletter Leaf Journal. I mailed the original on Saturday, August 19, 2023. In […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal VIII\nMost-Visited NLJ Articles of 1H 2023",
+          "link": "https://thenewleafjournal.com/letter/149/",
+          "publishedOn": "2023-08-21T14:30:04.000Z",
+          "wordCount": 3110,
+          "title": "Newsletter Leaf Journal CXLIX",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2022/09/new-leaf-journal-mr-envelope-sr-c.opti_.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=letter&p=20964",
           "author": "Nicholas A. Ferrell",
           "description": "Welcome to the syndicated 148th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal VIII\nMost-Visited NLJ Articles of 1H 2023",
@@ -490,6 +510,16 @@
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
         {
+          "id": "https://linuxrocks.online/@nafnlj/110928711165281116",
+          "author": null,
+          "description": "I had some (likely) good news to share in our 149th newsletter. After 7 months, it appears that we are finally back on Bing. I noticed meaningful referrals on August 18 and it appears Bing began re-indexing our site on July 26. While I am not sure if it will stick, it looks like we are making progress. The newsletter also includes links to our newest articles and 12 interesting links from around the web.\nhttps://thenewleafjournal.com/letter/149/\n#newsletter #blog #searchengine #aroundtheweb #links",
+          "link": "https://linuxrocks.online/@nafnlj/110928711165281116",
+          "publishedOn": "2023-08-21T17:10:04.000Z",
+          "wordCount": 122,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxrocks.online/@nafnlj/110883653707340936",
           "author": null,
           "description": "I read an interesting fact about the last Nintendo Wii game being released in 2019. But was Just Dance 2020 really the last Wii game? I decided to investigate and learned that the answer depends on where you ask, but Just Dance 2020 was at least the last Wii game in North America.\nhttps://thenewleafjournal.com/the-last-nintendo-wii-games/\n#nintendo #nintendowii #videogames #videogamehistory",
@@ -600,6 +630,16 @@
       "feedUrl": "https://hnrss.org/user?id=nafnlj",
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=37210465",
+          "author": "nafnlj",
+          "description": "Article URL: https://brainbaking.com/post/2022/05/how-to-properly-store-your-gameboy-cartridges/\nComments URL: https://news.ycombinator.com/item?id=37210465\nPoints: 2\n# Comments: 0",
+          "link": "https://brainbaking.com/post/2022/05/how-to-properly-store-your-gameboy-cartridges/",
+          "publishedOn": "2023-08-21T15:01:19.000Z",
+          "wordCount": 1069,
+          "title": "How to Properly Store Your Game Boy Cartridges",
+          "imageUrl": "https://brainbaking.com/post/2022/05/how-to-properly-store-your-gameboy-cartridges/../case.jpg"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=37111962",
           "author": "nafnlj",

@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-21T14:09:54.278Z</updated>
+    <updated>2023-08-21T20:10:44.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110928711165281116</id>
+        <link href="https://linuxrocks.online/@nafnlj/110928711165281116"/>
+        <updated>2023-08-21T17:10:04.000Z</updated>
+        <summary type="html"><![CDATA[I had some (likely) good news to share in our 149th newsletter. After 7 months, it appears that we are finally back on Bing. I noticed meaningful referrals on August 18 and it appears Bing began re-indexing our site on July 26. While I am not sure if it will stick, it looks like we are making progress. The newsletter also includes links to our newest articles and 12 interesting links from around the web.
+https://thenewleafjournal.com/letter/149/
+#newsletter #blog #searchengine #aroundtheweb #links]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Leaf Journal (Maybe) Back on Bing]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20988</id>
+        <link href="https://thenewleafjournal.com/leaf/new-leaf-journal-maybe-back-on-bing/"/>
+        <updated>2023-08-21T17:03:57.000Z</updated>
+        <summary type="html"><![CDATA[The New Leaf Journal has been hidden from Bing’s regular web search results since mid-January 2023. As a consequence, we have […]
+Possibly related posts...
+
+The New Leaf Journal Celebrates Its First Birthday
+The story of our Bing blacklisting
+The Newsletter Leaf Journal at 100
+A 2021 List of Alternative Search Engines and Search…
+The al|together and Insani Visual Novel Translations
+Justin & Justina: Most-Read NLJ Content of 2020
+Justin and Justina review 2022 at the NLJ
+Bing's and DuckDuckGo's CCP Problem
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Properly Store Your Game Boy Cartridges]]></title>
+        <id>https://news.ycombinator.com/item?id=37210465</id>
+        <link href="https://brainbaking.com/post/2022/05/how-to-properly-store-your-gameboy-cartridges/"/>
+        <updated>2023-08-21T15:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brainbaking.com/post/2022/05/how-to-properly-store-your-gameboy-cartridges/
+Comments URL: https://news.ycombinator.com/item?id=37210465
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CXLIX]]></title>
+        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20974</id>
+        <link href="https://thenewleafjournal.com/letter/149/"/>
+        <updated>2023-08-21T14:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the (syndicated) 149th edition of The Newsletter Leaf Journal. I mailed the original on Saturday, August 19, 2023. In […]
+Possibly related posts...
+
+The Newsletter Leaf Journal at 100
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin and Justina review 2022 at the NLJ
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The New Leaf Journal Newsletter
+How to Find Substack RSS Feeds and Other Notes
+The New Leaf Journal Celebrates Its First Birthday
+The Newsletter Leaf Journal VIII
+Most-Visited NLJ Articles of 1H 2023]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The problem with remaking Twitter]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20977</id>
