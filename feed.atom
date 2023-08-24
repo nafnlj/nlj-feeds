@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-23T20:10:18.613Z</updated>
+    <updated>2023-08-24T14:09:21.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I am using an old LibreBooted ThinkPad as a "server"... really more as an always-on Syncthing node. ...]]></title>
+        <id>https://memos.emucafe.org/m/29</id>
+        <link href="https://memos.emucafe.org/m/29"/>
+        <updated>2023-08-24T05:01:00.000Z</updated>
+        <summary type="html"><![CDATA[I am using an old LibreBooted ThinkPad as a "server"... really more as an always-on Syncthing node. After having some issues with GNU Trisquel (probably my fault), I decided to go with Bodhi Linux 7.0 (I prefer to have a GUI). Installation went perfect but I had an issue with the behavior on sleep. By default, the laptop seems to suspend when I close the lid, which causes wi-fi to shut off.  Since I want it to be an always-on Syncthing node, I obviously need the wi-fi to stay on when I close the laptop. After fumbling for a solution, I read on a forum that the XFCE power manager works outside of XFCE.  That sounded good to me since I use XFCE on my main workstation and I am familiar with its GUI tools. I installed it (no extra dependencies - nice), enabled it, and modified the power settings.  It worked perfectly.  I mark this issue as solved.
+#linux #BodhiLinux #XFCE]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PDF Format History: Where Our Future History Lies (2018)]]></title>
         <id>https://news.ycombinator.com/item?id=37227854</id>
@@ -1540,42 +1551,6 @@ look and rate
 perfect gift
 png file
 кракена]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update blacklist.txt]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/713b53c4a483616772d963217b6b13d0814e59d6</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/713b53c4a483616772d963217b6b13d0814e59d6"/>
-        <updated>2023-07-25T15:48:42.000Z</updated>
-        <summary type="html"><![CDATA[Update blacklist.txt
-
-Added.
-
-business opportunity
-no-site.com
-prompt response]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'splorp:master' into master]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/804e4ebd1ac33fd662c3bfe18f1b72ebe8893cd8</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/804e4ebd1ac33fd662c3bfe18f1b72ebe8893cd8"/>
-        <updated>2023-07-25T15:42:46.000Z</updated>
-        <summary type="html"><![CDATA[Merge branch 'splorp:master' into master]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyword additions — 20230725]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bde4b28c24e1f147ab5fcfba585acba4814e8c40</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bde4b28c24e1f147ab5fcfba585acba4814e8c40"/>
-        <updated>2023-07-25T15:22:32.000Z</updated>
-        <summary type="html"><![CDATA[Keyword additions — 20230725]]></summary>
         <author>
             <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
