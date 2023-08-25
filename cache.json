@@ -614,6 +614,16 @@
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
         {
+          "id": "https://memos.emucafe.org/m/30",
+          "author": null,
+          "description": "I had a minor screen tearing issue on an old netbook (I do not know the exact year but the Windows 8 sticker suggests that it is old) running Bodhi Linux 7.0. A Bodhi forum post led me to a 2018 guide for fixing screen tearing on devices with integrated Intel graphics on a site dedicated to Ubuntu MATE (link). The first step was to run inxi -G to discover information about which version of Intel graphics was in use. Fortunately, my netbook used the exact version (2nd generation) as the example, so all I had to do was some simple copying and pasting. I rebooted and the screen tearing was gone. I linked to an archived version of the guide since this should remain a great resource for fixing screen tearing on older devices with Intel integrated graphics.\n#BodhiLinux #linux",
+          "link": "https://memos.emucafe.org/m/30",
+          "publishedOn": "2023-08-25T15:45:31.000Z",
+          "wordCount": 21,
+          "title": "I had a minor screen tearing issue on an old netbook (I do not know the exact year but the Windows 8...",
+          "imageUrl": null
+        },
+        {
           "id": "https://memos.emucafe.org/m/29",
           "author": null,
           "description": "I am using an old LibreBooted ThinkPad as a \"server\"... really more as an always-on Syncthing node. After having some issues with GNU Trisquel (probably my fault), I decided to go with Bodhi Linux 7.0 (I prefer to have a GUI). Installation went perfect but I had an issue with the behavior on sleep. By default, the laptop seems to suspend when I close the lid, which causes wi-fi to shut off.  Since I want it to be an always-on Syncthing node, I obviously need the wi-fi to stay on when I close the laptop. After fumbling for a solution, I read on a forum that the XFCE power manager works outside of XFCE.  That sounded good to me since I use XFCE on my main workstation and I am familiar with its GUI tools. I installed it (no extra dependencies - nice), enabled it, and modified the power settings.  It worked perfectly.  I mark this issue as solved.\n#linux #BodhiLinux #XFCE",
@@ -640,6 +650,16 @@
       "feedUrl": "https://hnrss.org/user?id=nafnlj",
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=37262664",
+          "author": "nafnlj",
+          "description": "Article URL: https://reason.com/volokh/2023/04/20/who-are-the-two-justices-to-use-the-word-baubles-in-an-opinion/\nComments URL: https://news.ycombinator.com/item?id=37262664\nPoints: 2\n# Comments: 0",
+          "link": "https://reason.com/volokh/2023/04/20/who-are-the-two-justices-to-use-the-word-baubles-in-an-opinion/",
+          "publishedOn": "2023-08-25T15:16:38.000Z",
+          "wordCount": 2146,
+          "title": "Who Are the Three US SCOTUS Justices to Use the Word “Baubles” in an Opinion?",
+          "imageUrl": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/11/the-volokh-conspiracy.jpg"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=37254772",
           "author": "nafnlj",

@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-25T14:09:19.315Z</updated>
+    <updated>2023-08-25T20:10:36.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I had a minor screen tearing issue on an old netbook (I do not know the exact year but the Windows 8...]]></title>
+        <id>https://memos.emucafe.org/m/30</id>
+        <link href="https://memos.emucafe.org/m/30"/>
+        <updated>2023-08-25T15:45:31.000Z</updated>
+        <summary type="html"><![CDATA[I had a minor screen tearing issue on an old netbook (I do not know the exact year but the Windows 8 sticker suggests that it is old) running Bodhi Linux 7.0. A Bodhi forum post led me to a 2018 guide for fixing screen tearing on devices with integrated Intel graphics on a site dedicated to Ubuntu MATE (link). The first step was to run inxi -G to discover information about which version of Intel graphics was in use. Fortunately, my netbook used the exact version (2nd generation) as the example, so all I had to do was some simple copying and pasting. I rebooted and the screen tearing was gone. I linked to an archived version of the guide since this should remain a great resource for fixing screen tearing on older devices with Intel integrated graphics.
+#BodhiLinux #linux]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Are the Three US SCOTUS Justices to Use the Word “Baubles” in an Opinion?]]></title>
+        <id>https://news.ycombinator.com/item?id=37262664</id>
+        <link href="https://reason.com/volokh/2023/04/20/who-are-the-two-justices-to-use-the-word-baubles-in-an-opinion/"/>
+        <updated>2023-08-25T15:16:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://reason.com/volokh/2023/04/20/who-are-the-two-justices-to-use-the-word-baubles-in-an-opinion/
+Comments URL: https://news.ycombinator.com/item?id=37262664
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Return of our SEO Framework sitemap]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20995</id>
