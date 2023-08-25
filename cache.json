@@ -140,6 +140,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20995",
+          "author": "Nicholas A. Ferrell",
+          "description": "I switched The New Leaf Journal from using Yoast SEO to The SEO Framework back in early 2022 around the same […]\nPossibly related posts...\n\nThe New Leaf Journal's Humane SEO Framework Sitemap\nOn the humans.txt File\nNaver Webmaster Trials and Tribulations\nA New Sitemap for Humans\nRecording a Test New Leaf Journal Pokémon Sword and Shield…\nThe story of our Bing blacklisting\nReturn to Shironagasu Island Review\nOn Children, TikTok, and Social Media Stardom\nTwo Independence Day-Themed Pokémon Battles: Ferrell vs…",
+          "link": "https://thenewleafjournal.com/leaf/return-of-our-seo-framework-sitemap/",
+          "publishedOn": "2023-08-25T02:21:28.000Z",
+          "wordCount": 1568,
+          "title": "Return of our SEO Framework sitemap",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=20986",
           "author": "Nicholas A. Ferrell",
           "description": "From a Nintendo Life report: The first entry in Sting’s Dept. Heaven series is getting an HD remaster. Making the announcement […]\nPossibly related posts...\n\nHistory of the Mario Party Gloves\nThe Aborted Nintendo-Minnesota Lottery Scheme\nNintendo Power's 1999 Yoshi in Pokémon April Fools Prank\nOn Nintendo's Pro-User Cartridge-First Strategy\nThe Last Nintendo Wii Games\nLateral thinking to extend game console life-cycles\nMario Party's Joystick-Wrecking Rotation Games\n1914 Moral Story For Children on Responsibility\nStadia and the Value of Owning Games",
@@ -622,16 +632,6 @@
           "wordCount": 21,
           "title": "I set up an repository for [osmosmemo](https://github.com/osmoscraft/osmosmemo-template). I can use ...",
           "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/27",
-          "author": null,
-          "description": "YAML to add to Ghostwriter markdown document for Pandoc LaTeX conversion to PDF without page numbers:\n---\npagestyle: empty\n\n---\n\n#Ghostwriter #markdown #pandoc #pdf",
-          "link": "https://memos.emucafe.org/m/27",
-          "publishedOn": "2023-07-26T21:54:31.000Z",
-          "wordCount": 21,
-          "title": "YAML to add to Ghostwriter markdown document for Pandoc LaTeX conversion to PDF without page numbers...",
-          "imageUrl": null
         }
       ]
     },
@@ -640,6 +640,16 @@
       "feedUrl": "https://hnrss.org/user?id=nafnlj",
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=37254772",
+          "author": "nafnlj",
+          "description": "Article URL: https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/\nComments URL: https://news.ycombinator.com/item?id=37254772\nPoints: 24\n# Comments: 47",
+          "link": "https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/",
+          "publishedOn": "2023-08-24T21:29:01.000Z",
+          "wordCount": 343,
+          "title": "The longest word you can type on the first row of a QWERTY keyboard",
+          "imageUrl": null
+        },
         {
           "id": "https://news.ycombinator.com/item?id=37227854",
           "author": "nafnlj",
@@ -1083,16 +1093,6 @@
           "wordCount": 469,
           "title": "Update blacklist.txt",
           "imageUrl": "https://opengraph.githubassets.com/52a9ad298ad79f0f27f59576eded73731e7a6ff83da0a3432fba2fde5ffb53e5/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b06898606ff75c71022e64f693464fafbba95a0e"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d31e020af359ce60190f405f3b9d2f520e3ba80c",
-          "author": null,
-          "description": "Update blacklist.txt\n\nAdded terms:\r\n\r\namusing clip art\r\nbetter engraving\r\nlook and rate\r\nperfect gift\r\npng file\r\nкракена",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d31e020af359ce60190f405f3b9d2f520e3ba80c",
-          "publishedOn": "2023-07-26T17:03:26.000Z",
-          "wordCount": 574,
-          "title": "Update blacklist.txt",
-          "imageUrl": "https://opengraph.githubassets.com/9dc93756362317bc6ccf0e33c3c9b5fa987fdb8b97ef412b374689a845703876/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d31e020af359ce60190f405f3b9d2f520e3ba80c"
         }
       ]
     },

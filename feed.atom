@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-24T20:10:56.174Z</updated>
+    <updated>2023-08-25T14:09:19.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Return of our SEO Framework sitemap]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20995</id>
+        <link href="https://thenewleafjournal.com/leaf/return-of-our-seo-framework-sitemap/"/>
+        <updated>2023-08-25T02:21:28.000Z</updated>
+        <summary type="html"><![CDATA[I switched The New Leaf Journal from using Yoast SEO to The SEO Framework back in early 2022 around the same […]
+Possibly related posts...
+
+The New Leaf Journal's Humane SEO Framework Sitemap
+On the humans.txt File
+Naver Webmaster Trials and Tribulations
+A New Sitemap for Humans
+Recording a Test New Leaf Journal Pokémon Sword and Shield…
+The story of our Bing blacklisting
+Return to Shironagasu Island Review
+On Children, TikTok, and Social Media Stardom
+Two Independence Day-Themed Pokémon Battles: Ferrell vs…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The longest word you can type on the first row of a QWERTY keyboard]]></title>
+        <id>https://news.ycombinator.com/item?id=37254772</id>
+        <link href="https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/"/>
+        <updated>2023-08-24T21:29:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/
+Comments URL: https://news.ycombinator.com/item?id=37254772
+Points: 24
+# Comments: 47]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I am using an old LibreBooted ThinkPad as a "server"... really more as an always-on Syncthing node. ...]]></title>
         <id>https://memos.emucafe.org/m/29</id>
@@ -1516,41 +1550,6 @@ Changes:
 
 png file changed to png
 add baget.com]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YAML to add to Ghostwriter markdown document for Pandoc LaTeX conversion to PDF without page numbers...]]></title>
-        <id>https://memos.emucafe.org/m/27</id>
-        <link href="https://memos.emucafe.org/m/27"/>
-        <updated>2023-07-26T21:54:31.000Z</updated>
-        <summary type="html"><![CDATA[YAML to add to Ghostwriter markdown document for Pandoc LaTeX conversion to PDF without page numbers:
----
-pagestyle: empty
-
----
-
-#Ghostwriter #markdown #pandoc #pdf]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update blacklist.txt]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d31e020af359ce60190f405f3b9d2f520e3ba80c</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d31e020af359ce60190f405f3b9d2f520e3ba80c"/>
-        <updated>2023-07-26T17:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Update blacklist.txt
-
-Added terms:
-
-amusing clip art
-better engraving
-look and rate
-perfect gift
-png file
-кракена]]></summary>
         <author>
             <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
