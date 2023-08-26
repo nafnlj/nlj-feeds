@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-26T14:08:17.299Z</updated>
+    <updated>2023-08-26T20:09:41.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CL 〜 Newsletter monument 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/150/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/150/"/>
+        <updated>2023-08-26T19:19:33.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 150th edition of The Newsletter Leaf Journal, the official newsletter of the prennially virid online writing magazine, The New Leaf Journal. This week's newsletter (nice round number) comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. While this week was light on publishing (we have a stronger week ahead), I did make a few changes to The New Leaf Journal that may be of interest to some readers.
+Leaves from the week that was
+I published one full article and three short posts. Sparse, yes. But to be fair, my full article was long.
+Coolidge and Harrison in Bennington
+Calvin Coolidge described having seen then-President Benjamin Harrison give an address in Bennington, Vermont, when Coolidge was in college. Coolidge's d…]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I had a minor screen tearing issue on an old netbook (I do not know the exact year but the Windows 8...]]></title>
         <id>https://memos.emucafe.org/m/30</id>
