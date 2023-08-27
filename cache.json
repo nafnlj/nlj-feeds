@@ -14,16 +14,6 @@
           "wordCount": 462,
           "title": "Update osmosfeed.yaml",
           "imageUrl": "https://opengraph.githubassets.com/2c4f3e18548c4918f13debfd3528714336c606ce0baad4c9bfafa4de4f7b0d34/nafnlj/nljfeeds/commit/7121e64e165b7928eb6ed327edf1e7ced2c6bd35"
-        },
-        {
-          "id": "https://github.com/nafnlj/nljfeeds/commit/8619873137bc839b1e3b4da93e86f813aacf2ed5",
-          "author": null,
-          "description": "Update osmosfeed.yaml\n\nAdded WordPress comment blacklist updates",
-          "link": "https://github.com/nafnlj/nljfeeds/commit/8619873137bc839b1e3b4da93e86f813aacf2ed5",
-          "publishedOn": "2023-07-28T16:03:11.000Z",
-          "wordCount": 461,
-          "title": "Update osmosfeed.yaml",
-          "imageUrl": "https://opengraph.githubassets.com/e39b75f49dde85c97c974315999422c2f7fd1da7908f4da6a54014f0efe35dbb/nafnlj/nljfeeds/commit/8619873137bc839b1e3b4da93e86f813aacf2ed5"
         }
       ]
     },
@@ -32,6 +22,16 @@
       "feedUrl": "https://thenewleafjournal.com/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?p=21000",
+          "author": "Nicholas A. Ferrell",
+          "description": "While I do not have strong opinions on pumpkin spice generally, I fear that pumpkin spice makeup removing wipes may be a step too far.\nPossibly related posts...\n\nJustin & Justina 〜 The Pumpkin Taker\n\"Pumpkin Pie\" - A Children's Poem By Mary Mapes Dodge\nA Moldy Halloween Carved Pumpkin\nJustin & Justina 〜 1899 Poem on Clothing Fires\nExistential Crisis of the Rotting Pumpkin\nIs my cat deaf, or does she just not give a...?\nOozing Brooklyn pumpkin in January\nThe Rotting Pumpkin 〜 A Salvador Dali Painting\nHalloween and the Pumpkin with a Mask",
+          "link": "https://thenewleafjournal.com/pumpkin-spice-makeup-removal-wipes/",
+          "publishedOn": "2023-08-26T21:10:59.000Z",
+          "wordCount": 1906,
+          "title": "Pumpkin Spice Makeup Removal Wipes",
+          "imageUrl": null
+        },
         {
           "id": "https://thenewleafjournal.com/?p=20979",
           "author": "Nicholas A. Ferrell",
@@ -121,16 +121,6 @@
           "wordCount": null,
           "title": "Basquiat Forgeries Made With Alarming Ease",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20835",
-          "author": "Nicholas A. Ferrell",
-          "description": "DuckDuckGo finds itself again dealing with the fallout of Bing being Bing.\nPossibly related posts...\n\nThe story of our Bing blacklisting\nComparing DuckDuckGo Lite and Qwant Lite\nBing's and DuckDuckGo's CCP Problem\nA 2021 List of Alternative Search Engines and Search…\nBrave and DuckDuckGo Timer Search Shortcuts\nImportance of Bing Indexing For Alt Search\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nPerforming Site-Specific Searches With DuckDuckGo\nReviewing \"Rashomon and Other Stories\"",
-          "link": "https://thenewleafjournal.com/duckduckgo-in-the-bing-pond/",
-          "publishedOn": "2023-07-29T00:04:07.000Z",
-          "wordCount": null,
-          "title": "DuckDuckGo in the Bing Pond",
-          "imageUrl": null
         }
       ]
     },
@@ -139,6 +129,16 @@
       "feedUrl": "https://thenewleafjournal.com/leaf/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=21009",
+          "author": "Nicholas A. Ferrell",
+          "description": "The Brooklyn Public Library system decided to turn a large portion of the library’s central branch at Grand Army Plaza into […]\nPossibly related posts...\n\nCalvin Coolidge's 1922 \"Better Homes\" Remarks\nShould the Pistons have drafted Carmelo?\nTakaki's Memories in 5 Centimeters Per Second\nGrafting a Bird's Head Cane Handle Onto a Wooden Umbrella\nCollege Football Coach Salaries and Buyouts and Colleges as…\nNLJ Brooklyn NYC pigeon rescue story\nHistory of Thanksgiving Proclamations in the Philippines\nWhen President Coolidge Spared a Raccoon From Thanksgiving…\n\"The Valentine\" - An Engraving by W.E. Tucker",
+          "link": "https://thenewleafjournal.com/leaf/brooklyn-public-library-priorities/",
+          "publishedOn": "2023-08-26T21:38:08.000Z",
+          "wordCount": 1902,
+          "title": "Brooklyn Public Library Priorities",
+          "imageUrl": null
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=20995",
           "author": "Nicholas A. Ferrell",
@@ -304,16 +304,6 @@
           "publishedOn": "2023-07-30T17:20:00.000Z",
           "wordCount": null,
           "title": "Leaving “likes” from FreshRSS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20844",
-          "author": "Nicholas A. Ferrell",
-          "description": "The title of this article comes from a Hacker News comment by user ChrisMarshallNY. I quote the pertinent part of the […]\nPossibly related posts...\n\nWhat is an \"Android Alternative\"?\nI, Too, Saw Dreams Through Air - VN Review\nSeeing Hopkins-Jones II at the Theater\nRunning Yuuki!Novel Ver of Tegami on Linux\nThe world to reverse - Visual Novel Review\nWho Was the Last Western Roman Emperor?\nPlain Song - Visual Novel Review\nThe Poor Little Bird - Visual Novel Review\nA Winter's Tale - Visual Novel Review",
-          "link": "https://thenewleafjournal.com/leafbud/the-old-men-with-good-eyes/",
-          "publishedOn": "2023-07-29T01:27:57.000Z",
-          "wordCount": null,
-          "title": "“The Old Men With Good Eyes”",
           "imageUrl": null
         }
       ]
@@ -1012,56 +1002,6 @@
           "wordCount": 684,
           "title": "Merge branch 'splorp:master' into master",
           "imageUrl": "https://opengraph.githubassets.com/e92ebb574398026c9288595c8cbe42b4de10da572fb94d147e3ab6f2668aa2c3/nafnlj/wordpress-comment-blacklist-NLJFork/commit/85f9d0c969a142f700d9928d5ce39a4d8fda85f7"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/aaeefcf82eee9a9c0a1abe14824a2293b758fdf6",
-          "author": null,
-          "description": "Keyword additions and optimizations — 20230728",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/aaeefcf82eee9a9c0a1abe14824a2293b758fdf6",
-          "publishedOn": "2023-07-28T23:09:21.000Z",
-          "wordCount": 684,
-          "title": "Keyword additions and optimizations — 20230728",
-          "imageUrl": "https://opengraph.githubassets.com/015a0b5f963779c6ef7751e30321111988142f32f11844e78cae7d887d34e6fc/nafnlj/wordpress-comment-blacklist-NLJFork/commit/aaeefcf82eee9a9c0a1abe14824a2293b758fdf6"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/1ae71d80c2fd6db879e68b110ce1ce0468de7733",
-          "author": null,
-          "description": "Update blacklist.txt\n\nAdded show more",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/1ae71d80c2fd6db879e68b110ce1ce0468de7733",
-          "publishedOn": "2023-07-28T20:57:08.000Z",
-          "wordCount": 448,
-          "title": "Update blacklist.txt",
-          "imageUrl": "https://opengraph.githubassets.com/50e56b121de26ea99994fe2a0bb78c27ed913bb535ddcc9e0870e1676e2585fd/nafnlj/wordpress-comment-blacklist-NLJFork/commit/1ae71d80c2fd6db879e68b110ce1ce0468de7733"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/97aee72314d515f5f1b755411d1c1d246df7003b",
-          "author": null,
-          "description": "Create README.md\n\nAdded readme specific to my fork.",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/97aee72314d515f5f1b755411d1c1d246df7003b",
-          "publishedOn": "2023-07-28T16:13:46.000Z",
-          "wordCount": 1172,
-          "title": "Create README.md",
-          "imageUrl": "https://opengraph.githubassets.com/b422ad6028a9e405fd5ab661d15acc2b03d87ec690b9bcb2547a3f0a30eadc03/nafnlj/wordpress-comment-blacklist-NLJFork/commit/97aee72314d515f5f1b755411d1c1d246df7003b"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8387f0b951c4d9881762c0b294fcbeb14df37229",
-          "author": null,
-          "description": "Rename readme.md to readme-upstream-project.md\n\nChanging title of upstream readme  to readme-upstream-project.",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8387f0b951c4d9881762c0b294fcbeb14df37229",
-          "publishedOn": "2023-07-28T16:07:10.000Z",
-          "wordCount": 385,
-          "title": "Rename readme.md to readme-upstream-project.md",
-          "imageUrl": "https://opengraph.githubassets.com/5fe0857aac2a68c9a5e71270d3192f22569732a8c12bcb93f24fa2b53ef5c8a7/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8387f0b951c4d9881762c0b294fcbeb14df37229"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/27b285fc00275e15f3776f0712070cbfe308d86c",
-          "author": null,
-          "description": "Update blacklist.txt\n\nRemove empty like at 12090.",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/27b285fc00275e15f3776f0712070cbfe308d86c",
-          "publishedOn": "2023-07-28T15:51:36.000Z",
-          "wordCount": 444,
-          "title": "Update blacklist.txt",
-          "imageUrl": "https://opengraph.githubassets.com/ff9a07ca1cb1d67a6e8bc54aff645a3a98d63b6826ae8c3180c4a31f45f757ee/nafnlj/wordpress-comment-blacklist-NLJFork/commit/27b285fc00275e15f3776f0712070cbfe308d86c"
         }
       ]
     },
