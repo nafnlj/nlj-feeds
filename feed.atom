@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-27T20:10:47.608Z</updated>
+    <updated>2023-08-28T14:09:02.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110963459922732727</id>
+        <link href="https://linuxrocks.online/@nafnlj/110963459922732727"/>
+        <updated>2023-08-27T20:27:08.000Z</updated>
+        <summary type="html"><![CDATA[I am reading an old visual novel called Midsummer Haze as part of my review project. Now it has one choice which branches into two endings. There's a third ending visible. I guessed the gimmick, but before I bashed my head into a wall, I peaked at a single reference to the gimmick on VNDB... I will have to bash my head into a wall. But the fact I'm even able to run this took great effort... must persevere...
+https://thenewleafjournal.com/leaf/on-the-hunt-for-manatsu-no-kagerou/
+#visualnovel #kirikiri #anecdote]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I carrot about good content]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=21011</id>
@@ -1324,129 +1336,6 @@ Clean 51 most-visited articles of 2022
 New Leaf Journal Third Birthday Reader]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collected Justin and Justina Dialogues]]></title>
-        <id>https://thenewleafjournal.com/?post_type=collection&amp;p=20365</id>
-        <link href="https://thenewleafjournal.com/collection/justin-and-justina-dialogues/"/>
-        <updated>2023-07-30T01:33:38.000Z</updated>
-        <summary type="html"><![CDATA[I have published a long-running series of dialogues between two fictional characters in New York City, Justin and Justina. Many of […]
-Possibly related posts...
-
-Justin and Justina review 2022 at the NLJ
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin & Justina: Most-Read NLJ Content of 2020
-Justin & Justina 〜 4th of July Grill Sacrifices to the…
-The Quince Shortage - Justin and Justina
-Justin and Justina 〜 Merry Christmas. Who checks the mail…
-Justin and Justina 〜 Convincing a Google Devotee to Try…
-April Fools With Justin and Justina
-Dialogue: Alpacas, Virus Cures, and Paca Plus]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basquiat Forgeries Made With Alarming Ease]]></title>
-        <id>https://thenewleafjournal.com/?p=20846</id>
-        <link href="https://thenewleafjournal.com/basquiat-forgeries-made-with-alarming-ease/"/>
-        <updated>2023-07-29T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I say what the reports left implicit about the fact that two fraudsters created 25 convincing Basquiat forgeries with nothing more than cardboard and a few minutes of painting.
-Possibly related posts...
-
-Justin and Justina review 2022 at the NLJ
-History of the Mario Party Gloves
-EGM's 2001 Sega Neptune April Fools Joke
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-From Murena Teracube 2e to Pixel 3a XL with LineageOS
-Running Yuuki!Novel Ver of Tegami on Linux
-1897 Magazine Offer - Pocket Kodak and Kodak No. 4 Bulls-Eye…
-The New Leaf Journal Twitter
-Grafting a Bird's Head Cane Handle Onto a Wooden Umbrella]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXLVI 〜 Waning Moon 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/146/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/146/"/>
-        <updated>2023-07-29T19:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 146th edition of The Newsletter Leaf Journal, the official writing magazine of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. While it was not a busy week at The New Leaf Journal, I easily surpassed our publishing output of no articles last week. Thus, you can expect a more traditional newsletter below with our most recent articles, links from around the web, and some surprising news and notes.
-Leaves from the week that was
-I published two regular articles and three leaflets/leaf buds in the previous week. First, I present the articles.
-Hallmarks of Former Service Members
-A story from my college days about how the professor inf…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110798718221233857</id>
-        <link href="https://linuxrocks.online/@nafnlj/110798718221233857"/>
-        <updated>2023-07-29T18:11:09.000Z</updated>
-        <summary type="html"><![CDATA[Last week's Newsletter Leaf Journal was unusual because I did not publish any articles between July 15-22. Thus, with no NEW articles to share, I resorted to sharing more links from our archives than usual and 18 links from around the web. I thought the selection was solid.
-https://thenewleafjournal.com/letter/145/
-#newsletter #aroundtheweb #atw #links #tech]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXLV]]></title>
-        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20856</id>
-        <link href="https://thenewleafjournal.com/letter/145/"/>
-        <updated>2023-07-29T18:07:34.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the (syndicated version) 145th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing […]
-Possibly related posts...
-
-The Newsletter Leaf Journal at 100
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin and Justina review 2022 at the NLJ
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The New Leaf Journal Newsletter
-How to Find Substack RSS Feeds and Other Notes
-The New Leaf Journal Celebrates Its First Birthday
-The Newsletter Leaf Journal VIII
-Most-Visited NLJ Articles of 1H 2023]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXLIV]]></title>
-        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20854</id>
-        <link href="https://thenewleafjournal.com/letter/144/"/>
-        <updated>2023-07-29T18:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the (syndicated) 144th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, […]
-Possibly related posts...
-
-The Newsletter Leaf Journal at 100
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin and Justina review 2022 at the NLJ
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The New Leaf Journal Newsletter
-How to Find Substack RSS Feeds and Other Notes
-The New Leaf Journal Celebrates Its First Birthday
-The Newsletter Leaf Journal VIII
-Most-Visited NLJ Articles of 1H 2023]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Tech News 29 July 2023]]></title>
-        <id>https://hypothes.is/a/IDcd5i42Ee6bBtsnD2rqEw</id>
-        <link href="https://hypothes.is/a/IDcd5i42Ee6bBtsnD2rqEw"/>
-        <updated>2023-07-29T17:34:09.836Z</updated>
-        <summary type="html"><![CDATA[As Threads "soars", Bluesky and Mastodon are adopting algorithmic feeds.  (Tech Crunch)
-      
-      You will eat the bugs.  You will live in the pod.  You will read what we tell you.  You will own nothing and we don't much care if you are happy.
-Applying the WEF meme about pods and bugs to Threads inspiring Bluesky and one Mastodon app to push algorithmic feeds.]]></summary>
-        <author>
-            <name>Hypothesis Stream</name>
         </author>
     </entry>
 </feed>
