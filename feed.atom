@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-28T20:11:38.809Z</updated>
+    <updated>2023-08-29T14:10:36.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New comment by nafnlj in "TV's are becoming intrusive and abusive; what to do about it?"]]></title>
+        <id>https://news.ycombinator.com/item?id=37302827</id>
+        <link href="https://news.ycombinator.com/item?id=37302827"/>
+        <updated>2023-08-29T02:25:14.000Z</updated>
+        <summary type="html"><![CDATA[I didn't think of projectors because I don't have a good set-up for it, but that's another great option along side dumb TVs, TVs that work without internet, and monitors/digital signage. Starting with a mini PC or something similar unlocks plenty of good options for avoiding all of the smart TV issues.]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New comment by nafnlj in "TV's are becoming intrusive and abusive; what to do about it?"]]></title>
+        <id>https://news.ycombinator.com/item?id=37302783</id>
+        <link href="https://news.ycombinator.com/item?id=37302783"/>
+        <updated>2023-08-29T02:19:17.000Z</updated>
+        <summary type="html"><![CDATA[I do a version of this approach. I have a 2018 model TCL TV that I do not give access to the internet (this one works without any issue, but I don't know if that is true of newer models). My TV is right next to my desktop computer, but in order to reduce noise and power, I bought a cheap Beelink mini PC and set it up with Fedora-GNOME and Kodi. Works very well for simple purposes and can easily handle light games. There are plenty of other (possibly better) solutions to this effect such as SBCs, spare laptops, or more capable mini PCs to handle some newer games. I would prefer using a computer instead of the Smart TV OS even without all of the concerns listed in the original post.]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding Manatsu no Kagerou]]></title>
+        <id>https://thenewleafjournal.com/?p=21038</id>
+        <link href="https://thenewleafjournal.com/finding-manatsu-no-kagerou/"/>
+        <updated>2023-08-29T01:24:36.000Z</updated>
+        <summary type="html"><![CDATA[The most difficult part of my al|together visual novel review project was finding what I needed to run Midsummer Haze...
+Possibly related posts...
+
+Midsummer Haze - Visual Novel Review
+The al|together and Insani Visual Novel Translations
+io [Christmas Eve] - Visual Novel Review
+On the Hunt for Manatsu no Kagerou
+Japanese Environment in PoL, Lutris, and Bottles
+Adventures installing Soremata on Linux
+Red Shift Visual Novel Review
+The New Leaf Journal Twitter
+Freedom Tower in the Fog From the Brooklyn Bridge]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Midsummer Haze – Visual Novel Review]]></title>
+        <id>https://thenewleafjournal.com/?p=21014</id>
+        <link href="https://thenewleafjournal.com/midsummer-haze-visual-novel-review/"/>
+        <updated>2023-08-29T01:21:01.000Z</updated>
+        <summary type="html"><![CDATA[My review of Midsummer Haze, a visual novel that was almost as difficult to finish as it was to find and run...
+Possibly related posts...
+
+Finding Manatsu no Kagerou
+The al|together and Insani Visual Novel Translations
+io [Christmas Eve] - Visual Novel Review
+Japanese Environment in PoL, Lutris, and Bottles
+Flood of Tears - Visual Novel Review
+Red Shift Visual Novel Review
+Running Yuuki!Novel Ver of Tegami on Linux
+May Sky - Visual Novel Review
+Version history of Aru Fuyu no Monogatari]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110963459922732727</id>
@@ -1207,74 +1269,6 @@ Feeds and Read-It-Later for Online Reading
 A BlackBerry-esque mini Linux computer...
 On the Google Nexus 7 (2013) Tablet
 ACE Academy - Visual Novel Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update blacklist.txt]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f5aa4d8e7ab58eb4801e0316f7cbc3b36a763ce5</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f5aa4d8e7ab58eb4801e0316f7cbc3b36a763ce5"/>
-        <updated>2023-07-31T01:33:17.000Z</updated>
-        <summary type="html"><![CDATA[Update blacklist.txt
-
-Add:
-gouter
-goûter]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaving “likes” from FreshRSS]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20851</id>
-        <link href="https://thenewleafjournal.com/leafbud/leaving-likes-from-freshrss/"/>
-        <updated>2023-07-30T17:20:00.000Z</updated>
-        <summary type="html"><![CDATA[From Using FreshRSS to “Like” blog posts via Webmention by Mr. Peter Rukavina: Although it took some fiddling to make all […]
-Possibly related posts...
-
-RSS as a Facebook Alternative
-Shooting Star Hill - Visual Novel Analysis
-"Technological Imbecile" Retweeted by President
-The Pokémon Special Split in Generation 2 - Statistics and…
-On Improving the Environment For Gaming On Linux
-Justin and Justina review 2022 at the NLJ
-Perspectives From Japan On Watching Movie Credits
-An Early Review of Pixelfed - Instagram Alternative
-The New Leaf Journal Twitter]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110803798743621545</id>
-        <link href="https://linuxrocks.online/@nafnlj/110803798743621545"/>
-        <updated>2023-07-30T15:43:12.000Z</updated>
-        <summary type="html"><![CDATA[My thoughts on PocketBook apparently planning to release an Android-based e-reader.
-https://thenewleafjournal.com/leaf/on-an-android-based-pocketbook-ereader/
-#android #pocketbook #ereader #eink]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anime Case Against Japan’s Population Loss]]></title>
-        <id>https://thenewleafjournal.com/?p=20872</id>
-        <link href="https://thenewleafjournal.com/anime-case-against-japans-population-loss/"/>
-        <updated>2023-07-30T15:18:17.000Z</updated>
-        <summary type="html"><![CDATA[Are the reports of Japan's population decline greatly exaggerated? Justin looks to 2023 anime series for the answer.
-Possibly related posts...
-
-Justin and Justina review 2022 at the NLJ
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin & Justina 〜 4th of July Grill Sacrifices to the…
-Justin & Justina: Most-Read NLJ Content of 2020
-The Quince Shortage - Justin and Justina
-Justin and Justina 〜 Merry Christmas. Who checks the mail…
-Justin and Justina 〜 Convincing a Google Devotee to Try…
-April Fools With Justin and Justina
-Dialogue: Alpacas, Virus Cures, and Paca Plus]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>

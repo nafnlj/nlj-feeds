@@ -12,6 +12,26 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21038",
+          "author": "Nicholas A. Ferrell",
+          "description": "The most difficult part of my al|together visual novel review project was finding what I needed to run Midsummer Haze...\nPossibly related posts...\n\nMidsummer Haze - Visual Novel Review\nThe al|together and Insani Visual Novel Translations\nio [Christmas Eve] - Visual Novel Review\nOn the Hunt for Manatsu no Kagerou\nJapanese Environment in PoL, Lutris, and Bottles\nAdventures installing Soremata on Linux\nRed Shift Visual Novel Review\nThe New Leaf Journal Twitter\nFreedom Tower in the Fog From the Brooklyn Bridge",
+          "link": "https://thenewleafjournal.com/finding-manatsu-no-kagerou/",
+          "publishedOn": "2023-08-29T01:24:36.000Z",
+          "wordCount": null,
+          "title": "Finding Manatsu no Kagerou",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thenewleafjournal.com/?p=21014",
+          "author": "Nicholas A. Ferrell",
+          "description": "My review of Midsummer Haze, a visual novel that was almost as difficult to finish as it was to find and run...\nPossibly related posts...\n\nFinding Manatsu no Kagerou\nThe al|together and Insani Visual Novel Translations\nio [Christmas Eve] - Visual Novel Review\nJapanese Environment in PoL, Lutris, and Bottles\nFlood of Tears - Visual Novel Review\nRed Shift Visual Novel Review\nRunning Yuuki!Novel Ver of Tegami on Linux\nMay Sky - Visual Novel Review\nVersion history of Aru Fuyu no Monogatari",
+          "link": "https://thenewleafjournal.com/midsummer-haze-visual-novel-review/",
+          "publishedOn": "2023-08-29T01:21:01.000Z",
+          "wordCount": null,
+          "title": "Midsummer Haze – Visual Novel Review",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21000",
           "author": "Nicholas A. Ferrell",
           "description": "While I do not have strong opinions on pumpkin spice generally, I fear that pumpkin spice makeup removing wipes may be a step too far.\nPossibly related posts...\n\nJustin & Justina 〜 The Pumpkin Taker\n\"Pumpkin Pie\" - A Children's Poem By Mary Mapes Dodge\nA Moldy Halloween Carved Pumpkin\nJustin & Justina 〜 1899 Poem on Clothing Fires\nExistential Crisis of the Rotting Pumpkin\nIs my cat deaf, or does she just not give a...?\nOozing Brooklyn pumpkin in January\nThe Rotting Pumpkin 〜 A Salvador Dali Painting\nHalloween and the Pumpkin with a Mask",
@@ -89,16 +109,6 @@
           "publishedOn": "2023-08-01T03:50:22.000Z",
           "wordCount": null,
           "title": "July 2023 at The New Leaf Journal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20872",
-          "author": "Nicholas A. Ferrell",
-          "description": "Are the reports of Japan's population decline greatly exaggerated? Justin looks to 2023 anime series for the answer.\nPossibly related posts...\n\nJustin and Justina review 2022 at the NLJ\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin & Justina 〜 4th of July Grill Sacrifices to the…\nJustin & Justina: Most-Read NLJ Content of 2020\nThe Quince Shortage - Justin and Justina\nJustin and Justina 〜 Merry Christmas. Who checks the mail…\nJustin and Justina 〜 Convincing a Google Devotee to Try…\nApril Fools With Justin and Justina\nDialogue: Alpacas, Virus Cures, and Paca Plus",
-          "link": "https://thenewleafjournal.com/anime-case-against-japans-population-loss/",
-          "publishedOn": "2023-07-30T15:18:17.000Z",
-          "wordCount": null,
-          "title": "Anime Case Against Japan’s Population Loss",
           "imageUrl": null
         }
       ]
@@ -284,16 +294,6 @@
           "wordCount": null,
           "title": "On Algorithmic Feeds and Owning Nothing",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20851",
-          "author": "Nicholas A. Ferrell",
-          "description": "From Using FreshRSS to “Like” blog posts via Webmention by Mr. Peter Rukavina: Although it took some fiddling to make all […]\nPossibly related posts...\n\nRSS as a Facebook Alternative\nShooting Star Hill - Visual Novel Analysis\n\"Technological Imbecile\" Retweeted by President\nThe Pokémon Special Split in Generation 2 - Statistics and…\nOn Improving the Environment For Gaming On Linux\nJustin and Justina review 2022 at the NLJ\nPerspectives From Japan On Watching Movie Credits\nAn Early Review of Pixelfed - Instagram Alternative\nThe New Leaf Journal Twitter",
-          "link": "https://thenewleafjournal.com/leafbud/leaving-likes-from-freshrss/",
-          "publishedOn": "2023-07-30T17:20:00.000Z",
-          "wordCount": null,
-          "title": "Leaving “likes” from FreshRSS",
-          "imageUrl": null
         }
       ]
     },
@@ -418,7 +418,7 @@
     {
       "title": "nafnlj on Pixelfed",
       "feedUrl": "https://pixelfed.social/users/nafnlj.atom",
-      "siteUrl": "https://pixelfed.social/nafnlj",
+      "siteUrl": "https://portfolio.pixelfed.social/nafnlj",
       "articles": [
         {
           "id": "https://pixelfed.social/p/nafnlj/596176005138926699",
@@ -486,16 +486,6 @@
           "wordCount": 119,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110803798743621545",
-          "author": null,
-          "description": "My thoughts on PocketBook apparently planning to release an Android-based e-reader.\nhttps://thenewleafjournal.com/leaf/on-an-android-based-pocketbook-ereader/\n#android #pocketbook #ereader #eink",
-          "link": "https://linuxrocks.online/@nafnlj/110803798743621545",
-          "publishedOn": "2023-07-30T15:43:12.000Z",
-          "wordCount": 119,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -547,6 +537,26 @@
       "feedUrl": "https://hnrss.org/user?id=nafnlj",
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=37302827",
+          "author": "nafnlj",
+          "description": "I didn't think of projectors because I don't have a good set-up for it, but that's another great option along side dumb TVs, TVs that work without internet, and monitors/digital signage. Starting with a mini PC or something similar unlocks plenty of good options for avoiding all of the smart TV issues.",
+          "link": "https://news.ycombinator.com/item?id=37302827",
+          "publishedOn": "2023-08-29T02:25:14.000Z",
+          "wordCount": 173,
+          "title": "New comment by nafnlj in \"TV's are becoming intrusive and abusive; what to do about it?\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=37302783",
+          "author": "nafnlj",
+          "description": "I do a version of this approach. I have a 2018 model TCL TV that I do not give access to the internet (this one works without any issue, but I don't know if that is true of newer models). My TV is right next to my desktop computer, but in order to reduce noise and power, I bought a cheap Beelink mini PC and set it up with Fedora-GNOME and Kodi. Works very well for simple purposes and can easily handle light games. There are plenty of other (possibly better) solutions to this effect such as SBCs, spare laptops, or more capable mini PCs to handle some newer games. I would prefer using a computer instead of the Smart TV OS even without all of the concerns listed in the original post.",
+          "link": "https://news.ycombinator.com/item?id=37302783",
+          "publishedOn": "2023-08-29T02:19:17.000Z",
+          "wordCount": 213,
+          "title": "New comment by nafnlj in \"TV's are becoming intrusive and abusive; what to do about it?\"",
+          "imageUrl": null
+        },
         {
           "id": "https://news.ycombinator.com/item?id=37262664",
           "author": "nafnlj",
@@ -899,16 +909,6 @@
           "wordCount": 816,
           "title": "Keyword additions — 20230731",
           "imageUrl": "https://opengraph.githubassets.com/04eb5f20bd44673cb25557f6b95916cd0a4a7fc7925643644a6050d842c24b54/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4c9032114993ddc282ce19483ef5cbd18a0efd06"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f5aa4d8e7ab58eb4801e0316f7cbc3b36a763ce5",
-          "author": null,
-          "description": "Update blacklist.txt\n\nAdd:\r\ngouter\r\ngoûter",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f5aa4d8e7ab58eb4801e0316f7cbc3b36a763ce5",
-          "publishedOn": "2023-07-31T01:33:17.000Z",
-          "wordCount": 447,
-          "title": "Update blacklist.txt",
-          "imageUrl": "https://opengraph.githubassets.com/f802d215c24e1e2657b7f734840975d489300afc10ff01d2f04fee406296707d/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f5aa4d8e7ab58eb4801e0316f7cbc3b36a763ce5"
         }
       ]
     },
