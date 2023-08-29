@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-29T14:10:36.296Z</updated>
+    <updated>2023-08-29T20:11:15.637Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110974442319081082</id>
+        <link href="https://linuxrocks.online/@nafnlj/110974442319081082"/>
+        <updated>2023-08-29T19:00:06.000Z</updated>
+        <summary type="html"><![CDATA[I used the GB Operator to extract ROMs from a good number of GB/GBC/GBA carts, including Nintendo's 1990 Golf. I want to master Golf 1990, but one initial challenge is that estimated distances are not included with clubs (Mario Golf for GBC had... some QoL improvements). Like anyone who played games in the early 2000s, I knew where to find the answer: Game FAQs:
+https://thenewleafjournal.com/game-faqs-guide-for-game-boy-golf-1990/
+#gameboy #golf #gamefaqs #nintendo #strategyguide]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New comment by nafnlj in "TV's are becoming intrusive and abusive; what to do about it?"]]></title>
         <id>https://news.ycombinator.com/item?id=37302827</id>
