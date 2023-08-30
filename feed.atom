@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-29T20:11:15.637Z</updated>
+    <updated>2023-08-30T14:10:29.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Changing NLJ System Font Stack]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=21068</id>
+        <link href="https://thenewleafjournal.com/leaf/changing-nlj-system-font-stack/"/>
+        <updated>2023-08-30T03:24:13.000Z</updated>
+        <summary type="html"><![CDATA[I switched from hosting our fonts locally at The New Leaf Journal to using a system font stack back in the […]
+Possibly related posts...
+
+EnBizCard Review - FOSS Digital Business Cards
+Slow Leaf Journal, Outgrowing Cheap Hosting 〜 A Justin and…
+Bookerly and a Serif Font Stack
+The New Leaf Journal Hosts Google Fonts Locally
+Trying National Park Typeface
+Recording a Test New Leaf Journal Pokémon Sword and Shield…
+A Casio Graphing Calculator Web-Server and IRC Client
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+Introducing our Osmosfeed Aggregator]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our Official Return to Bing]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=21060</id>
+        <link href="https://thenewleafjournal.com/leaf/our-official-return-to-bing/"/>
+        <updated>2023-08-29T20:22:18.000Z</updated>
+        <summary type="html"><![CDATA[I recently wrote that we were re-indexed by Bing after being invisible to Bing searchers for the better part of eight […]
+Possibly related posts...
+
+The story of our Bing blacklisting
+DuckDuckGo in the Bing Pond
+The Downstream Effects of Bing's Tiananmen Square Censorship
+Bing's and DuckDuckGo's CCP Problem
+Importance of Bing Indexing For Alt Search
+Return to Shironagasu Island Review
+A 2021 List of Alternative Search Engines and Search…
+Query for Bing on blacklisting and ChatGPT
+Techdirt Blocked or De-Indexed by Bing]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/110974442319081082</id>
@@ -1237,50 +1279,6 @@ How to Find Substack RSS Feeds and Other Notes
 The New Leaf Journal Celebrates Its First Birthday
 The Newsletter Leaf Journal VIII
 Most-Visited NLJ Articles of 1H 2023]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the brink: Namibia’s wild desert horses]]></title>
-        <id>https://news.ycombinator.com/item?id=36949070</id>
-        <link href="https://africageographic.com/stories/namibias-wild-desert-horses/"/>
-        <updated>2023-07-31T21:25:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://africageographic.com/stories/namibias-wild-desert-horses/
-Comments URL: https://news.ycombinator.com/item?id=36949070
-Points: 2
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyword additions — 20230731]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4c9032114993ddc282ce19483ef5cbd18a0efd06</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4c9032114993ddc282ce19483ef5cbd18a0efd06"/>
-        <updated>2023-07-31T17:45:46.000Z</updated>
-        <summary type="html"><![CDATA[Keyword additions — 20230731]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Algorithmic Feeds and Owning Nothing]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20853</id>
-        <link href="https://thenewleafjournal.com/leafbud/on-algorithmic-feeds-and-owning-nothing/"/>
-        <updated>2023-07-31T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Pixy Misa of Ambient Irony on a Tech Crunch article on Bluesky and one Mastodon app pushing algorithmic feeds after the […]
-Possibly related posts...
-
-Social webs of personal websites
-Reddit wars and precious John Oliver memes
-Defective second-hand graphics cards
-Calvin Coolidge's 1922 "Better Homes" Remarks
-The Enigmatic Life and Death of Emperor Otho
-Feeds and Read-It-Later for Online Reading
-A BlackBerry-esque mini Linux computer...
-On the Google Nexus 7 (2013) Tablet
-ACE Academy - Visual Novel Review]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>

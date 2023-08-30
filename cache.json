@@ -119,6 +119,26 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=21068",
+          "author": "Nicholas A. Ferrell",
+          "description": "I switched from hosting our fonts locally at The New Leaf Journal to using a system font stack back in the […]\nPossibly related posts...\n\nEnBizCard Review - FOSS Digital Business Cards\nSlow Leaf Journal, Outgrowing Cheap Hosting 〜 A Justin and…\nBookerly and a Serif Font Stack\nThe New Leaf Journal Hosts Google Fonts Locally\nTrying National Park Typeface\nRecording a Test New Leaf Journal Pokémon Sword and Shield…\nA Casio Graphing Calculator Web-Server and IRC Client\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nIntroducing our Osmosfeed Aggregator",
+          "link": "https://thenewleafjournal.com/leaf/changing-nlj-system-font-stack/",
+          "publishedOn": "2023-08-30T03:24:13.000Z",
+          "wordCount": null,
+          "title": "Changing NLJ System Font Stack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=21060",
+          "author": "Nicholas A. Ferrell",
+          "description": "I recently wrote that we were re-indexed by Bing after being invisible to Bing searchers for the better part of eight […]\nPossibly related posts...\n\nThe story of our Bing blacklisting\nDuckDuckGo in the Bing Pond\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nBing's and DuckDuckGo's CCP Problem\nImportance of Bing Indexing For Alt Search\nReturn to Shironagasu Island Review\nA 2021 List of Alternative Search Engines and Search…\nQuery for Bing on blacklisting and ChatGPT\nTechdirt Blocked or De-Indexed by Bing",
+          "link": "https://thenewleafjournal.com/leaf/our-official-return-to-bing/",
+          "publishedOn": "2023-08-29T20:22:18.000Z",
+          "wordCount": null,
+          "title": "Our Official Return to Bing",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=21011",
           "author": "Nicholas A. Ferrell",
           "description": "The New Leaf Journal is not a single topic writing website. I have written about subjects including video game history, letters […]\nPossibly related posts...\n\nInflatable Carrot and Easter Bunnies in Brooklyn\nA Turnip-Shaped Study of the Word \"Napiform\"\nBrooklyn Snowman and Winter Storm Gail Sights\nInflatable colorful Easter egg bunny thing\nThe New Leaf Journal Celebrates Its First Birthday\nThe al|together and Insani Visual Novel Translations\nJustin & Justina: Most-Read NLJ Content of 2020\nA 2021 List of Alternative Search Engines and Search…\nOldest Golfers to Contend for Majors Between the 1968 and…",
@@ -283,16 +303,6 @@
           "publishedOn": "2023-08-02T14:00:00.000Z",
           "wordCount": null,
           "title": "8BitDo Hall Effect Kit for N64 Controller",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20853",
-          "author": "Nicholas A. Ferrell",
-          "description": "Pixy Misa of Ambient Irony on a Tech Crunch article on Bluesky and one Mastodon app pushing algorithmic feeds after the […]\nPossibly related posts...\n\nSocial webs of personal websites\nReddit wars and precious John Oliver memes\nDefective second-hand graphics cards\nCalvin Coolidge's 1922 \"Better Homes\" Remarks\nThe Enigmatic Life and Death of Emperor Otho\nFeeds and Read-It-Later for Online Reading\nA BlackBerry-esque mini Linux computer...\nOn the Google Nexus 7 (2013) Tablet\nACE Academy - Visual Novel Review",
-          "link": "https://thenewleafjournal.com/leafbud/on-algorithmic-feeds-and-owning-nothing/",
-          "publishedOn": "2023-07-31T13:30:00.000Z",
-          "wordCount": null,
-          "title": "On Algorithmic Feeds and Owning Nothing",
           "imageUrl": null
         }
       ]
@@ -646,16 +656,6 @@
           "wordCount": 7490,
           "title": "America’s Beloved Meyer Lemon Caused a Mid-Century Citrus Panic",
           "imageUrl": "https://img.atlasobscura.com/YiQauTixwngo8ZdjSl8jUFxDn_XYt9omTrJFQeKF9uY/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8xYzAzNDgxZS1m/OTdlLTQ5ZjQtOGUz/ZS1lN2Y1YWYxNjFl/ZTY1MjkzNmM5MTFi/ZjI5NzM5YzJfbWV5/ZXJfbGVtb24uanBn.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=36949070",
-          "author": "nafnlj",
-          "description": "Article URL: https://africageographic.com/stories/namibias-wild-desert-horses/\nComments URL: https://news.ycombinator.com/item?id=36949070\nPoints: 2\n# Comments: 0",
-          "link": "https://africageographic.com/stories/namibias-wild-desert-horses/",
-          "publishedOn": "2023-07-31T21:25:16.000Z",
-          "wordCount": 3737,
-          "title": "On the brink: Namibia’s wild desert horses",
-          "imageUrl": "https://africageographic.com/wp-content/uploads/2023/01/Cover.jpg"
         }
       ]
     },
@@ -909,16 +909,6 @@
           "wordCount": 820,
           "title": "Merge branch 'splorp:master' into master",
           "imageUrl": "https://opengraph.githubassets.com/456f2ec4b5630e23f0d8e84871b59f754ffd1f10ef1a1c8b88ec5ee84fc9158d/nafnlj/wordpress-comment-blacklist-NLJFork/commit/daf65647415ec210cfde13e60629c6432bd61e0e"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4c9032114993ddc282ce19483ef5cbd18a0efd06",
-          "author": null,
-          "description": "Keyword additions — 20230731",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4c9032114993ddc282ce19483ef5cbd18a0efd06",
-          "publishedOn": "2023-07-31T17:45:46.000Z",
-          "wordCount": 816,
-          "title": "Keyword additions — 20230731",
-          "imageUrl": "https://opengraph.githubassets.com/04eb5f20bd44673cb25557f6b95916cd0a4a7fc7925643644a6050d842c24b54/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4c9032114993ddc282ce19483ef5cbd18a0efd06"
         }
       ]
     },
