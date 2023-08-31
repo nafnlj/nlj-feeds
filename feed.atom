@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-31T14:10:49.127Z</updated>
+    <updated>2023-08-31T20:11:10.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1244,16 +1244,6 @@ Mario Party's Joystick-Wrecking Rotation Games
 NLJ Recommendations From Around the Web II]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'splorp:master' into master]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/daf65647415ec210cfde13e60629c6432bd61e0e</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/daf65647415ec210cfde13e60629c6432bd61e0e"/>
-        <updated>2023-08-02T04:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Merge branch 'splorp:master' into master]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
 </feed>
