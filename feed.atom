@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-08-30T20:12:06.063Z</updated>
+    <updated>2023-08-31T14:10:49.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The New Leaf Journal Twtxt Feed]]></title>
+        <id>https://thenewleafjournal.com/?p=21075</id>
+        <link href="https://thenewleafjournal.com/the-new-leaf-journal-twtxt-feed/"/>
+        <updated>2023-08-30T20:45:42.000Z</updated>
+        <summary type="html"><![CDATA[On our new Twtxt feed and how to set one up in WordPress. This will be useful for the 2-3 Twtxt users who may find our site.
+Possibly related posts...
+
+An Introduction to RSS and Other Feed Formats
+Feeds and Read-It-Later for Online Reading
+RSS as a Facebook Alternative
+How to Find Substack RSS Feeds and Other Notes
+Subscribing to category-specific RSS feeds
+Follow The New Leaf Journal Pixelfed Atom Feed
+Introducing our Osmosfeed Aggregator
+IndieWeb Standards, RSS, and Atom
+RSS for keeping up with MikroTik updates]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110979154178335563</id>
+        <link href="https://linuxrocks.online/@nafnlj/110979154178335563"/>
+        <updated>2023-08-30T14:58:23.000Z</updated>
+        <summary type="html"><![CDATA[If you decide you want to experience the adventure that is Midsummer Haze for yourself, I wrote a story spoiler-free guide to the endings and published it to a repository on my Gitea instance.
+https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/src/branch/main/Midsummer_Haze_Endings_Guide.md
+#visualnovel #visualnovels #guide]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110979149107975823</id>
+        <link href="https://linuxrocks.online/@nafnlj/110979149107975823"/>
+        <updated>2023-08-30T14:57:06.000Z</updated>
+        <summary type="html"><![CDATA[Let it be said that Midsummer Haze's... interesting... random mechanic was not my only challenge. The EN translation is a patch for an indie Japanese VN from 2004 that went offline in 2008 or 09. In a separate post, I explained how I managed to find the original Japanese game... much searching and a lucky torrent.
+https://thenewleafjournal.com/finding-manatsu-no-kagerou/
+#visualnovel #visualnovels #torrents #research]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/110979142344147267</id>
+        <link href="https://linuxrocks.online/@nafnlj/110979142344147267"/>
+        <updated>2023-08-30T14:55:23.000Z</updated>
+        <summary type="html"><![CDATA[I reviewed Midsummer Haze, a 2006 translation of a 2004 freeware Japanese visual novel, as the 24th review of my project to review nearly all of the 31 Japanese visual novels translated for the 2005, 2006, and 2008 al|together festivals. The game has four endings, and the third unlocks the fourth. How do you get the third? By re-doing the second until it triggers. How many times did that take me? FORTY-THREE
+https://thenewleafjournal.com/midsummer-haze-visual-novel-review/
+#visualnovel #doujin #visualnovels #freeware #WINE #lutris]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changing NLJ System Font Stack]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=21068</id>
@@ -1197,27 +1254,6 @@ NLJ Recommendations From Around the Web II]]></summary>
         <summary type="html"><![CDATA[Merge branch 'splorp:master' into master]]></summary>
         <author>
             <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Last Nintendo Wii Games]]></title>
-        <id>https://thenewleafjournal.com/?p=20880</id>
-        <link href="https://thenewleafjournal.com/the-last-nintendo-wii-games/"/>
-        <updated>2023-08-01T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Was Just Dance 2020 really the last Nintendo Wii game? It depends on where you look.
-Possibly related posts...
-
-The best Nintendo controllers
-History of the Mario Party Gloves
-Motion controls in Mario Kart Wii
-Lateral thinking to extend game console life-cycles
-The Aborted Nintendo-Minnesota Lottery Scheme
-On Nintendo's Pro-User Cartridge-First Strategy
-On Improving the Environment For Gaming On Linux
-Nintendo Power's 1999 Yoshi in Pokémon April Fools Prank
-Video Game Visuals That Age Well]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
