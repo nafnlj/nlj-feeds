@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21081",
+          "author": "Nicholas A. Ferrell",
+          "description": "I have some notable site news to share and a good (albeit small) collection of articles from August 2023.\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nThe New Leaf Journal Celebrates Its First Birthday\nFlood of Tears - Visual Novel Review\nInstalling Non-Listed Programs in PlayOnLinux\nThe story of our Bing blacklisting\nJustin and Justina review 2022 at the NLJ\nNew Leaf Journal Third Birthday Reader\nThe Girl I Like Forgot Her Glasses Ep1 Animation\nJustin & Justina: Most-Read NLJ Content of 2020",
+          "link": "https://thenewleafjournal.com/august-2023-at-the-new-leaf-journal/",
+          "publishedOn": "2023-09-01T03:41:40.000Z",
+          "wordCount": 2845,
+          "title": "August 2023 at The New Leaf Journal",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21075",
           "author": "Nicholas A. Ferrell",
           "description": "On our new Twtxt feed and how to set one up in WordPress. This will be useful for the 2-3 Twtxt users who may find our site.\nPossibly related posts...\n\nAn Introduction to RSS and Other Feed Formats\nFeeds and Read-It-Later for Online Reading\nRSS as a Facebook Alternative\nHow to Find Substack RSS Feeds and Other Notes\nSubscribing to category-specific RSS feeds\nFollow The New Leaf Journal Pixelfed Atom Feed\nIntroducing our Osmosfeed Aggregator\nIndieWeb Standards, RSS, and Atom\nRSS for keeping up with MikroTik updates",
@@ -274,16 +284,6 @@
           "wordCount": 1434,
           "title": "How not to write a restaurant review",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20862",
-          "author": "Nicholas A. Ferrell",
-          "description": "From a June 2, 2023 report published by Nintendo Life: If you’re looking for more ways to use an N64 gamepad […]\nPossibly related posts...\n\nThe Two Decade Mario Party Finally Ends\nThe best Nintendo controllers\nBasil Hall on Benjamin Franklin's grave\nHistory of the Mario Party Gloves\n\"Kitty's First Pie\" - An 1881 Children's Poem From Harper's…\nThe Sega Dreamcast Controller Joystick\nVideo Game Visuals That Age Well\nMario Party's Joystick-Wrecking Rotation Games\nNLJ Recommendations From Around the Web II",
-          "link": "https://thenewleafjournal.com/leafbud/8bitdo-hall-effect-kit-for-n64-controller/",
-          "publishedOn": "2023-08-02T14:00:00.000Z",
-          "wordCount": null,
-          "title": "8BitDo Hall Effect Kit for N64 Controller",
-          "imageUrl": null
         }
       ]
     },
@@ -292,6 +292,16 @@
       "feedUrl": "https://thenewleafjournal.com/letter/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=letter&p=21085",
+          "author": "Nicholas A. Ferrell",
+          "description": "Welcome to the (syndicated) 150th edition of The Newsletter Leaf Journal, the official newsletter of the prennially virid online writing magazine, […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nThe New Leaf Journal Celebrates Its First Birthday\nHow to Find Substack RSS Feeds and Other Notes\nThe Newsletter Leaf Journal VIII\nNew Leaf Journal Third Birthday Reader",
+          "link": "https://thenewleafjournal.com/letter/150/",
+          "publishedOn": "2023-09-01T02:36:24.000Z",
+          "wordCount": null,
+          "title": "Newsletter Leaf Journal CX",
+          "imageUrl": null
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=letter&p=20974",
           "author": "Nicholas A. Ferrell",
@@ -494,16 +504,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110826255787433795",
           "publishedOn": "2023-08-03T14:54:19.000Z",
           "wordCount": 121,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110820835676098371",
-          "author": null,
-          "description": "I drafted a new article about DuckDuckGo's reliance on Bing. Shortly after drafting, and before editing, I read that TechCrunch had been blacklisted/de-indexed by Bing. I suppose the timing was good for the article but it created more work for me. (Obligatory note that NLJ is de-indexed by Bing, and as a result, invisible to DuckDuckGo.)\nhttps://thenewleafjournal.com/duckduckgo-in-the-bing-pond/\n#bing #duckduckgo #searchengine #microsoft",
-          "link": "https://linuxrocks.online/@nafnlj/110820835676098371",
-          "publishedOn": "2023-08-02T15:55:55.000Z",
-          "wordCount": 119,
           "title": "Untitled",
           "imageUrl": null
         }
@@ -889,16 +889,6 @@
           "wordCount": 556,
           "title": "Keyword additions and optimizations — 20230803",
           "imageUrl": "https://opengraph.githubassets.com/10e469d68bffa953ddbd4df0041ea9328ddce6d3b934eb1b95ed445b0c403538/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f4b2c8bcf7c5a11f71a5483c9c619426422748c2"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d0590bf26c061f2ad82ca91093163624c0b304a9",
-          "author": null,
-          "description": "Update blacklist.txt\n\nRemoved: Png\r\n\r\nAdded: barbie dollhouse, push it to the limit, cool wolf, you can do anything, you can do everything, asap darknet asap market, asapmarket, etsy.com, affordable plans, reliable performance, excellent customer support, exceptional speed, advanced security",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d0590bf26c061f2ad82ca91093163624c0b304a9",
-          "publishedOn": "2023-08-02T18:40:57.000Z",
-          "wordCount": 766,
-          "title": "Update blacklist.txt",
-          "imageUrl": "https://opengraph.githubassets.com/37ae7c38ce4ae7b32e7c28dff5c5376ead5cab95a47f287c4443bdc8fa93ad78/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d0590bf26c061f2ad82ca91093163624c0b304a9"
         }
       ]
     },
