@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-01T14:10:39.774Z</updated>
+    <updated>2023-09-01T20:11:20.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Midsummer Day’s Resonance – VN Review]]></title>
+        <id>https://thenewleafjournal.com/?p=21090</id>
+        <link href="https://thenewleafjournal.com/a-midsummer-days-resonance-vn-review/"/>
+        <updated>2023-09-01T19:56:33.000Z</updated>
+        <summary type="html"><![CDATA[I take a look at one of the best visual novels of the al|together set, featuring a terrific protagonist in Kasumi Kurasawa, broken phones, holograms, and growing up.
+Possibly related posts...
+
+Midsummer Haze - Visual Novel Review
+The al|together and Insani Visual Novel Translations
+Finding Manatsu no Kagerou
+Anna Jarvis and the Origin of Mother's Day in the United…
+History of Thanksgiving Proclamations in the Philippines
+io [Christmas Eve] - Visual Novel Review
+Japanese Environment in PoL, Lutris, and Bottles
+Why Vintage Guitars Sound Better
+An 1895 Poem on Memorial Day and Piece by Theodore Roosevelt]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Virtual Boy Fan Making New Tech and Games for Nintendo's Console Curio]]></title>
+        <id>https://news.ycombinator.com/item?id=37351112</id>
+        <link href="https://www.nintendolife.com/features/meet-the-virtual-boy-fan-making-new-tech-and-games-for-nintendos-console-curio"/>
+        <updated>2023-09-01T14:14:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nintendolife.com/features/meet-the-virtual-boy-fan-making-new-tech-and-games-for-nintendos-console-curio
+Comments URL: https://news.ycombinator.com/item?id=37351112
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[August 2023 at The New Leaf Journal]]></title>
         <id>https://thenewleafjournal.com/?p=21081</id>

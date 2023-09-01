@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21090",
+          "author": "Nicholas A. Ferrell",
+          "description": "I take a look at one of the best visual novels of the al|together set, featuring a terrific protagonist in Kasumi Kurasawa, broken phones, holograms, and growing up.\nPossibly related posts...\n\nMidsummer Haze - Visual Novel Review\nThe al|together and Insani Visual Novel Translations\nFinding Manatsu no Kagerou\nAnna Jarvis and the Origin of Mother's Day in the United…\nHistory of Thanksgiving Proclamations in the Philippines\nio [Christmas Eve] - Visual Novel Review\nJapanese Environment in PoL, Lutris, and Bottles\nWhy Vintage Guitars Sound Better\nAn 1895 Poem on Memorial Day and Piece by Theodore Roosevelt",
+          "link": "https://thenewleafjournal.com/a-midsummer-days-resonance-vn-review/",
+          "publishedOn": "2023-09-01T19:56:33.000Z",
+          "wordCount": null,
+          "title": "A Midsummer Day’s Resonance – VN Review",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21081",
           "author": "Nicholas A. Ferrell",
           "description": "I have some notable site news to share and a good (albeit small) collection of articles from August 2023.\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nThe New Leaf Journal Celebrates Its First Birthday\nFlood of Tears - Visual Novel Review\nInstalling Non-Listed Programs in PlayOnLinux\nThe story of our Bing blacklisting\nJustin and Justina review 2022 at the NLJ\nNew Leaf Journal Third Birthday Reader\nThe Girl I Like Forgot Her Glasses Ep1 Animation\nJustin & Justina: Most-Read NLJ Content of 2020",
@@ -557,6 +567,16 @@
       "feedUrl": "https://hnrss.org/user?id=nafnlj",
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=37351112",
+          "author": "nafnlj",
+          "description": "Article URL: https://www.nintendolife.com/features/meet-the-virtual-boy-fan-making-new-tech-and-games-for-nintendos-console-curio\nComments URL: https://news.ycombinator.com/item?id=37351112\nPoints: 3\n# Comments: 0",
+          "link": "https://www.nintendolife.com/features/meet-the-virtual-boy-fan-making-new-tech-and-games-for-nintendos-console-curio",
+          "publishedOn": "2023-09-01T14:14:30.000Z",
+          "wordCount": 5332,
+          "title": "The Virtual Boy Fan Making New Tech and Games for Nintendo's Console Curio",
+          "imageUrl": "https://images.nintendolife.com/f3ff2af494ed4/1280x720.jpg"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=37302827",
           "author": "nafnlj",
