@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21122",
+          "author": "Nicholas A. Ferrell",
+          "description": "On noting the identical first names of the protagonists of two Midsummer visual novels I reviewed back to back (without knowing the names in advance).\nPossibly related posts...\n\nMidsummer Haze - Visual Novel Review\nA Midsummer Day's Resonance - VN Review\nNew Leaf Spring Content, New and Old\nThe al|together and Insani Visual Novel Translations\nFinding Manatsu no Kagerou\n\"The Blind Girl and the Spring\" 〜 A Poem by Sydney Grey\nA Tanka on Ant Home Invasions in the Spring\nFour May Issues of The Nursery Magazine (1873-81)\nThe Poetry of Charlotte Becker - Early Twentieth Century…",
+          "link": "https://thenewleafjournal.com/two-visual-novel-midsummer-kasumis/",
+          "publishedOn": "2023-09-02T16:32:02.000Z",
+          "wordCount": 2811,
+          "title": "Two Visual Novel Midsummer Kasumis",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/09/resonance-card10.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21090",
           "author": "Nicholas A. Ferrell",
           "description": "I take a look at one of the best visual novels of the al|together set, featuring a terrific protagonist in Kasumi Kurasawa, broken phones, holograms, and growing up.\nPossibly related posts...\n\nMidsummer Haze - Visual Novel Review\nThe al|together and Insani Visual Novel Translations\nFinding Manatsu no Kagerou\nAnna Jarvis and the Origin of Mother's Day in the United…\nHistory of Thanksgiving Proclamations in the Philippines\nio [Christmas Eve] - Visual Novel Review\nJapanese Environment in PoL, Lutris, and Bottles\nWhy Vintage Guitars Sound Better\nAn 1895 Poem on Memorial Day and Piece by Theodore Roosevelt",
@@ -361,6 +371,16 @@
       "feedUrl": "https://buttondown.email/newsletterleafjournal/rss",
       "siteUrl": "https://buttondown.email/newsletterleafjournal",
       "articles": [
+        {
+          "id": "https://buttondown.email/newsletterleafjournal/archive/151/",
+          "author": null,
+          "description": "Welcome to the 151st edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. August is in the books, but I stepped up our publishing pace after a few slow weeks to bring the month to a proper conclusion. Below, I share our week's worth of posts, links from around the web, our new most-visited statistics, and other news and notes.\nLeaves from the week that was\nI published six new articles since mailing Newsletter 150. I suppose that is a decent enough rebound from a one article week (even conceding the month-in-review post only barely counts).\nPumpkin Spice Makeup Removal Wipes: I am no…",
+          "link": "https://buttondown.email/newsletterleafjournal/archive/151/",
+          "publishedOn": "2023-09-02T16:15:21.000Z",
+          "wordCount": 2096,
+          "title": "Newsletter Leaf Journal CLI 〜 Midsummer newsletter 〜",
+          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter Leaf Journal CLI 〜 Midsummer newsletter 〜&author=The Newsletter Leaf Journal&date=2023-09-02&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
+        },
         {
           "id": "https://buttondown.email/newsletterleafjournal/archive/150/",
           "author": null,
@@ -898,6 +918,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oDQPWQ3i50g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oDQPWQ3i50g",
+          "publishedOn": "2023-08-12T23:00:10.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo & Mark Caserta \"Goodnight, Irene\" (Leadbelly) Live at Make Music New York (6/21/23)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=U53omUiCMjQ",
           "author": null,
           "description": "",
@@ -905,6 +935,16 @@
           "publishedOn": "2023-08-10T20:53:54.000Z",
           "wordCount": null,
           "title": "Victor V. Gurbo & Mark Caserta \"The Weight\" (The Band) Home Recording 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=magrFQjI7lI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=magrFQjI7lI",
+          "publishedOn": "2023-08-07T23:00:07.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo feat. Kat & Vern Woodhead \"You Win Again\" Live at The Organic Grill (7/31/23)",
           "imageUrl": null
         }
       ]
