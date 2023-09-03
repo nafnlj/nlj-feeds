@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-02T20:10:06.429Z</updated>
+    <updated>2023-09-03T14:08:32.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1214,68 +1214,6 @@ Anime Case Against Japan's Population Loss
 Our Justin and Justina dialogue duo returns…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyword additions — 20230804]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/9b3693559e6339517e3ca27c8321a2dc96cb3090</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/9b3693559e6339517e3ca27c8321a2dc96cb3090"/>
-        <updated>2023-08-04T21:32:02.000Z</updated>
-        <summary type="html"><![CDATA[Keyword additions — 20230804]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Added 2ip.ru shortener]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/29140b3c10c7c5d304a1b59056ec44b1061809dd</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/29140b3c10c7c5d304a1b59056ec44b1061809dd"/>
-        <updated>2023-08-04T21:31:10.000Z</updated>
-        <summary type="html"><![CDATA[Added 2ip.ru shortener]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“I could get like the keys and come back”]]></title>
-        <id>https://thenewleafjournal.com/?p=20911</id>
-        <link href="https://thenewleafjournal.com/i-could-get-like-the-keys-and-come-back/"/>
-        <updated>2023-08-04T17:10:50.000Z</updated>
-        <summary type="html"><![CDATA[She said "I could get like the keys and come back."
-Possibly related posts...
-
-Should the Pistons have drafted Carmelo?
-The Enigmatic Life and Death of Emperor Otho
-Reviewing Bob Dylan's "Shadow Kingdom" Stream
-The al|together and Insani Visual Novel Translations
-Red Shift Visual Novel Review
-io [Christmas Eve] - Visual Novel Review
-Anime Recommendations of the Decade (2011-20)
-The Mystery of Sōseki and Tsuki ga Kirei
-The Best of Anime in 2022: Year in Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How not to write a restaurant review]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20909</id>
-        <link href="https://thenewleafjournal.com/leafbud/how-not-to-write-a-restaurant-review/"/>
-        <updated>2023-08-04T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[From the Brooklyn Heights Blog’s review of a new Georgian restaurant called Chama Mama (original, archived): Apologies for no photos of […]
-Possibly related posts...
-
-In Support of the Lawsuit Against NYC Dining Sheds
-1883 Opening of the Brooklyn Bridge
-The NYC Outdoor Dining Standing Water Crisis
-Save the Date - Visual Novel Review
-Usagi Drop 〜 A Complicated Anime Pick
-A Broken Sign and Graffiti at the Brooklyn Heights Gristedes
-Upside-Down Stop Sign in Brooklyn Heights
-Business Women, Poem by Charlotte Becker
-Matt Damon's Brooklyn Heights Crane Game]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
