@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-03T14:08:32.994Z</updated>
+    <updated>2023-09-03T20:10:06.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Simplified New Leaf Journal Display]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=21131</id>
+        <link href="https://thenewleafjournal.com/leaf/simplified-new-leaf-journal-display/"/>
+        <updated>2023-09-03T20:06:41.000Z</updated>
+        <summary type="html"><![CDATA[I decided to try removing the right widget area and using the full screen. Mobile users should not experience too much […]
+Possibly related posts...
+
+The 999 Life of Herman Cain
+Bing's and DuckDuckGo's CCP Problem
+Streaming from Android to PocketBook
+io [Christmas Eve] - Visual Novel Review
+The ideal phone, e-ink and QWERTY
+1883 Opening of the Brooklyn Bridge
+Installing Ubuntu Touch on a Google Nexus 7 (2013)
+The New Leaf Journal Celebrates Its First Birthday
+A Christmas Menagerie On a Lawn in Gowanus]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried to set up a mini WordPress site on Pikapods that would be used for social publishing. It was...]]></title>
+        <id>https://memos.emucafe.org/m/31</id>
+        <link href="https://memos.emucafe.org/m/31"/>
+        <updated>2023-09-03T19:46:19.000Z</updated>
+        <summary type="html"><![CDATA[I tried to set up a mini WordPress site on Pikapods that would be used for social publishing. It was successful at a baseline level but I found that things like setting security headers via .htaccess were not working. There were a few other instances of behavior that I did not like, so I will switch the project over to the NLJ server where I can manage it with Cloudron.
+#wordpress #webhosting]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two Visual Novel Midsummer Kasumis]]></title>
         <id>https://thenewleafjournal.com/?p=21122</id>
