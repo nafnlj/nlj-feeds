@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-03T20:10:06.445Z</updated>
+    <updated>2023-09-04T20:10:27.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111007772603421985</id>
+        <link href="https://linuxrocks.online/@nafnlj/111007772603421985"/>
+        <updated>2023-09-04T16:16:26.000Z</updated>
+        <summary type="html"><![CDATA[The boy-Emperor Romulus Augustulus is often described as the last (Western) Roman Emperor. He abdicated the royal purple to Odoacer on September 4, 476. But there remained another claimant to the title of Western Roman Emperor -- the exiled Julius Nepos, who lived until 480. Who was the last Western Roman Emperor? One year to the day, I wrote an article on this ultimately unimportant question.
+https://thenewleafjournal.com/who-was-the-last-western-roman-emperor/
+#RomanEmpire #rome #fallofrome #history #romanhistory]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kimi ni Todoke season three coming in 2024]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=21133</id>
+        <link href="https://thenewleafjournal.com/leaf/kimi-ni-todoke-season-three-coming-in-2024/"/>
+        <updated>2023-09-04T15:24:41.000Z</updated>
+        <summary type="html"><![CDATA[Kimi ni Todoke was a shoujo romance manga series which ran from 2005 through 2017. It received a two-season, 38-episode anime […]
+Possibly related posts...
+
+The Best of Anime in 2022: Year in Review
+Anime Recommendations of the Decade (2011-20)
+Understanding Hair Color in the Kimi ni Todoke Anime Series
+The Best Anime Series of 2021
+Should the Pistons have drafted Carmelo?
+Biden, Lincoln, and Counting Back From the President's Birth
+Misguided parking ticket-income idea
+1997 Otis Thorpe trade and the 2003 NBA Draft
+My Kimi ni Todoke article and Netflix]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Simplified New Leaf Journal Display]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=21131</id>
@@ -1230,22 +1263,6 @@ On DRM-Free Games on Steam]]></summary>
         <summary type="html"><![CDATA[Keyword additions — 20230806]]></summary>
         <author>
             <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXLVII 〜 Just Newsletter 2023 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/147/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/147/"/>
-        <updated>2023-08-05T21:20:07.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 147th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. After a slow two weeks of publishing, we returned to a normal publishing schedule last week. Below, we review our most recent posts, links from around the web, and other news and notes.
-Leaves from the week that was
-We published five new articles since mailing Newsletter 146.
-Basquiat Forgeries Made With Alarming Ease
-Wherein I ponder the implications of how easy it was for frauders to create convincing Basquiat forgeries.  
-Anime Case Against Japan's Population Loss
-Our Justin and Justina dialogue duo returns…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>

@@ -129,6 +129,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=21133",
+          "author": "Nicholas A. Ferrell",
+          "description": "Kimi ni Todoke was a shoujo romance manga series which ran from 2005 through 2017. It received a two-season, 38-episode anime […]\nPossibly related posts...\n\nThe Best of Anime in 2022: Year in Review\nAnime Recommendations of the Decade (2011-20)\nUnderstanding Hair Color in the Kimi ni Todoke Anime Series\nThe Best Anime Series of 2021\nShould the Pistons have drafted Carmelo?\nBiden, Lincoln, and Counting Back From the President's Birth\nMisguided parking ticket-income idea\n1997 Otis Thorpe trade and the 2003 NBA Draft\nMy Kimi ni Todoke article and Netflix",
+          "link": "https://thenewleafjournal.com/leaf/kimi-ni-todoke-season-three-coming-in-2024/",
+          "publishedOn": "2023-09-04T15:24:41.000Z",
+          "wordCount": 2065,
+          "title": "Kimi ni Todoke season three coming in 2024",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2021/08/kimi-ni-todoke-sawako_u.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=21131",
           "author": "Nicholas A. Ferrell",
           "description": "I decided to try removing the right widget area and using the full screen. Mobile users should not experience too much […]\nPossibly related posts...\n\nThe 999 Life of Herman Cain\nBing's and DuckDuckGo's CCP Problem\nStreaming from Android to PocketBook\nio [Christmas Eve] - Visual Novel Review\nThe ideal phone, e-ink and QWERTY\n1883 Opening of the Brooklyn Bridge\nInstalling Ubuntu Touch on a Google Nexus 7 (2013)\nThe New Leaf Journal Celebrates Its First Birthday\nA Christmas Menagerie On a Lawn in Gowanus",
@@ -400,23 +410,13 @@
           "wordCount": 2298,
           "title": "Newsletter Leaf Journal CXLVIII 〜 Driving down the walkway 〜",
           "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter Leaf Journal CXLVIII 〜 Driving down the walkway 〜&author=The Newsletter Leaf Journal&date=2023-08-12&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/147/",
-          "author": null,
-          "description": "Welcome to the 147th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. After a slow two weeks of publishing, we returned to a normal publishing schedule last week. Below, we review our most recent posts, links from around the web, and other news and notes.\nLeaves from the week that was\nWe published five new articles since mailing Newsletter 146.\nBasquiat Forgeries Made With Alarming Ease\nWherein I ponder the implications of how easy it was for frauders to create convincing Basquiat forgeries.  \nAnime Case Against Japan's Population Loss\nOur Justin and Justina dialogue duo returns…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/147/",
-          "publishedOn": "2023-08-05T21:20:07.000Z",
-          "wordCount": 2104,
-          "title": "Newsletter Leaf Journal CXLVII 〜 Just Newsletter 2023 〜",
-          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter Leaf Journal CXLVII 〜 Just Newsletter 2023 〜&author=The Newsletter Leaf Journal&date=2023-08-05&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
         }
       ]
     },
     {
       "title": "The New Leaf Annex",
       "feedUrl": "https://newleafannex.bearblog.dev/feed/",
-      "siteUrl": "https://newleafannex.bearblog.dev/",
+      "siteUrl": "https://annex.thenewleafjournal.com/",
       "articles": []
     },
     {
@@ -447,6 +447,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111007772603421985",
+          "author": null,
+          "description": "The boy-Emperor Romulus Augustulus is often described as the last (Western) Roman Emperor. He abdicated the royal purple to Odoacer on September 4, 476. But there remained another claimant to the title of Western Roman Emperor -- the exiled Julius Nepos, who lived until 480. Who was the last Western Roman Emperor? One year to the day, I wrote an article on this ultimately unimportant question.\nhttps://thenewleafjournal.com/who-was-the-last-western-roman-emperor/\n#RomanEmpire #rome #fallofrome #history #romanhistory",
+          "link": "https://linuxrocks.online/@nafnlj/111007772603421985",
+          "publishedOn": "2023-09-04T16:16:26.000Z",
+          "wordCount": 118,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/110979154178335563",
           "author": null,
