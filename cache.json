@@ -266,6 +266,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=21140",
+          "author": "Nicholas A. Ferrell",
+          "description": "I just launched a new project called The Emu Café Social. It is a social publishing site for a select community […]\nPossibly related posts...\n\nJustin and Justina review 2022 at the NLJ\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin & Justina: Most-Read NLJ Content of 2020\nWelcome to The Emu Café\nThe New Leaf Journal Celebrates Its First Birthday\nAkutagawa's The Dragon and The Emu Café\nA Wayward Emu Loses Its Way to The Emu Café\nI don't want your emu and I don't have to feed it\nOn When to Watch Credits or Leave a Bad Movie",
+          "link": "https://thenewleafjournal.com/leafbud/new-project-the-emu-cafe-social/",
+          "publishedOn": "2023-09-05T18:35:47.000Z",
+          "wordCount": null,
+          "title": "New Project: The Emu Café Social",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20977",
           "author": "Nicholas A. Ferrell",
           "description": "To the extent I have a preference for any form of social media, I prefer decentralization and ownership of one’s own […]\nPossibly related posts...\n\nReviewing the Mastodon Twitter Crossposter\nAgainst Twitter as a Content Curator\nLearning How to Change a Twitter Username\nSubstack Notes' Twitter clone war\nThe New Leaf Journal Twitter\nFediverse Clone Wars and Decentralized Social Media\nShutdown of dev Mastodon Twitter Crossposter instance\nThe Great Suspender and Twitter Stardom\nOn Improving the Environment For Gaming On Linux",
@@ -447,6 +457,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111013330285397006",
+          "author": null,
+          "description": "I am starting a WordPress-based social publishing sitewith the ActivityPub plugin. If anyone is interested, you can already follow our first three accounts:\n@nafaugustus \n@naferrell \n@victorvgurbo \nYou can learn more on our first About page:\nhttps://social.emucafe.org/about/\nIf you do follow, I would appreciate notes/feedback on how our posts look from your instance (or if you can see at all).  You can also follow the main WP site via RSS, ATOM, JSON feed or even TWTXT (/feed/twxt).",
+          "link": "https://linuxrocks.online/@nafnlj/111013330285397006",
+          "publishedOn": "2023-09-05T15:49:49.000Z",
+          "wordCount": 118,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111007772603421985",
           "author": null,

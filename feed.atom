@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-05T14:09:57.547Z</updated>
+    <updated>2023-09-05T20:11:37.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Project: The Emu Café Social]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=21140</id>
+        <link href="https://thenewleafjournal.com/leafbud/new-project-the-emu-cafe-social/"/>
+        <updated>2023-09-05T18:35:47.000Z</updated>
+        <summary type="html"><![CDATA[I just launched a new project called The Emu Café Social. It is a social publishing site for a select community […]
+Possibly related posts...
+
+Justin and Justina review 2022 at the NLJ
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Justin & Justina: Most-Read NLJ Content of 2020
+Welcome to The Emu Café
+The New Leaf Journal Celebrates Its First Birthday
+Akutagawa's The Dragon and The Emu Café
+A Wayward Emu Loses Its Way to The Emu Café
+I don't want your emu and I don't have to feed it
+On When to Watch Credits or Leave a Bad Movie]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111013330285397006</id>
+        <link href="https://linuxrocks.online/@nafnlj/111013330285397006"/>
+        <updated>2023-09-05T15:49:49.000Z</updated>
+        <summary type="html"><![CDATA[I am starting a WordPress-based social publishing sitewith the ActivityPub plugin. If anyone is interested, you can already follow our first three accounts:
+@nafaugustus 
+@naferrell 
+@victorvgurbo 
+You can learn more on our first About page:
+https://social.emucafe.org/about/
+If you do follow, I would appreciate notes/feedback on how our posts look from your instance (or if you can see at all).  You can also follow the main WP site via RSS, ATOM, JSON feed or even TWTXT (/feed/twxt).]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Surviving Megidolaon Spam in Persona 3]]></title>
         <id>https://thenewleafjournal.com/?p=21136</id>
