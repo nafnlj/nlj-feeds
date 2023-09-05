@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21136",
+          "author": "Nicholas A. Ferrell",
+          "description": "Remembering the time I inadvertently triggered the wrath of a video game character in Persona 3 FES and was forced to hang on for dear virtual life.\nPossibly related posts...\n\nPersona 4 Golden Digital Artbook Review (Steam)\nReview of the Original Persona 4 Artbook\nJustin and Justina review 2022 at the NLJ\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nIntroducing the 1922 Better Homes in America Demonstration…\nPersona 4, Coffee, and Children\nKeeping WP Comment Blacklist Up to Date\nJustin & Justina: Most-Read NLJ Content of 2020\nDesigning video games to produce benefits",
+          "link": "https://thenewleafjournal.com/surviving-megidolaon-spam-in-persona-3/",
+          "publishedOn": "2023-09-04T21:37:12.000Z",
+          "wordCount": 3342,
+          "title": "Surviving Megidolaon Spam in Persona 3",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21122",
           "author": "Nicholas A. Ferrell",
           "description": "On noting the identical first names of the protagonists of two Midsummer visual novels I reviewed back to back (without knowing the names in advance).\nPossibly related posts...\n\nMidsummer Haze - Visual Novel Review\nA Midsummer Day's Resonance - VN Review\nNew Leaf Spring Content, New and Old\nThe al|together and Insani Visual Novel Translations\nFinding Manatsu no Kagerou\n\"The Blind Girl and the Spring\" 〜 A Poem by Sydney Grey\nA Tanka on Ant Home Invasions in the Spring\nFour May Issues of The Nursery Magazine (1873-81)\nThe Poetry of Charlotte Becker - Early Twentieth Century…",
@@ -294,16 +304,6 @@
           "wordCount": null,
           "title": "Lighthouse for Sale in Michigan",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20915",
-          "author": "Nicholas A. Ferrell",
-          "description": "From Greenpointers (see article): Luckily, the MTA recently announced a new rollout of subway service enhancements, starting this month. Weekend service […]\nPossibly related posts...\n\nReverend Warneford’s 1890s Miniature Model Railroad System…\nUntil We Meet Again - Visual Novel Review\nOn NYC Curfews and Essential Workers\nFrom Planes to Trains in Switzerland\nTakaki's Memories in 5 Centimeters Per Second\n\"Uncle Susan is a Wolf\" - A Graffiti Photo and Research…\n\"Why did the chicken cross the rails?\"\nNLJ Recommendations From Around the Web VIII\nOn DRM-Free Games on Steam",
-          "link": "https://thenewleafjournal.com/leafbud/mta-announces-g-train-upgrades/",
-          "publishedOn": "2023-08-06T16:30:00.000Z",
-          "wordCount": null,
-          "title": "MTA announces G-Train Upgrades",
-          "imageUrl": null
         }
       ]
     },
@@ -416,7 +416,7 @@
     {
       "title": "The New Leaf Annex",
       "feedUrl": "https://newleafannex.bearblog.dev/feed/",
-      "siteUrl": "https://annex.thenewleafjournal.com/",
+      "siteUrl": "https://newleafannex.emucafe.org/",
       "articles": []
     },
     {
@@ -540,6 +540,16 @@
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/32",
+          "author": null,
+          "description": "I came across a WordPress plugin called Post Type Switcher. Description:\nThis plugin adds a simple post-type drop-down to the post editor interface, allowing you to reassign any post to a new post type. It allows you to switch post’s type while editing your post.\nIt supports custom post types. This may come in handy down the line, so I am saving it here as a proverbial bookmark.\n#wordpress",
+          "link": "https://memos.emucafe.org/m/32",
+          "publishedOn": "2023-09-04T20:49:51.000Z",
+          "wordCount": 21,
+          "title": "I came across a WordPress plugin called [Post Type Switcher](https://wordpress.org/plugins/post-type...",
+          "imageUrl": null
+        },
         {
           "id": "https://memos.emucafe.org/m/31",
           "author": null,
@@ -889,16 +899,6 @@
           "wordCount": 521,
           "title": "Keyword additions and optimizations — 20230808",
           "imageUrl": "https://opengraph.githubassets.com/a51d873876de1116d11e9988857adf178f959a9d6254285439932458615268bd/nafnlj/wordpress-comment-blacklist-NLJFork/commit/df53cf4d0e704b8659579a3e7442873c8335ff92"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8b29ea410afcd013f1c79100277fd453f740684e",
-          "author": null,
-          "description": "Keyword additions — 20230806",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8b29ea410afcd013f1c79100277fd453f740684e",
-          "publishedOn": "2023-08-06T15:15:50.000Z",
-          "wordCount": 858,
-          "title": "Keyword additions — 20230806",
-          "imageUrl": "https://opengraph.githubassets.com/6ee27e628d34b4aff2a90f8d96622e77bc77e18b2cdeb08869814a23712192f8/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8b29ea410afcd013f1c79100277fd453f740684e"
         }
       ]
     },

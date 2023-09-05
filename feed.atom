@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-04T20:10:27.996Z</updated>
+    <updated>2023-09-05T14:09:57.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Surviving Megidolaon Spam in Persona 3]]></title>
+        <id>https://thenewleafjournal.com/?p=21136</id>
+        <link href="https://thenewleafjournal.com/surviving-megidolaon-spam-in-persona-3/"/>
+        <updated>2023-09-04T21:37:12.000Z</updated>
+        <summary type="html"><![CDATA[Remembering the time I inadvertently triggered the wrath of a video game character in Persona 3 FES and was forced to hang on for dear virtual life.
+Possibly related posts...
+
+Persona 4 Golden Digital Artbook Review (Steam)
+Review of the Original Persona 4 Artbook
+Justin and Justina review 2022 at the NLJ
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Introducing the 1922 Better Homes in America Demonstration…
+Persona 4, Coffee, and Children
+Keeping WP Comment Blacklist Up to Date
+Justin & Justina: Most-Read NLJ Content of 2020
+Designing video games to produce benefits]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I came across a WordPress plugin called [Post Type Switcher](https://wordpress.org/plugins/post-type...]]></title>
+        <id>https://memos.emucafe.org/m/32</id>
+        <link href="https://memos.emucafe.org/m/32"/>
+        <updated>2023-09-04T20:49:51.000Z</updated>
+        <summary type="html"><![CDATA[I came across a WordPress plugin called Post Type Switcher. Description:
+This plugin adds a simple post-type drop-down to the post editor interface, allowing you to reassign any post to a new post type. It allows you to switch post’s type while editing your post.
+It supports custom post types. This may come in handy down the line, so I am saving it here as a proverbial bookmark.
+#wordpress]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111007772603421985</id>
@@ -1232,37 +1266,6 @@ Adding custom search shortcut for Wayback Machine]]></summary>
         <updated>2023-08-07T23:00:07.000Z</updated>
         <author>
             <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MTA announces G-Train Upgrades]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20915</id>
-        <link href="https://thenewleafjournal.com/leafbud/mta-announces-g-train-upgrades/"/>
-        <updated>2023-08-06T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[From Greenpointers (see article): Luckily, the MTA recently announced a new rollout of subway service enhancements, starting this month. Weekend service […]
-Possibly related posts...
-
-Reverend Warneford’s 1890s Miniature Model Railroad System…
-Until We Meet Again - Visual Novel Review
-On NYC Curfews and Essential Workers
-From Planes to Trains in Switzerland
-Takaki's Memories in 5 Centimeters Per Second
-"Uncle Susan is a Wolf" - A Graffiti Photo and Research…
-"Why did the chicken cross the rails?"
-NLJ Recommendations From Around the Web VIII
-On DRM-Free Games on Steam]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyword additions — 20230806]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8b29ea410afcd013f1c79100277fd453f740684e</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8b29ea410afcd013f1c79100277fd453f740684e"/>
-        <updated>2023-08-06T15:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Keyword additions — 20230806]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
 </feed>
