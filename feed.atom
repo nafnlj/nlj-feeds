@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-05T20:11:37.995Z</updated>
+    <updated>2023-09-06T14:10:47.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1294,15 +1294,6 @@ Adding custom search shortcut for Wayback Machine]]></summary>
         <summary type="html"><![CDATA[Keyword additions and optimizations — 20230808]]></summary>
         <author>
             <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victor V. Gurbo feat. Kat & Vern Woodhead "You Win Again" Live at The Organic Grill (7/31/23)]]></title>
-        <id>https://www.youtube.com/watch?v=magrFQjI7lI</id>
-        <link href="https://www.youtube.com/watch?v=magrFQjI7lI"/>
-        <updated>2023-08-07T23:00:07.000Z</updated>
-        <author>
-            <name>Victor V. Gurbo</name>
         </author>
     </entry>
 </feed>
