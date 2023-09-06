@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21162",
+          "author": "Nicholas A. Ferrell",
+          "description": "On how to host avatars locally on WordPress AND redirect Gravatar requests locally for users without local avatars.\nPossibly related posts...\n\nThe Enigmatic Life and Death of Emperor Otho\nAnime Recommendations of the Decade (2011-20)\nACE Academy - Visual Novel Review\nThe al|together and Insani Visual Novel Translations\nThe Best of Anime in 2022: Year in Review\nThe Angel Next Door Spoils Me Rotten - Anime Review\nFour May Issues of The Nursery Magazine (1873-81)\nThe Poetry of Charlotte Becker - Early Twentieth Century…\nHistory of Thanksgiving Proclamations in the Philippines",
+          "link": "https://thenewleafjournal.com/local-avatars-and-redirecting-gravatars/",
+          "publishedOn": "2023-09-06T17:42:09.000Z",
+          "wordCount": 3113,
+          "title": "Local Avatars and Redirecting Gravatars",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21136",
           "author": "Nicholas A. Ferrell",
           "description": "Remembering the time I inadvertently triggered the wrath of a video game character in Persona 3 FES and was forced to hang on for dear virtual life.\nPossibly related posts...\n\nPersona 4 Golden Digital Artbook Review (Steam)\nReview of the Original Persona 4 Artbook\nJustin and Justina review 2022 at the NLJ\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nIntroducing the 1922 Better Homes in America Demonstration…\nPersona 4, Coffee, and Children\nKeeping WP Comment Blacklist Up to Date\nJustin & Justina: Most-Read NLJ Content of 2020\nDesigning video games to produce benefits",
@@ -138,6 +148,16 @@
       "feedUrl": "https://thenewleafjournal.com/leaf/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=21165",
+          "author": "Nicholas A. Ferrell",
+          "description": "WordPress pages (as opposed to posts) do not have pingback and trackback support by default. I had a need to enable […]\nPossibly related posts...\n\nLocal Avatars and Redirecting Gravatars\nReviewing Koko Analytics: A Simple Privacy-Friendly…\nThe New Leaf Journal Twtxt Feed\nRemoving pages from Yandex Turbo\nImplementing Article Series With WP Post Series\nFixing a WP Custom Post Type Permalink Error\nUsing Nostr Verify for WordPress NIP-05\nUpgrading WP Search With Relevanssi\nWordPress Webmention Plugin Discovery",
+          "link": "https://thenewleafjournal.com/leaf/pingback-to-pages-wp-plugin/",
+          "publishedOn": "2023-09-06T18:03:18.000Z",
+          "wordCount": 1542,
+          "title": "Pingback-to-Pages WP Plugin",
+          "imageUrl": null
+        },
         {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=21133",
           "author": "Nicholas A. Ferrell",
@@ -457,6 +477,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111019452006421485",
+          "author": null,
+          "description": "A post wherein I relive the trauma of inadvertently making an enemy very angry (and spammy) in Persona 3 FES's Answer epilogue about 13 years ago (note that there are some FES The Answer spoilers, albeit below the fold).\nhttps://thenewleafjournal.com/surviving-megidolaon-spam-in-persona-3/\n#videogame #jrpg #persona3fes #persona3 #playstation2",
+          "link": "https://linuxrocks.online/@nafnlj/111019452006421485",
+          "publishedOn": "2023-09-06T17:46:40.000Z",
+          "wordCount": 120,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111013330285397006",
           "author": null,

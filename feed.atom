@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-06T14:10:47.725Z</updated>
+    <updated>2023-09-06T20:11:38.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pingback-to-Pages WP Plugin]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=21165</id>
+        <link href="https://thenewleafjournal.com/leaf/pingback-to-pages-wp-plugin/"/>
+        <updated>2023-09-06T18:03:18.000Z</updated>
+        <summary type="html"><![CDATA[WordPress pages (as opposed to posts) do not have pingback and trackback support by default. I had a need to enable […]
+Possibly related posts...
+
+Local Avatars and Redirecting Gravatars
+Reviewing Koko Analytics: A Simple Privacy-Friendly…
+The New Leaf Journal Twtxt Feed
+Removing pages from Yandex Turbo
+Implementing Article Series With WP Post Series
+Fixing a WP Custom Post Type Permalink Error
+Using Nostr Verify for WordPress NIP-05
+Upgrading WP Search With Relevanssi
+WordPress Webmention Plugin Discovery]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111019452006421485</id>
+        <link href="https://linuxrocks.online/@nafnlj/111019452006421485"/>
+        <updated>2023-09-06T17:46:40.000Z</updated>
+        <summary type="html"><![CDATA[A post wherein I relive the trauma of inadvertently making an enemy very angry (and spammy) in Persona 3 FES's Answer epilogue about 13 years ago (note that there are some FES The Answer spoilers, albeit below the fold).
+https://thenewleafjournal.com/surviving-megidolaon-spam-in-persona-3/
+#videogame #jrpg #persona3fes #persona3 #playstation2]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local Avatars and Redirecting Gravatars]]></title>
+        <id>https://thenewleafjournal.com/?p=21162</id>
+        <link href="https://thenewleafjournal.com/local-avatars-and-redirecting-gravatars/"/>
+        <updated>2023-09-06T17:42:09.000Z</updated>
+        <summary type="html"><![CDATA[On how to host avatars locally on WordPress AND redirect Gravatar requests locally for users without local avatars.
+Possibly related posts...
+
+The Enigmatic Life and Death of Emperor Otho
+Anime Recommendations of the Decade (2011-20)
+ACE Academy - Visual Novel Review
+The al|together and Insani Visual Novel Translations
+The Best of Anime in 2022: Year in Review
+The Angel Next Door Spoils Me Rotten - Anime Review
+Four May Issues of The Nursery Magazine (1873-81)
+The Poetry of Charlotte Becker - Early Twentieth Century…
+History of Thanksgiving Proclamations in the Philippines]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Project: The Emu Café Social]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=21140</id>
