@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-06T20:11:38.554Z</updated>
+    <updated>2023-09-07T14:10:01.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1338,16 +1338,6 @@ Bing's and DuckDuckGo's CCP Problem
 Adding custom search shortcut for Wayback Machine]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyword additions and optimizations — 20230808]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/df53cf4d0e704b8659579a3e7442873c8335ff92</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/df53cf4d0e704b8659579a3e7442873c8335ff92"/>
-        <updated>2023-08-08T21:27:56.000Z</updated>
-        <summary type="html"><![CDATA[Keyword additions and optimizations — 20230808]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
 </feed>
