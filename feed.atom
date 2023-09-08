@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-07T20:10:41.737Z</updated>
+    <updated>2023-09-08T14:09:48.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Appreciating BunnyPress]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=21185</id>
+        <link href="https://thenewleafjournal.com/leaf/appreciating-bunnypress/"/>
+        <updated>2023-09-08T02:55:02.000Z</updated>
+        <summary type="html"><![CDATA[We have been using the BunnyPress theme for WordPress by Yossy’s Web Service since June 2020. I wrote a review three […]
+Possibly related posts...
+
+The BunnyPress Chronicles: Story and Review
+Should the Pistons have drafted Carmelo?
+Implementing Article Series With WP Post Series
+The Small Web, Artisanal Content, and Humane Design
+WP Super Cache Preload and Lazy Loading
+The New Leaf Journal Celebrates Its First Birthday
+The Enigmatic Life and Death of Emperor Otho
+The Angel Next Door Spoils Me Rotten - Anime Review
+Recording a Test New Leaf Journal Pokémon Sword and Shield…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pingback-to-Pages WP Plugin]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=21165</id>
@@ -1293,49 +1314,6 @@ Importance of Bing Indexing For Alt Search
 1914 Moral Story For Children on Responsibility
 Bing's and DuckDuckGo's CCP Problem
 Mojeek Search's Calculator]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update blacklist.txt]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/25e4cb42c4791dbcf9a77b3ad9dc6ecf839cbd10</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/25e4cb42c4791dbcf9a77b3ad9dc6ecf839cbd10"/>
-        <updated>2023-08-09T13:49:18.000Z</updated>
-        <summary type="html"><![CDATA[Update blacklist.txt
-
-Added autoflower, pint77.com, etsy.com,.]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'splorp:master' into master]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f10a557195ce8c651c7736378f456106dafa43cd</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f10a557195ce8c651c7736378f456106dafa43cd"/>
-        <updated>2023-08-09T13:41:40.000Z</updated>
-        <summary type="html"><![CDATA[Merge branch 'splorp:master' into master]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brave no longer relying on Bing images]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20919</id>
-        <link href="https://thenewleafjournal.com/leaf/brave-no-longer-relying-on-bing-images/"/>
-        <updated>2023-08-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I previously wrote about Brave Search dropping its partial dependency on Bing for web search results. As the webmaster of a […]
-Possibly related posts...
-
-The story of our Bing blacklisting
-Brave and DuckDuckGo Timer Search Shortcuts
-A 2021 List of Alternative Search Engines and Search…
-Quince recipes from Mary Eales's receipts
-The Downstream Effects of Bing's Tiananmen Square Censorship
-Importance of Bing Indexing For Alt Search
-DuckDuckGo in the Bing Pond
-Bing's and DuckDuckGo's CCP Problem
-Adding custom search shortcut for Wayback Machine]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>

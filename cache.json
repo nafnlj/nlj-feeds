@@ -149,6 +149,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leaf&p=21185",
+          "author": "Nicholas A. Ferrell",
+          "description": "We have been using the BunnyPress theme for WordPress by Yossy’s Web Service since June 2020. I wrote a review three […]\nPossibly related posts...\n\nThe BunnyPress Chronicles: Story and Review\nShould the Pistons have drafted Carmelo?\nImplementing Article Series With WP Post Series\nThe Small Web, Artisanal Content, and Humane Design\nWP Super Cache Preload and Lazy Loading\nThe New Leaf Journal Celebrates Its First Birthday\nThe Enigmatic Life and Death of Emperor Otho\nThe Angel Next Door Spoils Me Rotten - Anime Review\nRecording a Test New Leaf Journal Pokémon Sword and Shield…",
+          "link": "https://thenewleafjournal.com/leaf/appreciating-bunnypress/",
+          "publishedOn": "2023-09-08T02:55:02.000Z",
+          "wordCount": 1502,
+          "title": "Appreciating BunnyPress",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leaf&p=21165",
           "author": "Nicholas A. Ferrell",
           "description": "WordPress pages (as opposed to posts) do not have pingback and trackback support by default. I had a need to enable […]\nPossibly related posts...\n\nLocal Avatars and Redirecting Gravatars\nReviewing Koko Analytics: A Simple Privacy-Friendly…\nThe New Leaf Journal Twtxt Feed\nRemoving pages from Yandex Turbo\nImplementing Article Series With WP Post Series\nFixing a WP Custom Post Type Permalink Error\nUsing Nostr Verify for WordPress NIP-05\nUpgrading WP Search With Relevanssi\nWordPress Webmention Plugin Discovery",
@@ -266,16 +276,6 @@
           "publishedOn": "2023-08-10T11:30:00.000Z",
           "wordCount": 1420,
           "title": "Mojeek drops Bing and adds Openverse",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20919",
-          "author": "Nicholas A. Ferrell",
-          "description": "I previously wrote about Brave Search dropping its partial dependency on Bing for web search results. As the webmaster of a […]\nPossibly related posts...\n\nThe story of our Bing blacklisting\nBrave and DuckDuckGo Timer Search Shortcuts\nA 2021 List of Alternative Search Engines and Search…\nQuince recipes from Mary Eales's receipts\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nImportance of Bing Indexing For Alt Search\nDuckDuckGo in the Bing Pond\nBing's and DuckDuckGo's CCP Problem\nAdding custom search shortcut for Wayback Machine",
-          "link": "https://thenewleafjournal.com/leaf/brave-no-longer-relying-on-bing-images/",
-          "publishedOn": "2023-08-09T13:00:00.000Z",
-          "wordCount": 1399,
-          "title": "Brave no longer relying on Bing images",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
         }
       ]
@@ -919,26 +919,6 @@
           "wordCount": 1012,
           "title": "Keyword additions and optimizations — 20230811",
           "imageUrl": "https://opengraph.githubassets.com/244d3bc529739ee07b5fe4d84931f57f56183149d601c99246ae60fe38bdae74/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4991c96f6acba60f8e6ad4f59a73e34ca744e86c"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/25e4cb42c4791dbcf9a77b3ad9dc6ecf839cbd10",
-          "author": null,
-          "description": "Update blacklist.txt\n\nAdded autoflower, pint77.com, etsy.com,.",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/25e4cb42c4791dbcf9a77b3ad9dc6ecf839cbd10",
-          "publishedOn": "2023-08-09T13:49:18.000Z",
-          "wordCount": 530,
-          "title": "Update blacklist.txt",
-          "imageUrl": "https://opengraph.githubassets.com/cd2773d2082481b10764107b3e7d6667036894938398f3c1b66eacb3c468bea4/nafnlj/wordpress-comment-blacklist-NLJFork/commit/25e4cb42c4791dbcf9a77b3ad9dc6ecf839cbd10"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f10a557195ce8c651c7736378f456106dafa43cd",
-          "author": null,
-          "description": "Merge branch 'splorp:master' into master",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f10a557195ce8c651c7736378f456106dafa43cd",
-          "publishedOn": "2023-08-09T13:41:40.000Z",
-          "wordCount": 1216,
-          "title": "Merge branch 'splorp:master' into master",
-          "imageUrl": "https://opengraph.githubassets.com/ecd41adfa96f71407312819067e9fdb41448945d1a0f0a9d5734694a23925e4f/nafnlj/wordpress-comment-blacklist-NLJFork/commit/f10a557195ce8c651c7736378f456106dafa43cd"
         }
       ]
     },
