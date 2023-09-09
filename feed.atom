@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-09T14:08:25.205Z</updated>
+    <updated>2023-09-09T20:10:05.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111036529214144732</id>
+        <link href="https://linuxrocks.online/@nafnlj/111036529214144732"/>
+        <updated>2023-09-09T18:09:37.000Z</updated>
+        <summary type="html"><![CDATA[As I note in the article, the game remains free to download from the official source and can be run natively on Windows and Linux (not modern MacOS, although the original translators are working on remastered versions that will run on modern MacOS).]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111036525702489869</id>
+        <link href="https://linuxrocks.online/@nafnlj/111036525702489869"/>
+        <updated>2023-09-09T18:08:43.000Z</updated>
+        <summary type="html"><![CDATA[My review of A Midsummer Day's Resonance, the 2005 translation of a 2002 freeware Japanese visual novel. I reviewed it as part of a project to review nearly 30 translations from 2005-2008. A Midsummer Day's Resonance, which is a story about growing up with holograms coming from phones, turned out to be one of the better reads thus far.
+https://thenewleafjournal.com/a-midsummer-days-resonance-vn-review/
+#VisualNovel #VisualNovels #freeware #indiegame]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111035903251651892</id>
+        <link href="https://linuxrocks.online/@nafnlj/111035903251651892"/>
+        <updated>2023-09-09T15:30:26.000Z</updated>
+        <summary type="html"><![CDATA[I remembered the "Y2K" computer scare from when I was a kid, but not the fears of 9.9.99... my article 2022 on the concerns about 1999 September bugs.
+https://thenewleafjournal.com/the-9-9-99-computer-bug-that-wasnt/
+#1999 #glitch #bugs #thisdayinhistory]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Appreciating BunnyPress]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=21185</id>
