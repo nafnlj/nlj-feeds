@@ -372,6 +372,16 @@
       "siteUrl": "https://buttondown.email/newsletterleafjournal",
       "articles": [
         {
+          "id": "https://buttondown.email/newsletterleafjournal/archive/152/",
+          "author": null,
+          "description": "Welcome to Newsletter Leaf Journal 152. The Newsletter Leaf Journal is the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. I had a busy week with site administration -- although not all of it had to do with The New Leaf Journal (I will explain in our Notable Leaf Journal) section. But despite the side projects, I published several new articles and made a few adjustments to what I hope is your favorite perennially virid online writing magazine.\nLeaves from the week that was\nI published three new full articles.\nTwo Visual Novel Midsummer Kasumis (I did not realize before reading Midsummer Haze and A Midsummer Day's Resonan…",
+          "link": "https://buttondown.email/newsletterleafjournal/archive/152/",
+          "publishedOn": "2023-09-09T20:26:18.000Z",
+          "wordCount": 2159,
+          "title": "Newsletter Leaf Journal CLII 〜 Too many projects 〜",
+          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter%20Leaf%20Journal%20CLII%20%E3%80%9C%20Too%20many%20projects%20%E3%80%9C&author=The%20Newsletter%20Leaf%20Journal&date=2023-09-09&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
+        },
+        {
           "id": "https://buttondown.email/newsletterleafjournal/archive/151/",
           "author": null,
           "description": "Welcome to the 151st edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. August is in the books, but I stepped up our publishing pace after a few slow weeks to bring the month to a proper conclusion. Below, I share our week's worth of posts, links from around the web, our new most-visited statistics, and other news and notes.\nLeaves from the week that was\nI published six new articles since mailing Newsletter 150. I suppose that is a decent enough rebound from a one article week (even conceding the month-in-review post only barely counts).\nPumpkin Spice Makeup Removal Wipes: I am no…",
@@ -899,16 +909,6 @@
           "wordCount": 543,
           "title": "Keyword additions — 20230812",
           "imageUrl": "https://opengraph.githubassets.com/e7d392d487a035af4ec4cc87c5a4756dab7f776f87bb785ad389c1b5f5dc239d/nafnlj/wordpress-comment-blacklist-NLJFork/commit/e062ac3cbcc6a40ada02dcf10e6200b9877868d9"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4991c96f6acba60f8e6ad4f59a73e34ca744e86c",
-          "author": null,
-          "description": "Keyword additions and optimizations — 20230811",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4991c96f6acba60f8e6ad4f59a73e34ca744e86c",
-          "publishedOn": "2023-08-11T20:51:31.000Z",
-          "wordCount": 1012,
-          "title": "Keyword additions and optimizations — 20230811",
-          "imageUrl": "https://opengraph.githubassets.com/244d3bc529739ee07b5fe4d84931f57f56183149d601c99246ae60fe38bdae74/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4991c96f6acba60f8e6ad4f59a73e34ca744e86c"
         }
       ]
     },

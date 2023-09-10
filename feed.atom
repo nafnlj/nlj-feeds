@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-09T20:10:05.685Z</updated>
+    <updated>2023-09-10T14:08:26.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CLII 〜 Too many projects 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/152/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/152/"/>
+        <updated>2023-09-09T20:26:18.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Newsletter Leaf Journal 152. The Newsletter Leaf Journal is the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. I had a busy week with site administration -- although not all of it had to do with The New Leaf Journal (I will explain in our Notable Leaf Journal) section. But despite the side projects, I published several new articles and made a few adjustments to what I hope is your favorite perennially virid online writing magazine.
+Leaves from the week that was
+I published three new full articles.
+Two Visual Novel Midsummer Kasumis (I did not realize before reading Midsummer Haze and A Midsummer Day's Resonan…]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111036529214144732</id>
@@ -1255,16 +1268,6 @@ MTA announces G-Train Upgrades (I offer some brief thoughts on one of the most u
 Brave no longer relying on Bing images (Brave drops i…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyword additions and optimizations — 20230811]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4991c96f6acba60f8e6ad4f59a73e34ca744e86c</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4991c96f6acba60f8e6ad4f59a73e34ca744e86c"/>
-        <updated>2023-08-11T20:51:31.000Z</updated>
-        <summary type="html"><![CDATA[Keyword additions and optimizations — 20230811]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
         </author>
     </entry>
 </feed>
