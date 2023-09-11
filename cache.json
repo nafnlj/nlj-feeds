@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21214",
+          "author": "Nicholas A. Ferrell",
+          "description": "These days people are worried about vaping in schools. But the controversy reminded me of a strange traditional smoking story from my middle school days (with a high school sequel).\nPossibly related posts...\n\nPersona 4 Golden Digital Artbook Review (Steam)\nThe Aborted Nintendo-Minnesota Lottery Scheme\nDialogue: \"Skunks\" in Staten Island Conspiracy\nNight of the Forget-Me-Nots: VN Review\nThe Nice Boat 〜 A Look Back at the School Days Anime\nAnime Recommendations of the Decade (2011-20)\nThe dangers of adapting school to tech\nAt Summer's End - Visual Novel Review\nThe Best of Anime in 2022: Year in Review",
+          "link": "https://thenewleafjournal.com/middle-school-restroom-smoking/",
+          "publishedOn": "2023-09-10T20:19:19.000Z",
+          "wordCount": 4378,
+          "title": "Middle school restroom smoking",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21162",
           "author": "Nicholas A. Ferrell",
           "description": "On how to host avatars locally on WordPress AND redirect Gravatar requests locally for users without local avatars.\nPossibly related posts...\n\nThe Enigmatic Life and Death of Emperor Otho\nAnime Recommendations of the Decade (2011-20)\nACE Academy - Visual Novel Review\nThe al|together and Insani Visual Novel Translations\nThe Best of Anime in 2022: Year in Review\nThe Angel Next Door Spoils Me Rotten - Anime Review\nFour May Issues of The Nursery Magazine (1873-81)\nThe Poetry of Charlotte Becker - Early Twentieth Century…\nHistory of Thanksgiving Proclamations in the Philippines",
@@ -120,16 +130,6 @@
           "wordCount": 1911,
           "title": "On the Death of Robbie Robertson",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=20939",
-          "author": "Nicholas A. Ferrell",
-          "description": "Digging up an old user-created guide for Nintendo's 1990 Golf entry for Game Boy on Game FAQs.\nPossibly related posts...\n\nOldest Golfers to Contend for Majors Between the 1968 and…\nGolf and Immigration: Matter of Masters\nThe Poor Little Bird - Visual Novel Review\nWhat is an \"Android Alternative\"?\nInstalling and Running Bodhi Linux on a 2007 MacBook\nThe Model and the Model Maker\nBookmark: Death of Feedburner?\nOn the Game Boy Renaissance\n30 Golf Carts Destroyed in Thailand Fire",
-          "link": "https://thenewleafjournal.com/game-faqs-guide-for-game-boy-golf-1990/",
-          "publishedOn": "2023-08-12T19:30:00.000Z",
-          "wordCount": null,
-          "title": "Game FAQs Guide for Game Boy Golf (1990)",
-          "imageUrl": null
         }
       ]
     },
@@ -410,16 +410,6 @@
           "wordCount": 2388,
           "title": "Newsletter Leaf Journal CXLIX 〜 Bingback? 〜",
           "imageUrl": "https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/148/",
-          "author": null,
-          "description": "Welcome to the 148th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. We had a slow week in terms of article publishing, but that will not slow down this newsletter.\nLeaves from the week that was\nI published one new article since mailing newsletter 147.\nTrash pick-up vehicle on Brooklyn Bridge\nA 2019 photo of a small New York City DOT truck on the Brooklyn Bridge's then-narrower pedestrian walkway.\nI also published three short posts.\nMTA announces G-Train Upgrades (I offer some brief thoughts on one of the most unique NYC Subway lines)\nBrave no longer relying on Bing images (Brave drops i…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/148/",
-          "publishedOn": "2023-08-12T14:26:16.000Z",
-          "wordCount": 2298,
-          "title": "Newsletter Leaf Journal CXLVIII 〜 Driving down the walkway 〜",
-          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter Leaf Journal CXLVIII 〜 Driving down the walkway 〜&author=The Newsletter Leaf Journal&date=2023-08-12&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
         }
       ]
     },
@@ -879,36 +869,6 @@
           "wordCount": 581,
           "title": "Keyword additions — 20230814",
           "imageUrl": "https://opengraph.githubassets.com/17d2a1c090d8a71786913d7e66ea9d5eef2a533069c3a6c25a1c2b711fc6f878/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4dccaf0bca1c01bf25e68d3730a81de8e6ff8b1d"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d4aa80a99e77fe281928907f780706c3ed4b5b1b",
-          "author": null,
-          "description": "Bumped history",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d4aa80a99e77fe281928907f780706c3ed4b5b1b",
-          "publishedOn": "2023-08-12T19:32:10.000Z",
-          "wordCount": 471,
-          "title": "Bumped history",
-          "imageUrl": "https://opengraph.githubassets.com/2e6a8ea04970bdef634809f1bd2ae30f38488af09be4543bc29df9a138318a35/nafnlj/wordpress-comment-blacklist-NLJFork/commit/d4aa80a99e77fe281928907f780706c3ed4b5b1b"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/883df6922a3b5e42ae45bf8d207b454a632208d3",
-          "author": null,
-          "description": "Remove potential false positives per #61",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/883df6922a3b5e42ae45bf8d207b454a632208d3",
-          "publishedOn": "2023-08-12T19:27:03.000Z",
-          "wordCount": 601,
-          "title": "Remove potential false positives per #61",
-          "imageUrl": "https://opengraph.githubassets.com/3eb2e80c5ba90f8b8ccd77ad0b86d6bf37575e9a7cd6af8ff202a00cf8cb8e9f/nafnlj/wordpress-comment-blacklist-NLJFork/commit/883df6922a3b5e42ae45bf8d207b454a632208d3"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/e062ac3cbcc6a40ada02dcf10e6200b9877868d9",
-          "author": null,
-          "description": "Keyword additions — 20230812",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/e062ac3cbcc6a40ada02dcf10e6200b9877868d9",
-          "publishedOn": "2023-08-12T18:20:44.000Z",
-          "wordCount": 543,
-          "title": "Keyword additions — 20230812",
-          "imageUrl": "https://opengraph.githubassets.com/e7d392d487a035af4ec4cc87c5a4756dab7f776f87bb785ad389c1b5f5dc239d/nafnlj/wordpress-comment-blacklist-NLJFork/commit/e062ac3cbcc6a40ada02dcf10e6200b9877868d9"
         }
       ]
     },
@@ -916,18 +876,7 @@
       "title": "Victor V. Gurbo",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA",
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=oDQPWQ3i50g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oDQPWQ3i50g",
-          "publishedOn": "2023-08-12T23:00:10.000Z",
-          "wordCount": null,
-          "title": "Victor V. Gurbo & Mark Caserta \"Goodnight, Irene\" (Leadbelly) Live at Make Music New York (6/21/23)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Hacker News - Newest: \"thenewleafjournal\"",
