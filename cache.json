@@ -429,18 +429,7 @@
       "title": "nafnlj on Pixelfed",
       "feedUrl": "https://pixelfed.social/users/nafnlj.atom",
       "siteUrl": "https://pixelfed.social/nafnlj",
-      "articles": [
-        {
-          "id": "https://pixelfed.social/p/nafnlj/596176005138926699",
-          "author": null,
-          "description": "See my associated article: <a href=\"https://thenewleafjournal.com/trash-pick-up-vehicle-on-brooklyn-bridge/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/trash-pick-up-vehicle-on-brooklyn-bridge/</a><br />\n<br />\nI took this photo on New York City's Brooklyn Bridge with my BlackBerry Classic phone camera on August 12, 2019. This photo is next to the first Manhattan pedestrian exit and close to the second. Back in 2019, the small pedestrian walkway was split between walkers and bikers (the bikes were banished to a separate path in 2021). The Bridge was difficult to navigate without NYC DOT trucks doing trash pickup in broad daylight. My photo does not capture how much it was struggling, but note that the only way around it was for walkers to go into the bike path (left side was for walkers).<br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/nyc?src=hash\" title=\"#nyc\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#nyc</a> <a href=\"https://pixelfed.social/discover/tags/brooklynbridge?src=hash\" title=\"#brooklynbridge\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklynbridge</a> <a href=\"https://pixelfed.social/discover/tags/manhattan?src=hash\" title=\"#manhattan\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#manhattan</a> <a href=\"https://pixelfed.social/discover/tags/truck?src=hash\" title=\"#truck\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#truck</a> <a href=\"https://pixelfed.social/discover/tags/trash?src=hash\" title=\"#trash\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#trash</a> <a href=\"https://pixelfed.social/discover/tags/pedestrians?src=hash\" title=\"#pedestrians\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pedestrians</a> <a href=\"https://pixelfed.social/discover/tags/walkway?src=hash\" title=\"#walkway\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#walkway</a> <a href=\"https://pixelfed.social/discover/tags/shotonblackberry?src=hash\" title=\"#shotonblackberry\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#shotonblackberry</a> <a href=\"https://pixelfed.social/discover/tags/blackberryclassic?src=hash\" title=\"#blackberryclassic\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#blackberryclassic</a> <a href=\"https://pixelfed.social/discover/tags/newleafjournal?src=hash\" title=\"#newleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#newleafjournal</a> <a href=\"https://pixelfed.social/discover/tags/thenewleafjournal?src=hash\" title=\"#thenewleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#thenewleafjournal</a>",
-          "link": "https://pixelfed.social/p/nafnlj/596176005138926699",
-          "publishedOn": "2023-08-13T03:10:36.000Z",
-          "wordCount": null,
-          "title": "See my associated article: https://thenewleafjournal.com/trash-pick-up-vehicle-on-brooklyn-bridge/\n\nI took this photo on New York City's Brooklyn Bridge with my BlackBerry Classic phone camera on August 12, 2019. This photo is next to the first Manhattan pedestrian exit and close to the second. Back in 2019, the small pedestrian walkway was split between walkers and bikers (the bikes were banished to a separate path in 2021). The Bridge was difficult to navigate without NYC DOT trucks doing trash pickup in broad daylight. My photo does not capture how much it was struggling, but note that the only way around it was for walkers to go into the bike path (left side was for walkers).\n\n#nyc #brooklynbridge #manhattan #truck #trash #pedestrians #walkway #shotonblackberry #blackberryclassic #newleafjournal #thenewleafjournal",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "N.A. Ferrell",
@@ -736,16 +725,6 @@
           "wordCount": 1603,
           "title": "Remains of an underwater hospital and cemetery at Dry Tortugas",
           "imageUrl": "https://www.nps.gov/drto/learn/news/images/Diver-examines-underwater-headstone-of-John-Greer1.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=37106005",
-          "author": "nafnlj",
-          "description": "Article URL: https://wccftech.com/disabling-intel-e-cores-hybrid-cpu-50-percent-better-performance-atlas-fallen/\nComments URL: https://news.ycombinator.com/item?id=37106005\nPoints: 8\n# Comments: 3",
-          "link": "https://wccftech.com/disabling-intel-e-cores-hybrid-cpu-50-percent-better-performance-atlas-fallen/",
-          "publishedOn": "2023-08-13T02:11:50.000Z",
-          "wordCount": 2277,
-          "title": "Disabling Intel E-Cores CPU Nets 50% Better Performance in Atlas Fallen",
-          "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2023/08/Intel-E-Cores-Hybrid-CPUs-Atlas-Fallen-728x407.png"
         }
       ]
     },
