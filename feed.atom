@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-12T20:12:05.819Z</updated>
+    <updated>2023-09-13T14:10:02.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unprovoked dumb headline alert]]></title>
+        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=21223</id>
+        <link href="https://thenewleafjournal.com/leafbud/unprovoked-dumb-headline-alert/"/>
+        <updated>2023-09-13T13:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Courtesy of the New York Post,  Man, 74, pushed onto NYC subway tracks in unprovoked attack: cops: A 74-year-old man was […]
+Possibly related posts...
+
+The New Leaf Journal Celebrates Its First Birthday
+The al|together and Insani Visual Novel Translations
+A 2021 List of Alternative Search Engines and Search…
+Justin & Justina: Most-Read NLJ Content of 2020
+Oldest Golfers to Contend for Majors Between the 1968 and…
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The NYPD's Duck Family Rescue in Midtown Manhattan
+1883 Opening of the Brooklyn Bridge
+Winds of New Beginnings: Pokémon Gold & Silver]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Middle school restroom smoking]]></title>
         <id>https://thenewleafjournal.com/?p=21214</id>
@@ -1036,84 +1057,6 @@ The Girl I Like Forgot Her Glasses Ep1 Animation]]></summary>
 Added sauri-sushi]]></summary>
         <author>
             <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update blacklist.txt]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/578b3bdf3776df2493b758a44767cc64ea86f61f</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/578b3bdf3776df2493b758a44767cc64ea86f61f"/>
-        <updated>2023-08-14T23:52:56.000Z</updated>
-        <summary type="html"><![CDATA[Update blacklist.txt
-
-Added:
-famos-store
-cloud-korea
-helpful work
-best gifts]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'splorp:master' into master]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bf47eccf4ca73e34ec6772597e9a58d5eb06a490</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bf47eccf4ca73e34ec6772597e9a58d5eb06a490"/>
-        <updated>2023-08-14T23:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Merge branch 'splorp:master' into master]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyword additions — 20230814]]></title>
-        <id>https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4dccaf0bca1c01bf25e68d3730a81de8e6ff8b1d</id>
-        <link href="https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4dccaf0bca1c01bf25e68d3730a81de8e6ff8b1d"/>
-        <updated>2023-08-14T17:41:23.000Z</updated>
-        <summary type="html"><![CDATA[Keyword additions — 20230814]]></summary>
-        <author>
-            <name>Recent Commits to wordpress-comment-blacklist-NLJFork:master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXLVIII]]></title>
-        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=20964</id>
-        <link href="https://thenewleafjournal.com/letter/148/"/>
-        <updated>2023-08-14T16:27:58.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the syndicated 148th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, […]
-Possibly related posts...
-
-The Newsletter Leaf Journal at 100
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin and Justina review 2022 at the NLJ
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The New Leaf Journal Newsletter
-How to Find Substack RSS Feeds and Other Notes
-The New Leaf Journal Celebrates Its First Birthday
-The Newsletter Leaf Journal VIII
-Most-Visited NLJ Articles of 1H 2023]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok Encroaches on Amazon’s Turf]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=20959</id>
-        <link href="https://thenewleafjournal.com/leafbud/tiktok-encroaches-on-amazons-turf/"/>
-        <updated>2023-08-14T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[From a July 25, 2023 article in The Greater China Journal: TikTok plans to launch a new e-commerce platform in early […]
-Possibly related posts...
-
-The Thin Digital Line Between "Buy" and "Rent"
-DRM and losing the quality you paid for
-A Look at ProxiTok, a TikTok Frontend
-On Children, TikTok, and Social Media Stardom
-Amazon Black Hat Seller Scenario
-Justin and Justina review 2022 at the NLJ
-The Misleading DRM E-Book Buy Button
-Capo vs Capo, a TikTok Debacle
-Reviewing Keikai Launcher (Android)]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>

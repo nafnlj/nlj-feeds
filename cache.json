@@ -256,6 +256,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=21223",
+          "author": "Nicholas A. Ferrell",
+          "description": "Courtesy of the New York Post,  Man, 74, pushed onto NYC subway tracks in unprovoked attack: cops: A 74-year-old man was […]\nPossibly related posts...\n\nThe New Leaf Journal Celebrates Its First Birthday\nThe al|together and Insani Visual Novel Translations\nA 2021 List of Alternative Search Engines and Search…\nJustin & Justina: Most-Read NLJ Content of 2020\nOldest Golfers to Contend for Majors Between the 1968 and…\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe NYPD's Duck Family Rescue in Midtown Manhattan\n1883 Opening of the Brooklyn Bridge\nWinds of New Beginnings: Pokémon Gold & Silver",
+          "link": "https://thenewleafjournal.com/leafbud/unprovoked-dumb-headline-alert/",
+          "publishedOn": "2023-09-13T13:23:00.000Z",
+          "wordCount": 1440,
+          "title": "Unprovoked dumb headline alert",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?post_type=leafbud&p=21140",
           "author": "Nicholas A. Ferrell",
           "description": "I just launched a new project called The Emu Café Social. It is a social publishing site for a select community […]\nPossibly related posts...\n\nJustin and Justina review 2022 at the NLJ\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin & Justina: Most-Read NLJ Content of 2020\nWelcome to The Emu Café\nThe New Leaf Journal Celebrates Its First Birthday\nAkutagawa's The Dragon and The Emu Café\nA Wayward Emu Loses Its Way to The Emu Café\nI don't want your emu and I don't have to feed it\nOn When to Watch Credits or Leave a Bad Movie",
@@ -284,16 +294,6 @@
           "wordCount": 1402,
           "title": "Baby Shark Games and Censorship",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20959",
-          "author": "Nicholas A. Ferrell",
-          "description": "From a July 25, 2023 article in The Greater China Journal: TikTok plans to launch a new e-commerce platform in early […]\nPossibly related posts...\n\nThe Thin Digital Line Between \"Buy\" and \"Rent\"\nDRM and losing the quality you paid for\nA Look at ProxiTok, a TikTok Frontend\nOn Children, TikTok, and Social Media Stardom\nAmazon Black Hat Seller Scenario\nJustin and Justina review 2022 at the NLJ\nThe Misleading DRM E-Book Buy Button\nCapo vs Capo, a TikTok Debacle\nReviewing Keikai Launcher (Android)",
-          "link": "https://thenewleafjournal.com/leafbud/tiktok-encroaches-on-amazons-turf/",
-          "publishedOn": "2023-08-14T13:45:00.000Z",
-          "wordCount": null,
-          "title": "TikTok Encroaches on Amazon’s Turf",
-          "imageUrl": null
         }
       ]
     },
@@ -321,16 +321,6 @@
           "wordCount": 3110,
           "title": "Newsletter Leaf Journal CXLIX",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2022/09/new-leaf-journal-mr-envelope-sr-c.opti_.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=letter&p=20964",
-          "author": "Nicholas A. Ferrell",
-          "description": "Welcome to the syndicated 148th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, […]\nPossibly related posts...\n\nThe Newsletter Leaf Journal at 100\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe New Leaf Journal Newsletter\nHow to Find Substack RSS Feeds and Other Notes\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal VIII\nMost-Visited NLJ Articles of 1H 2023",
-          "link": "https://thenewleafjournal.com/letter/148/",
-          "publishedOn": "2023-08-14T16:27:58.000Z",
-          "wordCount": null,
-          "title": "Newsletter Leaf Journal CXLVIII",
-          "imageUrl": null
         }
       ]
     },
@@ -778,36 +768,6 @@
           "wordCount": 447,
           "title": "Update blacklist.txt",
           "imageUrl": "https://opengraph.githubassets.com/5d243637cc24d07d7f63a5757dfc9c96a5a9b73d8a0dd93710ee193db3d01e59/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4452d99aec1435a6f7fcb101e8c6bf85c103ed53"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/578b3bdf3776df2493b758a44767cc64ea86f61f",
-          "author": null,
-          "description": "Update blacklist.txt\n\nAdded:\r\nfamos-store\r\ncloud-korea\r\nhelpful work\r\nbest gifts",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/578b3bdf3776df2493b758a44767cc64ea86f61f",
-          "publishedOn": "2023-08-14T23:52:56.000Z",
-          "wordCount": 519,
-          "title": "Update blacklist.txt",
-          "imageUrl": "https://opengraph.githubassets.com/6e6fff63af5e639e06e562c6fffe63f571beb22929af3713afcc3f68647c5b2f/nafnlj/wordpress-comment-blacklist-NLJFork/commit/578b3bdf3776df2493b758a44767cc64ea86f61f"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bf47eccf4ca73e34ec6772597e9a58d5eb06a490",
-          "author": null,
-          "description": "Merge branch 'splorp:master' into master",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bf47eccf4ca73e34ec6772597e9a58d5eb06a490",
-          "publishedOn": "2023-08-14T23:49:17.000Z",
-          "wordCount": 1535,
-          "title": "Merge branch 'splorp:master' into master",
-          "imageUrl": "https://opengraph.githubassets.com/e56c3ffc5f35d83c8070aca8df8e6509bc70af4def3436b39503d0c211afc5e9/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bf47eccf4ca73e34ec6772597e9a58d5eb06a490"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4dccaf0bca1c01bf25e68d3730a81de8e6ff8b1d",
-          "author": null,
-          "description": "Keyword additions — 20230814",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4dccaf0bca1c01bf25e68d3730a81de8e6ff8b1d",
-          "publishedOn": "2023-08-14T17:41:23.000Z",
-          "wordCount": 581,
-          "title": "Keyword additions — 20230814",
-          "imageUrl": "https://opengraph.githubassets.com/17d2a1c090d8a71786913d7e66ea9d5eef2a533069c3a6c25a1c2b711fc6f878/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4dccaf0bca1c01bf25e68d3730a81de8e6ff8b1d"
         }
       ]
     },
