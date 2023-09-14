@@ -4,7 +4,18 @@
       "title": "Recent Commits to nljfeeds:main",
       "feedUrl": "https://github.com/nafnlj/nljfeeds/commits/main.atom",
       "siteUrl": "https://github.com/nafnlj/nljfeeds/commits/main",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://github.com/nafnlj/nljfeeds/commit/b5d25dfb5a0fde5da82013dfe0e47ff2f0960609",
+          "author": null,
+          "description": "Update osmosfeed.yaml\n\nReorganized feeds. Updated NAF Bearblog URL. Added NAF Gitea and removed to GitHub feeds.",
+          "link": "https://github.com/nafnlj/nljfeeds/commit/b5d25dfb5a0fde5da82013dfe0e47ff2f0960609",
+          "publishedOn": "2023-09-14T02:51:53.000Z",
+          "wordCount": 535,
+          "title": "Update osmosfeed.yaml",
+          "imageUrl": "https://opengraph.githubassets.com/9d1394b9432d6270a37d813c6715ae1985761daba76d9c338542650329b7db7a/nafnlj/nljfeeds/commit/b5d25dfb5a0fde5da82013dfe0e47ff2f0960609"
+        }
+      ]
     },
     {
       "title": "The New Leaf Journal",
@@ -237,16 +248,6 @@
           "wordCount": 1641,
           "title": "New Leaf Journal (Maybe) Back on Bing",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20960",
-          "author": "Nicholas A. Ferrell",
-          "description": "Note: School Days anime spoilers ahead. I hope that does not matter to you since School Days is 16 years old […]\nPossibly related posts...\n\nThe Nice Boat 〜 A Look Back at the School Days Anime\nWhat Makes a Depressing Anime? Discussion and Selection.\nThe Best of Anime in 2022: Year in Review\nThe Best Anime Series of 2021\nHeight differences in anime romances\nAnime Recommendations of the Decade (2011-20)\nLearning How to Change a Twitter Username\nThe Angel Next Door Spoils Me Rotten - Anime Review\nThe Girl I Like Forgot Her Glasses Ep1 Animation",
-          "link": "https://thenewleafjournal.com/leaf/changing-my-view-of-school-days-setsuna/",
-          "publishedOn": "2023-08-15T14:40:00.000Z",
-          "wordCount": 1915,
-          "title": "Changing My View of School Days’ Setsuna",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2021/05/makoto-and-setsuna-school-days-1024x629.jpg"
         }
       ]
     },
@@ -384,8 +385,308 @@
       ]
     },
     {
+      "title": "Hacker News - Newest: \"thenewleafjournal\"",
+      "feedUrl": "https://hnrss.org/newest?q=thenewleafjournal",
+      "siteUrl": "https://news.ycombinator.com/newest",
+      "articles": []
+    },
+    {
+      "title": "Emu Café Memos",
+      "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
+      "siteUrl": "https://memos.emucafe.org",
+      "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/33",
+          "author": null,
+          "description": "I continue to make progress on my new social publishing site, The Emu Café Social. I have two outstanding issues:\nStatus post error when Friends plugin is enabled and Post Kinds is disabled. This is not an immediate issue since I am using both, but any situation wherein one plugin depends on another when the plugins provide different features makes me uncomfortable.\nMicropub plugin does not create an endpoint. This is minor since I do not personally plan to publish much using the Micropub endpoint, but it bothers me. I will need to investigate since I am unsure of the issue. I confirmed IndieAuth, on which Micropub depends, does work.\nNo other major issues at the moment. My ActivityPub profiles briefly stopped working, but I think I fixed that by ensuring that WP Super Cache does not cache author pages.\n#emucafesocial #wordpress #IndieWeb",
+          "link": "https://memos.emucafe.org/m/33",
+          "publishedOn": "2023-09-14T02:29:02.000Z",
+          "wordCount": 21,
+          "title": "I continue to make progress on my new social publishing site, [The Emu Café Social](https://social....",
+          "imageUrl": null
+        },
+        {
+          "id": "https://memos.emucafe.org/m/32",
+          "author": null,
+          "description": "I came across a WordPress plugin called Post Type Switcher. Description:\nThis plugin adds a simple post-type drop-down to the post editor interface, allowing you to reassign any post to a new post type. It allows you to switch post’s type while editing your post.\nIt supports custom post types. This may come in handy down the line, so I am saving it here as a proverbial bookmark.\n#wordpress",
+          "link": "https://memos.emucafe.org/m/32",
+          "publishedOn": "2023-09-04T20:49:51.000Z",
+          "wordCount": 21,
+          "title": "I came across a WordPress plugin called [Post Type Switcher](https://wordpress.org/plugins/post-type...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://memos.emucafe.org/m/31",
+          "author": null,
+          "description": "I tried to set up a mini WordPress site on Pikapods that would be used for social publishing. It was successful at a baseline level but I found that things like setting security headers via .htaccess were not working. There were a few other instances of behavior that I did not like, so I will switch the project over to the NLJ server where I can manage it with Cloudron.\n#wordpress #webhosting",
+          "link": "https://memos.emucafe.org/m/31",
+          "publishedOn": "2023-09-03T19:46:19.000Z",
+          "wordCount": 21,
+          "title": "I tried to set up a mini WordPress site on Pikapods that would be used for social publishing. It was...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://memos.emucafe.org/m/30",
+          "author": null,
+          "description": "I had a minor screen tearing issue on an old netbook (I do not know the exact year but the Windows 8 sticker suggests that it is old) running Bodhi Linux 7.0. A Bodhi forum post led me to a 2018 guide for fixing screen tearing on devices with integrated Intel graphics on a site dedicated to Ubuntu MATE (link). The first step was to run inxi -G to discover information about which version of Intel graphics was in use. Fortunately, my netbook used the exact version (2nd generation) as the example, so all I had to do was some simple copying and pasting. I rebooted and the screen tearing was gone. I linked to an archived version of the guide since this should remain a great resource for fixing screen tearing on older devices with Intel integrated graphics.\n#BodhiLinux #linux",
+          "link": "https://memos.emucafe.org/m/30",
+          "publishedOn": "2023-08-25T15:45:31.000Z",
+          "wordCount": 21,
+          "title": "I had a minor screen tearing issue on an old netbook (I do not know the exact year but the Windows 8...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://memos.emucafe.org/m/29",
+          "author": null,
+          "description": "I am using an old LibreBooted ThinkPad as a \"server\"... really more as an always-on Syncthing node. After having some issues with GNU Trisquel (probably my fault), I decided to go with Bodhi Linux 7.0 (I prefer to have a GUI). Installation went perfect but I had an issue with the behavior on sleep. By default, the laptop seems to suspend when I close the lid, which causes wi-fi to shut off.  Since I want it to be an always-on Syncthing node, I obviously need the wi-fi to stay on when I close the laptop. After fumbling for a solution, I read on a forum that the XFCE power manager works outside of XFCE.  That sounded good to me since I use XFCE on my main workstation and I am familiar with its GUI tools. I installed it (no extra dependencies - nice), enabled it, and modified the power settings.  It worked perfectly.  I mark this issue as solved.\n#linux #BodhiLinux #XFCE",
+          "link": "https://memos.emucafe.org/m/29",
+          "publishedOn": "2023-08-24T05:01:00.000Z",
+          "wordCount": 21,
+          "title": "I am using an old LibreBooted ThinkPad as a \"server\"... really more as an always-on Syncthing node. ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://memos.emucafe.org/m/28",
+          "author": null,
+          "description": "I set up an repository for osmosmemo. I can use a Firefox extension to immediately save links (with notes and tags) into a GitHub readme. One drawback is that it only works with GitHub. But I used the same token that I created to give the extension read/write access to clone the repo to my Gitea instance. Seems like a neat tool.\n#Bookmarking",
+          "link": "https://memos.emucafe.org/m/28",
+          "publishedOn": "2023-08-17T18:09:55.000Z",
+          "wordCount": 21,
+          "title": "I set up an repository for [osmosmemo](https://github.com/osmoscraft/osmosmemo-template). I can use ...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Feed of \"Nicholas A. Ferrell\"",
+      "feedUrl": "https://giteacoffee.emucafe.org/naferrell.atom",
+      "siteUrl": "https://giteacoffee.emucafe.org/naferrell",
+      "articles": [
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/9d42ec5743cfca9cf8ce7482422dfa9a1dddf3ea...7e24266ad3bc2ae3cf34e8a80e99a99596f0cdc1",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/7e24266ad3bc2ae3cf34e8a80e99a99596f0cdc1\">7e24266ad3bc2ae3cf34e8a80e99a99596f0cdc1</a>\ndeploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35\n\n<a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/8a3b1cb948d5ab85a2f0f1cc6a65148f18a6cbf2\">8a3b1cb948d5ab85a2f0f1cc6a65148f18a6cbf2</a>\ndeploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35",
+          "link": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/9d42ec5743cfca9cf8ce7482422dfa9a1dddf3ea...7e24266ad3bc2ae3cf34e8a80e99a99596f0cdc1",
+          "publishedOn": "2023-09-13T20:17:13.000Z",
+          "wordCount": 2018,
+          "title": "Nicholas A. Ferrell synced commits to <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages\">gh-pages</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds\">naferrell/nljfeeds</a> from mirror",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/9d42ec5743cfca9cf8ce7482422dfa9a1dddf3ea",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/9d42ec5743cfca9cf8ce7482422dfa9a1dddf3ea\">9d42ec5743cfca9cf8ce7482422dfa9a1dddf3ea</a>\ndeploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35",
+          "link": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/9d42ec5743cfca9cf8ce7482422dfa9a1dddf3ea",
+          "publishedOn": "2023-09-13T03:57:13.000Z",
+          "wordCount": 414,
+          "title": "Nicholas A. Ferrell synced commits to <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages\">gh-pages</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds\">naferrell/nljfeeds</a> from mirror",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/0f397de3b9560330416ee82529f4bf44e87b044c",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/0f397de3b9560330416ee82529f4bf44e87b044c\">0f397de3b9560330416ee82529f4bf44e87b044c</a>\ndeploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35",
+          "link": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/0f397de3b9560330416ee82529f4bf44e87b044c",
+          "publishedOn": "2023-09-12T19:57:12.000Z",
+          "wordCount": 1721,
+          "title": "Nicholas A. Ferrell synced commits to <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages\">gh-pages</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds\">naferrell/nljfeeds</a> from mirror",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/7cdc9b8cc6ba7107494ca86f90f737221311273a",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/7cdc9b8cc6ba7107494ca86f90f737221311273a\">7cdc9b8cc6ba7107494ca86f90f737221311273a</a>\ndeploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35",
+          "link": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/7cdc9b8cc6ba7107494ca86f90f737221311273a",
+          "publishedOn": "2023-09-12T03:57:12.000Z",
+          "wordCount": 1559,
+          "title": "Nicholas A. Ferrell synced commits to <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages\">gh-pages</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds\">naferrell/nljfeeds</a> from mirror",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/23822e486b5361c339558c1a798c9ec67380caab",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/23822e486b5361c339558c1a798c9ec67380caab\">23822e486b5361c339558c1a798c9ec67380caab</a>\ndeploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35",
+          "link": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/23822e486b5361c339558c1a798c9ec67380caab",
+          "publishedOn": "2023-09-11T19:47:14.000Z",
+          "wordCount": 2297,
+          "title": "Nicholas A. Ferrell synced commits to <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages\">gh-pages</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds\">naferrell/nljfeeds</a> from mirror",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/6cb55b4c21e04ec66fc2249b717ea8a65599ac79",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/6cb55b4c21e04ec66fc2249b717ea8a65599ac79\">6cb55b4c21e04ec66fc2249b717ea8a65599ac79</a>\ndeploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35",
+          "link": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/6cb55b4c21e04ec66fc2249b717ea8a65599ac79",
+          "publishedOn": "2023-09-11T03:27:13.000Z",
+          "wordCount": 420,
+          "title": "Nicholas A. Ferrell synced commits to <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages\">gh-pages</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds\">naferrell/nljfeeds</a> from mirror",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/linklist/commit/1158275ffd7e0020d4c1f639fa14f39efb72d357",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/linklist/commit/1158275ffd7e0020d4c1f639fa14f39efb72d357\">1158275ffd7e0020d4c1f639fa14f39efb72d357</a>\nNew summary added by osmos::memo",
+          "link": "https://giteacoffee.emucafe.org/naferrell/linklist/commit/1158275ffd7e0020d4c1f639fa14f39efb72d357",
+          "publishedOn": "2023-09-11T03:17:13.000Z",
+          "wordCount": 456,
+          "title": "Nicholas A. Ferrell synced commits to <a href=\"https://giteacoffee.emucafe.org/naferrell/linklist/src/main\">main</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/linklist\">naferrell/linklist</a> from mirror",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/b868d3103ba0263284b20648b39031ba1dd12e52",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/b868d3103ba0263284b20648b39031ba1dd12e52\">b868d3103ba0263284b20648b39031ba1dd12e52</a>\ndeploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35",
+          "link": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/b868d3103ba0263284b20648b39031ba1dd12e52",
+          "publishedOn": "2023-09-10T19:17:13.000Z",
+          "wordCount": 1230,
+          "title": "Nicholas A. Ferrell synced commits to <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages\">gh-pages</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds\">naferrell/nljfeeds</a> from mirror",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/ec9a87b1e163e4915be1b95fa9ab0982c4dd400b",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/ec9a87b1e163e4915be1b95fa9ab0982c4dd400b\">ec9a87b1e163e4915be1b95fa9ab0982c4dd400b</a>\nUpdate style.css",
+          "link": "https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/ec9a87b1e163e4915be1b95fa9ab0982c4dd400b",
+          "publishedOn": "2023-09-10T03:07:06.000Z",
+          "wordCount": 383,
+          "title": "Nicholas A. Ferrell pushed to <a href=\"https://giteacoffee.emucafe.org/naferrell/emusem-press/src/branch/main\">main</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/emusem-press\">naferrell/emusem-press</a>",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/791c58b71464e2e72bbe7f61743bc3f421a73553",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/791c58b71464e2e72bbe7f61743bc3f421a73553\">791c58b71464e2e72bbe7f61743bc3f421a73553</a>\nUpdate footer.php",
+          "link": "https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/791c58b71464e2e72bbe7f61743bc3f421a73553",
+          "publishedOn": "2023-09-10T02:30:06.000Z",
+          "wordCount": 439,
+          "title": "Nicholas A. Ferrell pushed to <a href=\"https://giteacoffee.emucafe.org/naferrell/emusem-press/src/branch/main\">main</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/emusem-press\">naferrell/emusem-press</a>",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/2db7447464918924eab74309156c1f11db9381b9",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/2db7447464918924eab74309156c1f11db9381b9\">2db7447464918924eab74309156c1f11db9381b9</a>\nUpload files to &#34;/&#34;",
+          "link": "https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/2db7447464918924eab74309156c1f11db9381b9",
+          "publishedOn": "2023-09-10T02:29:18.000Z",
+          "wordCount": 889,
+          "title": "Nicholas A. Ferrell pushed to <a href=\"https://giteacoffee.emucafe.org/naferrell/emusem-press/src/branch/main\">main</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/emusem-press\">naferrell/emusem-press</a>",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/6c2fbfcda85ff54528391c3765f17bd7caedb140",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/6c2fbfcda85ff54528391c3765f17bd7caedb140\">6c2fbfcda85ff54528391c3765f17bd7caedb140</a>\nUpdate README.md",
+          "link": "https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/6c2fbfcda85ff54528391c3765f17bd7caedb140",
+          "publishedOn": "2023-09-10T02:27:07.000Z",
+          "wordCount": 436,
+          "title": "Nicholas A. Ferrell pushed to <a href=\"https://giteacoffee.emucafe.org/naferrell/emusem-press/src/branch/main\">main</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/emusem-press\">naferrell/emusem-press</a>",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/emusem-press",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://giteacoffee.emucafe.org/naferrell/emusem-press",
+          "publishedOn": "2023-09-10T02:25:19.000Z",
+          "wordCount": 545,
+          "title": "Nicholas A. Ferrell created repository <a href=\"https://giteacoffee.emucafe.org/naferrell/emusem-press\">naferrell/emusem-press</a>",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/commit/738447d76a686e6c89fa700ee5d0f23e0140d524",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/commit/738447d76a686e6c89fa700ee5d0f23e0140d524\">738447d76a686e6c89fa700ee5d0f23e0140d524</a>\nUpdate Midsummer_Haze_Endings_Guide.md",
+          "link": "https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/commit/738447d76a686e6c89fa700ee5d0f23e0140d524",
+          "publishedOn": "2023-09-08T06:03:52.000Z",
+          "wordCount": 778,
+          "title": "Nicholas A. Ferrell pushed to <a href=\"https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/src/branch/main\">main</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides\">naferrell/altogether_visual_novel_guides</a>",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages",
+          "publishedOn": "2023-09-06T17:17:43.000Z",
+          "wordCount": 574,
+          "title": "Nicholas A. Ferrell renamed repository from <code>enable-pingbacks-in-wordpress-pages</code> to <a href=\"https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages\">naferrell/enable-pingbacks-for-wordpress...</a>",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/3b9e261e2e2c4f998e1c4f538956e3ff737e2b2d",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/3b9e261e2e2c4f998e1c4f538956e3ff737e2b2d\">3b9e261e2e2c4f998e1c4f538956e3ff737e2b2d</a>\nUpdate enable-pinpgacks-for-pages.php",
+          "link": "https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/3b9e261e2e2c4f998e1c4f538956e3ff737e2b2d",
+          "publishedOn": "2023-09-06T17:17:15.000Z",
+          "wordCount": 389,
+          "title": "Nicholas A. Ferrell pushed to <a href=\"https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/src/branch/main\">main</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages\">naferrell/enable-pingbacks-for-wordpress...</a>",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/bb85547fd53cdc11a671db8aa3afafae4e345a62",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/bb85547fd53cdc11a671db8aa3afafae4e345a62\">bb85547fd53cdc11a671db8aa3afafae4e345a62</a>\nUpdate README.md",
+          "link": "https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/bb85547fd53cdc11a671db8aa3afafae4e345a62",
+          "publishedOn": "2023-09-06T17:14:08.000Z",
+          "wordCount": 483,
+          "title": "Nicholas A. Ferrell pushed to <a href=\"https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/src/branch/main\">main</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages\">naferrell/enable-pingbacks-for-wordpress...</a>",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/9dde17edc54c5460082cedcaa059fb4b3d2f8fc1",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/9dde17edc54c5460082cedcaa059fb4b3d2f8fc1\">9dde17edc54c5460082cedcaa059fb4b3d2f8fc1</a>\nUpdate README.md",
+          "link": "https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/9dde17edc54c5460082cedcaa059fb4b3d2f8fc1",
+          "publishedOn": "2023-09-06T17:12:59.000Z",
+          "wordCount": 496,
+          "title": "Nicholas A. Ferrell pushed to <a href=\"https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/src/branch/main\">main</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages\">naferrell/enable-pingbacks-for-wordpress...</a>",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/4b81233c9eae337187e209235c200310f3266161",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/4b81233c9eae337187e209235c200310f3266161\">4b81233c9eae337187e209235c200310f3266161</a>\nUpload files to &#34;/&#34;",
+          "link": "https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/4b81233c9eae337187e209235c200310f3266161",
+          "publishedOn": "2023-09-06T17:05:43.000Z",
+          "wordCount": 449,
+          "title": "Nicholas A. Ferrell pushed to <a href=\"https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/src/branch/main\">main</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages\">naferrell/enable-pingbacks-for-wordpress...</a>",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages",
+          "publishedOn": "2023-09-06T17:00:09.000Z",
+          "wordCount": 574,
+          "title": "Nicholas A. Ferrell created repository <a href=\"https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages\">naferrell/enable-pingbacks-for-wordpress...</a>",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/commit/435e7a3bec1f239b7c41b473caa120c49922d27f",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/commit/435e7a3bec1f239b7c41b473caa120c49922d27f\">435e7a3bec1f239b7c41b473caa120c49922d27f</a>\nUpload files to &#34;/&#34;",
+          "link": "https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/commit/435e7a3bec1f239b7c41b473caa120c49922d27f",
+          "publishedOn": "2023-09-03T01:25:07.000Z",
+          "wordCount": 1478,
+          "title": "Nicholas A. Ferrell pushed to <a href=\"https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/src/branch/main\">main</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides\">naferrell/altogether_visual_novel_guides</a>",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
+          "id": "https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides",
+          "publishedOn": "2023-09-03T01:24:07.000Z",
+          "wordCount": 598,
+          "title": "Nicholas A. Ferrell created repository <a href=\"https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides\">naferrell/altogether_visual_novel_guides</a>",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        }
+      ]
+    },
+    {
       "title": "The New Leaf Annex",
-      "feedUrl": "https://newleafannex.bearblog.dev/feed/",
+      "feedUrl": "https://newleafannex.emucafe.org/feed",
       "siteUrl": "https://newleafannex.emucafe.org/",
       "articles": []
     },
@@ -535,63 +836,6 @@
       "articles": []
     },
     {
-      "title": "Emu Café Memos",
-      "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
-      "siteUrl": "https://memos.emucafe.org",
-      "articles": [
-        {
-          "id": "https://memos.emucafe.org/m/32",
-          "author": null,
-          "description": "I came across a WordPress plugin called Post Type Switcher. Description:\nThis plugin adds a simple post-type drop-down to the post editor interface, allowing you to reassign any post to a new post type. It allows you to switch post’s type while editing your post.\nIt supports custom post types. This may come in handy down the line, so I am saving it here as a proverbial bookmark.\n#wordpress",
-          "link": "https://memos.emucafe.org/m/32",
-          "publishedOn": "2023-09-04T20:49:51.000Z",
-          "wordCount": 21,
-          "title": "I came across a WordPress plugin called [Post Type Switcher](https://wordpress.org/plugins/post-type...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/31",
-          "author": null,
-          "description": "I tried to set up a mini WordPress site on Pikapods that would be used for social publishing. It was successful at a baseline level but I found that things like setting security headers via .htaccess were not working. There were a few other instances of behavior that I did not like, so I will switch the project over to the NLJ server where I can manage it with Cloudron.\n#wordpress #webhosting",
-          "link": "https://memos.emucafe.org/m/31",
-          "publishedOn": "2023-09-03T19:46:19.000Z",
-          "wordCount": 21,
-          "title": "I tried to set up a mini WordPress site on Pikapods that would be used for social publishing. It was...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/30",
-          "author": null,
-          "description": "I had a minor screen tearing issue on an old netbook (I do not know the exact year but the Windows 8 sticker suggests that it is old) running Bodhi Linux 7.0. A Bodhi forum post led me to a 2018 guide for fixing screen tearing on devices with integrated Intel graphics on a site dedicated to Ubuntu MATE (link). The first step was to run inxi -G to discover information about which version of Intel graphics was in use. Fortunately, my netbook used the exact version (2nd generation) as the example, so all I had to do was some simple copying and pasting. I rebooted and the screen tearing was gone. I linked to an archived version of the guide since this should remain a great resource for fixing screen tearing on older devices with Intel integrated graphics.\n#BodhiLinux #linux",
-          "link": "https://memos.emucafe.org/m/30",
-          "publishedOn": "2023-08-25T15:45:31.000Z",
-          "wordCount": 21,
-          "title": "I had a minor screen tearing issue on an old netbook (I do not know the exact year but the Windows 8...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/29",
-          "author": null,
-          "description": "I am using an old LibreBooted ThinkPad as a \"server\"... really more as an always-on Syncthing node. After having some issues with GNU Trisquel (probably my fault), I decided to go with Bodhi Linux 7.0 (I prefer to have a GUI). Installation went perfect but I had an issue with the behavior on sleep. By default, the laptop seems to suspend when I close the lid, which causes wi-fi to shut off.  Since I want it to be an always-on Syncthing node, I obviously need the wi-fi to stay on when I close the laptop. After fumbling for a solution, I read on a forum that the XFCE power manager works outside of XFCE.  That sounded good to me since I use XFCE on my main workstation and I am familiar with its GUI tools. I installed it (no extra dependencies - nice), enabled it, and modified the power settings.  It worked perfectly.  I mark this issue as solved.\n#linux #BodhiLinux #XFCE",
-          "link": "https://memos.emucafe.org/m/29",
-          "publishedOn": "2023-08-24T05:01:00.000Z",
-          "wordCount": 21,
-          "title": "I am using an old LibreBooted ThinkPad as a \"server\"... really more as an always-on Syncthing node. ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/28",
-          "author": null,
-          "description": "I set up an repository for osmosmemo. I can use a Firefox extension to immediately save links (with notes and tags) into a GitHub readme. One drawback is that it only works with GitHub. But I used the same token that I created to give the extension read/write access to clone the repo to my Gitea instance. Seems like a neat tool.\n#Bookmarking",
-          "link": "https://memos.emucafe.org/m/28",
-          "publishedOn": "2023-08-17T18:09:55.000Z",
-          "wordCount": 21,
-          "title": "I set up an repository for [osmosmemo](https://github.com/osmoscraft/osmosmemo-template). I can use ...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "Hacker News: nafnlj",
       "feedUrl": "https://hnrss.org/user?id=nafnlj",
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
@@ -679,108 +923,9 @@
       ]
     },
     {
-      "title": "Recent Commits to not-awesome-bing-bans-and-deindexing:main",
-      "feedUrl": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commits/main.atom",
-      "siteUrl": "https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commits/main",
-      "articles": []
-    },
-    {
-      "title": "Recent Commits to wordpress-comment-blacklist-NLJFork:master",
-      "feedUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master.atom",
-      "siteUrl": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master",
-      "articles": [
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/e634fc2e4c5c596dc5d581863d976ea048d993d9",
-          "author": null,
-          "description": "Merge pull request #2 from nafnlj/nafnlj-patch-1\n\nRename README1.md to README.md",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/e634fc2e4c5c596dc5d581863d976ea048d993d9",
-          "publishedOn": "2023-08-19T05:54:59.000Z",
-          "wordCount": 388,
-          "title": "Merge pull request #2 from nafnlj/nafnlj-patch-1",
-          "imageUrl": "https://opengraph.githubassets.com/973fbeef1b71bcc73c6a6ccadbdab7bb4715cd3ebcf1308801a34650344801e4/nafnlj/wordpress-comment-blacklist-NLJFork/commit/e634fc2e4c5c596dc5d581863d976ea048d993d9"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bd2d4c7b408e6c9bad9b5d8573e2724bd534b4cf",
-          "author": null,
-          "description": "Rename README1.md to README.md",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bd2d4c7b408e6c9bad9b5d8573e2724bd534b4cf",
-          "publishedOn": "2023-08-19T05:53:39.000Z",
-          "wordCount": 378,
-          "title": "Rename README1.md to README.md",
-          "imageUrl": "https://opengraph.githubassets.com/6545646edb763075b012a105c2322b9a5e3d393bc94bffd74f4b3ba38858c526/nafnlj/wordpress-comment-blacklist-NLJFork/commit/bd2d4c7b408e6c9bad9b5d8573e2724bd534b4cf"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b576e7c8771b33818b6cd9ff9b2f2ba8453ed170",
-          "author": null,
-          "description": "Rename README.md to README-upstream.md",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b576e7c8771b33818b6cd9ff9b2f2ba8453ed170",
-          "publishedOn": "2023-08-19T05:53:25.000Z",
-          "wordCount": 378,
-          "title": "Rename README.md to README-upstream.md",
-          "imageUrl": "https://opengraph.githubassets.com/bcb3c0db2c76eb9b4d980b77fb31c0e4603bd26d358cfa6b99f0bc4c59f40b56/nafnlj/wordpress-comment-blacklist-NLJFork/commit/b576e7c8771b33818b6cd9ff9b2f2ba8453ed170"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/ea980325ab734cc9dbfcae2b0ccd2749f07098bb",
-          "author": null,
-          "description": "Rename readme-upstream-project.md to README.md\n\nTemp-change",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/ea980325ab734cc9dbfcae2b0ccd2749f07098bb",
-          "publishedOn": "2023-08-19T05:52:30.000Z",
-          "wordCount": 379,
-          "title": "Rename readme-upstream-project.md to README.md",
-          "imageUrl": "https://opengraph.githubassets.com/8c067bb5462f89f5f7593f0dfa969f14f82e5ee517359220c2cf00b6d87ce7fc/nafnlj/wordpress-comment-blacklist-NLJFork/commit/ea980325ab734cc9dbfcae2b0ccd2749f07098bb"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8aacbf50b543373b323c3e5fe7a07f783ca123c9",
-          "author": null,
-          "description": "Rename README.md to README1.md\n\nTemporary change",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8aacbf50b543373b323c3e5fe7a07f783ca123c9",
-          "publishedOn": "2023-08-19T05:51:38.000Z",
-          "wordCount": 380,
-          "title": "Rename README.md to README1.md",
-          "imageUrl": "https://opengraph.githubassets.com/25968a05a13dc29fc4820c58f63775a03b0a74f8fa8eee4eb264b7ffbbf27ca1/nafnlj/wordpress-comment-blacklist-NLJFork/commit/8aacbf50b543373b323c3e5fe7a07f783ca123c9"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/35952f9d30690e8ecc1d5f94aebbd6f67b9819ab",
-          "author": null,
-          "description": "Merge branch 'splorp:master' into master",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/35952f9d30690e8ecc1d5f94aebbd6f67b9819ab",
-          "publishedOn": "2023-08-16T21:22:59.000Z",
-          "wordCount": 678,
-          "title": "Merge branch 'splorp:master' into master",
-          "imageUrl": "https://opengraph.githubassets.com/b2f0f3485e440d1dae28f2c8be3b2884b717d1298b2472dfed555aa505a1ca5c/nafnlj/wordpress-comment-blacklist-NLJFork/commit/35952f9d30690e8ecc1d5f94aebbd6f67b9819ab"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/77b20e35b6fba3295dd492dd5cc62055199252bc",
-          "author": null,
-          "description": "Keyword additions — 20230816",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/77b20e35b6fba3295dd492dd5cc62055199252bc",
-          "publishedOn": "2023-08-16T15:14:28.000Z",
-          "wordCount": 674,
-          "title": "Keyword additions — 20230816",
-          "imageUrl": "https://opengraph.githubassets.com/c64a77b5c709a4fee44d5305aa8d3aa544eb3a1b272528465c0b1370c85044c2/nafnlj/wordpress-comment-blacklist-NLJFork/commit/77b20e35b6fba3295dd492dd5cc62055199252bc"
-        },
-        {
-          "id": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4452d99aec1435a6f7fcb101e8c6bf85c103ed53",
-          "author": null,
-          "description": "Update blacklist.txt\n\nAdded sauri-sushi",
-          "link": "https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4452d99aec1435a6f7fcb101e8c6bf85c103ed53",
-          "publishedOn": "2023-08-15T14:04:14.000Z",
-          "wordCount": 447,
-          "title": "Update blacklist.txt",
-          "imageUrl": "https://opengraph.githubassets.com/5d243637cc24d07d7f63a5757dfc9c96a5a9b73d8a0dd93710ee193db3d01e59/nafnlj/wordpress-comment-blacklist-NLJFork/commit/4452d99aec1435a6f7fcb101e8c6bf85c103ed53"
-        }
-      ]
-    },
-    {
       "title": "Victor V. Gurbo",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA",
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
-      "articles": []
-    },
-    {
-      "title": "Hacker News - Newest: \"thenewleafjournal\"",
-      "feedUrl": "https://hnrss.org/newest?q=thenewleafjournal",
-      "siteUrl": "https://news.ycombinator.com/newest",
       "articles": []
     }
   ],
