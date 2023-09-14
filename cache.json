@@ -23,6 +23,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21247",
+          "author": "Nicholas A. Ferrell",
+          "description": "It appears that something with my caching configuration choked earlier today and served a compressed file for download to visitors in […]\nPossibly related posts...\n\nThe BunnyPress Chronicles: Story and Review\nWP Super Cache Preload and Lazy Loading\nThe Mysterious Pinterest Tracker\nSlow Leaf Journal, Outgrowing Cheap Hosting 〜 A Justin and…\nWhat Makes a Depressing Anime? Discussion and Selection.\nThe Homing Pigeons Returned Home As Expected\nThe New Leaf Journal Celebrates Its First Birthday\nWP Redis Object Cache and Link Hover Color\nThe Angel Next Door Spoils Me Rotten - Anime Review",
+          "link": "https://thenewleafjournal.com/caching-troubles/",
+          "publishedOn": "2023-09-14T14:52:12.000Z",
+          "wordCount": 1419,
+          "title": "Caching troubles",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21214",
           "author": "Nicholas A. Ferrell",
           "description": "These days people are worried about vaping in schools. But the controversy reminded me of a strange traditional smoking story from my middle school days (with a high school sequel).\nPossibly related posts...\n\nPersona 4 Golden Digital Artbook Review (Steam)\nThe Aborted Nintendo-Minnesota Lottery Scheme\nDialogue: \"Skunks\" in Staten Island Conspiracy\nNight of the Forget-Me-Nots: VN Review\nThe Nice Boat 〜 A Look Back at the School Days Anime\nAnime Recommendations of the Decade (2011-20)\nThe dangers of adapting school to tech\nAt Summer's End - Visual Novel Review\nThe Best of Anime in 2022: Year in Review",

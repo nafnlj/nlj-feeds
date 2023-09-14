@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-14T14:10:38.872Z</updated>
+    <updated>2023-09-14T20:11:09.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Caching troubles]]></title>
+        <id>https://thenewleafjournal.com/?p=21247</id>
+        <link href="https://thenewleafjournal.com/caching-troubles/"/>
+        <updated>2023-09-14T14:52:12.000Z</updated>
+        <summary type="html"><![CDATA[It appears that something with my caching configuration choked earlier today and served a compressed file for download to visitors in […]
+Possibly related posts...
+
+The BunnyPress Chronicles: Story and Review
+WP Super Cache Preload and Lazy Loading
+The Mysterious Pinterest Tracker
+Slow Leaf Journal, Outgrowing Cheap Hosting 〜 A Justin and…
+What Makes a Depressing Anime? Discussion and Selection.
+The Homing Pigeons Returned Home As Expected
+The New Leaf Journal Celebrates Its First Birthday
+WP Redis Object Cache and Link Hover Color
+The Angel Next Door Spoils Me Rotten - Anime Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nicholas A. Ferrell synced commits to <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages">gh-pages</a> at <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds">naferrell/nljfeeds</a> from mirror]]></title>
         <id>https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/7e24266ad3bc2ae3cf34e8a80e99a99596f0cdc1...ddf8bf8566aa6a51acdc3b4fe764131054e77f0d</id>
