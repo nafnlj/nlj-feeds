@@ -13,17 +13,18 @@ sources:
   - href: https://thenewleafjournal.com/collection/feed
   - href: https://thenewleafjournal.com/guestbook/feed/
   - href: https://buttondown.email/newsletterleafjournal/rss
-  - href: https://newleafannex.bearblog.dev/feed/
+  - href: https://hnrss.org/newest?q=thenewleafjournal
+  - href: https://social.emucafe.org/author/naferrell
+  - href: https://memos.emucafe.org/u/2/rss.xml
+  - href: https://giteacoffee.emucafe.org/naferrell.atom
+  - href: https://newleafannex.emucafe.org/feed
   - href: https://listed.to/@nafnlj/feed.rss
   - href: https://pixelfed.social/users/nafnlj.atom
   - href: https://linuxrocks.online/@nafnlj.rss
   - href: https://hypothes.is/stream.atom?user=nafnlj
-  - href: https://memos.emucafe.org/u/2/rss.xml
   - href: https://hnrss.org/user?id=nafnlj
-  - href: https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing/commits/main.atom
-  - href: https://github.com/nafnlj/wordpress-comment-blacklist-NLJFork/commits/master.atom
+  - href: https://social.emucafe.org/author/victorvgurbo
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA
-  - href: https://hnrss.org/newest?q=thenewleafjournal
   
   # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "New Leaf Journal Feeds"
