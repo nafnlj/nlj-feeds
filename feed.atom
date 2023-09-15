@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-14T20:11:09.488Z</updated>
+    <updated>2023-09-15T14:09:49.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Girl I Like Forgot Her Glasses hair dye]]></title>
+        <id>https://thenewleafjournal.com/?p=21253</id>
+        <link href="https://thenewleafjournal.com/the-girl-i-like-forgot-her-glasses-hair-dye/"/>
+        <updated>2023-09-15T11:17:00.000Z</updated>
+        <summary type="html"><![CDATA[I was curious whether we would learn about the brown hair of the girl in The Girl I Like Forgot Her Glasses. Instead, we learn about the brown hair of the boy who likes her.
+Possibly related posts...
+
+The Girl I Like Forgot Her Glasses Ep1 Animation
+Tokyo High Schools Change Hair Color Dress Code Policies
+Hair Color Dress Code Rules in Japan
+A Walker's Review of BLUPOND's Knight Vision Night Driving…
+Understanding Hair Color in the Kimi ni Todoke Anime Series
+Brown hair and dress codes in Ippon Again!
+Iroha Isshiki's Hair is Brown, as Expected?
+Hair Color and Albinism in Red Shift Visual Novel
+Examining brown hair of popular anime characters]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I saw a pear on the ground in the NYC neighborhood of Brooklyn Heights (I think it was Brooklyn Heights, but small chance it was Cobble Hill). You do not tend to see pears on the ground in New York City. I looked up and found the source of the issue.
+
+https://social.emucafe.org/naferrell/sharing-is-pearing/ 
+
+#nyc #brooklyn #brooklynheights #cobblehill #tree #pear #sun #pixel3axl #emucafe]]></title>
+        <id>https://pixelfed.social/p/nafnlj/608056415634233300</id>
+        <link href="https://pixelfed.social/p/nafnlj/608056415634233300"/>
+        <updated>2023-09-14T21:59:06.000Z</updated>
+        <summary type="html"><![CDATA[I saw a pear on the ground in the NYC neighborhood of Brooklyn Heights (I think it was Brooklyn Heights, but small chance it was Cobble Hill). You do not tend to see pears on the ground in New York City. I looked up and found the source of the issue.<br />
+<br />
+<a href="https://social.emucafe.org/naferrell/sharing-is-pearing/" rel="external nofollow noopener" target="_blank">https://social.emucafe.org/naferrell/sharing-is-pearing/</a> <br />
+<br />
+<a href="https://pixelfed.social/discover/tags/nyc?src=hash" title="#nyc" class="u-url hashtag" rel="external nofollow noopener">#nyc</a> <a href="https://pixelfed.social/discover/tags/brooklyn?src=hash" title="#brooklyn" class="u-url hashtag" rel="external nofollow noopener">#brooklyn</a> <a href="https://pixelfed.social/discover/tags/brooklynheights?src=hash" title="#brooklynheights" class="u-url hashtag" rel="external nofollow noopener">#brooklynheights</a> <a href="https://pixelfed.social/discover/tags/cobblehill?src=hash" title="#cobblehill" class="u-url hashtag" rel="external nofollow noopener">#cobblehill</a> <a href="https://pixelfed.social/discover/tags/tree?src=hash" title="#tree" class="u-url hashtag" rel="external nofollow noopener">#tree</a> <a href="https://pixelfed.social/discover/tags/pear?src=hash" title="#pear" class="u-url hashtag" rel="external nofollow noopener">#pear</a> <a href="https://pixelfed.social/discover/tags/sun?src=hash" title="#sun" class="u-url hashtag" rel="external nofollow noopener">#sun</a> <a href="https://pixelfed.social/discover/tags/pixel3axl?src=hash" title="#pixel3axl" class="u-url hashtag" rel="external nofollow noopener">#pixel3axl</a> <a href="https://pixelfed.social/discover/tags/emucafe?src=hash" title="#emucafe" class="u-url hashtag" rel="external nofollow noopener">#emucafe</a>]]></summary>
+        <author>
+            <name>nafnlj on Pixelfed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nicholas A. Ferrell synced commits to <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages">gh-pages</a> at <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds">naferrell/nljfeeds</a> from mirror]]></title>
+        <id>https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/ddf8bf8566aa6a51acdc3b4fe764131054e77f0d...f04f256531e6bd61acd733214f7e630e4fc36f5e</id>
+        <link href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/ddf8bf8566aa6a51acdc3b4fe764131054e77f0d...f04f256531e6bd61acd733214f7e630e4fc36f5e"/>
+        <updated>2023-09-14T20:37:44.000Z</updated>
+        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/f04f256531e6bd61acd733214f7e630e4fc36f5e">f04f256531e6bd61acd733214f7e630e4fc36f5e</a>
+deploy: b5d25dfb5a0fde5da82013dfe0e47ff2f0960609
+
+<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/c6c6989e07f06c667268c60d5a470613c26df5a9">c6c6989e07f06c667268c60d5a470613c26df5a9</a>
+deploy: b5d25dfb5a0fde5da82013dfe0e47ff2f0960609]]></summary>
+        <author>
+            <name>Feed of "Nicholas A. Ferrell"</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Caching troubles]]></title>
         <id>https://thenewleafjournal.com/?p=21247</id>

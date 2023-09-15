@@ -23,6 +23,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21253",
+          "author": "Nicholas A. Ferrell",
+          "description": "I was curious whether we would learn about the brown hair of the girl in The Girl I Like Forgot Her Glasses. Instead, we learn about the brown hair of the boy who likes her.\nPossibly related posts...\n\nThe Girl I Like Forgot Her Glasses Ep1 Animation\nTokyo High Schools Change Hair Color Dress Code Policies\nHair Color Dress Code Rules in Japan\nA Walker's Review of BLUPOND's Knight Vision Night Driving…\nUnderstanding Hair Color in the Kimi ni Todoke Anime Series\nBrown hair and dress codes in Ippon Again!\nIroha Isshiki's Hair is Brown, as Expected?\nHair Color and Albinism in Red Shift Visual Novel\nExamining brown hair of popular anime characters",
+          "link": "https://thenewleafjournal.com/the-girl-i-like-forgot-her-glasses-hair-dye/",
+          "publishedOn": "2023-09-15T11:17:00.000Z",
+          "wordCount": 3096,
+          "title": "The Girl I Like Forgot Her Glasses hair dye",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/09/komura-bown-hair.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21247",
           "author": "Nicholas A. Ferrell",
           "description": "It appears that something with my caching configuration choked earlier today and served a compressed file for download to visitors in […]\nPossibly related posts...\n\nThe BunnyPress Chronicles: Story and Review\nWP Super Cache Preload and Lazy Loading\nThe Mysterious Pinterest Tracker\nSlow Leaf Journal, Outgrowing Cheap Hosting 〜 A Justin and…\nWhat Makes a Depressing Anime? Discussion and Selection.\nThe Homing Pigeons Returned Home As Expected\nThe New Leaf Journal Celebrates Its First Birthday\nWP Redis Object Cache and Link Hover Color\nThe Angel Next Door Spoils Me Rotten - Anime Review",
@@ -473,6 +483,16 @@
       "siteUrl": "https://giteacoffee.emucafe.org/naferrell",
       "articles": [
         {
+          "id": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/ddf8bf8566aa6a51acdc3b4fe764131054e77f0d...f04f256531e6bd61acd733214f7e630e4fc36f5e",
+          "author": null,
+          "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/f04f256531e6bd61acd733214f7e630e4fc36f5e\">f04f256531e6bd61acd733214f7e630e4fc36f5e</a>\ndeploy: b5d25dfb5a0fde5da82013dfe0e47ff2f0960609\n\n<a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/c6c6989e07f06c667268c60d5a470613c26df5a9\">c6c6989e07f06c667268c60d5a470613c26df5a9</a>\ndeploy: b5d25dfb5a0fde5da82013dfe0e47ff2f0960609",
+          "link": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/ddf8bf8566aa6a51acdc3b4fe764131054e77f0d...f04f256531e6bd61acd733214f7e630e4fc36f5e",
+          "publishedOn": "2023-09-14T20:37:44.000Z",
+          "wordCount": 1184,
+          "title": "Nicholas A. Ferrell synced commits to <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages\">gh-pages</a> at <a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds\">naferrell/nljfeeds</a> from mirror",
+          "imageUrl": "https://giteacoffee.emucafe.org/avatars/9b2af1b5bf8e87edc724d47de5d52cab97d45bca51581abd4a5ec2108a5b266e"
+        },
+        {
           "id": "https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/7e24266ad3bc2ae3cf34e8a80e99a99596f0cdc1...ddf8bf8566aa6a51acdc3b4fe764131054e77f0d",
           "author": null,
           "description": "<a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/ddf8bf8566aa6a51acdc3b4fe764131054e77f0d\">ddf8bf8566aa6a51acdc3b4fe764131054e77f0d</a>\ndeploy: b5d25dfb5a0fde5da82013dfe0e47ff2f0960609\n\n<a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/a67bc8f29466511ce81b7f62cb491883646bd71d\">a67bc8f29466511ce81b7f62cb491883646bd71d</a>\nAdd files via upload\n\n<a href=\"https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/8ad7eb07cbe1cc20fb647c0cdaa7934ffc7c37c0\">8ad7eb07cbe1cc20fb647c0cdaa7934ffc7c37c0</a>\nUpdate index.css",
@@ -730,7 +750,18 @@
       "title": "nafnlj on Pixelfed",
       "feedUrl": "https://pixelfed.social/users/nafnlj.atom",
       "siteUrl": "https://pixelfed.social/nafnlj",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://pixelfed.social/p/nafnlj/608056415634233300",
+          "author": null,
+          "description": "I saw a pear on the ground in the NYC neighborhood of Brooklyn Heights (I think it was Brooklyn Heights, but small chance it was Cobble Hill). You do not tend to see pears on the ground in New York City. I looked up and found the source of the issue.<br />\n<br />\n<a href=\"https://social.emucafe.org/naferrell/sharing-is-pearing/\" rel=\"external nofollow noopener\" target=\"_blank\">https://social.emucafe.org/naferrell/sharing-is-pearing/</a> <br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/nyc?src=hash\" title=\"#nyc\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#nyc</a> <a href=\"https://pixelfed.social/discover/tags/brooklyn?src=hash\" title=\"#brooklyn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklyn</a> <a href=\"https://pixelfed.social/discover/tags/brooklynheights?src=hash\" title=\"#brooklynheights\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklynheights</a> <a href=\"https://pixelfed.social/discover/tags/cobblehill?src=hash\" title=\"#cobblehill\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#cobblehill</a> <a href=\"https://pixelfed.social/discover/tags/tree?src=hash\" title=\"#tree\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#tree</a> <a href=\"https://pixelfed.social/discover/tags/pear?src=hash\" title=\"#pear\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pear</a> <a href=\"https://pixelfed.social/discover/tags/sun?src=hash\" title=\"#sun\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#sun</a> <a href=\"https://pixelfed.social/discover/tags/pixel3axl?src=hash\" title=\"#pixel3axl\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pixel3axl</a> <a href=\"https://pixelfed.social/discover/tags/emucafe?src=hash\" title=\"#emucafe\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#emucafe</a>",
+          "link": "https://pixelfed.social/p/nafnlj/608056415634233300",
+          "publishedOn": "2023-09-14T21:59:06.000Z",
+          "wordCount": null,
+          "title": "I saw a pear on the ground in the NYC neighborhood of Brooklyn Heights (I think it was Brooklyn Heights, but small chance it was Cobble Hill). You do not tend to see pears on the ground in New York City. I looked up and found the source of the issue.\n\nhttps://social.emucafe.org/naferrell/sharing-is-pearing/ \n\n#nyc #brooklyn #brooklynheights #cobblehill #tree #pear #sun #pixel3axl #emucafe",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "N.A. Ferrell",
