@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-15T20:10:51.592Z</updated>
+    <updated>2023-09-16T14:08:25.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nicholas A. Ferrell synced commits to <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages">gh-pages</a> at <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds">naferrell/nljfeeds</a> from mirror]]></title>
+        <id>https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/f04f256531e6bd61acd733214f7e630e4fc36f5e...40fee7db999475e494de52e705c0845aac61eadd</id>
+        <link href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/f04f256531e6bd61acd733214f7e630e4fc36f5e...40fee7db999475e494de52e705c0845aac61eadd"/>
+        <updated>2023-09-15T21:07:45.000Z</updated>
+        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/40fee7db999475e494de52e705c0845aac61eadd">40fee7db999475e494de52e705c0845aac61eadd</a>
+deploy: b5d25dfb5a0fde5da82013dfe0e47ff2f0960609
+
+<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/e14a3494166f452283ac8c2a22acef505041865c">e14a3494166f452283ac8c2a22acef505041865c</a>
+deploy: b5d25dfb5a0fde5da82013dfe0e47ff2f0960609]]></summary>
+        <author>
+            <name>Feed of "Nicholas A. Ferrell"</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Girl I Like Forgot Her Glasses hair dye]]></title>
         <id>https://thenewleafjournal.com/?p=21253</id>
@@ -1306,17 +1320,6 @@ Justin & Justina: The Most-Read New Leaf Journal Content of…
 Duck and Duckling Rescue Stories From Around the Web]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I set up an repository for [osmosmemo](https://github.com/osmoscraft/osmosmemo-template). I can use ...]]></title>
-        <id>https://memos.emucafe.org/m/28</id>
-        <link href="https://memos.emucafe.org/m/28"/>
-        <updated>2023-08-17T18:09:55.000Z</updated>
-        <summary type="html"><![CDATA[I set up an repository for osmosmemo. I can use a Firefox extension to immediately save links (with notes and tags) into a GitHub readme. One drawback is that it only works with GitHub. But I used the same token that I created to give the extension read/write access to clone the repo to my Gitea instance. Seems like a neat tool.
-#Bookmarking]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
         </author>
     </entry>
 </feed>
