@@ -2,22 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-16T20:10:56.669Z</updated>
+    <updated>2023-09-16T20:33:15.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell synced commits to <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages">gh-pages</a> at <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds">naferrell/nljfeeds</a> from mirror]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/f04f256531e6bd61acd733214f7e630e4fc36f5e...40fee7db999475e494de52e705c0845aac61eadd</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/f04f256531e6bd61acd733214f7e630e4fc36f5e...40fee7db999475e494de52e705c0845aac61eadd"/>
-        <updated>2023-09-15T21:07:45.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/40fee7db999475e494de52e705c0845aac61eadd">40fee7db999475e494de52e705c0845aac61eadd</a>
-deploy: b5d25dfb5a0fde5da82013dfe0e47ff2f0960609
+        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
+        <id>https://github.com/nafnlj/nljfeeds/commit/740ad1c4751a12ab3b0e890bd5b4af2532eddbc9</id>
+        <link href="https://github.com/nafnlj/nljfeeds/commit/740ad1c4751a12ab3b0e890bd5b4af2532eddbc9"/>
+        <updated>2023-09-16T20:32:57.000Z</updated>
+        <summary type="html"><![CDATA[Update osmosfeed.yaml
 
-<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/e14a3494166f452283ac8c2a22acef505041865c">e14a3494166f452283ac8c2a22acef505041865c</a>
-deploy: b5d25dfb5a0fde5da82013dfe0e47ff2f0960609]]></summary>
+Removed general NAF Gitea feed because it pulls in updates that do not make sense for this site. I will replace it with individual repo feeds.]]></summary>
         <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
+            <name>Recent Commits to nljfeeds:main</name>
         </author>
     </entry>
     <entry>
@@ -60,20 +58,6 @@ https://social.emucafe.org/naferrell/sharing-is-pearing/
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell synced commits to <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages">gh-pages</a> at <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds">naferrell/nljfeeds</a> from mirror]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/ddf8bf8566aa6a51acdc3b4fe764131054e77f0d...f04f256531e6bd61acd733214f7e630e4fc36f5e</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/ddf8bf8566aa6a51acdc3b4fe764131054e77f0d...f04f256531e6bd61acd733214f7e630e4fc36f5e"/>
-        <updated>2023-09-14T20:37:44.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/f04f256531e6bd61acd733214f7e630e4fc36f5e">f04f256531e6bd61acd733214f7e630e4fc36f5e</a>
-deploy: b5d25dfb5a0fde5da82013dfe0e47ff2f0960609
-
-<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/c6c6989e07f06c667268c60d5a470613c26df5a9">c6c6989e07f06c667268c60d5a470613c26df5a9</a>
-deploy: b5d25dfb5a0fde5da82013dfe0e47ff2f0960609]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Caching troubles]]></title>
         <id>https://thenewleafjournal.com/?p=21247</id>
         <link href="https://thenewleafjournal.com/caching-troubles/"/>
@@ -92,34 +76,6 @@ WP Redis Object Cache and Link Hover Color
 The Angel Next Door Spoils Me Rotten - Anime Review]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell synced commits to <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages">gh-pages</a> at <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds">naferrell/nljfeeds</a> from mirror]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/7e24266ad3bc2ae3cf34e8a80e99a99596f0cdc1...ddf8bf8566aa6a51acdc3b4fe764131054e77f0d</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/7e24266ad3bc2ae3cf34e8a80e99a99596f0cdc1...ddf8bf8566aa6a51acdc3b4fe764131054e77f0d"/>
-        <updated>2023-09-14T04:27:13.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/ddf8bf8566aa6a51acdc3b4fe764131054e77f0d">ddf8bf8566aa6a51acdc3b4fe764131054e77f0d</a>
-deploy: b5d25dfb5a0fde5da82013dfe0e47ff2f0960609
-
-<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/a67bc8f29466511ce81b7f62cb491883646bd71d">a67bc8f29466511ce81b7f62cb491883646bd71d</a>
-Add files via upload
-
-<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/8ad7eb07cbe1cc20fb647c0cdaa7934ffc7c37c0">8ad7eb07cbe1cc20fb647c0cdaa7934ffc7c37c0</a>
-Update index.css]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell synced commits to <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/main">main</a> at <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds">naferrell/nljfeeds</a> from mirror]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/b5d25dfb5a0fde5da82013dfe0e47ff2f0960609</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/b5d25dfb5a0fde5da82013dfe0e47ff2f0960609"/>
-        <updated>2023-09-14T04:27:13.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/b5d25dfb5a0fde5da82013dfe0e47ff2f0960609">b5d25dfb5a0fde5da82013dfe0e47ff2f0960609</a>
-Update osmosfeed.yaml]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
         </author>
     </entry>
     <entry>
@@ -149,20 +105,6 @@ No other major issues at the moment. My ActivityPub profiles briefly stopped wor
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell synced commits to <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages">gh-pages</a> at <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds">naferrell/nljfeeds</a> from mirror]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/9d42ec5743cfca9cf8ce7482422dfa9a1dddf3ea...7e24266ad3bc2ae3cf34e8a80e99a99596f0cdc1</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/compare/9d42ec5743cfca9cf8ce7482422dfa9a1dddf3ea...7e24266ad3bc2ae3cf34e8a80e99a99596f0cdc1"/>
-        <updated>2023-09-13T20:17:13.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/7e24266ad3bc2ae3cf34e8a80e99a99596f0cdc1">7e24266ad3bc2ae3cf34e8a80e99a99596f0cdc1</a>
-deploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35
-
-<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/8a3b1cb948d5ab85a2f0f1cc6a65148f18a6cbf2">8a3b1cb948d5ab85a2f0f1cc6a65148f18a6cbf2</a>
-deploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Unprovoked dumb headline alert]]></title>
         <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=21223</id>
         <link href="https://thenewleafjournal.com/leafbud/unprovoked-dumb-headline-alert/"/>
@@ -184,72 +126,6 @@ Winds of New Beginnings: Pokémon Gold & Silver]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell synced commits to <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages">gh-pages</a> at <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds">naferrell/nljfeeds</a> from mirror]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/9d42ec5743cfca9cf8ce7482422dfa9a1dddf3ea</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/9d42ec5743cfca9cf8ce7482422dfa9a1dddf3ea"/>
-        <updated>2023-09-13T03:57:13.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/9d42ec5743cfca9cf8ce7482422dfa9a1dddf3ea">9d42ec5743cfca9cf8ce7482422dfa9a1dddf3ea</a>
-deploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell synced commits to <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages">gh-pages</a> at <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds">naferrell/nljfeeds</a> from mirror]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/0f397de3b9560330416ee82529f4bf44e87b044c</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/0f397de3b9560330416ee82529f4bf44e87b044c"/>
-        <updated>2023-09-12T19:57:12.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/0f397de3b9560330416ee82529f4bf44e87b044c">0f397de3b9560330416ee82529f4bf44e87b044c</a>
-deploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell synced commits to <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages">gh-pages</a> at <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds">naferrell/nljfeeds</a> from mirror]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/7cdc9b8cc6ba7107494ca86f90f737221311273a</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/7cdc9b8cc6ba7107494ca86f90f737221311273a"/>
-        <updated>2023-09-12T03:57:12.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/7cdc9b8cc6ba7107494ca86f90f737221311273a">7cdc9b8cc6ba7107494ca86f90f737221311273a</a>
-deploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell synced commits to <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages">gh-pages</a> at <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds">naferrell/nljfeeds</a> from mirror]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/23822e486b5361c339558c1a798c9ec67380caab</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/23822e486b5361c339558c1a798c9ec67380caab"/>
-        <updated>2023-09-11T19:47:14.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/23822e486b5361c339558c1a798c9ec67380caab">23822e486b5361c339558c1a798c9ec67380caab</a>
-deploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell synced commits to <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages">gh-pages</a> at <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds">naferrell/nljfeeds</a> from mirror]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/6cb55b4c21e04ec66fc2249b717ea8a65599ac79</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/6cb55b4c21e04ec66fc2249b717ea8a65599ac79"/>
-        <updated>2023-09-11T03:27:13.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/6cb55b4c21e04ec66fc2249b717ea8a65599ac79">6cb55b4c21e04ec66fc2249b717ea8a65599ac79</a>
-deploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell synced commits to <a href="https://giteacoffee.emucafe.org/naferrell/linklist/src/main">main</a> at <a href="https://giteacoffee.emucafe.org/naferrell/linklist">naferrell/linklist</a> from mirror]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/linklist/commit/1158275ffd7e0020d4c1f639fa14f39efb72d357</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/linklist/commit/1158275ffd7e0020d4c1f639fa14f39efb72d357"/>
-        <updated>2023-09-11T03:17:13.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/linklist/commit/1158275ffd7e0020d4c1f639fa14f39efb72d357">1158275ffd7e0020d4c1f639fa14f39efb72d357</a>
-New summary added by osmos::memo]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Middle school restroom smoking]]></title>
         <id>https://thenewleafjournal.com/?p=21214</id>
         <link href="https://thenewleafjournal.com/middle-school-restroom-smoking/"/>
@@ -268,71 +144,6 @@ At Summer's End - Visual Novel Review
 The Best of Anime in 2022: Year in Review]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell synced commits to <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/src/gh-pages">gh-pages</a> at <a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds">naferrell/nljfeeds</a> from mirror]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/b868d3103ba0263284b20648b39031ba1dd12e52</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/b868d3103ba0263284b20648b39031ba1dd12e52"/>
-        <updated>2023-09-10T19:17:13.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/nljfeeds/commit/b868d3103ba0263284b20648b39031ba1dd12e52">b868d3103ba0263284b20648b39031ba1dd12e52</a>
-deploy: 7121e64e165b7928eb6ed327edf1e7ced2c6bd35]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell pushed to <a href="https://giteacoffee.emucafe.org/naferrell/emusem-press/src/branch/main">main</a> at <a href="https://giteacoffee.emucafe.org/naferrell/emusem-press">naferrell/emusem-press</a>]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/ec9a87b1e163e4915be1b95fa9ab0982c4dd400b</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/ec9a87b1e163e4915be1b95fa9ab0982c4dd400b"/>
-        <updated>2023-09-10T03:07:06.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/ec9a87b1e163e4915be1b95fa9ab0982c4dd400b">ec9a87b1e163e4915be1b95fa9ab0982c4dd400b</a>
-Update style.css]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell pushed to <a href="https://giteacoffee.emucafe.org/naferrell/emusem-press/src/branch/main">main</a> at <a href="https://giteacoffee.emucafe.org/naferrell/emusem-press">naferrell/emusem-press</a>]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/791c58b71464e2e72bbe7f61743bc3f421a73553</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/791c58b71464e2e72bbe7f61743bc3f421a73553"/>
-        <updated>2023-09-10T02:30:06.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/791c58b71464e2e72bbe7f61743bc3f421a73553">791c58b71464e2e72bbe7f61743bc3f421a73553</a>
-Update footer.php]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell pushed to <a href="https://giteacoffee.emucafe.org/naferrell/emusem-press/src/branch/main">main</a> at <a href="https://giteacoffee.emucafe.org/naferrell/emusem-press">naferrell/emusem-press</a>]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/2db7447464918924eab74309156c1f11db9381b9</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/2db7447464918924eab74309156c1f11db9381b9"/>
-        <updated>2023-09-10T02:29:18.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/2db7447464918924eab74309156c1f11db9381b9">2db7447464918924eab74309156c1f11db9381b9</a>
-Upload files to &#34;/&#34;]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell pushed to <a href="https://giteacoffee.emucafe.org/naferrell/emusem-press/src/branch/main">main</a> at <a href="https://giteacoffee.emucafe.org/naferrell/emusem-press">naferrell/emusem-press</a>]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/6c2fbfcda85ff54528391c3765f17bd7caedb140</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/6c2fbfcda85ff54528391c3765f17bd7caedb140"/>
-        <updated>2023-09-10T02:27:07.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/emusem-press/commit/6c2fbfcda85ff54528391c3765f17bd7caedb140">6c2fbfcda85ff54528391c3765f17bd7caedb140</a>
-Update README.md]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell created repository <a href="https://giteacoffee.emucafe.org/naferrell/emusem-press">naferrell/emusem-press</a>]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/emusem-press</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/emusem-press"/>
-        <updated>2023-09-10T02:25:19.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
         </author>
     </entry>
     <entry>
@@ -380,17 +191,6 @@ https://thenewleafjournal.com/the-9-9-99-computer-bug-that-wasnt/
 #1999 #glitch #bugs #thisdayinhistory]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell pushed to <a href="https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/src/branch/main">main</a> at <a href="https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides">naferrell/altogether_visual_novel_guides</a>]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/commit/738447d76a686e6c89fa700ee5d0f23e0140d524</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/commit/738447d76a686e6c89fa700ee5d0f23e0140d524"/>
-        <updated>2023-09-08T06:03:52.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/commit/738447d76a686e6c89fa700ee5d0f23e0140d524">738447d76a686e6c89fa700ee5d0f23e0140d524</a>
-Update Midsummer_Haze_Endings_Guide.md]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
         </author>
     </entry>
     <entry>
@@ -466,70 +266,6 @@ The Poetry of Charlotte Becker - Early Twentieth Century…
 History of Thanksgiving Proclamations in the Philippines]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell renamed repository from <code>enable-pingbacks-in-wordpress-pages</code> to <a href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages">naferrell/enable-pingbacks-for-wordpress...</a>]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages"/>
-        <updated>2023-09-06T17:17:43.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell pushed to <a href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/src/branch/main">main</a> at <a href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages">naferrell/enable-pingbacks-for-wordpress...</a>]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/3b9e261e2e2c4f998e1c4f538956e3ff737e2b2d</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/3b9e261e2e2c4f998e1c4f538956e3ff737e2b2d"/>
-        <updated>2023-09-06T17:17:15.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/3b9e261e2e2c4f998e1c4f538956e3ff737e2b2d">3b9e261e2e2c4f998e1c4f538956e3ff737e2b2d</a>
-Update enable-pinpgacks-for-pages.php]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell pushed to <a href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/src/branch/main">main</a> at <a href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages">naferrell/enable-pingbacks-for-wordpress...</a>]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/bb85547fd53cdc11a671db8aa3afafae4e345a62</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/bb85547fd53cdc11a671db8aa3afafae4e345a62"/>
-        <updated>2023-09-06T17:14:08.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/bb85547fd53cdc11a671db8aa3afafae4e345a62">bb85547fd53cdc11a671db8aa3afafae4e345a62</a>
-Update README.md]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell pushed to <a href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/src/branch/main">main</a> at <a href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages">naferrell/enable-pingbacks-for-wordpress...</a>]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/9dde17edc54c5460082cedcaa059fb4b3d2f8fc1</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/9dde17edc54c5460082cedcaa059fb4b3d2f8fc1"/>
-        <updated>2023-09-06T17:12:59.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/9dde17edc54c5460082cedcaa059fb4b3d2f8fc1">9dde17edc54c5460082cedcaa059fb4b3d2f8fc1</a>
-Update README.md]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell pushed to <a href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/src/branch/main">main</a> at <a href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages">naferrell/enable-pingbacks-for-wordpress...</a>]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/4b81233c9eae337187e209235c200310f3266161</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/4b81233c9eae337187e209235c200310f3266161"/>
-        <updated>2023-09-06T17:05:43.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages/commit/4b81233c9eae337187e209235c200310f3266161">4b81233c9eae337187e209235c200310f3266161</a>
-Upload files to &#34;/&#34;]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell created repository <a href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages">naferrell/enable-pingbacks-for-wordpress...</a>]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/enable-pingbacks-for-wordpress-pages"/>
-        <updated>2023-09-06T17:00:09.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
         </author>
     </entry>
     <entry>
@@ -666,27 +402,6 @@ A Christmas Menagerie On a Lawn in Gowanus]]></summary>
 #wordpress #webhosting]]></summary>
         <author>
             <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell pushed to <a href="https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/src/branch/main">main</a> at <a href="https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides">naferrell/altogether_visual_novel_guides</a>]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/commit/435e7a3bec1f239b7c41b473caa120c49922d27f</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/commit/435e7a3bec1f239b7c41b473caa120c49922d27f"/>
-        <updated>2023-09-03T01:25:07.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/commit/435e7a3bec1f239b7c41b473caa120c49922d27f">435e7a3bec1f239b7c41b473caa120c49922d27f</a>
-Upload files to &#34;/&#34;]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicholas A. Ferrell created repository <a href="https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides">naferrell/altogether_visual_novel_guides</a>]]></title>
-        <id>https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides</id>
-        <link href="https://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides"/>
-        <updated>2023-09-03T01:24:07.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Feed of "Nicholas A. Ferrell"</name>
         </author>
     </entry>
     <entry>
