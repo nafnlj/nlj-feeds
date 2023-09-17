@@ -33,6 +33,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21261",
+          "author": "Nicholas A. Ferrell",
+          "description": "How I used a sticky note to hold an optical audio cable in place in my Yamaha soundbar after the optical audio cable door broke.\nPossibly related posts...\n\nReplacing soundbar and re-configuring universal remote for…\nAn Optical Audio Cable Packaging Story\nOptical audio cable story update\nMicropost on Soundbar and Remote Struggles\nThe Angel Next Door Spoils Me Rotten - Anime Review\nMeghan Markle's \"The Bench\" and Audio Book Versions of…\nio [Christmas Eve] - Visual Novel Review\nEGM's 2001 Sega Neptune April Fools Joke\nUSB-C Charger Surprises",
+          "link": "https://thenewleafjournal.com/broken-optical-audio-cable-door-fix/",
+          "publishedOn": "2023-09-16T21:35:45.000Z",
+          "wordCount": 2145,
+          "title": "Broken Optical Audio Cable Door “Fix”",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/09/yamaha-soundbar-full.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21253",
           "author": "Nicholas A. Ferrell",
           "description": "I was curious whether we would learn about the brown hair of the girl in The Girl I Like Forgot Her Glasses. Instead, we learn about the brown hair of the boy who likes her.\nPossibly related posts...\n\nThe Girl I Like Forgot Her Glasses Ep1 Animation\nTokyo High Schools Change Hair Color Dress Code Policies\nHair Color Dress Code Rules in Japan\nA Walker's Review of BLUPOND's Knight Vision Night Driving…\nUnderstanding Hair Color in the Kimi ni Todoke Anime Series\nBrown hair and dress codes in Ippon Again!\nIroha Isshiki's Hair is Brown, as Expected?\nHair Color and Albinism in Red Shift Visual Novel\nExamining brown hair of popular anime characters",
@@ -315,16 +325,6 @@
           "wordCount": 1532,
           "title": "The problem with remaking Twitter",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=20968",
-          "author": "Nicholas A. Ferrell",
-          "description": "From a June 26, 2023 report in Nintendo Life: Yes, you read that headline correctly. Outright Games has today announced that […]\nPossibly related posts...\n\nFlood of Tears - Visual Novel Review\nThe \"King Baby BKF\" Sticker in Gowanus, Brooklyn\nYou Can't Fix Stupid - King Baby\nThe Downstream Effects of Bing's Tiananmen Square Censorship\nFour May Issues of The Nursery Magazine (1873-81)\nThe Enigmatic Life and Death of Emperor Otho\n\"King Baby\" Graffiti on a Truck in Gowanus\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nDuck and Duckling Rescue Stories From Around the Web",
-          "link": "https://thenewleafjournal.com/leafbud/baby-shark-games-and-censorship/",
-          "publishedOn": "2023-08-19T01:29:33.000Z",
-          "wordCount": 1402,
-          "title": "Baby Shark Games and Censorship",
-          "imageUrl": null
         }
       ]
     },
@@ -372,6 +372,16 @@
       "feedUrl": "https://buttondown.email/newsletterleafjournal/rss",
       "siteUrl": "https://buttondown.email/newsletterleafjournal",
       "articles": [
+        {
+          "id": "https://buttondown.email/newsletterleafjournal/archive/153/",
+          "author": null,
+          "description": "Welcome to the 153rd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. It was not a big publishing week at The New Leaf Journal, but I produced a few articles while also continuing to work on improving the site and its sister project, The Emu Café Social. Let us begin our week-in-review.\nLeaves from the week that was\nI technically published three new articles, but one was about our cache system serving some visitors a compressed page to download instead of the normal web page for 12 hours on Thursday. Technical issue update aside, my two full articles were fairly long.\nMiddle sch…",
+          "link": "https://buttondown.email/newsletterleafjournal/archive/153/",
+          "publishedOn": "2023-09-16T21:23:59.000Z",
+          "wordCount": 2012,
+          "title": "Newsletter Leaf Journal CLIII 〜 No-smoking newsletter 〜",
+          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter%20Leaf%20Journal%20CLIII%20%E3%80%9C%20No-smoking%20newsletter%20%E3%80%9C&author=The%20Newsletter%20Leaf%20Journal&date=2023-09-16&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
+        },
         {
           "id": "https://buttondown.email/newsletterleafjournal/archive/152/",
           "author": null,
