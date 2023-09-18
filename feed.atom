@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-17T20:09:58.231Z</updated>
+    <updated>2023-09-18T14:10:58.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1075,21 +1075,6 @@ Applying Coolidge's Remarks on the Home to the Digital Home
 The Story of Billy Possum, President Hoover's Pet Opossum]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CXLIX 〜 Bingback? 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/149/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/149/"/>
-        <updated>2023-08-19T14:18:02.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 149th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. This week was light on new article publishing, but I have a decent selection of new pieces to share in addition to our usual links from around the web, links from our archives, and some interesting site news and notes.
-Leaves from the week that was
-We published two full articles since mailing Newsletter 148.
-Game FAQs Guide For Game Boy Golf (1990)
-I was looking for information about Nintendo's 1990 Golf game for Game Boy (why not?). It was like 2004 all over again. The only hope was Game FAQs.
-On the Death of…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>
