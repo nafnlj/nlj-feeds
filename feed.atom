@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-18T14:10:58.306Z</updated>
+    <updated>2023-09-18T20:11:00.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111087260380638162</id>
+        <link href="https://linuxrocks.online/@nafnlj/111087260380638162"/>
+        <updated>2023-09-18T17:11:13.000Z</updated>
+        <summary type="html"><![CDATA[I was so proud of my solution to a broken optical audio cable door on my soundbar that I decided to turn it into an article. All it took was part of a sticky note... but the "fix" can still fall victim to sudden movements.
+https://thenewleafjournal.com/broken-optical-audio-cable-door-fix/
+#soundbar #OpicalAudio #yamaha]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grace Coolidge on Intentional Walks]]></title>
         <id>https://thenewleafjournal.com/?p=21280</id>
