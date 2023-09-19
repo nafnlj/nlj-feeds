@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-19T14:10:01.172Z</updated>
+    <updated>2023-09-19T20:10:55.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111092351952056906</id>
+        <link href="https://linuxrocks.online/@nafnlj/111092351952056906"/>
+        <updated>2023-09-19T14:46:04.000Z</updated>
+        <summary type="html"><![CDATA[An 1829 quip about the comedy of life reminded me of a quote attributed to Augustus on his deathbed (14 AD), which I turned into a 2020 article.
+https://thenewleafjournal.com/augustus-and-the-comedy-of-life/
+#quotes #augustus #romanhistory #history]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111087260380638162</id>
