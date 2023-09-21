@@ -288,16 +288,6 @@
           "wordCount": 1568,
           "title": "Return of our SEO Framework sitemap",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20986",
-          "author": "Nicholas A. Ferrell",
-          "description": "From a Nintendo Life report: The first entry in Sting’s Dept. Heaven series is getting an HD remaster. Making the announcement […]\nPossibly related posts...\n\nHistory of the Mario Party Gloves\nThe Aborted Nintendo-Minnesota Lottery Scheme\nNintendo Power's 1999 Yoshi in Pokémon April Fools Prank\nOn Nintendo's Pro-User Cartridge-First Strategy\nThe Last Nintendo Wii Games\nLateral thinking to extend game console life-cycles\nMario Party's Joystick-Wrecking Rotation Games\n1914 Moral Story For Children on Responsibility\nStadia and the Value of Owning Games",
-          "link": "https://thenewleafjournal.com/leaf/remaster-of-riviera-the-promised-land/",
-          "publishedOn": "2023-08-22T14:35:00.000Z",
-          "wordCount": 1587,
-          "title": "Remaster of Riviera: The Promised Land",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
         }
       ]
     },
@@ -355,7 +345,18 @@
       "title": "Comments on: Guestbook",
       "feedUrl": "https://thenewleafjournal.com/guestbook/feed/",
       "siteUrl": "https://thenewleafjournal.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?page_id=20443#comment-2408",
+          "author": "Carlossnoda",
+          "description": "<a href=\"https://www.youtube.com/@evg7773/videos\" rel=\"nofollow ugc\"> Car Race Music Mix 2023, Bass Boosted Extreme 2023, BEST EDM, BOUNCE, ELECTRO HOUSE</a>",
+          "link": "https://thenewleafjournal.com/guestbook/comment-page-1/#comment-2408",
+          "publishedOn": "2023-09-21T00:12:06.000Z",
+          "wordCount": 1492,
+          "title": "By: Carlossnoda",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/06/revived-new-leaf-journal-guestbook.jpg"
+        }
+      ]
     },
     {
       "title": "The Newsletter Leaf Journal",
@@ -693,26 +694,6 @@
           "wordCount": 343,
           "title": "The longest word you can type on the first row of a QWERTY keyboard",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=37227854",
-          "author": "nafnlj",
-          "description": "Article URL: https://tedium.co/2018/02/27/pdf-file-format-history/\nComments URL: https://news.ycombinator.com/item?id=37227854\nPoints: 1\n# Comments: 0",
-          "link": "https://tedium.co/2018/02/27/pdf-file-format-history/",
-          "publishedOn": "2023-08-22T20:05:42.000Z",
-          "wordCount": 2993,
-          "title": "PDF Format History: Where Our Future History Lies (2018)",
-          "imageUrl": "https://images.tedium.co/2018/02/tedium022718.gif"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=37227848",
-          "author": "nafnlj",
-          "description": "Article URL: https://www.bodhilinux.com/2023/08/21/introducing-bodhi-linux-7-0-a-landmark-release/\nComments URL: https://news.ycombinator.com/item?id=37227848\nPoints: 1\n# Comments: 0",
-          "link": "https://www.bodhilinux.com/2023/08/21/introducing-bodhi-linux-7-0-a-landmark-release/",
-          "publishedOn": "2023-08-22T20:05:05.000Z",
-          "wordCount": 2128,
-          "title": "Introducing Bodhi Linux 7.0, Built on Ubuntu 22.04",
-          "imageUrl": "https://www.bodhilinux.com/trial/wp-content/uploads/2014/08/logo1.png"
         }
       ]
     },

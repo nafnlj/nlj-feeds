@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-20T20:11:05.196Z</updated>
+    <updated>2023-09-21T14:10:16.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[By: Carlossnoda]]></title>
+        <id>https://thenewleafjournal.com/?page_id=20443#comment-2408</id>
+        <link href="https://thenewleafjournal.com/guestbook/comment-page-1/#comment-2408"/>
+        <updated>2023-09-21T00:12:06.000Z</updated>
+        <summary type="html"><![CDATA[<a href="https://www.youtube.com/@evg7773/videos" rel="nofollow ugc"> Car Race Music Mix 2023, Bass Boosted Extreme 2023, BEST EDM, BOUNCE, ELECTRO HOUSE</a>]]></summary>
+        <author>
+            <name>Carlossnoda</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Race-Ball: 19th Century Sport Review]]></title>
         <id>https://thenewleafjournal.com/?p=21287</id>
@@ -964,53 +974,6 @@ Points: 24
 #linux #BodhiLinux #XFCE]]></summary>
         <author>
             <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDF Format History: Where Our Future History Lies (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=37227854</id>
-        <link href="https://tedium.co/2018/02/27/pdf-file-format-history/"/>
-        <updated>2023-08-22T20:05:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tedium.co/2018/02/27/pdf-file-format-history/
-Comments URL: https://news.ycombinator.com/item?id=37227854
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Bodhi Linux 7.0, Built on Ubuntu 22.04]]></title>
-        <id>https://news.ycombinator.com/item?id=37227848</id>
-        <link href="https://www.bodhilinux.com/2023/08/21/introducing-bodhi-linux-7-0-a-landmark-release/"/>
-        <updated>2023-08-22T20:05:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bodhilinux.com/2023/08/21/introducing-bodhi-linux-7-0-a-landmark-release/
-Comments URL: https://news.ycombinator.com/item?id=37227848
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remaster of Riviera: The Promised Land]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20986</id>
-        <link href="https://thenewleafjournal.com/leaf/remaster-of-riviera-the-promised-land/"/>
-        <updated>2023-08-22T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[From a Nintendo Life report: The first entry in Sting’s Dept. Heaven series is getting an HD remaster. Making the announcement […]
-Possibly related posts...
-
-History of the Mario Party Gloves
-The Aborted Nintendo-Minnesota Lottery Scheme
-Nintendo Power's 1999 Yoshi in Pokémon April Fools Prank
-On Nintendo's Pro-User Cartridge-First Strategy
-The Last Nintendo Wii Games
-Lateral thinking to extend game console life-cycles
-Mario Party's Joystick-Wrecking Rotation Games
-1914 Moral Story For Children on Responsibility
-Stadia and the Value of Owning Games]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
