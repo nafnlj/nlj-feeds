@@ -33,6 +33,26 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21302",
+          "author": "Nicholas A. Ferrell",
+          "description": "A goose continues drinking from a puddle in Brooklyn Bridge Park and comes away satisfied... part two...\nPossibly related posts...\n\nThirsty Goose in Brooklyn Bridge Park: Part 1\nObserving a Family of Geese in Brooklyn Bridge Park (and…\nFamily of Geese in Vinegar Hill, Brooklyn\n1883 Opening of the Brooklyn Bridge\nJustin and Justina review 2022 at the NLJ\nBaby Geese in Brooklyn Bridge Park\nA Trip Across Brooklyn's Summit Street Bridge\nOn Haughty Dog Owners in NYC\nJustin and Justina 〜 Convincing a Google Devotee to Try…",
+          "link": "https://thenewleafjournal.com/thirsty-goose-in-brooklyn-bridge-park-part-2/",
+          "publishedOn": "2023-09-22T19:19:51.000Z",
+          "wordCount": 1630,
+          "title": "Thirsty Goose in Brooklyn Bridge Park: Part 2",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/09/thirsty-goose8.jpg"
+        },
+        {
+          "id": "https://thenewleafjournal.com/?p=21294",
+          "author": "Nicholas A. Ferrell",
+          "description": "A goose drinks from a puddle in Brooklyn Bridge Park... part one...\nPossibly related posts...\n\nThirsty Goose in Brooklyn Bridge Park: Part 2\nObserving a Family of Geese in Brooklyn Bridge Park (and…\nFamily of Geese in Vinegar Hill, Brooklyn\n1883 Opening of the Brooklyn Bridge\nJustin and Justina review 2022 at the NLJ\nBaby Geese in Brooklyn Bridge Park\nA Trip Across Brooklyn's Summit Street Bridge\nOn Haughty Dog Owners in NYC\nNineteenth Century Autumn Dress Trends",
+          "link": "https://thenewleafjournal.com/thirsty-goose-in-brooklyn-bridge-park-part-1/",
+          "publishedOn": "2023-09-22T19:18:25.000Z",
+          "wordCount": 1660,
+          "title": "Thirsty Goose in Brooklyn Bridge Park: Part 1",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/09/thirsty-goose1.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21287",
           "author": "Nicholas A. Ferrell",
           "description": "Reviewing an obscure 19th century sport, as described in an 1882 issue of Harper's Young People.\nPossibly related posts...\n\n1892 Reports on First Year of Basketball\n1892 Report on Women's Basketball Game\nThe Japanese Citizenship Requirement for Sumo Stablemasters\nNineteenth Century Autumn Dress Trends\nJustin and Justina review 2022 at the NLJ\nEd Durr Walks To A Stunning Election Upset In New Jersey\n\"Casey's Revenge\" - Grantland Rice's 1896 Reply Poem to…\nThe Story of the Herald Square Carrier Pigeons\nThe Inspiring Political Comebacks of Byron Brown and Vito…",
@@ -454,16 +474,6 @@
           "publishedOn": "2023-08-25T15:45:31.000Z",
           "wordCount": 21,
           "title": "I had a minor screen tearing issue on an old netbook (I do not know the exact year but the Windows 8...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/29",
-          "author": null,
-          "description": "I am using an old LibreBooted ThinkPad as a \"server\"... really more as an always-on Syncthing node. After having some issues with GNU Trisquel (probably my fault), I decided to go with Bodhi Linux 7.0 (I prefer to have a GUI). Installation went perfect but I had an issue with the behavior on sleep. By default, the laptop seems to suspend when I close the lid, which causes wi-fi to shut off.  Since I want it to be an always-on Syncthing node, I obviously need the wi-fi to stay on when I close the laptop. After fumbling for a solution, I read on a forum that the XFCE power manager works outside of XFCE.  That sounded good to me since I use XFCE on my main workstation and I am familiar with its GUI tools. I installed it (no extra dependencies - nice), enabled it, and modified the power settings.  It worked perfectly.  I mark this issue as solved.\n#linux #BodhiLinux #XFCE",
-          "link": "https://memos.emucafe.org/m/29",
-          "publishedOn": "2023-08-24T05:01:00.000Z",
-          "wordCount": 21,
-          "title": "I am using an old LibreBooted ThinkPad as a \"server\"... really more as an always-on Syncthing node. ...",
           "imageUrl": null
         }
       ]
