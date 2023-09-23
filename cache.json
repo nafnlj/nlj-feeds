@@ -298,16 +298,6 @@
           "wordCount": 1902,
           "title": "Brooklyn Public Library Priorities",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=20995",
-          "author": "Nicholas A. Ferrell",
-          "description": "I switched The New Leaf Journal from using Yoast SEO to The SEO Framework back in early 2022 around the same […]\nPossibly related posts...\n\nThe New Leaf Journal's Humane SEO Framework Sitemap\nOn the humans.txt File\nNaver Webmaster Trials and Tribulations\nA New Sitemap for Humans\nRecording a Test New Leaf Journal Pokémon Sword and Shield…\nThe story of our Bing blacklisting\nReturn to Shironagasu Island Review\nOn Children, TikTok, and Social Media Stardom\nTwo Independence Day-Themed Pokémon Battles: Ferrell vs…",
-          "link": "https://thenewleafjournal.com/leaf/return-of-our-seo-framework-sitemap/",
-          "publishedOn": "2023-08-25T02:21:28.000Z",
-          "wordCount": 1568,
-          "title": "Return of our SEO Framework sitemap",
-          "imageUrl": null
         }
       ]
     },
@@ -383,6 +373,16 @@
       "feedUrl": "https://buttondown.email/newsletterleafjournal/rss",
       "siteUrl": "https://buttondown.email/newsletterleafjournal",
       "articles": [
+        {
+          "id": "https://buttondown.email/newsletterleafjournal/archive/154/",
+          "author": null,
+          "description": "Welcome to the 154th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. While our short posts are on hiatus for the time being, I published six full articles since I last mailed you. You will find links to our new articles along with links from around the web and other news and notes below.\nLeaves from the week that was\nSix articles? Is this September 2020 instead of 2023? Let us see what is new...\nBroken Optical Audio Cable Door \"Fix\" (I think my sticky note fix is rather clever)\nOn Barry Bonds' IBBs in 2006 and 2007 (One can infer why Barry Bonds was walked at an unprecedented r…",
+          "link": "https://buttondown.email/newsletterleafjournal/archive/154/",
+          "publishedOn": "2023-09-23T20:05:38.000Z",
+          "wordCount": 2084,
+          "title": "Newsletter Leaf Journal CLIV 〜 Bases on newsletters 〜",
+          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter%20Leaf%20Journal%20CLIV%20%E3%80%9C%20Bases%20on%20newsletters%20%E3%80%9C&author=The%20Newsletter%20Leaf%20Journal&date=2023-09-23&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
+        },
         {
           "id": "https://buttondown.email/newsletterleafjournal/archive/153/",
           "author": null,

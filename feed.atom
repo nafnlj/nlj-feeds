@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-23T14:08:34.033Z</updated>
+    <updated>2023-09-23T20:09:57.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CLIV 〜 Bases on newsletters 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/154/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/154/"/>
+        <updated>2023-09-23T20:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 154th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. While our short posts are on hiatus for the time being, I published six full articles since I last mailed you. You will find links to our new articles along with links from around the web and other news and notes below.
+Leaves from the week that was
+Six articles? Is this September 2020 instead of 2023? Let us see what is new...
+Broken Optical Audio Cable Door "Fix" (I think my sticky note fix is rather clever)
+On Barry Bonds' IBBs in 2006 and 2007 (One can infer why Barry Bonds was walked at an unprecedented r…]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thirsty Goose in Brooklyn Bridge Park: Part 2]]></title>
         <id>https://thenewleafjournal.com/?p=21302</id>
@@ -971,27 +985,6 @@ Points: 2
 # Comments: 0]]></summary>
         <author>
             <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Return of our SEO Framework sitemap]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=20995</id>
-        <link href="https://thenewleafjournal.com/leaf/return-of-our-seo-framework-sitemap/"/>
-        <updated>2023-08-25T02:21:28.000Z</updated>
-        <summary type="html"><![CDATA[I switched The New Leaf Journal from using Yoast SEO to The SEO Framework back in early 2022 around the same […]
-Possibly related posts...
-
-The New Leaf Journal's Humane SEO Framework Sitemap
-On the humans.txt File
-Naver Webmaster Trials and Tribulations
-A New Sitemap for Humans
-Recording a Test New Leaf Journal Pokémon Sword and Shield…
-The story of our Bing blacklisting
-Return to Shironagasu Island Review
-On Children, TikTok, and Social Media Stardom
-Two Independence Day-Themed Pokémon Battles: Ferrell vs…]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
