@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-22T20:10:53.139Z</updated>
+    <updated>2023-09-23T14:08:34.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -992,19 +992,6 @@ On Children, TikTok, and Social Media Stardom
 Two Independence Day-Themed Pokémon Battles: Ferrell vs…]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The longest word you can type on the first row of a QWERTY keyboard]]></title>
-        <id>https://news.ycombinator.com/item?id=37254772</id>
-        <link href="https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/"/>
-        <updated>2023-08-24T21:29:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/
-Comments URL: https://news.ycombinator.com/item?id=37254772
-Points: 24
-# Comments: 47]]></summary>
-        <author>
-            <name>nafnlj</name>
         </author>
     </entry>
 </feed>
