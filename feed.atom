@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-25T20:11:11.381Z</updated>
+    <updated>2023-09-26T14:10:54.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[By: CharlesTIP]]></title>
+        <id>https://thenewleafjournal.com/?page_id=20443#comment-2453</id>
+        <link href="https://thenewleafjournal.com/guestbook/comment-page-1/#comment-2453"/>
+        <updated>2023-09-26T06:15:36.000Z</updated>
+        <summary type="html"><![CDATA[<a href="http://maxum-boats.ru/" / rel="nofollow ugc">http://maxum-boats.ru/</a>]]></summary>
+        <author>
+            <name>CharlesTIP</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CLIV 〜 Bases on newsletters 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/154/</id>
@@ -870,39 +880,6 @@ Red Shift Visual Novel Review
 Running Yuuki!Novel Ver of Tegami on Linux
 May Sky - Visual Novel Review
 Version history of Aru Fuyu no Monogatari]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/110963459922732727</id>
-        <link href="https://linuxrocks.online/@nafnlj/110963459922732727"/>
-        <updated>2023-08-27T20:27:08.000Z</updated>
-        <summary type="html"><![CDATA[I am reading an old visual novel called Midsummer Haze as part of my review project. Now it has one choice which branches into two endings. There's a third ending visible. I guessed the gimmick, but before I bashed my head into a wall, I peaked at a single reference to the gimmick on VNDB... I will have to bash my head into a wall. But the fact I'm even able to run this took great effort... must persevere...
-https://thenewleafjournal.com/leaf/on-the-hunt-for-manatsu-no-kagerou/
-#visualnovel #kirikiri #anecdote]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I carrot about good content]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=21011</id>
-        <link href="https://thenewleafjournal.com/leaf/i-carrot-about-good-content/"/>
-        <updated>2023-08-27T18:57:38.000Z</updated>
-        <summary type="html"><![CDATA[The New Leaf Journal is not a single topic writing website. I have written about subjects including video game history, letters […]
-Possibly related posts...
-
-Inflatable Carrot and Easter Bunnies in Brooklyn
-A Turnip-Shaped Study of the Word "Napiform"
-Brooklyn Snowman and Winter Storm Gail Sights
-Inflatable colorful Easter egg bunny thing
-The New Leaf Journal Celebrates Its First Birthday
-The al|together and Insani Visual Novel Translations
-Justin & Justina: Most-Read NLJ Content of 2020
-A 2021 List of Alternative Search Engines and Search…
-Oldest Golfers to Contend for Majors Between the 1968 and…]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>

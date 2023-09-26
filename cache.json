@@ -268,16 +268,6 @@
           "wordCount": null,
           "title": "Our Official Return to Bing",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=21011",
-          "author": "Nicholas A. Ferrell",
-          "description": "The New Leaf Journal is not a single topic writing website. I have written about subjects including video game history, letters […]\nPossibly related posts...\n\nInflatable Carrot and Easter Bunnies in Brooklyn\nA Turnip-Shaped Study of the Word \"Napiform\"\nBrooklyn Snowman and Winter Storm Gail Sights\nInflatable colorful Easter egg bunny thing\nThe New Leaf Journal Celebrates Its First Birthday\nThe al|together and Insani Visual Novel Translations\nJustin & Justina: Most-Read NLJ Content of 2020\nA 2021 List of Alternative Search Engines and Search…\nOldest Golfers to Contend for Majors Between the 1968 and…",
-          "link": "https://thenewleafjournal.com/leaf/i-carrot-about-good-content/",
-          "publishedOn": "2023-08-27T18:57:38.000Z",
-          "wordCount": null,
-          "title": "I carrot about good content",
-          "imageUrl": null
         }
       ]
     },
@@ -336,6 +326,16 @@
       "feedUrl": "https://thenewleafjournal.com/guestbook/feed/",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?page_id=20443#comment-2453",
+          "author": "CharlesTIP",
+          "description": "<a href=\"http://maxum-boats.ru/\" / rel=\"nofollow ugc\">http://maxum-boats.ru/</a>",
+          "link": "https://thenewleafjournal.com/guestbook/comment-page-1/#comment-2453",
+          "publishedOn": "2023-09-26T06:15:36.000Z",
+          "wordCount": null,
+          "title": "By: CharlesTIP",
+          "imageUrl": null
+        },
         {
           "id": "https://thenewleafjournal.com/?page_id=20443#comment-2408",
           "author": "Carlossnoda",
@@ -589,16 +589,6 @@
           "link": "https://linuxrocks.online/@nafnlj/110974442319081082",
           "publishedOn": "2023-08-29T19:00:06.000Z",
           "wordCount": 122,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110963459922732727",
-          "author": null,
-          "description": "I am reading an old visual novel called Midsummer Haze as part of my review project. Now it has one choice which branches into two endings. There's a third ending visible. I guessed the gimmick, but before I bashed my head into a wall, I peaked at a single reference to the gimmick on VNDB... I will have to bash my head into a wall. But the fact I'm even able to run this took great effort... must persevere...\nhttps://thenewleafjournal.com/leaf/on-the-hunt-for-manatsu-no-kagerou/\n#visualnovel #kirikiri #anecdote",
-          "link": "https://linuxrocks.online/@nafnlj/110963459922732727",
-          "publishedOn": "2023-08-27T20:27:08.000Z",
-          "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
         }
