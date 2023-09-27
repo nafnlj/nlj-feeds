@@ -704,26 +704,6 @@
           "wordCount": 5332,
           "title": "The Virtual Boy Fan Making New Tech and Games for Nintendo's Console Curio",
           "imageUrl": "https://images.nintendolife.com/f3ff2af494ed4/1280x720.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=37302827",
-          "author": "nafnlj",
-          "description": "I didn't think of projectors because I don't have a good set-up for it, but that's another great option along side dumb TVs, TVs that work without internet, and monitors/digital signage. Starting with a mini PC or something similar unlocks plenty of good options for avoiding all of the smart TV issues.",
-          "link": "https://news.ycombinator.com/item?id=37302827",
-          "publishedOn": "2023-08-29T02:25:14.000Z",
-          "wordCount": 173,
-          "title": "New comment by nafnlj in \"TV's are becoming intrusive and abusive; what to do about it?\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=37302783",
-          "author": "nafnlj",
-          "description": "I do a version of this approach. I have a 2018 model TCL TV that I do not give access to the internet (this one works without any issue, but I don't know if that is true of newer models). My TV is right next to my desktop computer, but in order to reduce noise and power, I bought a cheap Beelink mini PC and set it up with Fedora-GNOME and Kodi. Works very well for simple purposes and can easily handle light games. There are plenty of other (possibly better) solutions to this effect such as SBCs, spare laptops, or more capable mini PCs to handle some newer games. I would prefer using a computer instead of the Smart TV OS even without all of the concerns listed in the original post.",
-          "link": "https://news.ycombinator.com/item?id=37302783",
-          "publishedOn": "2023-08-29T02:19:17.000Z",
-          "wordCount": 213,
-          "title": "New comment by nafnlj in \"TV's are becoming intrusive and abusive; what to do about it?\"",
-          "imageUrl": null
         }
       ]
     },

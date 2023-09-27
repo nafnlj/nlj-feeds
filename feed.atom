@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-27T14:10:07.766Z</updated>
+    <updated>2023-09-27T20:11:17.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -944,26 +944,6 @@ https://thenewleafjournal.com/game-faqs-guide-for-game-boy-golf-1990/
 #gameboy #golf #gamefaqs #nintendo #strategyguide]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New comment by nafnlj in "TV's are becoming intrusive and abusive; what to do about it?"]]></title>
-        <id>https://news.ycombinator.com/item?id=37302827</id>
-        <link href="https://news.ycombinator.com/item?id=37302827"/>
-        <updated>2023-08-29T02:25:14.000Z</updated>
-        <summary type="html"><![CDATA[I didn't think of projectors because I don't have a good set-up for it, but that's another great option along side dumb TVs, TVs that work without internet, and monitors/digital signage. Starting with a mini PC or something similar unlocks plenty of good options for avoiding all of the smart TV issues.]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New comment by nafnlj in "TV's are becoming intrusive and abusive; what to do about it?"]]></title>
-        <id>https://news.ycombinator.com/item?id=37302783</id>
-        <link href="https://news.ycombinator.com/item?id=37302783"/>
-        <updated>2023-08-29T02:19:17.000Z</updated>
-        <summary type="html"><![CDATA[I do a version of this approach. I have a 2018 model TCL TV that I do not give access to the internet (this one works without any issue, but I don't know if that is true of newer models). My TV is right next to my desktop computer, but in order to reduce noise and power, I bought a cheap Beelink mini PC and set it up with Fedora-GNOME and Kodi. Works very well for simple purposes and can easily handle light games. There are plenty of other (possibly better) solutions to this effect such as SBCs, spare laptops, or more capable mini PCs to handle some newer games. I would prefer using a computer instead of the Smart TV OS even without all of the concerns listed in the original post.]]></summary>
-        <author>
-            <name>nafnlj</name>
         </author>
     </entry>
 </feed>
