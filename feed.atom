@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-27T04:54:08.645Z</updated>
+    <updated>2023-09-27T14:10:07.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -964,48 +964,6 @@ https://thenewleafjournal.com/game-faqs-guide-for-game-boy-golf-1990/
         <summary type="html"><![CDATA[I do a version of this approach. I have a 2018 model TCL TV that I do not give access to the internet (this one works without any issue, but I don't know if that is true of newer models). My TV is right next to my desktop computer, but in order to reduce noise and power, I bought a cheap Beelink mini PC and set it up with Fedora-GNOME and Kodi. Works very well for simple purposes and can easily handle light games. There are plenty of other (possibly better) solutions to this effect such as SBCs, spare laptops, or more capable mini PCs to handle some newer games. I would prefer using a computer instead of the Smart TV OS even without all of the concerns listed in the original post.]]></summary>
         <author>
             <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding Manatsu no Kagerou]]></title>
-        <id>https://thenewleafjournal.com/?p=21038</id>
-        <link href="https://thenewleafjournal.com/finding-manatsu-no-kagerou/"/>
-        <updated>2023-08-29T01:24:36.000Z</updated>
-        <summary type="html"><![CDATA[The most difficult part of my al|together visual novel review project was finding what I needed to run Midsummer Haze...
-Possibly related posts...
-
-Midsummer Haze - Visual Novel Review
-The al|together and Insani Visual Novel Translations
-io [Christmas Eve] - Visual Novel Review
-On the Hunt for Manatsu no Kagerou
-Japanese Environment in PoL, Lutris, and Bottles
-Adventures installing Soremata on Linux
-Red Shift Visual Novel Review
-The New Leaf Journal Twitter
-Freedom Tower in the Fog From the Brooklyn Bridge]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midsummer Haze – Visual Novel Review]]></title>
-        <id>https://thenewleafjournal.com/?p=21014</id>
-        <link href="https://thenewleafjournal.com/midsummer-haze-visual-novel-review/"/>
-        <updated>2023-08-29T01:21:01.000Z</updated>
-        <summary type="html"><![CDATA[My review of Midsummer Haze, a visual novel that was almost as difficult to finish as it was to find and run...
-Possibly related posts...
-
-Finding Manatsu no Kagerou
-The al|together and Insani Visual Novel Translations
-io [Christmas Eve] - Visual Novel Review
-Japanese Environment in PoL, Lutris, and Bottles
-Flood of Tears - Visual Novel Review
-Red Shift Visual Novel Review
-Running Yuuki!Novel Ver of Tegami on Linux
-May Sky - Visual Novel Review
-Version history of Aru Fuyu no Monogatari]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
