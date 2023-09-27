@@ -6,6 +6,16 @@
       "siteUrl": "https://github.com/nafnlj/nljfeeds/commits/main",
       "articles": [
         {
+          "id": "https://github.com/nafnlj/nljfeeds/commit/ca14256af570322209d4f1565d88902a8a138433",
+          "author": null,
+          "description": "Update osmosfeed.yaml\n\n- Remove NLJ guestbook\r\n- Add Emu Cafe Social",
+          "link": "https://github.com/nafnlj/nljfeeds/commit/ca14256af570322209d4f1565d88902a8a138433",
+          "publishedOn": "2023-09-27T04:53:34.000Z",
+          "wordCount": 475,
+          "title": "Update osmosfeed.yaml",
+          "imageUrl": "https://opengraph.githubassets.com/4efb3019f702c03dd7e2c7dd04a5a3341bb866b9a39196c09dd94c4f3ae5ef17/nafnlj/nljfeeds/commit/ca14256af570322209d4f1565d88902a8a138433"
+        },
+        {
           "id": "https://github.com/nafnlj/nljfeeds/commit/740ad1c4751a12ab3b0e890bd5b4af2532eddbc9",
           "author": null,
           "description": "Update osmosfeed.yaml\n\nRemoved general NAF Gitea feed because it pulls in updates that do not make sense for this site. I will replace it with individual repo feeds.",
@@ -32,6 +42,16 @@
       "feedUrl": "https://thenewleafjournal.com/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
+        {
+          "id": "https://thenewleafjournal.com/?p=21325",
+          "author": "Nicholas A. Ferrell",
+          "description": "I review an al|together-translated visual novel with unusually high production values and a main character with braids.\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nI, Too, Saw Dreams Through Air - VN Review\nAt Summer's End vs A Dream of Summer\nBonner's \"In Dreamland\" Bedtime Story\nAt Summer's End - Visual Novel Review\nThe New Leaf Journal Celebrates Its First Birthday\nal|together Visual Novel Reviews and Posts\nNew Leaf Journal Third Birthday Reader\nThe Girl I Like Forgot Her Glasses Ep1 Animation",
+          "link": "https://thenewleafjournal.com/a-dream-of-summer-visual-novel-review/",
+          "publishedOn": "2023-09-27T02:26:58.000Z",
+          "wordCount": 7598,
+          "title": "A Dream of Summer – Visual Novel Review",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/09/braidy-in-the-sunset.jpg"
+        },
         {
           "id": "https://thenewleafjournal.com/?p=21302",
           "author": "Nicholas A. Ferrell",
@@ -322,29 +342,119 @@
       "articles": []
     },
     {
-      "title": "Comments on: Guestbook",
-      "feedUrl": "https://thenewleafjournal.com/guestbook/feed/",
-      "siteUrl": "https://thenewleafjournal.com",
+      "title": "The Emu Café Social",
+      "feedUrl": "https://social.emucafe.org/feed",
+      "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
-          "id": "https://thenewleafjournal.com/?page_id=20443#comment-2453",
-          "author": "CharlesTIP",
-          "description": "<a href=\"http://maxum-boats.ru/\" / rel=\"nofollow ugc\">http://maxum-boats.ru/</a>",
-          "link": "https://thenewleafjournal.com/guestbook/comment-page-1/#comment-2453",
-          "publishedOn": "2023-09-26T06:15:36.000Z",
+          "id": "https://social.emucafe.org/?p=448",
+          "author": "Nicholas A. Ferrell",
+          "description": "I am moving toward finishing my al|together visual novel review project. I just finished reading A Dream of Summer (which had been pending for a while) and one of two translations of Narcissu (I did not realize that the al|together Narcissu was two translations in one package).  This leaves just three novels to read. With […]",
+          "link": "https://social.emucafe.org/naferrell/altogether-narcissu-progress/",
+          "publishedOn": "2023-09-26T16:37:31.000Z",
           "wordCount": null,
-          "title": "By: CharlesTIP",
+          "title": "[Note] I am moving toward finishing my al|together visual novel …",
           "imageUrl": null
         },
         {
-          "id": "https://thenewleafjournal.com/?page_id=20443#comment-2408",
-          "author": "Carlossnoda",
-          "description": "<a href=\"https://www.youtube.com/@evg7773/videos\" rel=\"nofollow ugc\"> Car Race Music Mix 2023, Bass Boosted Extreme 2023, BEST EDM, BOUNCE, ELECTRO HOUSE</a>",
-          "link": "https://thenewleafjournal.com/guestbook/comment-page-1/#comment-2408",
-          "publishedOn": "2023-09-21T00:12:06.000Z",
-          "wordCount": 1492,
-          "title": "By: Carlossnoda",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/06/revived-new-leaf-journal-guestbook.jpg"
+          "id": "https://social.emucafe.org/?p=439",
+          "author": "Nicholas A. Ferrell",
+          "description": "I was walking in Brooklyn Heights (I think it was Brooklyn Heights, but it could have been Cobble Hill) when I saw a pear on the sidewalk. This was unusual. You do not see too many pears on sidewalks in New York City. I looked up and found the source of the pear. But what […]",
+          "link": "https://social.emucafe.org/naferrell/sharing-is-pearing/",
+          "publishedOn": "2023-09-14T22:00:38.000Z",
+          "wordCount": null,
+          "title": "Sharing is Pearing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://social.emucafe.org/?p=418",
+          "author": "Nicholas A. Ferrell",
+          "description": "I saw a copy of Tom Cantor’s Changed, a self-published religion conversion story that makes the rounds through an unsolicited direct mail campaign, sitting on a step in Cobble Hill, Brooklyn. Why might I care? Over at The New Leaf Journal, I published what I hope was a humorous article on the cover design of […]",
+          "link": "https://social.emucafe.org/naferrell/cantor-sighting/",
+          "publishedOn": "2023-09-12T13:30:00.000Z",
+          "wordCount": null,
+          "title": "Tom Cantor Changed Sighting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://social.emucafe.org/?p=404",
+          "author": "Nicholas A. Ferrell",
+          "description": "I spent more of my life than I would like to admit figuring out how to add my own footer text to our theme, which is a child theme of SemPress. But mission accomplished. With our child theme and my initial style tweaks done, I published version 1.0 of the newly-named Emusem Press to my […]",
+          "link": "https://social.emucafe.org/naferrell/emusem-footer/",
+          "publishedOn": "2023-09-10T03:03:18.000Z",
+          "wordCount": null,
+          "title": "[Note] I spent more of my life than I would like to admit figuri…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://social.emucafe.org/?p=398",
+          "author": "Nicholas A. Ferrell",
+          "description": "I have learned about many new topics while looking for New Leaf Journal content. For example, as I noted in the above quote, I distinctly remember some of the “Y2K” computer glitch fears from 1999. But I do not recall having heard about the 9.9.99 fears. Fortunately, the internet preserved a number of contemporaneous articles […]",
+          "link": "https://social.emucafe.org/naferrell/9-9-99-bugs/",
+          "publishedOn": "2023-09-09T15:40:14.000Z",
+          "wordCount": null,
+          "title": "9-9-99 Bugs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://social.emucafe.org/?p=393",
+          "author": "N.A. Ferrell (Admin)",
+          "description": "A rare admin update. I am still having some issues with one or two of the plugins I hope to rely on for this project. I am seeing if I can resolve those issues before launching the site proper and bringing more posters on board. I hope to have it resolved one way or another […]",
+          "link": "https://social.emucafe.org/nafaugustus/393/",
+          "publishedOn": "2023-09-09T04:11:55.000Z",
+          "wordCount": null,
+          "title": "[Note] A rare admin update. I am still having some issues with o…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://social.emucafe.org/?p=354",
+          "author": "Nicholas A. Ferrell",
+          "description": "I had a long day of working on the site. On the down side, I am having some technical issues with a couple of our key plugins that I want to resolve before starting in earnest. At the moment, it seems like Post Kinds is a hard dependency for certain post types working when I […]",
+          "link": "https://social.emucafe.org/naferrell/354/",
+          "publishedOn": "2023-09-08T02:36:15.000Z",
+          "wordCount": null,
+          "title": "[Note] I had a long day of working on the site. On the down side…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://social.emucafe.org/naferrell/336/",
+          "author": "Nicholas A. Ferrell",
+          "description": "@nafnlj Working on some technical issues… Test.",
+          "link": "https://social.emucafe.org/naferrell/336/",
+          "publishedOn": "2023-09-07T17:23:52.000Z",
+          "wordCount": null,
+          "title": "Test",
+          "imageUrl": null
+        },
+        {
+          "id": "https://social.emucafe.org/?p=86",
+          "author": "Nicholas A. Ferrell",
+          "description": "WordPress pages (as opposed to posts) do not have pingback and trackback support by default. I had a need to enable it on The New Leaf Journal in order to allow certain pages to accept incoming Webmentions. In that case, I added the PHP snippet to my child theme’s functions.php file. But with multiple sites […]",
+          "link": "https://social.emucafe.org/naferrell/pingbacks-wp-pages/",
+          "publishedOn": "2023-09-06T18:03:13.000Z",
+          "wordCount": null,
+          "title": "[Note] WordPress pages (as opposed to posts) do not have pingbac…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://social.emucafe.org/?p=63",
+          "author": "Nicholas A. Ferrell",
+          "description": "Thank you administrator version of me for the site intro. I confirmed that the first post from the administrator version of my account is visible from my Mastodon profile. Very good. For early readers, my regular posts will come from this account (/naferrell).  I will usually post site news and updates from my /nafaugustus account. […]",
+          "link": "https://social.emucafe.org/naferrell/intro-2/",
+          "publishedOn": "2023-09-05T18:20:26.000Z",
+          "wordCount": null,
+          "title": "[Reply] Emu Café Social Intro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://social.emucafe.org/?p=59",
+          "author": "N.A. Ferrell (Admin)",
+          "description": "Welcome to The Emu Café Social, a new social publishing project built on top of WordPress. I (N.A. Ferrell) am writing this post from my administrator account, but you will usually see me posting from my user account at social.emucafe.org/author/naferrell. If you want to learn more about the project, see our new About Page. I […]",
+          "link": "https://social.emucafe.org/nafaugustus/intro/",
+          "publishedOn": "2023-09-05T16:15:51.000Z",
+          "wordCount": null,
+          "title": "[Note] Welcome to The Emu Café Social, a new social publishing p…",
+          "imageUrl": null
         }
       ]
     },

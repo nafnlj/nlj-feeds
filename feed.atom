@@ -2,18 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-26T20:11:24.853Z</updated>
+    <updated>2023-09-27T04:54:08.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[By: CharlesTIP]]></title>
-        <id>https://thenewleafjournal.com/?page_id=20443#comment-2453</id>
-        <link href="https://thenewleafjournal.com/guestbook/comment-page-1/#comment-2453"/>
-        <updated>2023-09-26T06:15:36.000Z</updated>
-        <summary type="html"><![CDATA[<a href="http://maxum-boats.ru/" / rel="nofollow ugc">http://maxum-boats.ru/</a>]]></summary>
+        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
+        <id>https://github.com/nafnlj/nljfeeds/commit/ca14256af570322209d4f1565d88902a8a138433</id>
+        <link href="https://github.com/nafnlj/nljfeeds/commit/ca14256af570322209d4f1565d88902a8a138433"/>
+        <updated>2023-09-27T04:53:34.000Z</updated>
+        <summary type="html"><![CDATA[Update osmosfeed.yaml
+
+- Remove NLJ guestbook
+- Add Emu Cafe Social]]></summary>
         <author>
-            <name>CharlesTIP</name>
+            <name>Recent Commits to nljfeeds:main</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Dream of Summer – Visual Novel Review]]></title>
+        <id>https://thenewleafjournal.com/?p=21325</id>
+        <link href="https://thenewleafjournal.com/a-dream-of-summer-visual-novel-review/"/>
+        <updated>2023-09-27T02:26:58.000Z</updated>
+        <summary type="html"><![CDATA[I review an al|together-translated visual novel with unusually high production values and a main character with braids.
+Possibly related posts...
+
+The al|together and Insani Visual Novel Translations
+I, Too, Saw Dreams Through Air - VN Review
+At Summer's End vs A Dream of Summer
+Bonner's "In Dreamland" Bedtime Story
+At Summer's End - Visual Novel Review
+The New Leaf Journal Celebrates Its First Birthday
+al|together Visual Novel Reviews and Posts
+New Leaf Journal Third Birthday Reader
+The Girl I Like Forgot Her Glasses Ep1 Animation]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Note] I am moving toward finishing my al|together visual novel …]]></title>
+        <id>https://social.emucafe.org/?p=448</id>
+        <link href="https://social.emucafe.org/naferrell/altogether-narcissu-progress/"/>
+        <updated>2023-09-26T16:37:31.000Z</updated>
+        <summary type="html"><![CDATA[I am moving toward finishing my al|together visual novel review project. I just finished reading A Dream of Summer (which had been pending for a while) and one of two translations of Narcissu (I did not realize that the al|together Narcissu was two translations in one package).  This leaves just three novels to read. With […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
     <entry>
@@ -70,16 +104,6 @@ On Haughty Dog Owners in NYC
 Nineteenth Century Autumn Dress Trends]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[By: Carlossnoda]]></title>
-        <id>https://thenewleafjournal.com/?page_id=20443#comment-2408</id>
-        <link href="https://thenewleafjournal.com/guestbook/comment-page-1/#comment-2408"/>
-        <updated>2023-09-21T00:12:06.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://www.youtube.com/@evg7773/videos" rel="nofollow ugc"> Car Race Music Mix 2023, Bass Boosted Extreme 2023, BEST EDM, BOUNCE, ELECTRO HOUSE</a>]]></summary>
-        <author>
-            <name>Carlossnoda</name>
         </author>
     </entry>
     <entry>
@@ -237,6 +261,16 @@ Examining brown hair of popular anime characters]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sharing is Pearing]]></title>
+        <id>https://social.emucafe.org/?p=439</id>
+        <link href="https://social.emucafe.org/naferrell/sharing-is-pearing/"/>
+        <updated>2023-09-14T22:00:38.000Z</updated>
+        <summary type="html"><![CDATA[I was walking in Brooklyn Heights (I think it was Brooklyn Heights, but it could have been Cobble Hill) when I saw a pear on the sidewalk. This was unusual. You do not see too many pears on sidewalks in New York City. I looked up and found the source of the pear. But what […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I saw a pear on the ground in the NYC neighborhood of Brooklyn Heights (I think it was Brooklyn Heights, but small chance it was Cobble Hill). You do not tend to see pears on the ground in New York City. I looked up and found the source of the issue.
 
 https://social.emucafe.org/naferrell/sharing-is-pearing/ 
@@ -323,6 +357,16 @@ Winds of New Beginnings: Pokémon Gold & Silver]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tom Cantor Changed Sighting]]></title>
+        <id>https://social.emucafe.org/?p=418</id>
+        <link href="https://social.emucafe.org/naferrell/cantor-sighting/"/>
+        <updated>2023-09-12T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I saw a copy of Tom Cantor’s Changed, a self-published religion conversion story that makes the rounds through an unsolicited direct mail campaign, sitting on a step in Cobble Hill, Brooklyn. Why might I care? Over at The New Leaf Journal, I published what I hope was a humorous article on the cover design of […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Middle school restroom smoking]]></title>
         <id>https://thenewleafjournal.com/?p=21214</id>
         <link href="https://thenewleafjournal.com/middle-school-restroom-smoking/"/>
@@ -339,6 +383,16 @@ Anime Recommendations of the Decade (2011-20)
 The dangers of adapting school to tech
 At Summer's End - Visual Novel Review
 The Best of Anime in 2022: Year in Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Note] I spent more of my life than I would like to admit figuri…]]></title>
+        <id>https://social.emucafe.org/?p=404</id>
+        <link href="https://social.emucafe.org/naferrell/emusem-footer/"/>
+        <updated>2023-09-10T03:03:18.000Z</updated>
+        <summary type="html"><![CDATA[I spent more of my life than I would like to admit figuring out how to add my own footer text to our theme, which is a child theme of SemPress. But mission accomplished. With our child theme and my initial style tweaks done, I published version 1.0 of the newly-named Emusem Press to my […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
@@ -379,6 +433,16 @@ https://thenewleafjournal.com/a-midsummer-days-resonance-vn-review/
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[9-9-99 Bugs]]></title>
+        <id>https://social.emucafe.org/?p=398</id>
+        <link href="https://social.emucafe.org/naferrell/9-9-99-bugs/"/>
+        <updated>2023-09-09T15:40:14.000Z</updated>
+        <summary type="html"><![CDATA[I have learned about many new topics while looking for New Leaf Journal content. For example, as I noted in the above quote, I distinctly remember some of the “Y2K” computer glitch fears from 1999. But I do not recall having heard about the 9.9.99 fears. Fortunately, the internet preserved a number of contemporaneous articles […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111035903251651892</id>
         <link href="https://linuxrocks.online/@nafnlj/111035903251651892"/>
@@ -388,6 +452,16 @@ https://thenewleafjournal.com/the-9-9-99-computer-bug-that-wasnt/
 #1999 #glitch #bugs #thisdayinhistory]]></summary>
         <author>
             <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Note] A rare admin update. I am still having some issues with o…]]></title>
+        <id>https://social.emucafe.org/?p=393</id>
+        <link href="https://social.emucafe.org/nafaugustus/393/"/>
+        <updated>2023-09-09T04:11:55.000Z</updated>
+        <summary type="html"><![CDATA[A rare admin update. I am still having some issues with one or two of the plugins I hope to rely on for this project. I am seeing if I can resolve those issues before launching the site proper and bringing more posters on board. I hope to have it resolved one way or another […]]]></summary>
+        <author>
+            <name>N.A. Ferrell (Admin)</name>
         </author>
     </entry>
     <entry>
@@ -412,6 +486,26 @@ Recording a Test New Leaf Journal Pokémon Sword and Shield…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Note] I had a long day of working on the site. On the down side…]]></title>
+        <id>https://social.emucafe.org/?p=354</id>
+        <link href="https://social.emucafe.org/naferrell/354/"/>
+        <updated>2023-09-08T02:36:15.000Z</updated>
+        <summary type="html"><![CDATA[I had a long day of working on the site. On the down side, I am having some technical issues with a couple of our key plugins that I want to resolve before starting in earnest. At the moment, it seems like Post Kinds is a hard dependency for certain post types working when I […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test]]></title>
+        <id>https://social.emucafe.org/naferrell/336/</id>
+        <link href="https://social.emucafe.org/naferrell/336/"/>
+        <updated>2023-09-07T17:23:52.000Z</updated>
+        <summary type="html"><![CDATA[@nafnlj Working on some technical issues… Test.]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pingback-to-Pages WP Plugin]]></title>
         <id>https://thenewleafjournal.com/?post_type=leaf&amp;p=21165</id>
         <link href="https://thenewleafjournal.com/leaf/pingback-to-pages-wp-plugin/"/>
@@ -428,6 +522,16 @@ Fixing a WP Custom Post Type Permalink Error
 Using Nostr Verify for WordPress NIP-05
 Upgrading WP Search With Relevanssi
 WordPress Webmention Plugin Discovery]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Note] WordPress pages (as opposed to posts) do not have pingbac…]]></title>
+        <id>https://social.emucafe.org/?p=86</id>
+        <link href="https://social.emucafe.org/naferrell/pingbacks-wp-pages/"/>
+        <updated>2023-09-06T18:03:13.000Z</updated>
+        <summary type="html"><![CDATA[WordPress pages (as opposed to posts) do not have pingback and trackback support by default. I had a need to enable it on The New Leaf Journal in order to allow certain pages to accept incoming Webmentions. In that case, I added the PHP snippet to my child theme’s functions.php file. But with multiple sites […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
@@ -484,6 +588,26 @@ I don't want your emu and I don't have to feed it
 On When to Watch Credits or Leave a Bad Movie]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Reply] Emu Café Social Intro]]></title>
+        <id>https://social.emucafe.org/?p=63</id>
+        <link href="https://social.emucafe.org/naferrell/intro-2/"/>
+        <updated>2023-09-05T18:20:26.000Z</updated>
+        <summary type="html"><![CDATA[Thank you administrator version of me for the site intro. I confirmed that the first post from the administrator version of my account is visible from my Mastodon profile. Very good. For early readers, my regular posts will come from this account (/naferrell).  I will usually post site news and updates from my /nafaugustus account. […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Note] Welcome to The Emu Café Social, a new social publishing p…]]></title>
+        <id>https://social.emucafe.org/?p=59</id>
+        <link href="https://social.emucafe.org/nafaugustus/intro/"/>
+        <updated>2023-09-05T16:15:51.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to The Emu Café Social, a new social publishing project built on top of WordPress. I (N.A. Ferrell) am writing this post from my administrator account, but you will usually see me posting from my user account at social.emucafe.org/author/naferrell. If you want to learn more about the project, see our new About Page. I […]]]></summary>
+        <author>
+            <name>N.A. Ferrell (Admin)</name>
         </author>
     </entry>
     <entry>
