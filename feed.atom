@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-28T20:10:13.483Z</updated>
+    <updated>2023-09-29T14:09:21.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo "A Pretty Girl Is Like A Melody" Official Music Video]]></title>
+        <id>https://www.youtube.com/watch?v=WDjnXvK9C5s</id>
+        <link href="https://www.youtube.com/watch?v=WDjnXvK9C5s"/>
+        <updated>2023-09-29T04:17:01.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo "A Pretty Girl Is Like A Melody (Home Recording)" Irving Berlin]]></title>
+        <id>https://www.youtube.com/watch?v=PhrOYpBGz7g</id>
+        <link href="https://www.youtube.com/watch?v=PhrOYpBGz7g"/>
+        <updated>2023-09-29T04:00:22.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo "A Pretty Girl Is Like A Melody (Home Recording)" Streaming Now!]]></title>
+        <id>https://www.youtube.com/watch?v=PfWxHVj2C2E</id>
+        <link href="https://www.youtube.com/watch?v=PfWxHVj2C2E"/>
+        <updated>2023-09-29T04:00:13.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ranking My Big Impression Video Games]]></title>
+        <id>https://thenewleafjournal.com/?p=21366</id>
+        <link href="https://thenewleafjournal.com/ranking-my-big-impression-video-games/"/>
+        <updated>2023-09-29T00:24:31.000Z</updated>
+        <summary type="html"><![CDATA[Ranking the 12 video games that left the biggest impression on me over nearly 30 years of owning and playing games.
+Possibly related posts...
+
+Justin and Justina review 2022 at the NLJ
+New Leaf Journal Third Birthday Reader
+The Best of Anime in 2022: Year in Review
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+The Newsletter Leaf Journal at 100
+The New Leaf Journal Celebrates Its First Birthday
+History of Thanksgiving Proclamations in the Philippines
+The Best Anime Series of 2021
+The New Leaf Journal 2022 Half-Year Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
         <id>https://github.com/nafnlj/nljfeeds/commit/ca14256af570322209d4f1565d88902a8a138433</id>
@@ -831,27 +879,6 @@ The New Leaf Journal Celebrates Its First Birthday
 How to Find Substack RSS Feeds and Other Notes
 The Newsletter Leaf Journal VIII
 New Leaf Journal Third Birthday Reader]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New Leaf Journal Twtxt Feed]]></title>
-        <id>https://thenewleafjournal.com/?p=21075</id>
-        <link href="https://thenewleafjournal.com/the-new-leaf-journal-twtxt-feed/"/>
-        <updated>2023-08-30T20:45:42.000Z</updated>
-        <summary type="html"><![CDATA[On our new Twtxt feed and how to set one up in WordPress. This will be useful for the 2-3 Twtxt users who may find our site.
-Possibly related posts...
-
-An Introduction to RSS and Other Feed Formats
-Feeds and Read-It-Later for Online Reading
-RSS as a Facebook Alternative
-How to Find Substack RSS Feeds and Other Notes
-Subscribing to category-specific RSS feeds
-Follow The New Leaf Journal Pixelfed Atom Feed
-Introducing our Osmosfeed Aggregator
-IndieWeb Standards, RSS, and Atom
-RSS for keeping up with MikroTik updates]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
