@@ -307,6 +307,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=452",
+          "author": "Nicholas A. Ferrell",
+          "description": "I published the list of the 12 video games that left the biggest impression on me in close to 30 years of gaming over at The New Leaf Journal (see article). My New Leaf Journal article contains my reasoning for each selection. Here, I will re-post the list without the essay. Pokémon Red Harvest Moon: […]",
+          "link": "https://social.emucafe.org/naferrell/naf-influential-games/",
+          "publishedOn": "2023-09-29T15:55:26.000Z",
+          "wordCount": null,
+          "title": "NAF’s 12 Big Impression Video Games",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=448",
           "author": "Nicholas A. Ferrell",
           "description": "I am moving toward finishing my al|together visual novel review project. I just finished reading A Dream of Summer (which had been pending for a while) and one of two translations of Narcissu (I did not realize that the al|together Narcissu was two translations in one package).  This leaves just three novels to read. With […]",
@@ -619,36 +629,6 @@
           "link": "https://linuxrocks.online/@nafnlj/111007772603421985",
           "publishedOn": "2023-09-04T16:16:26.000Z",
           "wordCount": 118,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110979154178335563",
-          "author": null,
-          "description": "If you decide you want to experience the adventure that is Midsummer Haze for yourself, I wrote a story spoiler-free guide to the endings and published it to a repository on my Gitea instance.\nhttps://giteacoffee.emucafe.org/naferrell/altogether_visual_novel_guides/src/branch/main/Midsummer_Haze_Endings_Guide.md\n#visualnovel #visualnovels #guide",
-          "link": "https://linuxrocks.online/@nafnlj/110979154178335563",
-          "publishedOn": "2023-08-30T14:58:23.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110979149107975823",
-          "author": null,
-          "description": "Let it be said that Midsummer Haze's... interesting... random mechanic was not my only challenge. The EN translation is a patch for an indie Japanese VN from 2004 that went offline in 2008 or 09. In a separate post, I explained how I managed to find the original Japanese game... much searching and a lucky torrent.\nhttps://thenewleafjournal.com/finding-manatsu-no-kagerou/\n#visualnovel #visualnovels #torrents #research",
-          "link": "https://linuxrocks.online/@nafnlj/110979149107975823",
-          "publishedOn": "2023-08-30T14:57:06.000Z",
-          "wordCount": 119,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/110979142344147267",
-          "author": null,
-          "description": "I reviewed Midsummer Haze, a 2006 translation of a 2004 freeware Japanese visual novel, as the 24th review of my project to review nearly all of the 31 Japanese visual novels translated for the 2005, 2006, and 2008 al|together festivals. The game has four endings, and the third unlocks the fourth. How do you get the third? By re-doing the second until it triggers. How many times did that take me? FORTY-THREE\nhttps://thenewleafjournal.com/midsummer-haze-visual-novel-review/\n#visualnovel #doujin #visualnovels #freeware #WINE #lutris",
-          "link": "https://linuxrocks.online/@nafnlj/110979142344147267",
-          "publishedOn": "2023-08-30T14:55:23.000Z",
-          "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
         }
