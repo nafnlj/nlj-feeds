@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-09-30T14:08:35.471Z</updated>
+    <updated>2023-09-30T20:10:08.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -870,48 +870,6 @@ Points: 3
 # Comments: 0]]></summary>
         <author>
             <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[August 2023 at The New Leaf Journal]]></title>
-        <id>https://thenewleafjournal.com/?p=21081</id>
-        <link href="https://thenewleafjournal.com/august-2023-at-the-new-leaf-journal/"/>
-        <updated>2023-09-01T03:41:40.000Z</updated>
-        <summary type="html"><![CDATA[I have some notable site news to share and a good (albeit small) collection of articles from August 2023.
-Possibly related posts...
-
-The al|together and Insani Visual Novel Translations
-The New Leaf Journal Celebrates Its First Birthday
-Flood of Tears - Visual Novel Review
-Installing Non-Listed Programs in PlayOnLinux
-The story of our Bing blacklisting
-Justin and Justina review 2022 at the NLJ
-New Leaf Journal Third Birthday Reader
-The Girl I Like Forgot Her Glasses Ep1 Animation
-Justin & Justina: Most-Read NLJ Content of 2020]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CX]]></title>
-        <id>https://thenewleafjournal.com/?post_type=letter&amp;p=21085</id>
-        <link href="https://thenewleafjournal.com/letter/150/"/>
-        <updated>2023-09-01T02:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the (syndicated) 150th edition of The Newsletter Leaf Journal, the official newsletter of the prennially virid online writing magazine, […]
-Possibly related posts...
-
-The Newsletter Leaf Journal at 100
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin and Justina review 2022 at the NLJ
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The New Leaf Journal Newsletter
-The New Leaf Journal Celebrates Its First Birthday
-How to Find Substack RSS Feeds and Other Notes
-The Newsletter Leaf Journal VIII
-New Leaf Journal Third Birthday Reader]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
