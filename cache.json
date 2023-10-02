@@ -661,6 +661,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xaFHH3198yI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xaFHH3198yI",
+          "publishedOn": "2023-10-02T16:53:45.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo & Co. \"You Are Forgettable\" Live at Berlin (September 27th, 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WDjnXvK9C5s",
           "author": null,
           "description": "",
