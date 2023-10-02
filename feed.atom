@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-01T20:10:02.968Z</updated>
+    <updated>2023-10-02T14:10:15.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -879,40 +879,6 @@ A Christmas Menagerie On a Lawn in Gowanus]]></summary>
 #wordpress #webhosting]]></summary>
         <author>
             <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Visual Novel Midsummer Kasumis]]></title>
-        <id>https://thenewleafjournal.com/?p=21122</id>
-        <link href="https://thenewleafjournal.com/two-visual-novel-midsummer-kasumis/"/>
-        <updated>2023-09-02T16:32:02.000Z</updated>
-        <summary type="html"><![CDATA[On noting the identical first names of the protagonists of two Midsummer visual novels I reviewed back to back (without knowing the names in advance).
-Possibly related posts...
-
-Midsummer Haze - Visual Novel Review
-A Midsummer Day's Resonance - VN Review
-New Leaf Spring Content, New and Old
-The al|together and Insani Visual Novel Translations
-Finding Manatsu no Kagerou
-"The Blind Girl and the Spring" 〜 A Poem by Sydney Grey
-A Tanka on Ant Home Invasions in the Spring
-Four May Issues of The Nursery Magazine (1873-81)
-The Poetry of Charlotte Becker - Early Twentieth Century…]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CLI 〜 Midsummer newsletter 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/151/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/151/"/>
-        <updated>2023-09-02T16:15:21.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 151st edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. August is in the books, but I stepped up our publishing pace after a few slow weeks to bring the month to a proper conclusion. Below, I share our week's worth of posts, links from around the web, our new most-visited statistics, and other news and notes.
-Leaves from the week that was
-I published six new articles since mailing Newsletter 150. I suppose that is a decent enough rebound from a one article week (even conceding the month-in-review post only barely counts).
-Pumpkin Spice Makeup Removal Wipes: I am no…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>
