@@ -238,16 +238,6 @@
           "wordCount": 2065,
           "title": "Kimi ni Todoke season three coming in 2024",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2021/08/kimi-ni-todoke-sawako_u.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leaf&p=21131",
-          "author": "Nicholas A. Ferrell",
-          "description": "I decided to try removing the right widget area and using the full screen. Mobile users should not experience too much […]\nPossibly related posts...\n\nThe 999 Life of Herman Cain\nBing's and DuckDuckGo's CCP Problem\nStreaming from Android to PocketBook\nio [Christmas Eve] - Visual Novel Review\nThe ideal phone, e-ink and QWERTY\n1883 Opening of the Brooklyn Bridge\nInstalling Ubuntu Touch on a Google Nexus 7 (2013)\nThe New Leaf Journal Celebrates Its First Birthday\nA Christmas Menagerie On a Lawn in Gowanus",
-          "link": "https://thenewleafjournal.com/leaf/simplified-new-leaf-journal-display/",
-          "publishedOn": "2023-09-03T20:06:41.000Z",
-          "wordCount": 1583,
-          "title": "Simplified New Leaf Journal Display",
-          "imageUrl": null
         }
       ]
     },
@@ -503,16 +493,6 @@
           "publishedOn": "2023-09-04T20:49:51.000Z",
           "wordCount": 21,
           "title": "I came across a WordPress plugin called [Post Type Switcher](https://wordpress.org/plugins/post-type...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/31",
-          "author": null,
-          "description": "I tried to set up a mini WordPress site on Pikapods that would be used for social publishing. It was successful at a baseline level but I found that things like setting security headers via .htaccess were not working. There were a few other instances of behavior that I did not like, so I will switch the project over to the NLJ server where I can manage it with Cloudron.\n#wordpress #webhosting",
-          "link": "https://memos.emucafe.org/m/31",
-          "publishedOn": "2023-09-03T19:46:19.000Z",
-          "wordCount": 21,
-          "title": "I tried to set up a mini WordPress site on Pikapods that would be used for social publishing. It was...",
           "imageUrl": null
         }
       ]
