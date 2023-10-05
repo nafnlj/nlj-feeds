@@ -43,6 +43,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21449",
+          "author": "Nicholas A. Ferrell",
+          "description": "Why did I spend hours trying to catch a level 15 Dragonair in the Pokémon Yellow Safari Zone? Some questions are hard to answer.\nPossibly related posts...\n\nThe Pokémon Special Split in Generation 2 - Statistics and…\nNintendo Power's 1999 Yoshi in Pokémon April Fools Prank\nBird in Review 〜 Yellow Throated Toucan\nBill's Secret Garden - A Pokémon Generation 1 Urban Legend\nImagination in Pokémon Red and Blue\nTown Slogans in Pokémon's Kanto\nPokémon: Pathways to Adventure (1999) Review\nUpcoming Ferrell Vs Gurbo Pokémon Draft Battle\nRanking My Big Impression Video Games",
+          "link": "https://thenewleafjournal.com/dragonair-safari-in-pokemon-yellow/",
+          "publishedOn": "2023-10-05T11:30:00.000Z",
+          "wordCount": 6091,
+          "title": "Dragonair Safari in Pokémon Yellow",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/10/dragonair-yellow-safari-zone-1.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21415",
           "author": "Nicholas A. Ferrell",
           "description": "You are not dreaming. My detailed study of hair color (natural and unnatural) in A Dream of Summer is now live.\nPossibly related posts...\n\nA Dream of Summer - Visual Novel Review\nTokyo High Schools Change Hair Color Dress Code Policies\nBrown hair and dress codes in Ippon Again!\nUnderstanding Hair Color in the Kimi ni Todoke Anime Series\nHair Color Dress Code Rules in Japan\nIroha Isshiki's Hair is Brown, as Expected?\nAt Summer's End vs A Dream of Summer\nHair Color and Albinism in Red Shift Visual Novel\nKaori Orimoto's Hair is Blacker than I Expected",
@@ -235,16 +245,6 @@
           "wordCount": 1440,
           "title": "Unprovoked dumb headline alert",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?post_type=leafbud&p=21140",
-          "author": "Nicholas A. Ferrell",
-          "description": "I just launched a new project called The Emu Café Social. It is a social publishing site for a select community […]\nPossibly related posts...\n\nJustin and Justina review 2022 at the NLJ\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nJustin & Justina: Most-Read NLJ Content of 2020\nWelcome to The Emu Café\nThe New Leaf Journal Celebrates Its First Birthday\nAkutagawa's The Dragon and The Emu Café\nA Wayward Emu Loses Its Way to The Emu Café\nI don't want your emu and I don't have to feed it\nOn When to Watch Credits or Leave a Bad Movie",
-          "link": "https://thenewleafjournal.com/leafbud/new-project-the-emu-cafe-social/",
-          "publishedOn": "2023-09-05T18:35:47.000Z",
-          "wordCount": null,
-          "title": "New Project: The Emu Café Social",
-          "imageUrl": null
         }
       ]
     },
@@ -373,26 +373,6 @@
           "publishedOn": "2023-09-06T18:03:13.000Z",
           "wordCount": null,
           "title": "[Note] WordPress pages (as opposed to posts) do not have pingbac…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=63",
-          "author": "Nicholas A. Ferrell",
-          "description": "Thank you administrator version of me for the site intro. I confirmed that the first post from the administrator version of my account is visible from my Mastodon profile. Very good. For early readers, my regular posts will come from this account (/naferrell).  I will usually post site news and updates from my /nafaugustus account. […]",
-          "link": "https://social.emucafe.org/naferrell/intro-2/",
-          "publishedOn": "2023-09-05T18:20:26.000Z",
-          "wordCount": null,
-          "title": "[Reply] Emu Café Social Intro",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=59",
-          "author": "N.A. Ferrell (Admin)",
-          "description": "Welcome to The Emu Café Social, a new social publishing project built on top of WordPress. I (N.A. Ferrell) am writing this post from my administrator account, but you will usually see me posting from my user account at social.emucafe.org/author/naferrell. If you want to learn more about the project, see our new About Page. I […]",
-          "link": "https://social.emucafe.org/nafaugustus/intro/",
-          "publishedOn": "2023-09-05T16:15:51.000Z",
-          "wordCount": null,
-          "title": "[Note] Welcome to The Emu Café Social, a new social publishing p…",
           "imageUrl": null
         }
       ]
@@ -570,16 +550,6 @@
           "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/111013330285397006",
-          "author": null,
-          "description": "I am starting a WordPress-based social publishing sitewith the ActivityPub plugin. If anyone is interested, you can already follow our first three accounts:\n@nafaugustus \n@naferrell \n@victorvgurbo \nYou can learn more on our first About page:\nhttps://social.emucafe.org/about/\nIf you do follow, I would appreciate notes/feedback on how our posts look from your instance (or if you can see at all).  You can also follow the main WP site via RSS, ATOM, JSON feed or even TWTXT (/feed/twxt).",
-          "link": "https://linuxrocks.online/@nafnlj/111013330285397006",
-          "publishedOn": "2023-09-05T15:49:49.000Z",
-          "wordCount": 118,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -600,6 +570,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA",
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=aNRMRdqSC8I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aNRMRdqSC8I",
+          "publishedOn": "2023-10-05T01:27:56.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo feat. Mark Caserta \"Ghost Woman Blues\" Live at City Lore (September 14th, 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=xaFHH3198yI",
           "author": null,

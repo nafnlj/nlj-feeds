@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-04T20:11:18.033Z</updated>
+    <updated>2023-10-05T14:10:10.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dragonair Safari in Pokémon Yellow]]></title>
+        <id>https://thenewleafjournal.com/?p=21449</id>
+        <link href="https://thenewleafjournal.com/dragonair-safari-in-pokemon-yellow/"/>
+        <updated>2023-10-05T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Why did I spend hours trying to catch a level 15 Dragonair in the Pokémon Yellow Safari Zone? Some questions are hard to answer.
+Possibly related posts...
+
+The Pokémon Special Split in Generation 2 - Statistics and…
+Nintendo Power's 1999 Yoshi in Pokémon April Fools Prank
+Bird in Review 〜 Yellow Throated Toucan
+Bill's Secret Garden - A Pokémon Generation 1 Urban Legend
+Imagination in Pokémon Red and Blue
+Town Slogans in Pokémon's Kanto
+Pokémon: Pathways to Adventure (1999) Review
+Upcoming Ferrell Vs Gurbo Pokémon Draft Battle
+Ranking My Big Impression Video Games]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo feat. Mark Caserta "Ghost Woman Blues" Live at City Lore (September 14th, 2023)]]></title>
+        <id>https://www.youtube.com/watch?v=aNRMRdqSC8I</id>
+        <link href="https://www.youtube.com/watch?v=aNRMRdqSC8I"/>
+        <updated>2023-10-05T01:27:56.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victor V. Gurbo & Co. "You Are Forgettable" Live at Berlin (September 27th, 2023)]]></title>
         <id>https://www.youtube.com/watch?v=xaFHH3198yI</id>
@@ -732,63 +762,6 @@ The Poetry of Charlotte Becker - Early Twentieth Century…
 History of Thanksgiving Proclamations in the Philippines]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Project: The Emu Café Social]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=21140</id>
-        <link href="https://thenewleafjournal.com/leafbud/new-project-the-emu-cafe-social/"/>
-        <updated>2023-09-05T18:35:47.000Z</updated>
-        <summary type="html"><![CDATA[I just launched a new project called The Emu Café Social. It is a social publishing site for a select community […]
-Possibly related posts...
-
-Justin and Justina review 2022 at the NLJ
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Justin & Justina: Most-Read NLJ Content of 2020
-Welcome to The Emu Café
-The New Leaf Journal Celebrates Its First Birthday
-Akutagawa's The Dragon and The Emu Café
-A Wayward Emu Loses Its Way to The Emu Café
-I don't want your emu and I don't have to feed it
-On When to Watch Credits or Leave a Bad Movie]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Reply] Emu Café Social Intro]]></title>
-        <id>https://social.emucafe.org/?p=63</id>
-        <link href="https://social.emucafe.org/naferrell/intro-2/"/>
-        <updated>2023-09-05T18:20:26.000Z</updated>
-        <summary type="html"><![CDATA[Thank you administrator version of me for the site intro. I confirmed that the first post from the administrator version of my account is visible from my Mastodon profile. Very good. For early readers, my regular posts will come from this account (/naferrell).  I will usually post site news and updates from my /nafaugustus account. […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Note] Welcome to The Emu Café Social, a new social publishing p…]]></title>
-        <id>https://social.emucafe.org/?p=59</id>
-        <link href="https://social.emucafe.org/nafaugustus/intro/"/>
-        <updated>2023-09-05T16:15:51.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to The Emu Café Social, a new social publishing project built on top of WordPress. I (N.A. Ferrell) am writing this post from my administrator account, but you will usually see me posting from my user account at social.emucafe.org/author/naferrell. If you want to learn more about the project, see our new About Page. I […]]]></summary>
-        <author>
-            <name>N.A. Ferrell (Admin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111013330285397006</id>
-        <link href="https://linuxrocks.online/@nafnlj/111013330285397006"/>
-        <updated>2023-09-05T15:49:49.000Z</updated>
-        <summary type="html"><![CDATA[I am starting a WordPress-based social publishing sitewith the ActivityPub plugin. If anyone is interested, you can already follow our first three accounts:
-@nafaugustus 
-@naferrell 
-@victorvgurbo 
-You can learn more on our first About page:
-https://social.emucafe.org/about/
-If you do follow, I would appreciate notes/feedback on how our posts look from your instance (or if you can see at all).  You can also follow the main WP site via RSS, ATOM, JSON feed or even TWTXT (/feed/twxt).]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
