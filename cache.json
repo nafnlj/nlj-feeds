@@ -43,6 +43,26 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21465",
+          "author": "Nicholas A. Ferrell",
+          "description": "Thoughts on interesting thoughts about thinking of being productive as a way of securing your downtime.\nPossibly related posts...\n\nAn Essay on Productivity, Production, and Productive Leisure\nProductivity Window Shopping and Backlogs\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nFeeds and Read-It-Later for Online Reading\nApplying Coolidge's Remarks on the Home to the Digital Home\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nSocial webs of personal websites\nNew Leaf Journal Third Birthday Reader\nRSS as a social media alternative",
+          "link": "https://thenewleafjournal.com/productivity-to-secure-downtime/",
+          "publishedOn": "2023-10-06T18:45:00.000Z",
+          "wordCount": 2097,
+          "title": "Productivity to Secure Downtime",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
+          "id": "https://thenewleafjournal.com/?p=21459",
+          "author": "Nicholas A. Ferrell",
+          "description": "You can now follow The New Leaf Journal directly from Mastodon and other ActivityPub-based accounts thanks to ActivityPub for WordPress.\nPossibly related posts...\n\nThe Enigmatic Life and Death of Emperor Otho\nACE Academy - Visual Novel Review\nAnime Recommendations of the Decade (2011-20)\nFediverse Clone Wars and Decentralized Social Media\nLooking at ActivityPub for WordPress\nThe al|together and Insani Visual Novel Translations\nAn Early Review of Pixelfed - Instagram Alternative\nThe Best of Anime in 2022: Year in Review\nThe Angel Next Door Spoils Me Rotten - Anime Review",
+          "link": "https://thenewleafjournal.com/activitypub-for-wordpress-and-the-nlj/",
+          "publishedOn": "2023-10-06T16:56:55.000Z",
+          "wordCount": 1971,
+          "title": "ActivityPub for WordPress and The NLJ",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/10/nlj-activitypub-profile.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21449",
           "author": "Nicholas A. Ferrell",
           "description": "Why did I spend hours trying to catch a level 15 Dragonair in the Pokémon Yellow Safari Zone? Some questions are hard to answer.\nPossibly related posts...\n\nThe Pokémon Special Split in Generation 2 - Statistics and…\nNintendo Power's 1999 Yoshi in Pokémon April Fools Prank\nBird in Review 〜 Yellow Throated Toucan\nBill's Secret Garden - A Pokémon Generation 1 Urban Legend\nImagination in Pokémon Red and Blue\nTown Slogans in Pokémon's Kanto\nPokémon: Pathways to Adventure (1999) Review\nUpcoming Ferrell Vs Gurbo Pokémon Draft Battle\nRanking My Big Impression Video Games",
@@ -451,6 +471,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111189141896000172",
+          "author": null,
+          "description": "I installed ActivityPub for WordPress on The New Leaf Journal. You can now follow the site at @newleafjournal to stay up to date with our latest posts from Mastodon or other ActivityPub clients (I have only looked at the on Mastodon). Note that you will only see new posts that appear after you follow.\nhttps://thenewleafjournal.com/activitypub-for-wordpress-and-the-nlj/\n#activitypub #wordpress",
+          "link": "https://linuxrocks.online/@nafnlj/111189141896000172",
+          "publishedOn": "2023-10-06T17:01:02.000Z",
+          "wordCount": 120,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111156196642917502",
           "author": null,

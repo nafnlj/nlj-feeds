@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-06T14:10:20.688Z</updated>
+    <updated>2023-10-06T20:11:14.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Productivity to Secure Downtime]]></title>
+        <id>https://thenewleafjournal.com/?p=21465</id>
+        <link href="https://thenewleafjournal.com/productivity-to-secure-downtime/"/>
+        <updated>2023-10-06T18:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Thoughts on interesting thoughts about thinking of being productive as a way of securing your downtime.
+Possibly related posts...
+
+An Essay on Productivity, Production, and Productive Leisure
+Productivity Window Shopping and Backlogs
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+Feeds and Read-It-Later for Online Reading
+Applying Coolidge's Remarks on the Home to the Digital Home
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+Social webs of personal websites
+New Leaf Journal Third Birthday Reader
+RSS as a social media alternative]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111189141896000172</id>
+        <link href="https://linuxrocks.online/@nafnlj/111189141896000172"/>
+        <updated>2023-10-06T17:01:02.000Z</updated>
+        <summary type="html"><![CDATA[I installed ActivityPub for WordPress on The New Leaf Journal. You can now follow the site at @newleafjournal to stay up to date with our latest posts from Mastodon or other ActivityPub clients (I have only looked at the on Mastodon). Note that you will only see new posts that appear after you follow.
+https://thenewleafjournal.com/activitypub-for-wordpress-and-the-nlj/
+#activitypub #wordpress]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ActivityPub for WordPress and The NLJ]]></title>
+        <id>https://thenewleafjournal.com/?p=21459</id>
+        <link href="https://thenewleafjournal.com/activitypub-for-wordpress-and-the-nlj/"/>
+        <updated>2023-10-06T16:56:55.000Z</updated>
+        <summary type="html"><![CDATA[You can now follow The New Leaf Journal directly from Mastodon and other ActivityPub-based accounts thanks to ActivityPub for WordPress.
+Possibly related posts...
+
+The Enigmatic Life and Death of Emperor Otho
+ACE Academy - Visual Novel Review
+Anime Recommendations of the Decade (2011-20)
+Fediverse Clone Wars and Decentralized Social Media
+Looking at ActivityPub for WordPress
+The al|together and Insani Visual Novel Translations
+An Early Review of Pixelfed - Instagram Alternative
+The Best of Anime in 2022: Year in Review
+The Angel Next Door Spoils Me Rotten - Anime Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dragonair Safari in Pokémon Yellow]]></title>
         <id>https://thenewleafjournal.com/?p=21449</id>
