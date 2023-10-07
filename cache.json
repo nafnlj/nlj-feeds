@@ -266,6 +266,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=464",
+          "author": "Nicholas A. Ferrell",
+          "description": "Hackaday published an article titled Spuds Lend A Hand In The Darkroom. I have no experiences with darkrooms, much less potatoes in darkrooms. Thus, I cannot comment on the utility of the potato-darkroom recipes referenced in the article. However, if your potato has reached the stage where it is growing hands, it is much more […]",
+          "link": "https://social.emucafe.org/naferrell/potato-darkroom/",
+          "publishedOn": "2023-10-07T13:45:37.000Z",
+          "wordCount": null,
+          "title": "Potatoes and Darkrooms",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=456",
           "author": "Nicholas A. Ferrell",
           "description": "I am on the record as being a fan of the Teasing Master Takagi-san anime. I selected the first season as one of my honorable mention recommended series for general audiences from the 2011-2020 decade. Last year, I picked the third season of Takagi-san as my 2022 anime series of the year and described it […]",
@@ -353,16 +363,6 @@
           "publishedOn": "2023-09-08T02:36:15.000Z",
           "wordCount": null,
           "title": "[Note] I had a long day of working on the site. On the down side…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/naferrell/336/",
-          "author": "Nicholas A. Ferrell",
-          "description": "@nafnlj Working on some technical issues… Test.",
-          "link": "https://social.emucafe.org/naferrell/336/",
-          "publishedOn": "2023-09-07T17:23:52.000Z",
-          "wordCount": null,
-          "title": "Test",
           "imageUrl": null
         }
       ]

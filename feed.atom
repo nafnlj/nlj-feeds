@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-06T20:11:14.069Z</updated>
+    <updated>2023-10-07T14:08:28.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Potatoes and Darkrooms]]></title>
+        <id>https://social.emucafe.org/?p=464</id>
+        <link href="https://social.emucafe.org/naferrell/potato-darkroom/"/>
+        <updated>2023-10-07T13:45:37.000Z</updated>
+        <summary type="html"><![CDATA[Hackaday published an article titled Spuds Lend A Hand In The Darkroom. I have no experiences with darkrooms, much less potatoes in darkrooms. Thus, I cannot comment on the utility of the potato-darkroom recipes referenced in the article. However, if your potato has reached the stage where it is growing hands, it is much more […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Productivity to Secure Downtime]]></title>
         <id>https://thenewleafjournal.com/?p=21465</id>
@@ -740,16 +750,6 @@ Recording a Test New Leaf Journal Pokémon Sword and Shield…]]></summary>
         <link href="https://social.emucafe.org/naferrell/354/"/>
         <updated>2023-09-08T02:36:15.000Z</updated>
         <summary type="html"><![CDATA[I had a long day of working on the site. On the down side, I am having some technical issues with a couple of our key plugins that I want to resolve before starting in earnest. At the moment, it seems like Post Kinds is a hard dependency for certain post types working when I […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Test]]></title>
-        <id>https://social.emucafe.org/naferrell/336/</id>
-        <link href="https://social.emucafe.org/naferrell/336/"/>
-        <updated>2023-09-07T17:23:52.000Z</updated>
-        <summary type="html"><![CDATA[@nafnlj Working on some technical issues… Test.]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
