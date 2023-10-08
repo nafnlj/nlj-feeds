@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-08T14:08:34.547Z</updated>
+    <updated>2023-10-08T20:10:16.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -726,16 +726,6 @@ https://thenewleafjournal.com/the-9-9-99-computer-bug-that-wasnt/
 #1999 #glitch #bugs #thisdayinhistory]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Note] A rare admin update. I am still having some issues with o…]]></title>
-        <id>https://social.emucafe.org/?p=393</id>
-        <link href="https://social.emucafe.org/nafaugustus/393/"/>
-        <updated>2023-09-09T04:11:55.000Z</updated>
-        <summary type="html"><![CDATA[A rare admin update. I am still having some issues with one or two of the plugins I hope to rely on for this project. I am seeing if I can resolve those issues before launching the site proper and bringing more posters on board. I hope to have it resolved one way or another […]]]></summary>
-        <author>
-            <name>N.A. Ferrell (Admin)</name>
         </author>
     </entry>
 </feed>
