@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-07T20:10:11.397Z</updated>
+    <updated>2023-10-08T14:08:34.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CLVI 〜 Newsletter leisure 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/156/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/156/"/>
+        <updated>2023-10-07T22:46:28.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 156th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. I had a bit more non-New Leaf Journal work than expected last week, but I still managed to produce a respectable number of new articles. Below, you will find our usual weekly recap accompanied by links from around the web and other news and notes.
+Leaves from the week that was
+I was somewhat surprised to discover that I published five new articles since mailing the previous newsletter.
+September 2023 at The New Leaf Journal
+Hair Color in A Dream of Summer
+A Dream of Summer with a review of hair color in A Drea…]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Potatoes and Darkrooms]]></title>
         <id>https://social.emucafe.org/?p=464</id>
