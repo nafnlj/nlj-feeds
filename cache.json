@@ -43,6 +43,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21471",
+          "author": "Nicholas A. Ferrell",
+          "description": "Examining how the Egyptian constitution handles citizenship and dual nationality in the context of eligibility to run for President.\nPossibly related posts...\n\nThe Japanese Citizenship Requirement for Sumo Stablemasters\nInteresting Case on Japan's Dual Citizenship Ban\n1892 Reports on First Year of Basketball\nImagination in Pokémon Red and Blue\n1883 Opening of the Brooklyn Bridge\nThe Misuse of Impeachment and Roy Hibbert's Jersey\nHistory of Thanksgiving Proclamations in the Philippines\nThe Story of Billy Possum, President Hoover's Pet Opossum\nThe Hang Glider Citizenship Provision",
+          "link": "https://thenewleafjournal.com/citizenship-rules-for-running-for-president-of-egypt/",
+          "publishedOn": "2023-10-08T21:38:28.000Z",
+          "wordCount": 2527,
+          "title": "Citizenship Rules for Running for President of Egypt",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21465",
           "author": "Nicholas A. Ferrell",
           "description": "Thoughts on interesting thoughts about thinking of being productive as a way of securing your downtime.\nPossibly related posts...\n\nAn Essay on Productivity, Production, and Productive Leisure\nProductivity Window Shopping and Backlogs\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nFeeds and Read-It-Later for Online Reading\nApplying Coolidge's Remarks on the Home to the Digital Home\nJustin & Justina: The Most-Read New Leaf Journal Content of…\nSocial webs of personal websites\nNew Leaf Journal Third Birthday Reader\nRSS as a social media alternative",
@@ -323,16 +333,6 @@
           "wordCount": null,
           "title": "[Note] I spent more of my life than I would like to admit figuri…",
           "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=398",
-          "author": "Nicholas A. Ferrell",
-          "description": "I have learned about many new topics while looking for New Leaf Journal content. For example, as I noted in the above quote, I distinctly remember some of the “Y2K” computer glitch fears from 1999. But I do not recall having heard about the 9.9.99 fears. Fortunately, the internet preserved a number of contemporaneous articles […]",
-          "link": "https://social.emucafe.org/naferrell/9-9-99-bugs/",
-          "publishedOn": "2023-09-09T15:40:14.000Z",
-          "wordCount": null,
-          "title": "9-9-99 Bugs",
-          "imageUrl": null
         }
       ]
     },
@@ -380,16 +380,6 @@
           "wordCount": 2012,
           "title": "Newsletter Leaf Journal CLIII 〜 No-smoking newsletter 〜",
           "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter%20Leaf%20Journal%20CLIII%20%E3%80%9C%20No-smoking%20newsletter%20%E3%80%9C&author=The%20Newsletter%20Leaf%20Journal&date=2023-09-16&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/152/",
-          "author": null,
-          "description": "Welcome to Newsletter Leaf Journal 152. The Newsletter Leaf Journal is the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. I had a busy week with site administration -- although not all of it had to do with The New Leaf Journal (I will explain in our Notable Leaf Journal) section. But despite the side projects, I published several new articles and made a few adjustments to what I hope is your favorite perennially virid online writing magazine.\nLeaves from the week that was\nI published three new full articles.\nTwo Visual Novel Midsummer Kasumis (I did not realize before reading Midsummer Haze and A Midsummer Day's Resonan…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/152/",
-          "publishedOn": "2023-09-09T20:26:18.000Z",
-          "wordCount": 2159,
-          "title": "Newsletter Leaf Journal CLII 〜 Too many projects 〜",
-          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter%20Leaf%20Journal%20CLII%20%E3%80%9C%20Too%20many%20projects%20%E3%80%9C&author=The%20Newsletter%20Leaf%20Journal&date=2023-09-09&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
         }
       ]
     },
@@ -487,36 +477,6 @@
           "link": "https://linuxrocks.online/@nafnlj/111087260380638162",
           "publishedOn": "2023-09-18T17:11:13.000Z",
           "wordCount": 122,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/111036529214144732",
-          "author": null,
-          "description": "As I note in the article, the game remains free to download from the official source and can be run natively on Windows and Linux (not modern MacOS, although the original translators are working on remastered versions that will run on modern MacOS).",
-          "link": "https://linuxrocks.online/@nafnlj/111036529214144732",
-          "publishedOn": "2023-09-09T18:09:37.000Z",
-          "wordCount": 122,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/111036525702489869",
-          "author": null,
-          "description": "My review of A Midsummer Day's Resonance, the 2005 translation of a 2002 freeware Japanese visual novel. I reviewed it as part of a project to review nearly 30 translations from 2005-2008. A Midsummer Day's Resonance, which is a story about growing up with holograms coming from phones, turned out to be one of the better reads thus far.\nhttps://thenewleafjournal.com/a-midsummer-days-resonance-vn-review/\n#VisualNovel #VisualNovels #freeware #indiegame",
-          "link": "https://linuxrocks.online/@nafnlj/111036525702489869",
-          "publishedOn": "2023-09-09T18:08:43.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/111035903251651892",
-          "author": null,
-          "description": "I remembered the \"Y2K\" computer scare from when I was a kid, but not the fears of 9.9.99... my article 2022 on the concerns about 1999 September bugs.\nhttps://thenewleafjournal.com/the-9-9-99-computer-bug-that-wasnt/\n#1999 #glitch #bugs #thisdayinhistory",
-          "link": "https://linuxrocks.online/@nafnlj/111035903251651892",
-          "publishedOn": "2023-09-09T15:30:26.000Z",
-          "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
         }
