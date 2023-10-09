@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-09T14:10:59.696Z</updated>
+    <updated>2023-10-09T20:10:27.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christopher Columbidae in Brooklyn]]></title>
+        <id>https://thenewleafjournal.com/?p=21479</id>
+        <link href="https://thenewleafjournal.com/christopher-columbidae-in-brooklyn/"/>
+        <updated>2023-10-09T18:54:46.000Z</updated>
+        <summary type="html"><![CDATA[A pigeon's visit to a Brooklyn statue of Christopher Columbus inspires a piece on the history of the depiction of the brave explorer.
+Possibly related posts...
+
+1883 Opening of the Brooklyn Bridge
+Town Slogans in Pokémon's Kanto
+The New Leaf Journal Celebrates Its First Birthday
+Wasteful talk show subsidies in New York
+The al|together and Insani Visual Novel Translations
+On NYC Curfews and Essential Workers
+In Support of the Lawsuit Against NYC Dining Sheds
+Justin & Justina: Most-Read NLJ Content of 2020
+A 2021 List of Alternative Search Engines and Search…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Citizenship Rules for Running for President of Egypt]]></title>
         <id>https://thenewleafjournal.com/?p=21471</id>
@@ -678,16 +699,6 @@ Anime Recommendations of the Decade (2011-20)
 The dangers of adapting school to tech
 At Summer's End - Visual Novel Review
 The Best of Anime in 2022: Year in Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Note] I spent more of my life than I would like to admit figuri…]]></title>
-        <id>https://social.emucafe.org/?p=404</id>
-        <link href="https://social.emucafe.org/naferrell/emusem-footer/"/>
-        <updated>2023-09-10T03:03:18.000Z</updated>
-        <summary type="html"><![CDATA[I spent more of my life than I would like to admit figuring out how to add my own footer text to our theme, which is a child theme of SemPress. But mission accomplished. With our child theme and my initial style tweaks done, I published version 1.0 of the newly-named Emusem Press to my […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>

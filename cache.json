@@ -43,6 +43,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21479",
+          "author": "Nicholas A. Ferrell",
+          "description": "A pigeon's visit to a Brooklyn statue of Christopher Columbus inspires a piece on the history of the depiction of the brave explorer.\nPossibly related posts...\n\n1883 Opening of the Brooklyn Bridge\nTown Slogans in Pokémon's Kanto\nThe New Leaf Journal Celebrates Its First Birthday\nWasteful talk show subsidies in New York\nThe al|together and Insani Visual Novel Translations\nOn NYC Curfews and Essential Workers\nIn Support of the Lawsuit Against NYC Dining Sheds\nJustin & Justina: Most-Read NLJ Content of 2020\nA 2021 List of Alternative Search Engines and Search…",
+          "link": "https://thenewleafjournal.com/christopher-columbidae-in-brooklyn/",
+          "publishedOn": "2023-10-09T18:54:46.000Z",
+          "wordCount": 2527,
+          "title": "Christopher Columbidae in Brooklyn",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/10/columbus-pigeon-1.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21471",
           "author": "Nicholas A. Ferrell",
           "description": "Examining how the Egyptian constitution handles citizenship and dual nationality in the context of eligibility to run for President.\nPossibly related posts...\n\nThe Japanese Citizenship Requirement for Sumo Stablemasters\nInteresting Case on Japan's Dual Citizenship Ban\n1892 Reports on First Year of Basketball\nImagination in Pokémon Red and Blue\n1883 Opening of the Brooklyn Bridge\nThe Misuse of Impeachment and Roy Hibbert's Jersey\nHistory of Thanksgiving Proclamations in the Philippines\nThe Story of Billy Possum, President Hoover's Pet Opossum\nThe Hang Glider Citizenship Provision",
@@ -322,16 +332,6 @@
           "publishedOn": "2023-09-12T13:30:00.000Z",
           "wordCount": null,
           "title": "Tom Cantor Changed Sighting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=404",
-          "author": "Nicholas A. Ferrell",
-          "description": "I spent more of my life than I would like to admit figuring out how to add my own footer text to our theme, which is a child theme of SemPress. But mission accomplished. With our child theme and my initial style tweaks done, I published version 1.0 of the newly-named Emusem Press to my […]",
-          "link": "https://social.emucafe.org/naferrell/emusem-footer/",
-          "publishedOn": "2023-09-10T03:03:18.000Z",
-          "wordCount": null,
-          "title": "[Note] I spent more of my life than I would like to admit figuri…",
           "imageUrl": null
         }
       ]
