@@ -221,16 +221,6 @@
           "wordCount": 1419,
           "title": "Caching troubles",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=21214",
-          "author": "Nicholas A. Ferrell",
-          "description": "These days people are worried about vaping in schools. But the controversy reminded me of a strange traditional smoking story from my middle school days (with a high school sequel).\nPossibly related posts...\n\nPersona 4 Golden Digital Artbook Review (Steam)\nThe Aborted Nintendo-Minnesota Lottery Scheme\nDialogue: \"Skunks\" in Staten Island Conspiracy\nNight of the Forget-Me-Nots: VN Review\nThe Nice Boat 〜 A Look Back at the School Days Anime\nAnime Recommendations of the Decade (2011-20)\nThe dangers of adapting school to tech\nAt Summer's End - Visual Novel Review\nThe Best of Anime in 2022: Year in Review",
-          "link": "https://thenewleafjournal.com/middle-school-restroom-smoking/",
-          "publishedOn": "2023-09-10T20:19:19.000Z",
-          "wordCount": 4378,
-          "title": "Middle school restroom smoking",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
         }
       ]
     },
@@ -499,6 +489,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA",
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kziarW312Vg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kziarW312Vg",
+          "publishedOn": "2023-10-09T23:19:12.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo & Co. \"Waltzing Fool\" Live in Austin, TX - Lustre Pearl Rainey (4/15/23)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7YkVbjfAGVI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7YkVbjfAGVI",
+          "publishedOn": "2023-10-09T23:12:46.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo & Co. \"Please Jump Out Your Window\" Live in Austin, TX - Lustre Pearl Rainey 4/15/23",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=aNRMRdqSC8I",
           "author": null,
