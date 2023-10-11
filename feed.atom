@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-10T20:10:03.166Z</updated>
+    <updated>2023-10-11T14:10:58.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Against “Experts Say” Headlines]]></title>
+        <id>https://thenewleafjournal.com/?p=21495</id>
+        <link href="https://thenewleafjournal.com/against-experts-say-headlines/"/>
+        <updated>2023-10-10T21:08:36.000Z</updated>
+        <summary type="html"><![CDATA[Wherein I use a particularly questionable "experts say" headline on a piece trying to justify Hamas' behavior to question the "experts say" headlines.
+Possibly related posts...
+
+Justin and Justina review 2022 at the NLJ
+Ambiguous Killer Hallucinogenic Weed Headline
+Justin & Justina: The Most-Read New Leaf Journal Content of…
+The Last Nintendo Wii Games
+Eyewitness to History: The Resignations of Cuomo and Spitzer
+The New Leaf Journal Celebrates Its First Birthday
+The Newsletter Leaf Journal VIII
+Social media on government phones
+Designing video games to produce benefits]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victor V. Gurbo & Co. "Please Jump Out Your Window" Live in Austin TX  Lustre Pearl Rainey (4/15/23)]]></title>
         <id>https://www.youtube.com/watch?v=Z-DJs615ces</id>
