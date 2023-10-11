@@ -441,6 +441,16 @@
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
         {
+          "id": "https://linuxrocks.online/@nafnlj/111217966057891601",
+          "author": null,
+          "description": "I run two WordPress accounts that double as ActivityPub profiles thanks to ActivityPub for WordPress. You can follow them for links to my longer-form writing.\nNew Leaf Journal: @newleafjournal \n(This is my main project. You will find links to new articles with short descriptions.)\nEmu Café Social: @naferrell \n(This is my social publishing site. You will find my short-form posts in full -- instance permitting.)",
+          "link": "https://linuxrocks.online/@nafnlj/111217966057891601",
+          "publishedOn": "2023-10-11T19:11:24.000Z",
+          "wordCount": 120,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxrocks.online/@nafnlj/111189141896000172",
           "author": null,
           "description": "I installed ActivityPub for WordPress on The New Leaf Journal. You can now follow the site at @newleafjournal to stay up to date with our latest posts from Mastodon or other ActivityPub clients (I have only looked at the on Mastodon). Note that you will only see new posts that appear after you follow.\nhttps://thenewleafjournal.com/activitypub-for-wordpress-and-the-nlj/\n#activitypub #wordpress",
@@ -492,7 +502,208 @@
       "title": "Hacker News: nafnlj",
       "feedUrl": "https://hnrss.org/user?id=nafnlj",
       "siteUrl": "https://news.ycombinator.com/user?id=nafnlj",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=37351112",
+          "author": "nafnlj",
+          "description": "Article URL: https://www.nintendolife.com/features/meet-the-virtual-boy-fan-making-new-tech-and-games-for-nintendos-console-curio\nComments URL: https://news.ycombinator.com/item?id=37351112\nPoints: 4\n# Comments: 0",
+          "link": "https://www.nintendolife.com/features/meet-the-virtual-boy-fan-making-new-tech-and-games-for-nintendos-console-curio",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 5341,
+          "title": "The Virtual Boy Fan Making New Tech and Games for Nintendo's Console Curio",
+          "imageUrl": "https://images.nintendolife.com/f3ff2af494ed4/1280x720.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=37302827",
+          "author": "nafnlj",
+          "description": "I didn't think of projectors because I don't have a good set-up for it, but that's another great option along side dumb TVs, TVs that work without internet, and monitors/digital signage. Starting with a mini PC or something similar unlocks plenty of good options for avoiding all of the smart TV issues.",
+          "link": "https://news.ycombinator.com/item?id=37302827",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 179,
+          "title": "New comment by nafnlj in \"TV's are becoming intrusive and abusive; what to do about it?\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=37302783",
+          "author": "nafnlj",
+          "description": "I do a version of this approach. I have a 2018 model TCL TV that I do not give access to the internet (this one works without any issue, but I don't know if that is true of newer models). My TV is right next to my desktop computer, but in order to reduce noise and power, I bought a cheap Beelink mini PC and set it up with Fedora-GNOME and Kodi. Works very well for simple purposes and can easily handle light games. There are plenty of other (possibly better) solutions to this effect such as SBCs, spare laptops, or more capable mini PCs to handle some newer games. I would prefer using a computer instead of the Smart TV OS even without all of the concerns listed in the original post.",
+          "link": "https://news.ycombinator.com/item?id=37302783",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 220,
+          "title": "New comment by nafnlj in \"TV's are becoming intrusive and abusive; what to do about it?\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=37262664",
+          "author": "nafnlj",
+          "description": "Article URL: https://reason.com/volokh/2023/04/20/who-are-the-two-justices-to-use-the-word-baubles-in-an-opinion/\nComments URL: https://news.ycombinator.com/item?id=37262664\nPoints: 2\n# Comments: 0",
+          "link": "https://reason.com/volokh/2023/04/20/who-are-the-two-justices-to-use-the-word-baubles-in-an-opinion/",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 2162,
+          "title": "Who Are the Three US SCOTUS Justices to Use the Word “Baubles” in an Opinion?",
+          "imageUrl": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/11/the-volokh-conspiracy.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=37254772",
+          "author": "nafnlj",
+          "description": "Article URL: https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/\nComments URL: https://news.ycombinator.com/item?id=37254772\nPoints: 43\n# Comments: 79",
+          "link": "https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 342,
+          "title": "The longest word you can type on the first row",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=37227854",
+          "author": "nafnlj",
+          "description": "Article URL: https://tedium.co/2018/02/27/pdf-file-format-history/\nComments URL: https://news.ycombinator.com/item?id=37227854\nPoints: 3\n# Comments: 0",
+          "link": "https://tedium.co/2018/02/27/pdf-file-format-history/",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 3112,
+          "title": "PDF Format History: Where Our Future History Lies (2018)",
+          "imageUrl": "https://images.tedium.co/2018/02/tedium022718.gif"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=37227848",
+          "author": "nafnlj",
+          "description": "Article URL: https://www.bodhilinux.com/2023/08/21/introducing-bodhi-linux-7-0-a-landmark-release/\nComments URL: https://news.ycombinator.com/item?id=37227848\nPoints: 2\n# Comments: 0",
+          "link": "https://www.bodhilinux.com/2023/08/21/introducing-bodhi-linux-7-0-a-landmark-release/",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 2131,
+          "title": "Introducing Bodhi Linux 7.0, Built on Ubuntu 22.04",
+          "imageUrl": "https://www.bodhilinux.com/trial/wp-content/uploads/2014/08/logo1.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=37210465",
+          "author": "nafnlj",
+          "description": "Article URL: https://brainbaking.com/post/2022/05/how-to-properly-store-your-gameboy-cartridges/\nComments URL: https://news.ycombinator.com/item?id=37210465\nPoints: 3\n# Comments: 0",
+          "link": "https://brainbaking.com/post/2022/05/how-to-properly-store-your-gameboy-cartridges/",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 1065,
+          "title": "How to Properly Store Your Game Boy Cartridges",
+          "imageUrl": "https://brainbaking.com/post/2022/05/how-to-properly-store-your-gameboy-cartridges/../case.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=37111962",
+          "author": "nafnlj",
+          "description": "Article URL: https://www.nps.gov/drto/learn/news/underwater-hospital-and-cemetery.htm\nComments URL: https://news.ycombinator.com/item?id=37111962\nPoints: 1\n# Comments: 0",
+          "link": "https://www.nps.gov/drto/learn/news/underwater-hospital-and-cemetery.htm",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 1603,
+          "title": "Remains of an underwater hospital and cemetery at Dry Tortugas",
+          "imageUrl": "https://www.nps.gov/drto/learn/news/images/Diver-examines-underwater-headstone-of-John-Greer1.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=37106005",
+          "author": "nafnlj",
+          "description": "Article URL: https://wccftech.com/disabling-intel-e-cores-hybrid-cpu-50-percent-better-performance-atlas-fallen/\nComments URL: https://news.ycombinator.com/item?id=37106005\nPoints: 9\n# Comments: 5",
+          "link": "https://wccftech.com/disabling-intel-e-cores-hybrid-cpu-50-percent-better-performance-atlas-fallen/",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 2571,
+          "title": "Disabling Intel E-Cores CPU Nets 50% Better Performance in Atlas Fallen",
+          "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2023/08/Intel-E-Cores-Hybrid-CPUs-Atlas-Fallen-728x407.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=37076452",
+          "author": "nafnlj",
+          "description": "Article URL: https://www.atlasobscura.com/articles/meyer-lemon\nComments URL: https://news.ycombinator.com/item?id=37076452\nPoints: 1\n# Comments: 0",
+          "link": "https://www.atlasobscura.com/articles/meyer-lemon",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 7590,
+          "title": "America’s Beloved Meyer Lemon Caused a Mid-Century Citrus Panic",
+          "imageUrl": "https://img.atlasobscura.com/YiQauTixwngo8ZdjSl8jUFxDn_XYt9omTrJFQeKF9uY/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8xYzAzNDgxZS1m/OTdlLTQ5ZjQtOGUz/ZS1lN2Y1YWYxNjFl/ZTY1MjkzNmM5MTFi/ZjI5NzM5YzJfbWV5/ZXJfbGVtb24uanBn.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=36949070",
+          "author": "nafnlj",
+          "description": "Article URL: https://africageographic.com/stories/namibias-wild-desert-horses/\nComments URL: https://news.ycombinator.com/item?id=36949070\nPoints: 2\n# Comments: 0",
+          "link": "https://africageographic.com/stories/namibias-wild-desert-horses/",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 3591,
+          "title": "On the brink: Namibia’s wild desert horses",
+          "imageUrl": "https://africageographic.com/wp-content/uploads/2023/01/Cover.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=36696436",
+          "author": "nafnlj",
+          "description": "Article URL: https://www.phoronix.com/news/Stadia-Controller-FF-Linux\nComments URL: https://news.ycombinator.com/item?id=36696436\nPoints: 2\n# Comments: 0",
+          "link": "https://www.phoronix.com/news/Stadia-Controller-FF-Linux",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": null,
+          "title": "Google Revises New Driver for Stadia Controller Rumble Support on Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=36667819",
+          "author": "nafnlj",
+          "description": "Article URL: https://ahrefs.com/blog/blocked-robots-test/\nComments URL: https://news.ycombinator.com/item?id=36667819\nPoints: 1\n# Comments: 0",
+          "link": "https://ahrefs.com/blog/blocked-robots-test/",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 12362,
+          "title": "Blocking 2 High-Ranking Pages with Robots.txt",
+          "imageUrl": "https://ahrefs.com/blog/wp-content/uploads/2023/07/the-story-of-blocking-2-high-ranking-by-patrick-stox-data-studies-1.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=36648368",
+          "author": "nafnlj",
+          "description": "Article URL: https://www.forbes.com/sites/dandiamond/2013/06/27/nba-draft-is-being-7-feet-tall-the-fastest-way-to-get-rich-in-america/\nComments URL: https://news.ycombinator.com/item?id=36648368\nPoints: 2\n# Comments: 1",
+          "link": "https://www.forbes.com/sites/dandiamond/2013/06/27/nba-draft-is-being-7-feet-tall-the-fastest-way-to-get-rich-in-america/",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 10412,
+          "title": "NBA Draft: Is Being 7 Feet Tall the Fastest Way to Get Rich in America (2013)",
+          "imageUrl": "https://imageio.forbes.com/blogs-images/thumbnails/blog_2238/pt_2238_949_o.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=36648331",
+          "author": "nafnlj",
+          "description": "Article URL: https://github.com/jeherve/nostr-verify\nComments URL: https://news.ycombinator.com/item?id=36648331\nPoints: 2\n# Comments: 0",
+          "link": "https://github.com/jeherve/nostr-verify",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 739,
+          "title": "Nostr Verify: WordPress plugin for Nostr verification using NIP-05",
+          "imageUrl": "https://opengraph.githubassets.com/a44c3f5cc0de5ac496e032e96783c57be8072e8f0d087de4e6eaa796f0c53d75/jeherve/nostr-verify"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=36637882",
+          "author": "nafnlj",
+          "description": "Additional recommendation:\nYe Olde Blogroll: https://blogroll.org/",
+          "link": "https://news.ycombinator.com/item?id=36637882",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": null,
+          "title": "New comment by nafnlj in \"Show HN: Blogs.hn – tiny blog directory\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=36634436",
+          "author": "nafnlj",
+          "description": "Article URL: https://www.nintendolife.com/news/2023/07/japans-switch-sales-in-june-were-reportedly-a-record-high-for-the-console\nComments URL: https://news.ycombinator.com/item?id=36634436\nPoints: 5\n# Comments: 0",
+          "link": "https://www.nintendolife.com/news/2023/07/japans-switch-sales-in-june-were-reportedly-a-record-high-for-the-console",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 6843,
+          "title": "Japan's Switch Sales in June Were Reportedly a Record High for the Console",
+          "imageUrl": "https://images.nintendolife.com/4a3c480c62a67/1280x720.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=36626235",
+          "author": "nafnlj",
+          "description": "Article URL: https://ruk.ca/content/using-freshrss-blog-posts-webmention\nComments URL: https://news.ycombinator.com/item?id=36626235\nPoints: 2\n# Comments: 0",
+          "link": "https://ruk.ca/content/using-freshrss-blog-posts-webmention",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 1363,
+          "title": "Using FreshRSS to “Like” blog posts via Webmention (2019)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=36619028",
+          "author": "nafnlj",
+          "description": "Edit --\nPerishable Press feed: https://perishablepress.com/feed/atom",
+          "link": "https://news.ycombinator.com/item?id=36619028",
+          "publishedOn": "2023-10-11T20:11:24.000Z",
+          "wordCount": 77,
+          "title": "New comment by nafnlj in \"Ask HN: What are your favorite RSS feeds?\"",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Victor V. Gurbo",

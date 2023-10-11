@@ -2,10 +2,274 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-11T14:10:58.600Z</updated>
+    <updated>2023-10-11T20:12:13.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Virtual Boy Fan Making New Tech and Games for Nintendo's Console Curio]]></title>
+        <id>https://news.ycombinator.com/item?id=37351112</id>
+        <link href="https://www.nintendolife.com/features/meet-the-virtual-boy-fan-making-new-tech-and-games-for-nintendos-console-curio"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nintendolife.com/features/meet-the-virtual-boy-fan-making-new-tech-and-games-for-nintendos-console-curio
+Comments URL: https://news.ycombinator.com/item?id=37351112
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New comment by nafnlj in "TV's are becoming intrusive and abusive; what to do about it?"]]></title>
+        <id>https://news.ycombinator.com/item?id=37302827</id>
+        <link href="https://news.ycombinator.com/item?id=37302827"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[I didn't think of projectors because I don't have a good set-up for it, but that's another great option along side dumb TVs, TVs that work without internet, and monitors/digital signage. Starting with a mini PC or something similar unlocks plenty of good options for avoiding all of the smart TV issues.]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New comment by nafnlj in "TV's are becoming intrusive and abusive; what to do about it?"]]></title>
+        <id>https://news.ycombinator.com/item?id=37302783</id>
+        <link href="https://news.ycombinator.com/item?id=37302783"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[I do a version of this approach. I have a 2018 model TCL TV that I do not give access to the internet (this one works without any issue, but I don't know if that is true of newer models). My TV is right next to my desktop computer, but in order to reduce noise and power, I bought a cheap Beelink mini PC and set it up with Fedora-GNOME and Kodi. Works very well for simple purposes and can easily handle light games. There are plenty of other (possibly better) solutions to this effect such as SBCs, spare laptops, or more capable mini PCs to handle some newer games. I would prefer using a computer instead of the Smart TV OS even without all of the concerns listed in the original post.]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Are the Three US SCOTUS Justices to Use the Word “Baubles” in an Opinion?]]></title>
+        <id>https://news.ycombinator.com/item?id=37262664</id>
+        <link href="https://reason.com/volokh/2023/04/20/who-are-the-two-justices-to-use-the-word-baubles-in-an-opinion/"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://reason.com/volokh/2023/04/20/who-are-the-two-justices-to-use-the-word-baubles-in-an-opinion/
+Comments URL: https://news.ycombinator.com/item?id=37262664
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The longest word you can type on the first row]]></title>
+        <id>https://news.ycombinator.com/item?id=37254772</id>
+        <link href="https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/
+Comments URL: https://news.ycombinator.com/item?id=37254772
+Points: 43
+# Comments: 79]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PDF Format History: Where Our Future History Lies (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=37227854</id>
+        <link href="https://tedium.co/2018/02/27/pdf-file-format-history/"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tedium.co/2018/02/27/pdf-file-format-history/
+Comments URL: https://news.ycombinator.com/item?id=37227854
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Bodhi Linux 7.0, Built on Ubuntu 22.04]]></title>
+        <id>https://news.ycombinator.com/item?id=37227848</id>
+        <link href="https://www.bodhilinux.com/2023/08/21/introducing-bodhi-linux-7-0-a-landmark-release/"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bodhilinux.com/2023/08/21/introducing-bodhi-linux-7-0-a-landmark-release/
+Comments URL: https://news.ycombinator.com/item?id=37227848
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Properly Store Your Game Boy Cartridges]]></title>
+        <id>https://news.ycombinator.com/item?id=37210465</id>
+        <link href="https://brainbaking.com/post/2022/05/how-to-properly-store-your-gameboy-cartridges/"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brainbaking.com/post/2022/05/how-to-properly-store-your-gameboy-cartridges/
+Comments URL: https://news.ycombinator.com/item?id=37210465
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remains of an underwater hospital and cemetery at Dry Tortugas]]></title>
+        <id>https://news.ycombinator.com/item?id=37111962</id>
+        <link href="https://www.nps.gov/drto/learn/news/underwater-hospital-and-cemetery.htm"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nps.gov/drto/learn/news/underwater-hospital-and-cemetery.htm
+Comments URL: https://news.ycombinator.com/item?id=37111962
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disabling Intel E-Cores CPU Nets 50% Better Performance in Atlas Fallen]]></title>
+        <id>https://news.ycombinator.com/item?id=37106005</id>
+        <link href="https://wccftech.com/disabling-intel-e-cores-hybrid-cpu-50-percent-better-performance-atlas-fallen/"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wccftech.com/disabling-intel-e-cores-hybrid-cpu-50-percent-better-performance-atlas-fallen/
+Comments URL: https://news.ycombinator.com/item?id=37106005
+Points: 9
+# Comments: 5]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America’s Beloved Meyer Lemon Caused a Mid-Century Citrus Panic]]></title>
+        <id>https://news.ycombinator.com/item?id=37076452</id>
+        <link href="https://www.atlasobscura.com/articles/meyer-lemon"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/meyer-lemon
+Comments URL: https://news.ycombinator.com/item?id=37076452
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the brink: Namibia’s wild desert horses]]></title>
+        <id>https://news.ycombinator.com/item?id=36949070</id>
+        <link href="https://africageographic.com/stories/namibias-wild-desert-horses/"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://africageographic.com/stories/namibias-wild-desert-horses/
+Comments URL: https://news.ycombinator.com/item?id=36949070
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Revises New Driver for Stadia Controller Rumble Support on Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=36696436</id>
+        <link href="https://www.phoronix.com/news/Stadia-Controller-FF-Linux"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.phoronix.com/news/Stadia-Controller-FF-Linux
+Comments URL: https://news.ycombinator.com/item?id=36696436
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blocking 2 High-Ranking Pages with Robots.txt]]></title>
+        <id>https://news.ycombinator.com/item?id=36667819</id>
+        <link href="https://ahrefs.com/blog/blocked-robots-test/"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ahrefs.com/blog/blocked-robots-test/
+Comments URL: https://news.ycombinator.com/item?id=36667819
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NBA Draft: Is Being 7 Feet Tall the Fastest Way to Get Rich in America (2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=36648368</id>
+        <link href="https://www.forbes.com/sites/dandiamond/2013/06/27/nba-draft-is-being-7-feet-tall-the-fastest-way-to-get-rich-in-america/"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.forbes.com/sites/dandiamond/2013/06/27/nba-draft-is-being-7-feet-tall-the-fastest-way-to-get-rich-in-america/
+Comments URL: https://news.ycombinator.com/item?id=36648368
+Points: 2
+# Comments: 1]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nostr Verify: WordPress plugin for Nostr verification using NIP-05]]></title>
+        <id>https://news.ycombinator.com/item?id=36648331</id>
+        <link href="https://github.com/jeherve/nostr-verify"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/jeherve/nostr-verify
+Comments URL: https://news.ycombinator.com/item?id=36648331
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New comment by nafnlj in "Show HN: Blogs.hn – tiny blog directory"]]></title>
+        <id>https://news.ycombinator.com/item?id=36637882</id>
+        <link href="https://news.ycombinator.com/item?id=36637882"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Additional recommendation:
+Ye Olde Blogroll: https://blogroll.org/]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan's Switch Sales in June Were Reportedly a Record High for the Console]]></title>
+        <id>https://news.ycombinator.com/item?id=36634436</id>
+        <link href="https://www.nintendolife.com/news/2023/07/japans-switch-sales-in-june-were-reportedly-a-record-high-for-the-console"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nintendolife.com/news/2023/07/japans-switch-sales-in-june-were-reportedly-a-record-high-for-the-console
+Comments URL: https://news.ycombinator.com/item?id=36634436
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using FreshRSS to “Like” blog posts via Webmention (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=36626235</id>
+        <link href="https://ruk.ca/content/using-freshrss-blog-posts-webmention"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ruk.ca/content/using-freshrss-blog-posts-webmention
+Comments URL: https://news.ycombinator.com/item?id=36626235
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New comment by nafnlj in "Ask HN: What are your favorite RSS feeds?"]]></title>
+        <id>https://news.ycombinator.com/item?id=36619028</id>
+        <link href="https://news.ycombinator.com/item?id=36619028"/>
+        <updated>2023-10-11T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Edit --
+Perishable Press feed: https://perishablepress.com/feed/atom]]></summary>
+        <author>
+            <name>nafnlj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111217966057891601</id>
+        <link href="https://linuxrocks.online/@nafnlj/111217966057891601"/>
+        <updated>2023-10-11T19:11:24.000Z</updated>
+        <summary type="html"><![CDATA[I run two WordPress accounts that double as ActivityPub profiles thanks to ActivityPub for WordPress. You can follow them for links to my longer-form writing.
+New Leaf Journal: @newleafjournal 
+(This is my main project. You will find links to new articles with short descriptions.)
+Emu Café Social: @naferrell 
+(This is my social publishing site. You will find my short-form posts in full -- instance permitting.)]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Against “Experts Say” Headlines]]></title>
         <id>https://thenewleafjournal.com/?p=21495</id>
