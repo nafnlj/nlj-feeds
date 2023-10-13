@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-12T20:10:36.120Z</updated>
+    <updated>2023-10-13T14:10:11.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -961,27 +961,6 @@ No other major issues at the moment. My ActivityPub profiles briefly stopped wor
 #emucafesocial #wordpress #IndieWeb]]></summary>
         <author>
             <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unprovoked dumb headline alert]]></title>
-        <id>https://thenewleafjournal.com/?post_type=leafbud&amp;p=21223</id>
-        <link href="https://thenewleafjournal.com/leafbud/unprovoked-dumb-headline-alert/"/>
-        <updated>2023-09-13T13:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Courtesy of the New York Post,  Man, 74, pushed onto NYC subway tracks in unprovoked attack: cops: A 74-year-old man was […]
-Possibly related posts...
-
-The New Leaf Journal Celebrates Its First Birthday
-The al|together and Insani Visual Novel Translations
-A 2021 List of Alternative Search Engines and Search…
-Justin & Justina: Most-Read NLJ Content of 2020
-Oldest Golfers to Contend for Majors Between the 1968 and…
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-The NYPD's Duck Family Rescue in Midtown Manhattan
-1883 Opening of the Brooklyn Bridge
-Winds of New Beginnings: Pokémon Gold & Silver]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
