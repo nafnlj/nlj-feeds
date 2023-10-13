@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-13T14:10:11.746Z</updated>
+    <updated>2023-10-13T20:11:50.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -935,32 +935,6 @@ WP Redis Object Cache and Link Hover Color
 The Angel Next Door Spoils Me Rotten - Anime Review]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
-        <id>https://github.com/nafnlj/nljfeeds/commit/b5d25dfb5a0fde5da82013dfe0e47ff2f0960609</id>
-        <link href="https://github.com/nafnlj/nljfeeds/commit/b5d25dfb5a0fde5da82013dfe0e47ff2f0960609"/>
-        <updated>2023-09-14T02:51:53.000Z</updated>
-        <summary type="html"><![CDATA[Update osmosfeed.yaml
-
-Reorganized feeds. Updated NAF Bearblog URL. Added NAF Gitea and removed to GitHub feeds.]]></summary>
-        <author>
-            <name>Recent Commits to nljfeeds:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I continue to make progress on my new social publishing site, [The Emu Café Social](https://social....]]></title>
-        <id>https://memos.emucafe.org/m/33</id>
-        <link href="https://memos.emucafe.org/m/33"/>
-        <updated>2023-09-14T02:29:02.000Z</updated>
-        <summary type="html"><![CDATA[I continue to make progress on my new social publishing site, The Emu Café Social. I have two outstanding issues:
-Status post error when Friends plugin is enabled and Post Kinds is disabled. This is not an immediate issue since I am using both, but any situation wherein one plugin depends on another when the plugins provide different features makes me uncomfortable.
-Micropub plugin does not create an endpoint. This is minor since I do not personally plan to publish much using the Micropub endpoint, but it bothers me. I will need to investigate since I am unsure of the issue. I confirmed IndieAuth, on which Micropub depends, does work.
-No other major issues at the moment. My ActivityPub profiles briefly stopped working, but I think I fixed that by ensuring that WP Super Cache does not cache author pages.
-#emucafesocial #wordpress #IndieWeb]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
         </author>
     </entry>
 </feed>

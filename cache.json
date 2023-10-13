@@ -24,16 +24,6 @@
           "wordCount": 487,
           "title": "Update osmosfeed.yaml",
           "imageUrl": "https://opengraph.githubassets.com/e23768ed887b95964e37388d6e1e24727cc3e244ef3cf9041f66518ffec95116/nafnlj/nljfeeds/commit/740ad1c4751a12ab3b0e890bd5b4af2532eddbc9"
-        },
-        {
-          "id": "https://github.com/nafnlj/nljfeeds/commit/b5d25dfb5a0fde5da82013dfe0e47ff2f0960609",
-          "author": null,
-          "description": "Update osmosfeed.yaml\n\nReorganized feeds. Updated NAF Bearblog URL. Added NAF Gitea and removed to GitHub feeds.",
-          "link": "https://github.com/nafnlj/nljfeeds/commit/b5d25dfb5a0fde5da82013dfe0e47ff2f0960609",
-          "publishedOn": "2023-09-14T02:51:53.000Z",
-          "wordCount": 535,
-          "title": "Update osmosfeed.yaml",
-          "imageUrl": "https://opengraph.githubassets.com/9d1394b9432d6270a37d813c6715ae1985761daba76d9c338542650329b7db7a/nafnlj/nljfeeds/commit/b5d25dfb5a0fde5da82013dfe0e47ff2f0960609"
         }
       ]
     },
@@ -372,18 +362,7 @@
       "title": "Emu Café Memos",
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
-      "articles": [
-        {
-          "id": "https://memos.emucafe.org/m/33",
-          "author": null,
-          "description": "I continue to make progress on my new social publishing site, The Emu Café Social. I have two outstanding issues:\nStatus post error when Friends plugin is enabled and Post Kinds is disabled. This is not an immediate issue since I am using both, but any situation wherein one plugin depends on another when the plugins provide different features makes me uncomfortable.\nMicropub plugin does not create an endpoint. This is minor since I do not personally plan to publish much using the Micropub endpoint, but it bothers me. I will need to investigate since I am unsure of the issue. I confirmed IndieAuth, on which Micropub depends, does work.\nNo other major issues at the moment. My ActivityPub profiles briefly stopped working, but I think I fixed that by ensuring that WP Super Cache does not cache author pages.\n#emucafesocial #wordpress #IndieWeb",
-          "link": "https://memos.emucafe.org/m/33",
-          "publishedOn": "2023-09-14T02:29:02.000Z",
-          "wordCount": 21,
-          "title": "I continue to make progress on my new social publishing site, [The Emu Café Social](https://social....",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The New Leaf Annex",
