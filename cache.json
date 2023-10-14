@@ -211,16 +211,6 @@
           "wordCount": 3096,
           "title": "The Girl I Like Forgot Her Glasses hair dye",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/09/komura-bown-hair.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=21247",
-          "author": "Nicholas A. Ferrell",
-          "description": "It appears that something with my caching configuration choked earlier today and served a compressed file for download to visitors in […]\nPossibly related posts...\n\nThe BunnyPress Chronicles: Story and Review\nWP Super Cache Preload and Lazy Loading\nThe Mysterious Pinterest Tracker\nSlow Leaf Journal, Outgrowing Cheap Hosting 〜 A Justin and…\nWhat Makes a Depressing Anime? Discussion and Selection.\nThe Homing Pigeons Returned Home As Expected\nThe New Leaf Journal Celebrates Its First Birthday\nWP Redis Object Cache and Link Hover Color\nThe Angel Next Door Spoils Me Rotten - Anime Review",
-          "link": "https://thenewleafjournal.com/caching-troubles/",
-          "publishedOn": "2023-09-14T14:52:12.000Z",
-          "wordCount": 1419,
-          "title": "Caching troubles",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
         }
       ]
     },
@@ -291,16 +281,6 @@
           "publishedOn": "2023-09-26T16:37:31.000Z",
           "wordCount": null,
           "title": "[Note] I am moving toward finishing my al|together visual novel …",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=439",
-          "author": "Nicholas A. Ferrell",
-          "description": "I was walking in Brooklyn Heights (I think it was Brooklyn Heights, but it could have been Cobble Hill) when I saw a pear on the sidewalk. This was unusual. You do not see too many pears on sidewalks in New York City. I looked up and found the source of the pear. But what […]",
-          "link": "https://social.emucafe.org/naferrell/sharing-is-pearing/",
-          "publishedOn": "2023-09-14T22:00:38.000Z",
-          "wordCount": null,
-          "title": "Sharing is Pearing",
           "imageUrl": null
         }
       ]
@@ -380,18 +360,7 @@
       "title": "nafnlj on Pixelfed",
       "feedUrl": "https://pixelfed.social/users/nafnlj.atom",
       "siteUrl": "https://pixelfed.social/nafnlj",
-      "articles": [
-        {
-          "id": "https://pixelfed.social/p/nafnlj/608056415634233300",
-          "author": null,
-          "description": "I saw a pear on the ground in the NYC neighborhood of Brooklyn Heights (I think it was Brooklyn Heights, but small chance it was Cobble Hill). You do not tend to see pears on the ground in New York City. I looked up and found the source of the issue.<br />\n<br />\n<a href=\"https://social.emucafe.org/naferrell/sharing-is-pearing/\" rel=\"external nofollow noopener\" target=\"_blank\">https://social.emucafe.org/naferrell/sharing-is-pearing/</a> <br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/nyc?src=hash\" title=\"#nyc\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#nyc</a> <a href=\"https://pixelfed.social/discover/tags/brooklyn?src=hash\" title=\"#brooklyn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklyn</a> <a href=\"https://pixelfed.social/discover/tags/brooklynheights?src=hash\" title=\"#brooklynheights\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklynheights</a> <a href=\"https://pixelfed.social/discover/tags/cobblehill?src=hash\" title=\"#cobblehill\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#cobblehill</a> <a href=\"https://pixelfed.social/discover/tags/tree?src=hash\" title=\"#tree\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#tree</a> <a href=\"https://pixelfed.social/discover/tags/pear?src=hash\" title=\"#pear\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pear</a> <a href=\"https://pixelfed.social/discover/tags/sun?src=hash\" title=\"#sun\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#sun</a> <a href=\"https://pixelfed.social/discover/tags/pixel3axl?src=hash\" title=\"#pixel3axl\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pixel3axl</a> <a href=\"https://pixelfed.social/discover/tags/emucafe?src=hash\" title=\"#emucafe\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#emucafe</a>",
-          "link": "https://pixelfed.social/p/nafnlj/608056415634233300",
-          "publishedOn": "2023-09-14T21:59:06.000Z",
-          "wordCount": null,
-          "title": "I saw a pear on the ground in the NYC neighborhood of Brooklyn Heights (I think it was Brooklyn Heights, but small chance it was Cobble Hill). You do not tend to see pears on the ground in New York City. I looked up and found the source of the issue.\n\nhttps://social.emucafe.org/naferrell/sharing-is-pearing/ \n\n#nyc #brooklyn #brooklynheights #cobblehill #tree #pear #sun #pixel3axl #emucafe",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "N.A. Ferrell",

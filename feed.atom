@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-13T20:11:50.030Z</updated>
+    <updated>2023-10-14T14:08:41.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -884,55 +884,6 @@ Brown hair and dress codes in Ippon Again!
 Iroha Isshiki's Hair is Brown, as Expected?
 Hair Color and Albinism in Red Shift Visual Novel
 Examining brown hair of popular anime characters]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharing is Pearing]]></title>
-        <id>https://social.emucafe.org/?p=439</id>
-        <link href="https://social.emucafe.org/naferrell/sharing-is-pearing/"/>
-        <updated>2023-09-14T22:00:38.000Z</updated>
-        <summary type="html"><![CDATA[I was walking in Brooklyn Heights (I think it was Brooklyn Heights, but it could have been Cobble Hill) when I saw a pear on the sidewalk. This was unusual. You do not see too many pears on sidewalks in New York City. I looked up and found the source of the pear. But what […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I saw a pear on the ground in the NYC neighborhood of Brooklyn Heights (I think it was Brooklyn Heights, but small chance it was Cobble Hill). You do not tend to see pears on the ground in New York City. I looked up and found the source of the issue.
-
-https://social.emucafe.org/naferrell/sharing-is-pearing/ 
-
-#nyc #brooklyn #brooklynheights #cobblehill #tree #pear #sun #pixel3axl #emucafe]]></title>
-        <id>https://pixelfed.social/p/nafnlj/608056415634233300</id>
-        <link href="https://pixelfed.social/p/nafnlj/608056415634233300"/>
-        <updated>2023-09-14T21:59:06.000Z</updated>
-        <summary type="html"><![CDATA[I saw a pear on the ground in the NYC neighborhood of Brooklyn Heights (I think it was Brooklyn Heights, but small chance it was Cobble Hill). You do not tend to see pears on the ground in New York City. I looked up and found the source of the issue.<br />
-<br />
-<a href="https://social.emucafe.org/naferrell/sharing-is-pearing/" rel="external nofollow noopener" target="_blank">https://social.emucafe.org/naferrell/sharing-is-pearing/</a> <br />
-<br />
-<a href="https://pixelfed.social/discover/tags/nyc?src=hash" title="#nyc" class="u-url hashtag" rel="external nofollow noopener">#nyc</a> <a href="https://pixelfed.social/discover/tags/brooklyn?src=hash" title="#brooklyn" class="u-url hashtag" rel="external nofollow noopener">#brooklyn</a> <a href="https://pixelfed.social/discover/tags/brooklynheights?src=hash" title="#brooklynheights" class="u-url hashtag" rel="external nofollow noopener">#brooklynheights</a> <a href="https://pixelfed.social/discover/tags/cobblehill?src=hash" title="#cobblehill" class="u-url hashtag" rel="external nofollow noopener">#cobblehill</a> <a href="https://pixelfed.social/discover/tags/tree?src=hash" title="#tree" class="u-url hashtag" rel="external nofollow noopener">#tree</a> <a href="https://pixelfed.social/discover/tags/pear?src=hash" title="#pear" class="u-url hashtag" rel="external nofollow noopener">#pear</a> <a href="https://pixelfed.social/discover/tags/sun?src=hash" title="#sun" class="u-url hashtag" rel="external nofollow noopener">#sun</a> <a href="https://pixelfed.social/discover/tags/pixel3axl?src=hash" title="#pixel3axl" class="u-url hashtag" rel="external nofollow noopener">#pixel3axl</a> <a href="https://pixelfed.social/discover/tags/emucafe?src=hash" title="#emucafe" class="u-url hashtag" rel="external nofollow noopener">#emucafe</a>]]></summary>
-        <author>
-            <name>nafnlj on Pixelfed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caching troubles]]></title>
-        <id>https://thenewleafjournal.com/?p=21247</id>
-        <link href="https://thenewleafjournal.com/caching-troubles/"/>
-        <updated>2023-09-14T14:52:12.000Z</updated>
-        <summary type="html"><![CDATA[It appears that something with my caching configuration choked earlier today and served a compressed file for download to visitors in […]
-Possibly related posts...
-
-The BunnyPress Chronicles: Story and Review
-WP Super Cache Preload and Lazy Loading
-The Mysterious Pinterest Tracker
-Slow Leaf Journal, Outgrowing Cheap Hosting 〜 A Justin and…
-What Makes a Depressing Anime? Discussion and Selection.
-The Homing Pigeons Returned Home As Expected
-The New Leaf Journal Celebrates Its First Birthday
-WP Redis Object Cache and Link Hover Color
-The Angel Next Door Spoils Me Rotten - Anime Review]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
