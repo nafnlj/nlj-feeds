@@ -2,258 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-14T20:10:14.044Z</updated>
+    <updated>2023-10-14T23:35:23.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[The Virtual Boy Fan Making New Tech and Games for Nintendo's Console Curio]]></title>
-        <id>https://news.ycombinator.com/item?id=37351112</id>
-        <link href="https://www.nintendolife.com/features/meet-the-virtual-boy-fan-making-new-tech-and-games-for-nintendos-console-curio"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nintendolife.com/features/meet-the-virtual-boy-fan-making-new-tech-and-games-for-nintendos-console-curio
-Comments URL: https://news.ycombinator.com/item?id=37351112
-Points: 4
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
+        <id>https://github.com/nafnlj/nljfeeds/commit/1bea850d39c1288a38baa527c03c0ac29b9dff28</id>
+        <link href="https://github.com/nafnlj/nljfeeds/commit/1bea850d39c1288a38baa527c03c0ac29b9dff28"/>
+        <updated>2023-10-14T23:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Update osmosfeed.yaml
+
+Remove NAF HN feed.]]></summary>
         <author>
-            <name>nafnlj</name>
+            <name>Recent Commits to nljfeeds:main</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New comment by nafnlj in "TV's are becoming intrusive and abusive; what to do about it?"]]></title>
-        <id>https://news.ycombinator.com/item?id=37302827</id>
-        <link href="https://news.ycombinator.com/item?id=37302827"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[I didn't think of projectors because I don't have a good set-up for it, but that's another great option along side dumb TVs, TVs that work without internet, and monitors/digital signage. Starting with a mini PC or something similar unlocks plenty of good options for avoiding all of the smart TV issues.]]></summary>
+        <title type="html"><![CDATA[On Russia’s and China’s Self-Awareness]]></title>
+        <id>https://thenewleafjournal.com/?p=21505</id>
+        <link href="https://thenewleafjournal.com/on-russias-and-chinas-self-awareness/"/>
+        <updated>2023-10-14T23:32:57.000Z</updated>
+        <summary type="html"><![CDATA[The statements of the Russian and Chinese governments on the Israel-Hamas War would be ironic if they were not entirely expected.
+Possibly related posts...
+
+The Enigmatic Life and Death of Emperor Otho
+Anime Recommendations of the Decade (2011-20)
+ACE Academy - Visual Novel Review
+The al|together and Insani Visual Novel Translations
+The Best of Anime in 2022: Year in Review
+The Angel Next Door Spoils Me Rotten - Anime Review
+A 2021 List of Alternative Search Engines and Search…
+Bing's and DuckDuckGo's CCP Problem
+History of Thanksgiving Proclamations in the Philippines]]></summary>
         <author>
-            <name>nafnlj</name>
+            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New comment by nafnlj in "TV's are becoming intrusive and abusive; what to do about it?"]]></title>
-        <id>https://news.ycombinator.com/item?id=37302783</id>
-        <link href="https://news.ycombinator.com/item?id=37302783"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[I do a version of this approach. I have a 2018 model TCL TV that I do not give access to the internet (this one works without any issue, but I don't know if that is true of newer models). My TV is right next to my desktop computer, but in order to reduce noise and power, I bought a cheap Beelink mini PC and set it up with Fedora-GNOME and Kodi. Works very well for simple purposes and can easily handle light games. There are plenty of other (possibly better) solutions to this effect such as SBCs, spare laptops, or more capable mini PCs to handle some newer games. I would prefer using a computer instead of the Smart TV OS even without all of the concerns listed in the original post.]]></summary>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CLXII 〜 Newsletter Explorer 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/157/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/157/"/>
+        <updated>2023-10-14T23:18:13.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 157th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. This week was a bit short on content with just three new articles -- although all three were fairly time-intensive by my standards. You will find links to our three new pieces along with links from around the web and other news and notes below.
+(No News leaf journal section this week because I have no news to report other than our new articles.)
+Links from the week that was
+Our three new articles...
+Citizenship Rules for Running for President of Egypt (I examine how Egypt handles dual citizenship in the contex…]]></summary>
         <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Are the Three US SCOTUS Justices to Use the Word “Baubles” in an Opinion?]]></title>
-        <id>https://news.ycombinator.com/item?id=37262664</id>
-        <link href="https://reason.com/volokh/2023/04/20/who-are-the-two-justices-to-use-the-word-baubles-in-an-opinion/"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://reason.com/volokh/2023/04/20/who-are-the-two-justices-to-use-the-word-baubles-in-an-opinion/
-Comments URL: https://news.ycombinator.com/item?id=37262664
-Points: 2
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The longest word you can type on the first row]]></title>
-        <id>https://news.ycombinator.com/item?id=37254772</id>
-        <link href="https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/
-Comments URL: https://news.ycombinator.com/item?id=37254772
-Points: 43
-# Comments: 79]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDF Format History: Where Our Future History Lies (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=37227854</id>
-        <link href="https://tedium.co/2018/02/27/pdf-file-format-history/"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tedium.co/2018/02/27/pdf-file-format-history/
-Comments URL: https://news.ycombinator.com/item?id=37227854
-Points: 3
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Bodhi Linux 7.0, Built on Ubuntu 22.04]]></title>
-        <id>https://news.ycombinator.com/item?id=37227848</id>
-        <link href="https://www.bodhilinux.com/2023/08/21/introducing-bodhi-linux-7-0-a-landmark-release/"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bodhilinux.com/2023/08/21/introducing-bodhi-linux-7-0-a-landmark-release/
-Comments URL: https://news.ycombinator.com/item?id=37227848
-Points: 2
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Properly Store Your Game Boy Cartridges]]></title>
-        <id>https://news.ycombinator.com/item?id=37210465</id>
-        <link href="https://brainbaking.com/post/2022/05/how-to-properly-store-your-gameboy-cartridges/"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://brainbaking.com/post/2022/05/how-to-properly-store-your-gameboy-cartridges/
-Comments URL: https://news.ycombinator.com/item?id=37210465
-Points: 3
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remains of an underwater hospital and cemetery at Dry Tortugas]]></title>
-        <id>https://news.ycombinator.com/item?id=37111962</id>
-        <link href="https://www.nps.gov/drto/learn/news/underwater-hospital-and-cemetery.htm"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nps.gov/drto/learn/news/underwater-hospital-and-cemetery.htm
-Comments URL: https://news.ycombinator.com/item?id=37111962
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disabling Intel E-Cores CPU Nets 50% Better Performance in Atlas Fallen]]></title>
-        <id>https://news.ycombinator.com/item?id=37106005</id>
-        <link href="https://wccftech.com/disabling-intel-e-cores-hybrid-cpu-50-percent-better-performance-atlas-fallen/"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://wccftech.com/disabling-intel-e-cores-hybrid-cpu-50-percent-better-performance-atlas-fallen/
-Comments URL: https://news.ycombinator.com/item?id=37106005
-Points: 9
-# Comments: 5]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[America’s Beloved Meyer Lemon Caused a Mid-Century Citrus Panic]]></title>
-        <id>https://news.ycombinator.com/item?id=37076452</id>
-        <link href="https://www.atlasobscura.com/articles/meyer-lemon"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/meyer-lemon
-Comments URL: https://news.ycombinator.com/item?id=37076452
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the brink: Namibia’s wild desert horses]]></title>
-        <id>https://news.ycombinator.com/item?id=36949070</id>
-        <link href="https://africageographic.com/stories/namibias-wild-desert-horses/"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://africageographic.com/stories/namibias-wild-desert-horses/
-Comments URL: https://news.ycombinator.com/item?id=36949070
-Points: 2
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Revises New Driver for Stadia Controller Rumble Support on Linux]]></title>
-        <id>https://news.ycombinator.com/item?id=36696436</id>
-        <link href="https://www.phoronix.com/news/Stadia-Controller-FF-Linux"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.phoronix.com/news/Stadia-Controller-FF-Linux
-Comments URL: https://news.ycombinator.com/item?id=36696436
-Points: 2
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blocking 2 High-Ranking Pages with Robots.txt]]></title>
-        <id>https://news.ycombinator.com/item?id=36667819</id>
-        <link href="https://ahrefs.com/blog/blocked-robots-test/"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ahrefs.com/blog/blocked-robots-test/
-Comments URL: https://news.ycombinator.com/item?id=36667819
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NBA Draft: Is Being 7 Feet Tall the Fastest Way to Get Rich in America (2013)]]></title>
-        <id>https://news.ycombinator.com/item?id=36648368</id>
-        <link href="https://www.forbes.com/sites/dandiamond/2013/06/27/nba-draft-is-being-7-feet-tall-the-fastest-way-to-get-rich-in-america/"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.forbes.com/sites/dandiamond/2013/06/27/nba-draft-is-being-7-feet-tall-the-fastest-way-to-get-rich-in-america/
-Comments URL: https://news.ycombinator.com/item?id=36648368
-Points: 2
-# Comments: 1]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nostr Verify: WordPress plugin for Nostr verification using NIP-05]]></title>
-        <id>https://news.ycombinator.com/item?id=36648331</id>
-        <link href="https://github.com/jeherve/nostr-verify"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/jeherve/nostr-verify
-Comments URL: https://news.ycombinator.com/item?id=36648331
-Points: 2
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New comment by nafnlj in "Show HN: Blogs.hn – tiny blog directory"]]></title>
-        <id>https://news.ycombinator.com/item?id=36637882</id>
-        <link href="https://news.ycombinator.com/item?id=36637882"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Additional recommendation:
-Ye Olde Blogroll: https://blogroll.org/]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan's Switch Sales in June Were Reportedly a Record High for the Console]]></title>
-        <id>https://news.ycombinator.com/item?id=36634436</id>
-        <link href="https://www.nintendolife.com/news/2023/07/japans-switch-sales-in-june-were-reportedly-a-record-high-for-the-console"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nintendolife.com/news/2023/07/japans-switch-sales-in-june-were-reportedly-a-record-high-for-the-console
-Comments URL: https://news.ycombinator.com/item?id=36634436
-Points: 5
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using FreshRSS to “Like” blog posts via Webmention (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=36626235</id>
-        <link href="https://ruk.ca/content/using-freshrss-blog-posts-webmention"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ruk.ca/content/using-freshrss-blog-posts-webmention
-Comments URL: https://news.ycombinator.com/item?id=36626235
-Points: 2
-# Comments: 0]]></summary>
-        <author>
-            <name>nafnlj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New comment by nafnlj in "Ask HN: What are your favorite RSS feeds?"]]></title>
-        <id>https://news.ycombinator.com/item?id=36619028</id>
-        <link href="https://news.ycombinator.com/item?id=36619028"/>
-        <updated>2023-10-11T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Edit --
-Perishable Press feed: https://perishablepress.com/feed/atom]]></summary>
-        <author>
-            <name>nafnlj</name>
+            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
     <entry>
@@ -865,27 +662,6 @@ Middle sch…]]></summary>
 Removed general NAF Gitea feed because it pulls in updates that do not make sense for this site. I will replace it with individual repo feeds.]]></summary>
         <author>
             <name>Recent Commits to nljfeeds:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Girl I Like Forgot Her Glasses hair dye]]></title>
-        <id>https://thenewleafjournal.com/?p=21253</id>
-        <link href="https://thenewleafjournal.com/the-girl-i-like-forgot-her-glasses-hair-dye/"/>
-        <updated>2023-09-15T11:17:00.000Z</updated>
-        <summary type="html"><![CDATA[I was curious whether we would learn about the brown hair of the girl in The Girl I Like Forgot Her Glasses. Instead, we learn about the brown hair of the boy who likes her.
-Possibly related posts...
-
-The Girl I Like Forgot Her Glasses Ep1 Animation
-Tokyo High Schools Change Hair Color Dress Code Policies
-Hair Color Dress Code Rules in Japan
-A Walker's Review of BLUPOND's Knight Vision Night Driving…
-Understanding Hair Color in the Kimi ni Todoke Anime Series
-Brown hair and dress codes in Ippon Again!
-Iroha Isshiki's Hair is Brown, as Expected?
-Hair Color and Albinism in Red Shift Visual Novel
-Examining brown hair of popular anime characters]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
