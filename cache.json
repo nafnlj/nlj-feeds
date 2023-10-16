@@ -234,6 +234,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=480",
+          "author": "Nicholas A. Ferrell",
+          "description": "I came across an article noting that Corey Seager of the Texas Rangers was walked three times in a 3-game sweep of the Baltimore Orioles in the American League Divisional Series, breaking Barry Bonds’ 2003 record of 8 for a divisional series. I am not a baseball fan and am not following the playoffs, but […]",
+          "link": "https://social.emucafe.org/naferrell/seager-bonds-ds-walks/",
+          "publishedOn": "2023-10-16T17:41:57.000Z",
+          "wordCount": null,
+          "title": "Corey Seager Breaks Bonds’ Divisional Series Walks Record",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/naferrell/479/",
           "author": "Nicholas A. Ferrell",
           "description": "Formatting for The New Leaf Journal ActivityPub profile is a work in progress but everything works perfectly here on Emu Café Social.",
@@ -377,6 +387,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111246020448910050",
+          "author": null,
+          "description": "A look back at the 1922 Better Homes Demonstration Week, a project headed by the administration of then-U.S. President Warren Harding. This introduction post links to two follow-up articles on remarks by then-Vice President Calvin Coolidge and Commerce Secretary Herbert Hoover.\nhttps://thenewleafjournal.com/introducing-the-1922-better-homes-in-america-demonstration-week/\n#ushistory #history #uspresident #home",
+          "link": "https://linuxrocks.online/@nafnlj/111246020448910050",
+          "publishedOn": "2023-10-16T18:06:00.000Z",
+          "wordCount": 120,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111240553075801733",
           "author": null,

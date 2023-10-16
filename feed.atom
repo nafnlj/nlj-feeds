@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-16T14:11:01.288Z</updated>
+    <updated>2023-10-16T20:12:09.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111246020448910050</id>
+        <link href="https://linuxrocks.online/@nafnlj/111246020448910050"/>
+        <updated>2023-10-16T18:06:00.000Z</updated>
+        <summary type="html"><![CDATA[A look back at the 1922 Better Homes Demonstration Week, a project headed by the administration of then-U.S. President Warren Harding. This introduction post links to two follow-up articles on remarks by then-Vice President Calvin Coolidge and Commerce Secretary Herbert Hoover.
+https://thenewleafjournal.com/introducing-the-1922-better-homes-in-america-demonstration-week/
+#ushistory #history #uspresident #home]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corey Seager Breaks Bonds’ Divisional Series Walks Record]]></title>
+        <id>https://social.emucafe.org/?p=480</id>
+        <link href="https://social.emucafe.org/naferrell/seager-bonds-ds-walks/"/>
+        <updated>2023-10-16T17:41:57.000Z</updated>
+        <summary type="html"><![CDATA[I came across an article noting that Corey Seager of the Texas Rangers was walked three times in a 3-game sweep of the Baltimore Orioles in the American League Divisional Series, breaking Barry Bonds’ 2003 record of 8 for a divisional series. I am not a baseball fan and am not following the playoffs, but […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Article] Formatting for The New Leaf Journal ActivityPub profile i…]]></title>
         <id>https://social.emucafe.org/naferrell/479/</id>
