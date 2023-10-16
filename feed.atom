@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-15T20:10:23.935Z</updated>
+    <updated>2023-10-16T14:11:01.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -648,52 +648,6 @@ The Poetry of Charlotte Becker - Early Twentieth Century…
 Should the Pistons have drafted Carmelo?]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broken Optical Audio Cable Door “Fix”]]></title>
-        <id>https://thenewleafjournal.com/?p=21261</id>
-        <link href="https://thenewleafjournal.com/broken-optical-audio-cable-door-fix/"/>
-        <updated>2023-09-16T21:35:45.000Z</updated>
-        <summary type="html"><![CDATA[How I used a sticky note to hold an optical audio cable in place in my Yamaha soundbar after the optical audio cable door broke.
-Possibly related posts...
-
-Replacing soundbar and re-configuring universal remote for…
-An Optical Audio Cable Packaging Story
-Optical audio cable story update
-Micropost on Soundbar and Remote Struggles
-The Angel Next Door Spoils Me Rotten - Anime Review
-Meghan Markle's "The Bench" and Audio Book Versions of…
-io [Christmas Eve] - Visual Novel Review
-EGM's 2001 Sega Neptune April Fools Joke
-USB-C Charger Surprises]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CLIII 〜 No-smoking newsletter 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/153/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/153/"/>
-        <updated>2023-09-16T21:23:59.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 153rd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. It was not a big publishing week at The New Leaf Journal, but I produced a few articles while also continuing to work on improving the site and its sister project, The Emu Café Social. Let us begin our week-in-review.
-Leaves from the week that was
-I technically published three new articles, but one was about our cache system serving some visitors a compressed page to download instead of the normal web page for 12 hours on Thursday. Technical issue update aside, my two full articles were fairly long.
-Middle sch…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
-        <id>https://github.com/nafnlj/nljfeeds/commit/740ad1c4751a12ab3b0e890bd5b4af2532eddbc9</id>
-        <link href="https://github.com/nafnlj/nljfeeds/commit/740ad1c4751a12ab3b0e890bd5b4af2532eddbc9"/>
-        <updated>2023-09-16T20:32:57.000Z</updated>
-        <summary type="html"><![CDATA[Update osmosfeed.yaml
-
-Removed general NAF Gitea feed because it pulls in updates that do not make sense for this site. I will replace it with individual repo feeds.]]></summary>
-        <author>
-            <name>Recent Commits to nljfeeds:main</name>
         </author>
     </entry>
 </feed>
