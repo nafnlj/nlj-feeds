@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-17T14:10:06.372Z</updated>
+    <updated>2023-10-17T20:11:33.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111251833295501684</id>
+        <link href="https://linuxrocks.online/@nafnlj/111251833295501684"/>
+        <updated>2023-10-17T18:44:17.000Z</updated>
+        <summary type="html"><![CDATA[A comprehensive study of hair color in the English translation of a 2005 freeware Japanese visual novel titled A Dream of Summer (because why not?).
+https://thenewleafjournal.com/hair-color-in-a-dream-of-summer/
+(Note that a re-worked browser version of A Dream of Summer is free to play on Freem! in both English and the original Japanese)
+#visualnovels #VisualNovel #videogames #freeware #haircolor]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111246020448910050</id>
