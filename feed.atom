@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-20T14:10:13.746Z</updated>
+    <updated>2023-10-20T20:10:56.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Meaning of Matter of Salama]]></title>
+        <id>https://social.emucafe.org/?p=483</id>
+        <link href="https://social.emucafe.org/naferrell/meaning-of-matter-of-salama/"/>
+        <updated>2023-10-20T19:17:00.000Z</updated>
+        <summary type="html"><![CDATA[I wrote a detailed analysis of a 1966 Board of Immigration Appeals decision in Matter of Salama, 11 I&N Dec. 536 (BIA 1966). In that post, I worked through the decision and examined the small number of citations to it in precedent decisions. I opined that although I first came across the decision while researching […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111268658658240443</id>
+        <link href="https://linuxrocks.online/@nafnlj/111268658658240443"/>
+        <updated>2023-10-20T18:03:11.000Z</updated>
+        <summary type="html"><![CDATA[A post reviewing Halloween cooking and decorating tips from a 1913 magazine.
+https://thenewleafjournal.com/halloween-cooking-and-decorating-tips-from-1913/
+#halloween #cooking #decorating #owls]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Analyzing BIA Decision in Matter of Salama]]></title>
         <id>https://thenewleafjournal.com/?p=21514</id>

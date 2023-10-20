@@ -214,6 +214,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=483",
+          "author": "Nicholas A. Ferrell",
+          "description": "I wrote a detailed analysis of a 1966 Board of Immigration Appeals decision in Matter of Salama, 11 I&N Dec. 536 (BIA 1966). In that post, I worked through the decision and examined the small number of citations to it in precedent decisions. I opined that although I first came across the decision while researching […]",
+          "link": "https://social.emucafe.org/naferrell/meaning-of-matter-of-salama/",
+          "publishedOn": "2023-10-20T19:17:00.000Z",
+          "wordCount": null,
+          "title": "The Meaning of Matter of Salama",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=480",
           "author": "Nicholas A. Ferrell",
           "description": "I came across an article noting that Corey Seager of the Texas Rangers was walked three times in a 3-game sweep of the Baltimore Orioles in the American League Divisional Series, breaking Barry Bonds’ 2003 record of 8 for a divisional series. I am not a baseball fan and am not following the playoffs, but […]",
@@ -367,6 +377,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111268658658240443",
+          "author": null,
+          "description": "A post reviewing Halloween cooking and decorating tips from a 1913 magazine.\nhttps://thenewleafjournal.com/halloween-cooking-and-decorating-tips-from-1913/\n#halloween #cooking #decorating #owls",
+          "link": "https://linuxrocks.online/@nafnlj/111268658658240443",
+          "publishedOn": "2023-10-20T18:03:11.000Z",
+          "wordCount": 118,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111256642596120298",
           "author": null,
