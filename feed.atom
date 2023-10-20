@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-19T20:11:34.273Z</updated>
+    <updated>2023-10-20T14:10:13.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Analyzing BIA Decision in Matter of Salama]]></title>
+        <id>https://thenewleafjournal.com/?p=21514</id>
+        <link href="https://thenewleafjournal.com/analyzing-bia-decision-in-matter-of-salama/"/>
+        <updated>2023-10-20T02:53:30.000Z</updated>
+        <summary type="html"><![CDATA[I study a 1966 Board of Immigration Appeals precedent decision wherein the BIA held a Jewish man from Egypt would face persecution on account of his religion.
+Possibly related posts...
+
+Citizenship Rules for Running for President of Egypt
+Matter of Man, 12 I&N Dec. 305 (BIA 1967) - BIA Hong Kong…
+Noncitizen Nationals as Immigrant Visa Petitioners
+Golf and Immigration: Matter of Masters
+"A Strange Admixture of Contentions" - Study of a Phrase
+Justin and Justina review 2022 at the NLJ
+The Enigmatic Life and Death of Emperor Otho
+The Hang Glider Citizenship Provision
+Immigration Issues in NYPD Chinese Agent Case]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111256642596120298</id>
@@ -606,27 +627,6 @@ Baby Geese in Brooklyn Bridge Park
 A Trip Across Brooklyn's Summit Street Bridge
 On Haughty Dog Owners in NYC
 Nineteenth Century Autumn Dress Trends]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Race-Ball: 19th Century Sport Review]]></title>
-        <id>https://thenewleafjournal.com/?p=21287</id>
-        <link href="https://thenewleafjournal.com/race-ball-19th-century-sport-review/"/>
-        <updated>2023-09-20T18:16:05.000Z</updated>
-        <summary type="html"><![CDATA[Reviewing an obscure 19th century sport, as described in an 1882 issue of Harper's Young People.
-Possibly related posts...
-
-1892 Reports on First Year of Basketball
-1892 Report on Women's Basketball Game
-The Japanese Citizenship Requirement for Sumo Stablemasters
-Nineteenth Century Autumn Dress Trends
-Justin and Justina review 2022 at the NLJ
-Ed Durr Walks To A Stunning Election Upset In New Jersey
-"Casey's Revenge" - Grantland Rice's 1896 Reply Poem to…
-The Story of the Herald Square Carrier Pigeons
-The Inspiring Political Comebacks of Byron Brown and Vito…]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
