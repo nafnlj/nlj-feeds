@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-22T20:09:59.185Z</updated>
+    <updated>2023-10-23T14:10:41.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -611,20 +611,6 @@ The Girl I Like Forgot Her Glasses Ep1 Animation]]></summary>
         <summary type="html"><![CDATA[I am moving toward finishing my al|together visual novel review project. I just finished reading A Dream of Summer (which had been pending for a while) and one of two translations of Narcissu (I did not realize that the al|together Narcissu was two translations in one package).  This leaves just three novels to read. With […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CLIV 〜 Bases on newsletters 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/154/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/154/"/>
-        <updated>2023-09-23T20:05:38.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 154th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. While our short posts are on hiatus for the time being, I published six full articles since I last mailed you. You will find links to our new articles along with links from around the web and other news and notes below.
-Leaves from the week that was
-Six articles? Is this September 2020 instead of 2023? Let us see what is new...
-Broken Optical Audio Cable Door "Fix" (I think my sticky note fix is rather clever)
-On Barry Bonds' IBBs in 2006 and 2007 (One can infer why Barry Bonds was walked at an unprecedented r…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>
