@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-26T14:10:07.900Z</updated>
+    <updated>2023-10-26T20:11:04.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -574,40 +574,6 @@ The New Leaf Journal Celebrates Its First Birthday
 History of Thanksgiving Proclamations in the Philippines
 The Best Anime Series of 2021
 The New Leaf Journal 2022 Half-Year Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
-        <id>https://github.com/nafnlj/nljfeeds/commit/ca14256af570322209d4f1565d88902a8a138433</id>
-        <link href="https://github.com/nafnlj/nljfeeds/commit/ca14256af570322209d4f1565d88902a8a138433"/>
-        <updated>2023-09-27T04:53:34.000Z</updated>
-        <summary type="html"><![CDATA[Update osmosfeed.yaml
-
-- Remove NLJ guestbook
-- Add Emu Cafe Social]]></summary>
-        <author>
-            <name>Recent Commits to nljfeeds:main</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Dream of Summer – Visual Novel Review]]></title>
-        <id>https://thenewleafjournal.com/?p=21325</id>
-        <link href="https://thenewleafjournal.com/a-dream-of-summer-visual-novel-review/"/>
-        <updated>2023-09-27T02:26:58.000Z</updated>
-        <summary type="html"><![CDATA[I review an al|together-translated visual novel with unusually high production values and a main character with braids.
-Possibly related posts...
-
-The al|together and Insani Visual Novel Translations
-I, Too, Saw Dreams Through Air - VN Review
-At Summer's End vs A Dream of Summer
-Bonner's "In Dreamland" Bedtime Story
-At Summer's End - Visual Novel Review
-The New Leaf Journal Celebrates Its First Birthday
-al|together Visual Novel Reviews and Posts
-New Leaf Journal Third Birthday Reader
-The Girl I Like Forgot Her Glasses Ep1 Animation]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
