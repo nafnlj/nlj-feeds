@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-25T20:11:01.966Z</updated>
+    <updated>2023-10-26T14:10:07.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -608,16 +608,6 @@ The New Leaf Journal Celebrates Its First Birthday
 al|together Visual Novel Reviews and Posts
 New Leaf Journal Third Birthday Reader
 The Girl I Like Forgot Her Glasses Ep1 Animation]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Note] I am moving toward finishing my al|together visual novel …]]></title>
-        <id>https://social.emucafe.org/?p=448</id>
-        <link href="https://social.emucafe.org/naferrell/altogether-narcissu-progress/"/>
-        <updated>2023-09-26T16:37:31.000Z</updated>
-        <summary type="html"><![CDATA[I am moving toward finishing my al|together visual novel review project. I just finished reading A Dream of Summer (which had been pending for a while) and one of two translations of Narcissu (I did not realize that the al|together Narcissu was two translations in one package).  This leaves just three novels to read. With […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
