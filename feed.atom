@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-27T20:11:01.808Z</updated>
+    <updated>2023-10-28T14:08:47.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo "Black Rider (Home Recording)" Bob Dylan Cover]]></title>
+        <id>https://www.youtube.com/watch?v=TAqC7MvJkVg</id>
+        <link href="https://www.youtube.com/watch?v=TAqC7MvJkVg"/>
+        <updated>2023-10-27T20:29:03.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo "Ghost Woman Blues (Home Recording)"]]></title>
+        <id>https://www.youtube.com/watch?v=64my7NvpwQc</id>
+        <link href="https://www.youtube.com/watch?v=64my7NvpwQc"/>
+        <updated>2023-10-27T20:25:43.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victor V. Gurbo "Black Rider" Bob Dylan Cover, Official Music Video]]></title>
         <id>https://www.youtube.com/watch?v=BWRUlsT3-ww</id>
@@ -555,27 +573,6 @@ Calvin Coolidge's 1923 Thanksgiving Proclamation]]></summary>
         <updated>2023-09-29T04:00:13.000Z</updated>
         <author>
             <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ranking My Big Impression Video Games]]></title>
-        <id>https://thenewleafjournal.com/?p=21366</id>
-        <link href="https://thenewleafjournal.com/ranking-my-big-impression-video-games/"/>
-        <updated>2023-09-29T00:24:31.000Z</updated>
-        <summary type="html"><![CDATA[Ranking the 12 video games that left the biggest impression on me over nearly 30 years of owning and playing games.
-Possibly related posts...
-
-Justin and Justina review 2022 at the NLJ
-New Leaf Journal Third Birthday Reader
-The Best of Anime in 2022: Year in Review
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-The Newsletter Leaf Journal at 100
-The New Leaf Journal Celebrates Its First Birthday
-History of Thanksgiving Proclamations in the Philippines
-The Best Anime Series of 2021
-The New Leaf Journal 2022 Half-Year Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
