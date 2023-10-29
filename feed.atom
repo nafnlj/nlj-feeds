@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-28T20:09:53.618Z</updated>
+    <updated>2023-10-29T14:08:42.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -515,37 +515,6 @@ https://buttondown.email/newsletterleafjournal/archive/155/
 #newsletter #videogames #visualnovels #links #music]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Town Slogans Pokémon’s Kanto]]></title>
-        <id>https://thenewleafjournal.com/?p=21380</id>
-        <link href="https://thenewleafjournal.com/town-slogans-pokemons-kanto/"/>
-        <updated>2023-09-30T00:31:01.000Z</updated>
-        <summary type="html"><![CDATA[A colorful journey (puns intended) through the slogans of the towns of Pokémon's Kanto Region before and after a certain time skip.
-Possibly related posts...
-
-Winds of New Beginnings: Pokémon Gold & Silver
-Imagination in Pokémon Red and Blue
-The Pokémon Special Split in Generation 2 - Statistics and…
-Pokémon: Pathways to Adventure (1999) Review
-Bill's Secret Garden - A Pokémon Generation 1 Urban Legend
-Ranking My Big Impression Video Games
-Upcoming Ferrell Vs Gurbo Pokémon Draft Battle
-Two Independence Day-Themed Pokémon Battles: Ferrell vs…
-Calvin Coolidge's 1923 Thanksgiving Proclamation]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NAF’s 12 Big Impression Video Games]]></title>
-        <id>https://social.emucafe.org/?p=452</id>
-        <link href="https://social.emucafe.org/naferrell/naf-influential-games/"/>
-        <updated>2023-09-29T15:55:26.000Z</updated>
-        <summary type="html"><![CDATA[I published the list of the 12 video games that left the biggest impression on me in close to 30 years of gaming over at The New Leaf Journal (see article). My New Leaf Journal article contains my reasoning for each selection. Here, I will re-post the list without the essay. Pokémon Red Harvest Moon: […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
