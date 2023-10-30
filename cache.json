@@ -249,16 +249,6 @@
           "wordCount": 2100,
           "title": "Newsletter Leaf Journal CLVI 〜 Newsletter leisure 〜",
           "imageUrl": "https://image-generator.buttondown.email/api/emphasize-subject?subject=Newsletter%20Leaf%20Journal%20CLVI%20%E3%80%9C%20Newsletter%20leisure%20%E3%80%9C&author=The%20Newsletter%20Leaf%20Journal&date=2023-10-07&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/155/",
-          "author": null,
-          "description": "Today we end September with the 155th edition of The Newsletter Leaf Journal, the official newsletter of The New Leaf Journal. The final week of September brought with it three fairly long articles. Below, I will recap those articles along with our usual assortment of links around the web and other news and notes about The New Leaf Journal.\nLeaves from the week that was\nWhile I only published three articles since mailing newsletter 154, all three articles were long. Word count over article quantity?\nA Dream of Summer - Visual Novel Review (I entered the final section of al|together visual novel reviews with one of my longest reviews. A Dream of Summer has some of the best production values of the al|together visual novels, but as my review reveals, some aspects of the story left me wanting…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/155/",
-          "publishedOn": "2023-09-30T21:22:47.000Z",
-          "wordCount": 2869,
-          "title": "Newsletter Leaf Journal CLV 〜 Shades of your newsletter await! 〜",
-          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter%20Leaf%20Journal%20CLV%20%E3%80%9C%20Shades%20of%20your%20newsletter%20await!%20%E3%80%9C&author=The%20Newsletter%20Leaf%20Journal&date=2023-09-30&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
         }
       ]
     },
@@ -363,16 +353,6 @@
           "description": "I installed ActivityPub for WordPress on The New Leaf Journal. You can now follow the site at @newleafjournal to stay up to date with our latest posts from Mastodon or other ActivityPub clients (I have only looked at the on Mastodon). Note that you will only see new posts that appear after you follow.\nhttps://thenewleafjournal.com/activitypub-for-wordpress-and-the-nlj/\n#activitypub #wordpress",
           "link": "https://linuxrocks.online/@nafnlj/111189141896000172",
           "publishedOn": "2023-10-06T17:01:02.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/111156196642917502",
-          "author": null,
-          "description": "Our 155th newsletter features links to my three newest articles (a visual novel review, the 12 games which left the biggest impression on me, and a journey through Kanto Pokemon town slogans), 12 links from around the web (banker's boxes and whales), a link to a music video, NLJ news, and notes on the fall anime season.\nhttps://buttondown.email/newsletterleafjournal/archive/155/\n#newsletter #videogames #visualnovels #links #music",
-          "link": "https://linuxrocks.online/@nafnlj/111156196642917502",
-          "publishedOn": "2023-09-30T21:22:37.000Z",
           "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null

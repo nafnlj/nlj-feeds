@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-10-29T20:10:08.586Z</updated>
+    <updated>2023-10-30T14:10:37.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -490,31 +490,6 @@ The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
 New Bark Town and The New Leaf Journal Slogan]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CLV 〜 Shades of your newsletter await! 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/155/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/155/"/>
-        <updated>2023-09-30T21:22:47.000Z</updated>
-        <summary type="html"><![CDATA[Today we end September with the 155th edition of The Newsletter Leaf Journal, the official newsletter of The New Leaf Journal. The final week of September brought with it three fairly long articles. Below, I will recap those articles along with our usual assortment of links around the web and other news and notes about The New Leaf Journal.
-Leaves from the week that was
-While I only published three articles since mailing newsletter 154, all three articles were long. Word count over article quantity?
-A Dream of Summer - Visual Novel Review (I entered the final section of al|together visual novel reviews with one of my longest reviews. A Dream of Summer has some of the best production values of the al|together visual novels, but as my review reveals, some aspects of the story left me wanting…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111156196642917502</id>
-        <link href="https://linuxrocks.online/@nafnlj/111156196642917502"/>
-        <updated>2023-09-30T21:22:37.000Z</updated>
-        <summary type="html"><![CDATA[Our 155th newsletter features links to my three newest articles (a visual novel review, the 12 games which left the biggest impression on me, and a journey through Kanto Pokemon town slogans), 12 links from around the web (banker's boxes and whales), a link to a music video, NLJ news, and notes on the fall anime season.
-https://buttondown.email/newsletterleafjournal/archive/155/
-#newsletter #videogames #visualnovels #links #music]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
