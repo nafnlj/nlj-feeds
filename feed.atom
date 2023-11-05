@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-05T14:08:48.370Z</updated>
+    <updated>2023-11-05T20:10:34.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Planning and Angel Next Door Season 2]]></title>
+        <id>https://thenewleafjournal.com/?p=21524</id>
+        <link href="https://thenewleafjournal.com/planning-and-angel-next-door-season-2/"/>
+        <updated>2023-11-05T17:04:05.000Z</updated>
+        <summary type="html"><![CDATA[I would say that the announcement of a second season of The Angel Next Door Spoils Me Rotten was a surprise... but I expected it when I wrote my review of what is now season one.
+Possibly related posts...
+
+The Enigmatic Life and Death of Emperor Otho
+The Angel Next Door Spoils Me Rotten - Anime Review
+Anime Recommendations of the Decade (2011-20)
+The Best of Anime in 2022: Year in Review
+ACE Academy - Visual Novel Review
+Should the Pistons have drafted Carmelo?
+The al|together and Insani Visual Novel Translations
+The Best Anime Series of 2021
+Four May Issues of The Nursery Magazine (1873-81)]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[October 2023 at The New Leaf Journal]]></title>
+        <id>https://thenewleafjournal.com/?p=21520</id>
+        <link href="https://thenewleafjournal.com/october-2023-at-the-new-leaf-journal/"/>
+        <updated>2023-11-05T16:39:32.000Z</updated>
+        <summary type="html"><![CDATA[We ended up only publishing nine articles in October 2023 due to some unexpected events, but our month-in-review structure is very aesthetic.
+Possibly related posts...
+
+The New Leaf Journal Celebrates Its First Birthday
+The Newsletter Leaf Journal at 100
+The al|together and Insani Visual Novel Translations
+Justin & Justina: Most-Read NLJ Content of 2020
+Justin and Justina review 2022 at the NLJ
+A 2021 List of Alternative Search Engines and Search…
+The story of our Bing blacklisting
+Oldest Golfers to Contend for Majors Between the…
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CLIX 〜 Returning to our scheduled programming 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/159/</id>
