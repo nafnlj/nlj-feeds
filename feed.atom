@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-04T20:10:09.366Z</updated>
+    <updated>2023-11-05T14:08:48.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CLIX 〜 Returning to our scheduled programming 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/159/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/159/"/>
+        <updated>2023-11-05T00:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 159th edition of The Newsletter Leaf Journal, the official newsletter of the perenially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.
+As always? I should say except for last week.
+Two factors caused a lapse in New Leaf Journal publishing. Firstly, middling health commencing on October 24. Secondly, I had a decent amount of work for my law job to do while I was feeling sluggish. As a result, I did not publish any articles. Because I had no articles to share and I still had work to do last weekend, I let October 28 pass without a newsletter. While I have a few article drafts in the pipeline, I still have not published a new piece since October …]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victor V. Gurbo "Black Rider (Home Recording)" Bob Dylan Cover]]></title>
         <id>https://www.youtube.com/watch?v=TAqC7MvJkVg</id>
@@ -343,60 +355,6 @@ A Dream of Summer with a review of hair color in A Drea…]]></summary>
         <link href="https://social.emucafe.org/naferrell/potato-darkroom/"/>
         <updated>2023-10-07T13:45:37.000Z</updated>
         <summary type="html"><![CDATA[Hackaday published an article titled Spuds Lend A Hand In The Darkroom. I have no experiences with darkrooms, much less potatoes in darkrooms. Thus, I cannot comment on the utility of the potato-darkroom recipes referenced in the article. However, if your potato has reached the stage where it is growing hands, it is much more […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Productivity to Secure Downtime]]></title>
-        <id>https://thenewleafjournal.com/?p=21465</id>
-        <link href="https://thenewleafjournal.com/productivity-to-secure-downtime/"/>
-        <updated>2023-10-06T18:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Thoughts on interesting thoughts about thinking of being productive as a way of securing your downtime.
-Possibly related posts...
-
-An Essay on Productivity, Production, and Productive Leisure
-Productivity Window Shopping and Backlogs
-The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
-Feeds and Read-It-Later for Online Reading
-Applying Coolidge's Remarks on the Home to the Digital Home
-Justin & Justina: The Most-Read New Leaf Journal Content of…
-Social webs of personal websites
-New Leaf Journal Third Birthday Reader
-RSS as a social media alternative]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111189141896000172</id>
-        <link href="https://linuxrocks.online/@nafnlj/111189141896000172"/>
-        <updated>2023-10-06T17:01:02.000Z</updated>
-        <summary type="html"><![CDATA[I installed ActivityPub for WordPress on The New Leaf Journal. You can now follow the site at @newleafjournal to stay up to date with our latest posts from Mastodon or other ActivityPub clients (I have only looked at the on Mastodon). Note that you will only see new posts that appear after you follow.
-https://thenewleafjournal.com/activitypub-for-wordpress-and-the-nlj/
-#activitypub #wordpress]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ActivityPub for WordPress and The NLJ]]></title>
-        <id>https://thenewleafjournal.com/?p=21459</id>
-        <link href="https://thenewleafjournal.com/activitypub-for-wordpress-and-the-nlj/"/>
-        <updated>2023-10-06T16:56:55.000Z</updated>
-        <summary type="html"><![CDATA[You can now follow The New Leaf Journal directly from Mastodon and other ActivityPub-based accounts thanks to ActivityPub for WordPress.
-Possibly related posts...
-
-The Enigmatic Life and Death of Emperor Otho
-ACE Academy - Visual Novel Review
-Anime Recommendations of the Decade (2011-20)
-Fediverse Clone Wars and Decentralized Social Media
-Looking at ActivityPub for WordPress
-The al|together and Insani Visual Novel Translations
-An Early Review of Pixelfed - Instagram Alternative
-The Best of Anime in 2022: Year in Review
-The Angel Next Door Spoils Me Rotten - Anime Review]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
