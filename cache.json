@@ -23,6 +23,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21528",
+          "author": "Nicholas A. Ferrell",
+          "description": "On upgrading my Google Pixel 3a XL from LineageOS 19 to LineageOS 20.\nPossibly related posts...\n\nInstalling GrapheneOS on a Google Pixel 6a\nFrom Murena Teracube 2e to Pixel 3a XL with LineageOS\nInstalling LineageOS on a 2013 Nexus 7 (Wi-Fi)\nReview of /e/ - An Android Alternative For Mobile Phones\nThe BunnyPress Chronicles: Story and Review\nA Segmentation Fault and a Peculiar Ghostwriter…\nReview of the Teracube 2e Smartphone\nJustin and Justina review 2022 at the NLJ\nNew Computer, New Leaf",
+          "link": "https://thenewleafjournal.com/upgrading-pixel-3a-xl-from-lineageos-19-to-20/",
+          "publishedOn": "2023-11-06T16:17:41.000Z",
+          "wordCount": 2448,
+          "title": "Upgrading Pixel 3a XL from LineageOS 19 to 20",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/11/lineageos20-camera-screenshot.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21524",
           "author": "Nicholas A. Ferrell",
           "description": "I would say that the announcement of a second season of The Angel Next Door Spoils Me Rotten was a surprise... but I expected it when I wrote my review of what is now season one.\nPossibly related posts...\n\nThe Enigmatic Life and Death of Emperor Otho\nThe Angel Next Door Spoils Me Rotten - Anime Review\nAnime Recommendations of the Decade (2011-20)\nThe Best of Anime in 2022: Year in Review\nACE Academy - Visual Novel Review\nShould the Pistons have drafted Carmelo?\nThe al|together and Insani Visual Novel Translations\nThe Best Anime Series of 2021\nFour May Issues of The Nursery Magazine (1873-81)",
@@ -123,6 +133,26 @@
       "feedUrl": "https://social.emucafe.org/feed",
       "siteUrl": "https://social.emucafe.org",
       "articles": [
+        {
+          "id": "https://social.emucafe.org/?p=490",
+          "author": "Nicholas A. Ferrell",
+          "description": "The Russian government is appropriating Soviet humor. (I dare say that this is a better example of Russia’s questionable Iran-coddling commentary than the one I used for an October 14 article at The New Leaf Journal.)",
+          "link": "https://social.emucafe.org/naferrell/russia-on-the-rights-of-occupiers/",
+          "publishedOn": "2023-11-06T20:00:25.000Z",
+          "wordCount": null,
+          "title": "Russia on the rights of “occupiers”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://social.emucafe.org/?p=487",
+          "author": "Nicholas A. Ferrell",
+          "description": "I return from a brief and unplanned publishing break with an important story (“important” is the operative word here). I use a MikroTik hAP ac3 internet router. However, I disabled its wi-fi functionality and use a low-end tp-link access point for wireless. The access point is right in front of my computer. I turned on […]",
+          "link": "https://social.emucafe.org/naferrell/tplink-ap-lights/",
+          "publishedOn": "2023-11-06T15:48:05.000Z",
+          "wordCount": 710,
+          "title": "tp-link Wi-Fi Access Point Lights",
+          "imageUrl": "https://social.emucafe.org/wp-content/uploads/2023/09/cropped-emucafesocial_icon-1.jpg"
+        },
         {
           "id": "https://social.emucafe.org/?p=483",
           "author": "Nicholas A. Ferrell",
@@ -237,6 +267,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111364525860926232",
+          "author": null,
+          "description": "The original Mario Party for Nintendo 64 had some poorly-conceived mini games that required players to rapidly spin the delicate Nintendo 64 joystick. I remember them for destroying joysticks. Others claimed terrible injuries. This is the story of Nintendo's offer of gloves as a result of a settlement with New York State (I note the gloves would not have saved any controllers from harm).\nhttps://thenewleafjournal.com/history-of-the-mario-party-gloves/\n#nintendo #n64 #marioparty #law #videogamehistory",
+          "link": "https://linuxrocks.online/@nafnlj/111364525860926232",
+          "publishedOn": "2023-11-06T16:23:29.000Z",
+          "wordCount": 120,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111268658658240443",
           "author": null,
