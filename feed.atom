@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-06T20:11:17.710Z</updated>
+    <updated>2023-11-07T14:09:55.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Seen in Carroll Gardens, Brooklyn, a Halloween snake decoration protecting flowers on a front lawn.
+
+I covered this find over at The New Leaf Journal with an additional photo:
+
+https://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/
+
+#halloween #brooklyn #nyc #carrollgardens #snake #skeleton #flowers #lawn #sign #pixel3axl]]></title>
+        <id>https://pixelfed.social/p/nafnlj/627504407558655689</id>
+        <link href="https://pixelfed.social/p/nafnlj/627504407558655689"/>
+        <updated>2023-11-07T13:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Seen in Carroll Gardens, Brooklyn, a Halloween snake decoration protecting flowers on a front lawn.<br />
+<br />
+I covered this find over at The New Leaf Journal with an additional photo:<br />
+<br />
+<a href="https://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/</a><br />
+<br />
+<a href="https://pixelfed.social/discover/tags/halloween?src=hash" title="#halloween" class="u-url hashtag" rel="external nofollow noopener">#halloween</a> <a href="https://pixelfed.social/discover/tags/brooklyn?src=hash" title="#brooklyn" class="u-url hashtag" rel="external nofollow noopener">#brooklyn</a> <a href="https://pixelfed.social/discover/tags/nyc?src=hash" title="#nyc" class="u-url hashtag" rel="external nofollow noopener">#nyc</a> <a href="https://pixelfed.social/discover/tags/carrollgardens?src=hash" title="#carrollgardens" class="u-url hashtag" rel="external nofollow noopener">#carrollgardens</a> <a href="https://pixelfed.social/discover/tags/snake?src=hash" title="#snake" class="u-url hashtag" rel="external nofollow noopener">#snake</a> <a href="https://pixelfed.social/discover/tags/skeleton?src=hash" title="#skeleton" class="u-url hashtag" rel="external nofollow noopener">#skeleton</a> <a href="https://pixelfed.social/discover/tags/flowers?src=hash" title="#flowers" class="u-url hashtag" rel="external nofollow noopener">#flowers</a> <a href="https://pixelfed.social/discover/tags/lawn?src=hash" title="#lawn" class="u-url hashtag" rel="external nofollow noopener">#lawn</a> <a href="https://pixelfed.social/discover/tags/sign?src=hash" title="#sign" class="u-url hashtag" rel="external nofollow noopener">#sign</a> <a href="https://pixelfed.social/discover/tags/pixel3axl?src=hash" title="#pixel3axl" class="u-url hashtag" rel="external nofollow noopener">#pixel3axl</a>]]></summary>
+        <author>
+            <name>nafnlj on Pixelfed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carroll Gardens Halloween Snake Skeleton]]></title>
+        <id>https://thenewleafjournal.com/?p=21532</id>
+        <link href="https://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/"/>
+        <updated>2023-11-07T13:49:36.000Z</updated>
+        <summary type="html"><![CDATA[A Carroll Gardens household puts a Halloween snake skeleton decoration to good use on their front lawn.
+Possibly related posts...
+
+A Walk Across the Hamilton Avenue Footbridge
+Flying 12-Foot Witch in Carroll Gardens
+Justin & Justina 〜 4th of July Grill Sacrifices to…
+A Trip Across Brooklyn's Summit Street Bridge
+Historic Districts and Looming Tall Buildings
+Flexible Hose Halloween Snake Creature
+Halloween Cooking and Decorating Tips From 1913
+Balancing Bear Topiary in Carroll Gardens
+American Beauty Pasta Mural in Brooklyn]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russia on the rights of “occupiers”]]></title>
         <id>https://social.emucafe.org/?p=490</id>
@@ -404,27 +447,6 @@ On NYC Curfews and Essential Workers
 In Support of the Lawsuit Against NYC Dining Sheds
 Justin & Justina: Most-Read NLJ Content of 2020
 A 2021 List of Alternative Search Engines and Search…]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citizenship Rules for Running for President of Egypt]]></title>
-        <id>https://thenewleafjournal.com/?p=21471</id>
-        <link href="https://thenewleafjournal.com/citizenship-rules-for-running-for-president-of-egypt/"/>
-        <updated>2023-10-08T21:38:28.000Z</updated>
-        <summary type="html"><![CDATA[Examining how the Egyptian constitution handles citizenship and dual nationality in the context of eligibility to run for President.
-Possibly related posts...
-
-The Japanese Citizenship Requirement for Sumo Stablemasters
-Interesting Case on Japan's Dual Citizenship Ban
-1892 Reports on First Year of Basketball
-Imagination in Pokémon Red and Blue
-1883 Opening of the Brooklyn Bridge
-The Misuse of Impeachment and Roy Hibbert's Jersey
-History of Thanksgiving Proclamations in the Philippines
-The Story of Billy Possum, President Hoover's Pet Opossum
-The Hang Glider Citizenship Provision]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>

@@ -23,6 +23,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21532",
+          "author": "Nicholas A. Ferrell",
+          "description": "A Carroll Gardens household puts a Halloween snake skeleton decoration to good use on their front lawn.\nPossibly related posts...\n\nA Walk Across the Hamilton Avenue Footbridge\nFlying 12-Foot Witch in Carroll Gardens\nJustin & Justina 〜 4th of July Grill Sacrifices to…\nA Trip Across Brooklyn's Summit Street Bridge\nHistoric Districts and Looming Tall Buildings\nFlexible Hose Halloween Snake Creature\nHalloween Cooking and Decorating Tips From 1913\nBalancing Bear Topiary in Carroll Gardens\nAmerican Beauty Pasta Mural in Brooklyn",
+          "link": "https://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/",
+          "publishedOn": "2023-11-07T13:49:36.000Z",
+          "wordCount": 1696,
+          "title": "Carroll Gardens Halloween Snake Skeleton",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/11/halloween-snake-skeleton-nlj.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21528",
           "author": "Nicholas A. Ferrell",
           "description": "On upgrading my Google Pixel 3a XL from LineageOS 19 to LineageOS 20.\nPossibly related posts...\n\nInstalling GrapheneOS on a Google Pixel 6a\nFrom Murena Teracube 2e to Pixel 3a XL with LineageOS\nInstalling LineageOS on a 2013 Nexus 7 (Wi-Fi)\nReview of /e/ - An Android Alternative For Mobile Phones\nThe BunnyPress Chronicles: Story and Review\nA Segmentation Fault and a Peculiar Ghostwriter…\nReview of the Teracube 2e Smartphone\nJustin and Justina review 2022 at the NLJ\nNew Computer, New Leaf",
@@ -91,16 +101,6 @@
           "wordCount": 2527,
           "title": "Christopher Columbidae in Brooklyn",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/10/columbus-pigeon-1.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=21471",
-          "author": "Nicholas A. Ferrell",
-          "description": "Examining how the Egyptian constitution handles citizenship and dual nationality in the context of eligibility to run for President.\nPossibly related posts...\n\nThe Japanese Citizenship Requirement for Sumo Stablemasters\nInteresting Case on Japan's Dual Citizenship Ban\n1892 Reports on First Year of Basketball\nImagination in Pokémon Red and Blue\n1883 Opening of the Brooklyn Bridge\nThe Misuse of Impeachment and Roy Hibbert's Jersey\nHistory of Thanksgiving Proclamations in the Philippines\nThe Story of Billy Possum, President Hoover's Pet Opossum\nThe Hang Glider Citizenship Provision",
-          "link": "https://thenewleafjournal.com/citizenship-rules-for-running-for-president-of-egypt/",
-          "publishedOn": "2023-10-08T21:38:28.000Z",
-          "wordCount": 2527,
-          "title": "Citizenship Rules for Running for President of Egypt",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
         }
       ]
     },
@@ -260,7 +260,18 @@
       "title": "nafnlj on Pixelfed",
       "feedUrl": "https://pixelfed.social/users/nafnlj.atom",
       "siteUrl": "https://pixelfed.social/nafnlj",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://pixelfed.social/p/nafnlj/627504407558655689",
+          "author": null,
+          "description": "Seen in Carroll Gardens, Brooklyn, a Halloween snake decoration protecting flowers on a front lawn.<br />\n<br />\nI covered this find over at The New Leaf Journal with an additional photo:<br />\n<br />\n<a href=\"https://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/</a><br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/halloween?src=hash\" title=\"#halloween\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#halloween</a> <a href=\"https://pixelfed.social/discover/tags/brooklyn?src=hash\" title=\"#brooklyn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklyn</a> <a href=\"https://pixelfed.social/discover/tags/nyc?src=hash\" title=\"#nyc\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#nyc</a> <a href=\"https://pixelfed.social/discover/tags/carrollgardens?src=hash\" title=\"#carrollgardens\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#carrollgardens</a> <a href=\"https://pixelfed.social/discover/tags/snake?src=hash\" title=\"#snake\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#snake</a> <a href=\"https://pixelfed.social/discover/tags/skeleton?src=hash\" title=\"#skeleton\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#skeleton</a> <a href=\"https://pixelfed.social/discover/tags/flowers?src=hash\" title=\"#flowers\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#flowers</a> <a href=\"https://pixelfed.social/discover/tags/lawn?src=hash\" title=\"#lawn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#lawn</a> <a href=\"https://pixelfed.social/discover/tags/sign?src=hash\" title=\"#sign\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#sign</a> <a href=\"https://pixelfed.social/discover/tags/pixel3axl?src=hash\" title=\"#pixel3axl\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pixel3axl</a>",
+          "link": "https://pixelfed.social/p/nafnlj/627504407558655689",
+          "publishedOn": "2023-11-07T13:58:29.000Z",
+          "wordCount": null,
+          "title": "Seen in Carroll Gardens, Brooklyn, a Halloween snake decoration protecting flowers on a front lawn.\n\nI covered this find over at The New Leaf Journal with an additional photo:\n\nhttps://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/\n\n#halloween #brooklyn #nyc #carrollgardens #snake #skeleton #flowers #lawn #sign #pixel3axl",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "N.A. Ferrell",
