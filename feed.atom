@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-07T14:09:55.470Z</updated>
+    <updated>2023-11-07T20:11:12.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On idiosyncratic blogging interests]]></title>
+        <id>https://social.emucafe.org/?p=496</id>
+        <link href="https://social.emucafe.org/naferrell/on-idiosyncratic-blogging-interests/"/>
+        <updated>2023-11-07T14:19:48.000Z</updated>
+        <summary type="html"><![CDATA[From Mr. Heinrik Karlsson’s “A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox” Having idiosyncratic interests that grow in complexity means that if you pursue them too far you will end up obsessed with things that no one else around you cares […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seen in Carroll Gardens, Brooklyn, a Halloween snake decoration protecting flowers on a front lawn.
 

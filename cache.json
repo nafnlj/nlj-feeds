@@ -134,6 +134,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=496",
+          "author": "Nicholas A. Ferrell",
+          "description": "From Mr. Heinrik Karlsson’s “A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox” Having idiosyncratic interests that grow in complexity means that if you pursue them too far you will end up obsessed with things that no one else around you cares […]",
+          "link": "https://social.emucafe.org/naferrell/on-idiosyncratic-blogging-interests/",
+          "publishedOn": "2023-11-07T14:19:48.000Z",
+          "wordCount": null,
+          "title": "On idiosyncratic blogging interests",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=490",
           "author": "Nicholas A. Ferrell",
           "description": "The Russian government is appropriating Soviet humor. (I dare say that this is a better example of Russia’s questionable Iran-coddling commentary than the one I used for an October 14 article at The New Leaf Journal.)",
