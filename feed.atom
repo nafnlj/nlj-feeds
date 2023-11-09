@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-09T14:09:56.224Z</updated>
+    <updated>2023-11-09T20:11:35.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kodi Segfault on Fedora 40]]></title>
+        <id>https://social.emucafe.org/?p=506</id>
+        <link href="https://social.emucafe.org/naferrell/kodi-segfault-on-fedora-40/"/>
+        <updated>2023-11-09T16:32:22.000Z</updated>
+        <summary type="html"><![CDATA[I use a low-end Beelink mini-PC as a TV box (this will be a New Leaf Journal article eventually). I run Fedora on the mini PC and switch between GNOME and Kodi sessions depending on what I am doing. Yesterday, I upgraded from Fedora 39 to Fedora 40. The upgrade went smoothly. Everything appeared to […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A friendly Halloween ghost scarecrow seen in America's first suburb, the New York City neighborhood of Brooklyn Heights.
 
