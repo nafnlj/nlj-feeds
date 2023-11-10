@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-09T20:11:35.342Z</updated>
+    <updated>2023-11-10T14:09:55.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -427,20 +427,6 @@ Our three new articles...
 Citizenship Rules for Running for President of Egypt (I examine how Egypt handles dual citizenship in the contex…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111217966057891601</id>
-        <link href="https://linuxrocks.online/@nafnlj/111217966057891601"/>
-        <updated>2023-10-11T19:11:24.000Z</updated>
-        <summary type="html"><![CDATA[I run two WordPress accounts that double as ActivityPub profiles thanks to ActivityPub for WordPress. You can follow them for links to my longer-form writing.
-New Leaf Journal: @newleafjournal 
-(This is my main project. You will find links to new articles with short descriptions.)
-Emu Café Social: @naferrell 
-(This is my social publishing site. You will find my short-form posts in full -- instance permitting.)]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
