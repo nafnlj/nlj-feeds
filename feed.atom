@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-11T14:08:57.432Z</updated>
+    <updated>2023-11-11T20:10:24.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CLX 〜 Upgrading from 59 to 60 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/160/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/160/"/>
+        <updated>2023-11-11T17:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 60th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. After a brief unplanned hiatus, we returned to our ordinary publishing pace last week. Below, I share our newest articles, links from around the web, and news and notes about The New Leaf Journal.
+Leaves from the week that was
+I published five new articles since mailing the previous newsletter.
+October 2023 at The New Leaf Journal
+No one said these months in review had to be published in the month of review.  
+Planning and Angel Next Door Season 2
+The anticipated results of good article planning.  
+Upgrading Pixel 3a XL …]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7-Eleven Embraces Open Source (Food)]]></title>
+        <id>https://social.emucafe.org/?p=513</id>
+        <link href="https://social.emucafe.org/naferrell/7-eleven-open-source/"/>
+        <updated>2023-11-11T16:30:11.000Z</updated>
+        <summary type="html"><![CDATA[SoraNews24 published an entire article about making a recipe released by 7-Eleven in Japan. I think the recipe looks good (“to die for” is probably excessive, however). But regardless of whether you think 7-Eleven’s sausage-butter-rice dish looks appetizing, I am sure you can join me in praising the convenience store chain for fully embracing open […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111392786146540119</id>
+        <link href="https://linuxrocks.online/@nafnlj/111392786146540119"/>
+        <updated>2023-11-11T16:10:26.000Z</updated>
+        <summary type="html"><![CDATA[Re-printing the first U.S. Veterans Day Proclamation, written and issued by then-President (and prominent veteran) Dwight D. Eisenhower 69 years to the day:
+https://thenewleafjournal.com/eisenhowers-1954-veterans-day-proclamation/
+#VeteransDay #Eisenhower #veterans #ushistory #history]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ominous News For a Game Company]]></title>
         <id>https://social.emucafe.org/?p=510</id>
