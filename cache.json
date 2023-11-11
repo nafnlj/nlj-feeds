@@ -124,6 +124,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=510",
+          "author": "Nicholas A. Ferrell",
+          "description": "On October 11, 2023, Nintendo Life cited to reports that Disney is looking to purchase a video game company. This sounds very ominous so I am crossing my fingers that they do not buy a company that makes good games. Go for one of the companies that makes those terrible free-to-start mobile games!",
+          "link": "https://social.emucafe.org/naferrell/ominous-news-for-a-game-company/",
+          "publishedOn": "2023-11-11T00:59:04.000Z",
+          "wordCount": null,
+          "title": "Ominous News For a Game Company",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=506",
           "author": "Nicholas A. Ferrell",
           "description": "I use a low-end Beelink mini-PC as a TV box (this will be a New Leaf Journal article eventually). I run Fedora on the mini PC and switch between GNOME and Kodi sessions depending on what I am doing. Yesterday, I upgraded from Fedora 39 to Fedora 40. The upgrade went smoothly. Everything appeared to […]",
