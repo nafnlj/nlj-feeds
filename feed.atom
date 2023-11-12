@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-12T14:08:59.048Z</updated>
+    <updated>2023-11-12T20:10:30.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111399062803809661</id>
+        <link href="https://linuxrocks.online/@nafnlj/111399062803809661"/>
+        <updated>2023-11-12T18:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Re-printing "Pumpkin Pie," a seasonal early 20th century children's poem by Mary Mapes Dodge.
+https://thenewleafjournal.com/pumpkin-pie-a-childrens-poem-by-mary-mapes-dodge/
+#poem #poetry #pumpkin #pumpkinpie #autumn #thanksgiving]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“I Voted” Sticker Appears in Pocket]]></title>
         <id>https://thenewleafjournal.com/?p=21553</id>
