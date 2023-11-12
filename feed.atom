@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-11T20:10:24.304Z</updated>
+    <updated>2023-11-12T14:08:59.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“I Voted” Sticker Appears in Pocket]]></title>
+        <id>https://thenewleafjournal.com/?p=21553</id>
+        <link href="https://thenewleafjournal.com/i-voted-sticker-appears-in-pocket/"/>
+        <updated>2023-11-11T21:59:05.000Z</updated>
+        <summary type="html"><![CDATA[I was surprised that no one gave me an "I Voted!" sticker when I voted in November 2023... then I checked my pocket.
+Possibly related posts...
+
+1897 Magazine Offer - Pocket Kodak and Kodak No. 4…
+One Man, One Vote, Two "I Voted!" Stickers
+You Can't Fix Stupid - King Baby
+On Finding Money In Your Coat Pocket 〜 A Justin and…
+The "King Baby BKF" Sticker in Gowanus, Brooklyn
+Spare "I Voted" sticker for 2023
+An Unpleasant Voting Odor
+The Downed Stop Sign in Vinegar Hill
+Card Hero and games on limited hardware]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CLX 〜 Upgrading from 59 to 60 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/160/</id>
