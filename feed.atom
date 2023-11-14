@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-14T14:10:25.007Z</updated>
+    <updated>2023-11-14T20:10:34.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111410641536063115</id>
+        <link href="https://linuxrocks.online/@nafnlj/111410641536063115"/>
+        <updated>2023-11-14T19:51:18.000Z</updated>
+        <summary type="html"><![CDATA[It has been a rough year for search engines I reviewed.  Peekier went offline and turned into a Kagi redirect last February.  But again, my review lives on.
+https://thenewleafjournal.com/peekier-search-engine-review/
+#peekier #searchengine]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111410637206705043</id>
+        <link href="https://linuxrocks.online/@nafnlj/111410637206705043"/>
+        <updated>2023-11-14T19:50:12.000Z</updated>
+        <summary type="html"><![CDATA[Elephind, a newspaper search engine that I used for a number of projects, has been taken offline. For those who are curious about what it looked like, my review lives on.
+https://thenewleafjournal.com/reviewing-elephind-a-powerful-newspaper-search-engine/
+#elephind #searchengine]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hair Color in Japanese Anime, Manga, and Games]]></title>
+        <id>https://thenewleafjournal.com/?post_type=collection&amp;p=21572</id>
+        <link href="https://thenewleafjournal.com/collection/hair-color-in-japanese-anime-manga-and-games/"/>
+        <updated>2023-11-14T18:58:17.000Z</updated>
+        <summary type="html"><![CDATA[I have published a growing collection of articles on hair color in Japanese anime, manga, and games (usually visual novels). My […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Coach Jimbo Fisher’s Buyout]]></title>
+        <id>https://thenewleafjournal.com/?p=21558</id>
+        <link href="https://thenewleafjournal.com/on-coach-jimbo-fishers-buyout/"/>
+        <updated>2023-11-14T17:52:20.000Z</updated>
+        <summary type="html"><![CDATA[Texas A&M's decision to pay Coach Jimbo Fisher $76.8 million to not coach the school's football team raises questions about its priorities as an institution.
+Possibly related posts...
+
+College Football Coach Salaries and Buyouts and…
+Should the Pistons have drafted Carmelo?
+The Japanese Citizenship Requirement for Sumo Stablemasters
+1997 Otis Thorpe trade and the 2003 NBA Draft
+Sega of Japan's Yukawa Dreamcast Commercials
+Brown hair and dress codes in Ippon Again!
+Imagination in Pokémon Red and Blue
+Playing Through Cancer in Silence: Shawn Respert's NBA Story
+CUNY Un-Persons A Successful Alum]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111399062803809661</id>
