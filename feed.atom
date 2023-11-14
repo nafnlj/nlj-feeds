@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-13T20:10:19.021Z</updated>
+    <updated>2023-11-14T14:10:25.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -430,38 +430,6 @@ https://thenewleafjournal.com/introducing-the-1922-better-homes-in-america-demon
         <summary type="html"><![CDATA[I came across an article noting that Corey Seager of the Texas Rangers was walked three times in a 3-game sweep of the Baltimore Orioles in the American League Divisional Series, breaking Barry Bonds’ 2003 record of 8 for a divisional series. I am not a baseball fan and am not following the playoffs, but […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Article] Formatting for The New Leaf Journal ActivityPub profile i…]]></title>
-        <id>https://social.emucafe.org/naferrell/479/</id>
-        <link href="https://social.emucafe.org/naferrell/479/"/>
-        <updated>2023-10-15T20:06:29.000Z</updated>
-        <summary type="html"><![CDATA[Formatting for The New Leaf Journal ActivityPub profile is a work in progress but everything works perfectly here on Emu Café Social.]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Importance of Sourcing]]></title>
-        <id>https://social.emucafe.org/?p=474</id>
-        <link href="https://social.emucafe.org/naferrell/importance-of-sourcing/"/>
-        <updated>2023-10-15T19:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Jonathan Turley’s blog is part of my RSS feed collection. One reason I enjoy his work is because he is consistent in his views and articulates his position well. However, his recent piece on free speech issues related to the response to pro-Hamas demonstrations on college campuses in the last week was a bit sloppy. […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111240553075801733</id>
-        <link href="https://linuxrocks.online/@nafnlj/111240553075801733"/>
-        <updated>2023-10-15T18:55:34.000Z</updated>
-        <summary type="html"><![CDATA[I took a trip through Pokemon's Kanto region to examine the 10 city/town slogans and how they changed (or stayed the same) through all of Kanto's appearances. Because everyone likes rankings, I concluded with a ranking of the slogans based on the slogans in and of themselves and how they fit the city or town.
-https://thenewleafjournal.com/town-slogans-pokemons-kanto/
-#pokemon #gameboy #videogames]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
