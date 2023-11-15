@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-15T14:10:44.025Z</updated>
+    <updated>2023-11-15T20:11:37.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111415156052359004</id>
+        <link href="https://linuxrocks.online/@nafnlj/111415156052359004"/>
+        <updated>2023-11-15T14:59:24.000Z</updated>
+        <summary type="html"><![CDATA[I have written a number of articles about hair color in Japanese anime, manga, novels, and games (usually visual novels) -- because why not become the internet's leading resource in something?  I finally got around to creating a collection page for this very important 2D anthropology project.
+https://thenewleafjournal.com/collection/hair-color-in-japanese-anime-manga-and-games/
+#anime #manga #visualnovels #haircolor #dresscodes]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hair Color in Raven of the Inner Palace]]></title>
         <id>https://thenewleafjournal.com/?p=21566</id>
