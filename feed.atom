@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-14T20:10:34.408Z</updated>
+    <updated>2023-11-15T14:10:44.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hair Color in Raven of the Inner Palace]]></title>
+        <id>https://thenewleafjournal.com/?p=21566</id>
+        <link href="https://thenewleafjournal.com/hair-color-in-raven-of-the-inner-palace/"/>
+        <updated>2023-11-15T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Examining the significance of Liu Shouxe's naturally silver hair in the Raven of the Inner Palace anime series.
+Possibly related posts...
+
+The Best of Anime in 2022: Year in Review
+Hair Color in The Apothecary Diaries Anime
+Additional Best of 2022 in Anime Awards
+Hair Color in A Dream of Summer
+Tokyo High Schools Change Hair Color Dress Code Policies
+Brown hair and dress codes in Ippon Again!
+Understanding Hair Color in the Kimi ni Todoke Anime Series
+Hair Color Dress Code Rules in Japan
+Iroha Isshiki's Hair is Brown, as Expected?]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hair Color in The Apothecary Diaries Anime]]></title>
+        <id>https://thenewleafjournal.com/?p=21562</id>
+        <link href="https://thenewleafjournal.com/hair-color-in-the-apothecary-diaries-anime/"/>
+        <updated>2023-11-15T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Examining unusual hair colors in the main characters of Ming China-inspired The Apothecary Diaries.
+Possibly related posts...
+
+Hair Color in A Dream of Summer
+Tokyo High Schools Change Hair Color Dress Code Policies
+Brown hair and dress codes in Ippon Again!
+Understanding Hair Color in the Kimi ni Todoke Anime Series
+Hair Color Dress Code Rules in Japan
+Iroha Isshiki's Hair is Brown, as Expected?
+Hair Color and Albinism in Red Shift Visual Novel
+Kaori Orimoto's Hair is Blacker than I Expected
+Hair Color in Japanese Anime, Manga, and Games]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111410641536063115</id>
@@ -463,28 +505,6 @@ https://thenewleafjournal.com/hair-color-in-a-dream-of-summer/
 #visualnovels #VisualNovel #videogames #freeware #haircolor]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111246020448910050</id>
-        <link href="https://linuxrocks.online/@nafnlj/111246020448910050"/>
-        <updated>2023-10-16T18:06:00.000Z</updated>
-        <summary type="html"><![CDATA[A look back at the 1922 Better Homes Demonstration Week, a project headed by the administration of then-U.S. President Warren Harding. This introduction post links to two follow-up articles on remarks by then-Vice President Calvin Coolidge and Commerce Secretary Herbert Hoover.
-https://thenewleafjournal.com/introducing-the-1922-better-homes-in-america-demonstration-week/
-#ushistory #history #uspresident #home]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corey Seager Breaks Bonds’ Divisional Series Walks Record]]></title>
-        <id>https://social.emucafe.org/?p=480</id>
-        <link href="https://social.emucafe.org/naferrell/seager-bonds-ds-walks/"/>
-        <updated>2023-10-16T17:41:57.000Z</updated>
-        <summary type="html"><![CDATA[I came across an article noting that Corey Seager of the Texas Rangers was walked three times in a 3-game sweep of the Baltimore Orioles in the American League Divisional Series, breaking Barry Bonds’ 2003 record of 8 for a divisional series. I am not a baseball fan and am not following the playoffs, but […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
