@@ -154,6 +154,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=519",
+          "author": "Nicholas A. Ferrell",
+          "description": "Running The New Leaf Journal takes me interesting places. For example, it has taken me to Grenada over the last few days. Not literally, mind you. I am not much of a traveling guy (nor am I a big fan of planes or other vehicles). I am researching Thanksgiving in Grenada for what promises to […]",
+          "link": "https://social.emucafe.org/naferrell/nlj-takes-me-to-grenada/",
+          "publishedOn": "2023-11-16T16:35:00.000Z",
+          "wordCount": null,
+          "title": "NLJ Takes Me To Grenada",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=513",
           "author": "Nicholas A. Ferrell",
           "description": "SoraNews24 published an entire article about making a recipe released by 7-Eleven in Japan. I think the recipe looks good (“to die for” is probably excessive, however). But regardless of whether you think 7-Eleven’s sausage-butter-rice dish looks appetizing, I am sure you can join me in praising the convenience store chain for fully embracing open […]",
@@ -318,6 +328,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111421097733714388",
+          "author": null,
+          "description": "Last year, I published a history of Thanksgiving proclamations in the Philippines from the U.S. colonial era through the first President Marcos's significantly changed take on the holiday.\nhttps://thenewleafjournal.com/history-of-thanksgiving-proclamations-in-the-philippines/\n#thanksgiving #philippines #history #ushistory #holiday",
+          "link": "https://linuxrocks.online/@nafnlj/111421097733714388",
+          "publishedOn": "2023-11-16T16:10:27.000Z",
+          "wordCount": 120,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111415156052359004",
           "author": null,
