@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-17T14:10:21.822Z</updated>
+    <updated>2023-11-17T20:11:57.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111426853033130348</id>
+        <link href="https://linuxrocks.online/@nafnlj/111426853033130348"/>
+        <updated>2023-11-17T16:34:06.000Z</updated>
+        <summary type="html"><![CDATA[After capturing an impromptu piano recital in my home featuring at least two Danbo and two stuffed chicks, I decided that I had accomplished everything I could as as a photographer.
+https://thenewleafjournal.com/hatchling-and-danbo-have-a-piano-recital/
+#photography #danbo #piano #chick #stuffedanimals #kokeshi]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reagan, Thanksgiving Proclamations, and Grenada]]></title>
+        <id>https://social.emucafe.org/?p=523</id>
+        <link href="https://social.emucafe.org/naferrell/reagan-thanksgiving-proclamation-grenada/"/>
+        <updated>2023-11-17T16:08:15.000Z</updated>
+        <summary type="html"><![CDATA[I just published my article on Grenada’s annual October 25 Thanksgiving. As I explain in that piece, Grenada’s Thanksgiving commemorates the date of the commencement of the 1983 U.S.-led intervention to restore order on the island after a palace coup. It occurred to me right after publishing the article (somehow only after) to check whether […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[October 25 Thanksgiving in Grenada]]></title>
+        <id>https://thenewleafjournal.com/?p=21592</id>
+        <link href="https://thenewleafjournal.com/october-25-thanksgiving-in-grenada/"/>
+        <updated>2023-11-17T15:53:26.000Z</updated>
+        <summary type="html"><![CDATA[Examining Greanda's annual October 25 Thanksgiving, which commemorates the beginning of the 1983 American-led intervention to restore order in the small Caribbean nation.
+Possibly related posts...
+
+History of Thanksgiving Proclamations in the Philippines
+Washington's 1789 Thanksgiving Proclamation
+Calvin Coolidge's 1923 Thanksgiving Proclamation
+Return to Shironagasu Island Review
+When President Coolidge Spared a Raccoon From…
+"Coffee Fruit Punch" - A Cookbook Abomination
+Justin & Justina: Most-Read NLJ Content of 2020
+Fallen Inflatable Thanksgiving Turkey
+Justin and Justina review 2022 at the NLJ]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NLJ Takes Me To Grenada]]></title>
         <id>https://social.emucafe.org/?p=519</id>
