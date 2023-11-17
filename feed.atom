@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-16T20:11:50.601Z</updated>
+    <updated>2023-11-17T14:10:21.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -514,18 +514,6 @@ The Hang Glider Citizenship Provision
 Immigration Issues in NYPD Chinese Agent Case]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111256642596120298</id>
-        <link href="https://linuxrocks.online/@nafnlj/111256642596120298"/>
-        <updated>2023-10-18T15:07:21.000Z</updated>
-        <summary type="html"><![CDATA[From last November (I was a bit late), a 12-foot flying witch seen in Carroll Gardens, Brooklyn (NYC).
-https://thenewleafjournal.com/flying-12-foot-witch-in-carroll-gardens/
-#halloween #witch #brooklyn #nyc #carrollgardens]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
