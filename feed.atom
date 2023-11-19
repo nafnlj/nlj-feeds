@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-19T14:08:56.904Z</updated>
+    <updated>2023-11-19T20:11:50.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bing De-Indexing Article Cited To On Blue Dwarf]]></title>
+        <id>https://social.emucafe.org/?p=527</id>
+        <link href="https://social.emucafe.org/naferrell/bing-de-indexing-article-cited-to-on-blue-dwarf/"/>
+        <updated>2023-11-19T16:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2022, I wrote an article on the importance of being in good standing with Microsoft Bing for reaching searchers who prefer privacy-friendly search solutions. While Bing itself is far from privacy-friendly, many alternatives such as DuckDuckGo, Qwant, Ecosia, and Swisscows use Bing’s search index. That particular article was inspired by a post on […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
         <id>https://github.com/nafnlj/nljfeeds/commit/83be1f70e7dc0fe450a98b70becc177024f8d826</id>
