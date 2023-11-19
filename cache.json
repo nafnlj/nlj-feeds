@@ -4,7 +4,18 @@
       "title": "Recent Commits to nljfeeds:main",
       "feedUrl": "https://github.com/nafnlj/nljfeeds/commits/main.atom",
       "siteUrl": "https://github.com/nafnlj/nljfeeds/commits/main",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://github.com/nafnlj/nljfeeds/commit/83be1f70e7dc0fe450a98b70becc177024f8d826",
+          "author": null,
+          "description": "Update osmosfeed.yaml\n\nAdded Victor V. Gurbo's Memos Feed",
+          "link": "https://github.com/nafnlj/nljfeeds/commit/83be1f70e7dc0fe450a98b70becc177024f8d826",
+          "publishedOn": "2023-11-19T02:40:23.000Z",
+          "wordCount": 471,
+          "title": "Update osmosfeed.yaml",
+          "imageUrl": "https://opengraph.githubassets.com/554b88e84eb452bba57464d65d3a00d515f7e558cf0d6bc5eccb6e99dac29651/nafnlj/nljfeeds/commit/83be1f70e7dc0fe450a98b70becc177024f8d826"
+        }
+      ]
     },
     {
       "title": "The New Leaf Journal",
@@ -301,6 +312,23 @@
     {
       "title": "Emu Café Memos",
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
+      "siteUrl": "https://memos.emucafe.org",
+      "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/35",
+          "author": null,
+          "description": "https://www.gutenberg.org/ebooks/13172\n1908 True Crime book featuring 11 stories from the Manhattan District Attorney's Office.  Added to my to-read list.\n#ProjectGutenberg #law #ReadingList",
+          "link": "https://memos.emucafe.org/m/35",
+          "publishedOn": "2023-11-19T02:37:57.000Z",
+          "wordCount": 21,
+          "title": "https://www.gutenberg.org/ebooks/13172",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Emu Café Memos",
+      "feedUrl": "https://memos.emucafe.org/u/3/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
       "articles": []
     },
