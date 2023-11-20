@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-19T20:11:50.385Z</updated>
+    <updated>2023-11-20T14:10:58.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -561,22 +561,6 @@ Two factors caused a lapse in New Leaf Journal publishing. Firstly, middling hea
         <updated>2023-10-25T19:47:15.000Z</updated>
         <author>
             <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CLVIII 〜 A bit of a rush 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/158/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/158/"/>
-        <updated>2023-10-21T19:35:44.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 158th edition of The Newsletter Leaf Journal (the previous one had a Roman numeral title typo -- sad!), the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. I am a bit pressed for time this week, so this newsletter will only cover our most recent posts, links from around the web, and our most-read articles of the week. Let us get straight into the content.
-Leaves from the week that was
-I published two new articles.
-On Russia’s and China’s Self-Awareness
-Russia's and China's statements about restraint and justice ring just a bit hollow.  
-Analyzing BIA Decision in Matter of Salama
-An in-depth study of an interesting 1966 U.S. Board of Immigration Appeals decision with my original legal analysis. I wrote it in a way that should be acc…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>
