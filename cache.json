@@ -360,6 +360,16 @@
       "siteUrl": "https://pixelfed.social/nafnlj",
       "articles": [
         {
+          "id": "https://pixelfed.social/p/nafnlj/633433641589780990",
+          "author": null,
+          "description": "Happy Thanksgiving! Inflatable turkey seen in front of a grocery store in the Brooklyn NYC neighborhood of Carroll Gardens.<br />\n<br />\nArticle:<br />\n<a href=\"https://thenewleafjournal.com/inflatable-thanksgiving-turkey-with-pilgrim-hat/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/inflatable-thanksgiving-turkey-with-pilgrim-hat/</a><br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/nyc?src=hash\" title=\"#nyc\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#nyc</a> <a href=\"https://pixelfed.social/discover/tags/brooklyn?src=hash\" title=\"#brooklyn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklyn</a> <a href=\"https://pixelfed.social/discover/tags/carrollgardens?src=hash\" title=\"#carrollgardens\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#carrollgardens</a> <a href=\"https://pixelfed.social/discover/tags/thanksgiving?src=hash\" title=\"#thanksgiving\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#thanksgiving</a> <a href=\"https://pixelfed.social/discover/tags/inflatable?src=hash\" title=\"#inflatable\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#inflatable</a> <a href=\"https://pixelfed.social/discover/tags/turkey?src=hash\" title=\"#turkey\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#turkey</a> <a href=\"https://pixelfed.social/discover/tags/pumpkin?src=hash\" title=\"#pumpkin\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pumpkin</a> <a href=\"https://pixelfed.social/discover/tags/pixel3axl?src=hash\" title=\"#pixel3axl\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pixel3axl</a> <a href=\"https://pixelfed.social/discover/tags/newleafjournal?src=hash\" title=\"#newleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#newleafjournal</a> <a href=\"https://pixelfed.social/discover/tags/thenewleafjournal?src=hash\" title=\"#thenewleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#thenewleafjournal</a>",
+          "link": "https://pixelfed.social/p/nafnlj/633433641589780990",
+          "publishedOn": "2023-11-23T22:39:08.000Z",
+          "wordCount": null,
+          "title": "Happy Thanksgiving! Inflatable turkey seen in front of a grocery store in the Brooklyn NYC neighborhood of Carroll Gardens.\n\nArticle:\nhttps://thenewleafjournal.com/inflatable-thanksgiving-turkey-with-pilgrim-hat/\n\n#nyc #brooklyn #carrollgardens #thanksgiving #inflatable #turkey #pumpkin #pixel3axl #newleafjournal #thenewleafjournal",
+          "imageUrl": null
+        },
+        {
           "id": "https://pixelfed.social/p/nafnlj/627926942328104814",
           "author": null,
           "description": "A friendly Halloween ghost scarecrow seen in America's first suburb, the New York City neighborhood of Brooklyn Heights.<br />\n<br />\nArticle:<br />\n<a href=\"https://thenewleafjournal.com/brooklyn-heights-halloween-scarecrow/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/brooklyn-heights-halloween-scarecrow/</a><br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/nyc?src=hash\" title=\"#nyc\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#nyc</a> <a href=\"https://pixelfed.social/discover/tags/brooklyn?src=hash\" title=\"#brooklyn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklyn</a> <a href=\"https://pixelfed.social/discover/tags/brooklynheights?src=hash\" title=\"#brooklynheights\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklynheights</a> <a href=\"https://pixelfed.social/discover/tags/halloween?src=hash\" title=\"#halloween\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#halloween</a> <a href=\"https://pixelfed.social/discover/tags/ghost?src=hash\" title=\"#ghost\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#ghost</a> <a href=\"https://pixelfed.social/discover/tags/scarecrow?src=hash\" title=\"#scarecrow\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#scarecrow</a> <a href=\"https://pixelfed.social/discover/tags/brickwall?src=hash\" title=\"#brickwall\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brickwall</a> <a href=\"https://pixelfed.social/discover/tags/pixel3axl?src=hash\" title=\"#pixel3axl\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pixel3axl</a> <a href=\"https://pixelfed.social/discover/tags/thenewleafjournal?src=hash\" title=\"#thenewleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#thenewleafjournal</a> <a href=\"https://pixelfed.social/discover/tags/newleafjournal?src=hash\" title=\"#newleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#newleafjournal</a>",
@@ -517,16 +527,6 @@
           "publishedOn": "2023-10-27T20:25:43.000Z",
           "wordCount": null,
           "title": "Victor V. Gurbo \"Ghost Woman Blues (Home Recording)\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BWRUlsT3-ww",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BWRUlsT3-ww",
-          "publishedOn": "2023-10-25T19:47:15.000Z",
-          "wordCount": null,
-          "title": "Victor V. Gurbo \"Black Rider\" Bob Dylan Cover, Official Music Video",
           "imageUrl": null
         }
       ]

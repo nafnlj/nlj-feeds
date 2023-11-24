@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-23T20:11:10.738Z</updated>
+    <updated>2023-11-24T14:10:05.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Happy Thanksgiving! Inflatable turkey seen in front of a grocery store in the Brooklyn NYC neighborhood of Carroll Gardens.
+
+Article:
+https://thenewleafjournal.com/inflatable-thanksgiving-turkey-with-pilgrim-hat/
+
+#nyc #brooklyn #carrollgardens #thanksgiving #inflatable #turkey #pumpkin #pixel3axl #newleafjournal #thenewleafjournal]]></title>
+        <id>https://pixelfed.social/p/nafnlj/633433641589780990</id>
+        <link href="https://pixelfed.social/p/nafnlj/633433641589780990"/>
+        <updated>2023-11-23T22:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Happy Thanksgiving! Inflatable turkey seen in front of a grocery store in the Brooklyn NYC neighborhood of Carroll Gardens.<br />
+<br />
+Article:<br />
+<a href="https://thenewleafjournal.com/inflatable-thanksgiving-turkey-with-pilgrim-hat/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/inflatable-thanksgiving-turkey-with-pilgrim-hat/</a><br />
+<br />
+<a href="https://pixelfed.social/discover/tags/nyc?src=hash" title="#nyc" class="u-url hashtag" rel="external nofollow noopener">#nyc</a> <a href="https://pixelfed.social/discover/tags/brooklyn?src=hash" title="#brooklyn" class="u-url hashtag" rel="external nofollow noopener">#brooklyn</a> <a href="https://pixelfed.social/discover/tags/carrollgardens?src=hash" title="#carrollgardens" class="u-url hashtag" rel="external nofollow noopener">#carrollgardens</a> <a href="https://pixelfed.social/discover/tags/thanksgiving?src=hash" title="#thanksgiving" class="u-url hashtag" rel="external nofollow noopener">#thanksgiving</a> <a href="https://pixelfed.social/discover/tags/inflatable?src=hash" title="#inflatable" class="u-url hashtag" rel="external nofollow noopener">#inflatable</a> <a href="https://pixelfed.social/discover/tags/turkey?src=hash" title="#turkey" class="u-url hashtag" rel="external nofollow noopener">#turkey</a> <a href="https://pixelfed.social/discover/tags/pumpkin?src=hash" title="#pumpkin" class="u-url hashtag" rel="external nofollow noopener">#pumpkin</a> <a href="https://pixelfed.social/discover/tags/pixel3axl?src=hash" title="#pixel3axl" class="u-url hashtag" rel="external nofollow noopener">#pixel3axl</a> <a href="https://pixelfed.social/discover/tags/newleafjournal?src=hash" title="#newleafjournal" class="u-url hashtag" rel="external nofollow noopener">#newleafjournal</a> <a href="https://pixelfed.social/discover/tags/thenewleafjournal?src=hash" title="#thenewleafjournal" class="u-url hashtag" rel="external nofollow noopener">#thenewleafjournal</a>]]></summary>
+        <author>
+            <name>nafnlj on Pixelfed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111449392958362945</id>
@@ -604,15 +624,6 @@ Two factors caused a lapse in New Leaf Journal publishing. Firstly, middling hea
         <id>https://www.youtube.com/watch?v=64my7NvpwQc</id>
         <link href="https://www.youtube.com/watch?v=64my7NvpwQc"/>
         <updated>2023-10-27T20:25:43.000Z</updated>
-        <author>
-            <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victor V. Gurbo "Black Rider" Bob Dylan Cover, Official Music Video]]></title>
-        <id>https://www.youtube.com/watch?v=BWRUlsT3-ww</id>
-        <link href="https://www.youtube.com/watch?v=BWRUlsT3-ww"/>
-        <updated>2023-10-25T19:47:15.000Z</updated>
         <author>
             <name>Victor V. Gurbo</name>
         </author>
