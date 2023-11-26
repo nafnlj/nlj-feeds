@@ -23,6 +23,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21668",
+          "author": "Nicholas A. Ferrell",
+          "description": "\"The toast is, \"Freedom's favorite son, \nHealth, peace, and joy to Washington!\"\nPossibly related posts...\n\nHistory of New York's Evacuation Day\nPlain Song - Visual Novel Review\nPlain Song Christmas Special - VN Review\nJustin and Justina review 2022 at the NLJ\nHistory of Thanksgiving Proclamations in the Philippines\nMost Important Dylan Songs By Half-Decade\nFamiliar song in Angel Next Door anime\n\"Mondrian\" - Victor V. Gurbo on his Original Song\nThe al|together and Insani Visual Novel Translations",
+          "link": "https://thenewleafjournal.com/1783-ny-evacuation-day-song/",
+          "publishedOn": "2023-11-25T22:01:11.000Z",
+          "wordCount": 1973,
+          "title": "1783 NY Evacuation Day Song",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/11/washington-procession-evacuation-day-loc2.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21621",
           "author": "Nicholas A. Ferrell",
           "description": "A detailed history of New York City's Evacuation Day, a former holiday that landed on November 25 and was second only to Independence Day in NYC's patriotic pantheon.\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nThe New Leaf Journal Celebrates Its First Birthday\nA 2021 List of Alternative Search Engines and Search…\nJustin & Justina: Most-Read NLJ Content of 2020\nOldest Golfers to Contend for Majors Between the…\nAnna Jarvis and the Origin of Mother's Day in the…\n1883 Opening of the Brooklyn Bridge\nThe Enigmatic Life and Death of Emperor Otho\nWinds of New Beginnings: Pokémon Gold & Silver",
@@ -538,28 +548,7 @@
       "title": "Victor V. Gurbo",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA",
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=TAqC7MvJkVg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TAqC7MvJkVg",
-          "publishedOn": "2023-10-27T20:29:03.000Z",
-          "wordCount": null,
-          "title": "Victor V. Gurbo \"Black Rider (Home Recording)\" Bob Dylan Cover",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=64my7NvpwQc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=64my7NvpwQc",
-          "publishedOn": "2023-10-27T20:25:43.000Z",
-          "wordCount": null,
-          "title": "Victor V. Gurbo \"Ghost Woman Blues (Home Recording)\"",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

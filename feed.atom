@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-25T20:10:33.451Z</updated>
+    <updated>2023-11-26T14:09:01.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1783 NY Evacuation Day Song]]></title>
+        <id>https://thenewleafjournal.com/?p=21668</id>
+        <link href="https://thenewleafjournal.com/1783-ny-evacuation-day-song/"/>
+        <updated>2023-11-25T22:01:11.000Z</updated>
+        <summary type="html"><![CDATA["The toast is, "Freedom's favorite son, 
+Health, peace, and joy to Washington!"
+Possibly related posts...
+
+History of New York's Evacuation Day
+Plain Song - Visual Novel Review
+Plain Song Christmas Special - VN Review
+Justin and Justina review 2022 at the NLJ
+History of Thanksgiving Proclamations in the Philippines
+Most Important Dylan Songs By Half-Decade
+Familiar song in Angel Next Door anime
+"Mondrian" - Victor V. Gurbo on his Original Song
+The al|together and Insani Visual Novel Translations]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CLXII 〜 Happy Evacuation Day! 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/162/</id>
@@ -654,24 +676,6 @@ As always? I should say except for last week.
 Two factors caused a lapse in New Leaf Journal publishing. Firstly, middling health commencing on October 24. Secondly, I had a decent amount of work for my law job to do while I was feeling sluggish. As a result, I did not publish any articles. Because I had no articles to share and I still had work to do last weekend, I let October 28 pass without a newsletter. While I have a few article drafts in the pipeline, I still have not published a new piece since October …]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victor V. Gurbo "Black Rider (Home Recording)" Bob Dylan Cover]]></title>
-        <id>https://www.youtube.com/watch?v=TAqC7MvJkVg</id>
-        <link href="https://www.youtube.com/watch?v=TAqC7MvJkVg"/>
-        <updated>2023-10-27T20:29:03.000Z</updated>
-        <author>
-            <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victor V. Gurbo "Ghost Woman Blues (Home Recording)"]]></title>
-        <id>https://www.youtube.com/watch?v=64my7NvpwQc</id>
-        <link href="https://www.youtube.com/watch?v=64my7NvpwQc"/>
-        <updated>2023-10-27T20:25:43.000Z</updated>
-        <author>
-            <name>Victor V. Gurbo</name>
         </author>
     </entry>
 </feed>
