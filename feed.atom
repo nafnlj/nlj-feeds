@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-27T14:10:49.058Z</updated>
+    <updated>2023-11-27T20:11:13.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NBA MVPs and MVP Teammates]]></title>
+        <id>https://thenewleafjournal.com/?p=21685</id>
+        <link href="https://thenewleafjournal.com/nba-mvps-and-mvp-teammates/"/>
+        <updated>2023-11-27T19:53:04.000Z</updated>
+        <summary type="html"><![CDATA[A study of cases in which the paths of former NBA MVPs cross throughout their careers.
+Possibly related posts...
+
+Should the Pistons have drafted Carmelo?
+The Enigmatic Life and Death of Emperor Otho
+ESPN States Tim Duncan was "Born Overseas"
+1997 Otis Thorpe trade and the 2003 NBA Draft
+Anime Recommendations of the Decade (2011-20)
+ACE Academy - Visual Novel Review
+The al|together and Insani Visual Novel Translations
+The Best of Anime in 2022: Year in Review
+The Angel Next Door Spoils Me Rotten - Anime Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111483061144518241</id>
+        <link href="https://linuxrocks.online/@nafnlj/111483061144518241"/>
+        <updated>2023-11-27T14:48:34.000Z</updated>
+        <summary type="html"><![CDATA[My post on a 1913 magazine collection of reader-submitted breakfast, lunch, and dinner menus from the 50 states. I singled out several for looking good (to me). However, I do have some concerns about the AMOUNT of food...
+https://thenewleafjournal.com/american-breakfast-lunch-and-dinner-home-menus-from-1913/
+#Cooking #Recipes #OldRecipes #ProjectGutenberg]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1783 NY Evacuation Day Song]]></title>
         <id>https://thenewleafjournal.com/?p=21668</id>
