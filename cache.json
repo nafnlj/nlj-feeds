@@ -225,6 +225,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=534",
+          "author": "Nicholas A. Ferrell",
+          "description": "The Gothamist published an article on the push to ban street vendors from the magisterial Brooklyn Bridge. I am 100% in support of banning street vendors from the Bridge, but I will focus on another point in the report. See the following quote: But vendors said there are not many legal spots where they can […]",
+          "link": "https://social.emucafe.org/naferrell/alien-street-vendor-unauthorized-employment/",
+          "publishedOn": "2023-11-28T17:21:56.000Z",
+          "wordCount": null,
+          "title": "Alien Street Vendors and Unauthorized Employment",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=527",
           "author": "Nicholas A. Ferrell",
           "description": "Back in 2022, I wrote an article on the importance of being in good standing with Microsoft Bing for reaching searchers who prefer privacy-friendly search solutions. While Bing itself is far from privacy-friendly, many alternatives such as DuckDuckGo, Qwant, Ecosia, and Swisscows use Bing’s search index. That particular article was inspired by a post on […]",
@@ -375,6 +385,16 @@
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
         {
+          "id": "https://memos.emucafe.org/m/36",
+          "author": null,
+          "description": "I discovered that empty first like in alt text field for image in WordPress causes image to always be aligned left, regardless of other settings.\n#WordPress",
+          "link": "https://memos.emucafe.org/m/36",
+          "publishedOn": "2023-11-28T15:25:56.000Z",
+          "wordCount": 21,
+          "title": "I discovered that empty first like in alt text field for image in WordPress causes image to always b...",
+          "imageUrl": null
+        },
+        {
           "id": "https://memos.emucafe.org/m/35",
           "author": null,
           "description": "https://www.gutenberg.org/ebooks/13172\n1908 True Crime book featuring 11 stories from the Manhattan District Attorney's Office.  Added to my to-read list.\n#ProjectGutenberg #law #ReadingList",
@@ -396,7 +416,18 @@
       "title": "The New Leaf Annex",
       "feedUrl": "https://newleafannex.emucafe.org/feed",
       "siteUrl": "https://newleafannex.emucafe.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://newleafannex.emucafe.org/new-custom-bearblog-domain/",
+          "author": null,
+          "description": "I published my previous Bearblog post (it has been a while) back in the middle of the spring anime season (see post). The year is coming to an end. Despite my having written in that post that there was no clear anime of the year front-runner as of the middle of the spring season, my current front-runner for anime of the year (expect my New Leaf Journal year in review at the end of December or early January) is from that very spring season (see my 2022 review).\nBut I digress.\nSince last posting here, I acquired the emucafe.org domain to use for my new social publishing site. Because I paid the small fee for extra Bearblog features, I figured that I may as well use it here too. Thus, my new main domain here is newleafannex.emucafe.org. For anyone considering using their own domain with Bearblog, I will say that the set-up process works exactly as advertised in the docs.",
+          "link": "https://newleafannex.emucafe.org/new-custom-bearblog-domain/",
+          "publishedOn": "2023-11-28T15:44:15.794Z",
+          "wordCount": 566,
+          "title": "New Custom Bearblog Domain",
+          "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
+        }
+      ]
     },
     {
       "title": "N.A. Ferrell",
@@ -409,6 +440,16 @@
       "feedUrl": "https://pixelfed.social/users/nafnlj.atom",
       "siteUrl": "https://pixelfed.social/nafnlj",
       "articles": [
+        {
+          "id": "https://pixelfed.social/p/nafnlj/635129201670710614",
+          "author": null,
+          "description": "Not to brag, but Amazon is telling me that it has been more than 5 years since I last broke my Hario v60 coffee glass.  Not a big deal.  As I said, I don't like to brag.<br />\n<br />\nStory Link: <a href=\"https://thenewleafjournal.com/5-years-without-breaking-my-coffee-glass/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/5-years-without-breaking-my-coffee-glass/</a><br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/coffee?src=hash\" title=\"#coffee\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#coffee</a> <a href=\"https://pixelfed.social/discover/tags/coffeeglass?src=hash\" title=\"#coffeeglass\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#coffeeglass</a> <a href=\"https://pixelfed.social/discover/tags/glass?src=hash\" title=\"#glass\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#glass</a> <a href=\"https://pixelfed.social/discover/tags/hario?src=hash\" title=\"#hario\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#hario</a> <a href=\"https://pixelfed.social/discover/tags/hariov60?src=hash\" title=\"#hariov60\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#hariov60</a> <a href=\"https://pixelfed.social/discover/tags/amazon?src=hash\" title=\"#amazon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#amazon</a> <a href=\"https://pixelfed.social/discover/tags/newleafjournal?src=hash\" title=\"#newleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#newleafjournal</a> <a href=\"https://pixelfed.social/discover/tags/thenewleafjournal?src=hash\" title=\"#thenewleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#thenewleafjournal</a>",
+          "link": "https://pixelfed.social/p/nafnlj/635129201670710614",
+          "publishedOn": "2023-11-28T14:56:41.000Z",
+          "wordCount": null,
+          "title": "Not to brag, but Amazon is telling me that it has been more than 5 years since I last broke my Hario v60 coffee glass.  Not a big deal.  As I said, I don't like to brag.\n\nStory Link: https://thenewleafjournal.com/5-years-without-breaking-my-coffee-glass/\n\n#coffee #coffeeglass #glass #hario #hariov60 #amazon #newleafjournal #thenewleafjournal",
+          "imageUrl": null
+        },
         {
           "id": "https://pixelfed.social/p/nafnlj/633433641589780990",
           "author": null,

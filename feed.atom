@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-28T14:10:43.323Z</updated>
+    <updated>2023-11-28T20:12:00.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alien Street Vendors and Unauthorized Employment]]></title>
+        <id>https://social.emucafe.org/?p=534</id>
+        <link href="https://social.emucafe.org/naferrell/alien-street-vendor-unauthorized-employment/"/>
+        <updated>2023-11-28T17:21:56.000Z</updated>
+        <summary type="html"><![CDATA[The Gothamist published an article on the push to ban street vendors from the magisterial Brooklyn Bridge. I am 100% in support of banning street vendors from the Bridge, but I will focus on another point in the report. See the following quote: But vendors said there are not many legal spots where they can […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Custom Bearblog Domain]]></title>
+        <id>https://newleafannex.emucafe.org/new-custom-bearblog-domain/</id>
+        <link href="https://newleafannex.emucafe.org/new-custom-bearblog-domain/"/>
+        <updated>2023-11-28T15:44:15.794Z</updated>
+        <summary type="html"><![CDATA[I published my previous Bearblog post (it has been a while) back in the middle of the spring anime season (see post). The year is coming to an end. Despite my having written in that post that there was no clear anime of the year front-runner as of the middle of the spring season, my current front-runner for anime of the year (expect my New Leaf Journal year in review at the end of December or early January) is from that very spring season (see my 2022 review).
+But I digress.
+Since last posting here, I acquired the emucafe.org domain to use for my new social publishing site. Because I paid the small fee for extra Bearblog features, I figured that I may as well use it here too. Thus, my new main domain here is newleafannex.emucafe.org. For anyone considering using their own domain with Bearblog, I will say that the set-up process works exactly as advertised in the docs.]]></summary>
+        <author>
+            <name>The New Leaf Annex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I discovered that empty first like in alt text field for image in WordPress causes image to always b...]]></title>
+        <id>https://memos.emucafe.org/m/36</id>
+        <link href="https://memos.emucafe.org/m/36"/>
+        <updated>2023-11-28T15:25:56.000Z</updated>
+        <summary type="html"><![CDATA[I discovered that empty first like in alt text field for image in WordPress causes image to always be aligned left, regardless of other settings.
+#WordPress]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not to brag, but Amazon is telling me that it has been more than 5 years since I last broke my Hario v60 coffee glass.  Not a big deal.  As I said, I don't like to brag.
+
+Story Link: https://thenewleafjournal.com/5-years-without-breaking-my-coffee-glass/
+
+#coffee #coffeeglass #glass #hario #hariov60 #amazon #newleafjournal #thenewleafjournal]]></title>
+        <id>https://pixelfed.social/p/nafnlj/635129201670710614</id>
+        <link href="https://pixelfed.social/p/nafnlj/635129201670710614"/>
+        <updated>2023-11-28T14:56:41.000Z</updated>
+        <summary type="html"><![CDATA[Not to brag, but Amazon is telling me that it has been more than 5 years since I last broke my Hario v60 coffee glass.  Not a big deal.  As I said, I don't like to brag.<br />
+<br />
+Story Link: <a href="https://thenewleafjournal.com/5-years-without-breaking-my-coffee-glass/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/5-years-without-breaking-my-coffee-glass/</a><br />
+<br />
+<a href="https://pixelfed.social/discover/tags/coffee?src=hash" title="#coffee" class="u-url hashtag" rel="external nofollow noopener">#coffee</a> <a href="https://pixelfed.social/discover/tags/coffeeglass?src=hash" title="#coffeeglass" class="u-url hashtag" rel="external nofollow noopener">#coffeeglass</a> <a href="https://pixelfed.social/discover/tags/glass?src=hash" title="#glass" class="u-url hashtag" rel="external nofollow noopener">#glass</a> <a href="https://pixelfed.social/discover/tags/hario?src=hash" title="#hario" class="u-url hashtag" rel="external nofollow noopener">#hario</a> <a href="https://pixelfed.social/discover/tags/hariov60?src=hash" title="#hariov60" class="u-url hashtag" rel="external nofollow noopener">#hariov60</a> <a href="https://pixelfed.social/discover/tags/amazon?src=hash" title="#amazon" class="u-url hashtag" rel="external nofollow noopener">#amazon</a> <a href="https://pixelfed.social/discover/tags/newleafjournal?src=hash" title="#newleafjournal" class="u-url hashtag" rel="external nofollow noopener">#newleafjournal</a> <a href="https://pixelfed.social/discover/tags/thenewleafjournal?src=hash" title="#thenewleafjournal" class="u-url hashtag" rel="external nofollow noopener">#thenewleafjournal</a>]]></summary>
+        <author>
+            <name>nafnlj on Pixelfed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Years Without Breaking My Coffee Glass]]></title>
         <id>https://thenewleafjournal.com/?p=21689</id>
