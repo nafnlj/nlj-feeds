@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-27T20:11:13.859Z</updated>
+    <updated>2023-11-28T14:10:43.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Years Without Breaking My Coffee Glass]]></title>
+        <id>https://thenewleafjournal.com/?p=21689</id>
+        <link href="https://thenewleafjournal.com/5-years-without-breaking-my-coffee-glass/"/>
+        <updated>2023-11-28T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[I use a Hario v60 coffee dripper (02 size) to make pour-over coffee. I have a 15 oz Hario v60 coffee […]
+Possibly related posts...
+
+Persona 4, Coffee, and Children
+"Coffee Fruit Punch" - A Cookbook Abomination
+Rescuing a Ladybug On My Television
+American Breakfast, Lunch, and Dinner Home Menus From 1913
+Hot Coffee on Summer Walks
+Tiki paralogue trick in Fire Emblem Engage
+Welcome to The Emu Café
+Recommended F-Droid FOSS Apps For Android-Based…
+"Technological Imbecile" Retweeted by President]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NBA MVPs and MVP Teammates]]></title>
         <id>https://thenewleafjournal.com/?p=21685</id>
