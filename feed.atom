@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-29T14:10:22.320Z</updated>
+    <updated>2023-11-29T20:11:40.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -35,6 +35,17 @@ History of Thanksgiving Proclamations in the Philippines
 Justin and Justina review 2022 at the NLJ]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trying Open Library as a Reading Tracker]]></title>
+        <id>https://newleafannex.emucafe.org/trying-open-library-as-a-reading-tracker/</id>
+        <link href="https://newleafannex.emucafe.org/trying-open-library-as-a-reading-tracker/"/>
+        <updated>2023-11-29T02:55:21.718Z</updated>
+        <summary type="html"><![CDATA[I am interested in alternatives to big tech software and services. It was for that reason that I switched to Linux in 2020. While I am not big on social media, I use Mastodon, Pixelfed, Minds, and NOSTR to help promote my writing on my self-hosted WordPress projects. I have had an interest in open source alternatives to Goodreads. There are a few interesting ActivityPub powered projects, but they are not quite what I am looking for. At the moment, I am trying Open Library. You can see my fresh profile and current reading.
+I like it thus far. Once you know where everything is, it is easy to navigate and organize books. I also like LibraryThing (not open source), but that is more geared toward collection management than reading tracking. My top request for Open Library is RSS/ATOM support. I maintain a static site with all of my feeds (including this site) and would like to be able to drop an Open Library feed in there without having to be creative. Libreture (for storing and managing DRM-free ebooks) and Inventaire (for cataloguing and trading physical ebooks) both produce feeds for user profiles. Alas, that seems to still be a missing feature for Open Library and LibraryThing. I could see others being disappointed with Open Library's relative lack of social functionality, but I think that may be more of a feature than a bug.]]></summary>
+        <author>
+            <name>The New Leaf Annex</name>
         </author>
     </entry>
     <entry>
