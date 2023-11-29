@@ -23,6 +23,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21695",
+          "author": "Nicholas A. Ferrell",
+          "description": "To hide items and make chatty NPCs or to make \"hidden items\" glow and one-line robot NPCs.\nPossibly related posts...\n\nThe Enigmatic Life and Death of Emperor Otho\nAnime Recommendations of the Decade (2011-20)\nRanking My Big Impression Video Games\nThe al|together and Insani Visual Novel Translations\nACE Academy - Visual Novel Review\nThe Best of Anime in 2022: Year in Review\nThe Angel Next Door Spoils Me Rotten - Anime Review\nHistory of Thanksgiving Proclamations in the Philippines\nJustin and Justina review 2022 at the NLJ",
+          "link": "https://thenewleafjournal.com/on-jrpg-hidden-items-and-npcs/",
+          "publishedOn": "2023-11-29T13:45:00.000Z",
+          "wordCount": 2383,
+          "title": "On JRPG Hidden Items and NPCs",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21689",
           "author": "Nicholas A. Ferrell",
           "description": "I use a Hario v60 coffee dripper (02 size) to make pour-over coffee. I have a 15 oz Hario v60 coffee […]\nPossibly related posts...\n\nPersona 4, Coffee, and Children\n\"Coffee Fruit Punch\" - A Cookbook Abomination\nRescuing a Ladybug On My Television\nAmerican Breakfast, Lunch, and Dinner Home Menus From 1913\nHot Coffee on Summer Walks\nTiki paralogue trick in Fire Emblem Engage\nWelcome to The Emu Café\nRecommended F-Droid FOSS Apps For Android-Based…\n\"Technological Imbecile\" Retweeted by President",
@@ -225,6 +235,26 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=551",
+          "author": "Nicholas A. Ferrell",
+          "description": "I received an email from the Bing Webmaster Team: We hope this message finds you well! We've noticed it's been a while since you last visited Bing Webmaster Tools, and we've genuinely missed having you around! Webmaster Tools has undergone some exciting updates and improvements recently, and we think you'll be pleased with the enhancements […]",
+          "link": "https://social.emucafe.org/naferrell/bing-webmaster-misses-me/",
+          "publishedOn": "2023-11-29T13:45:13.000Z",
+          "wordCount": null,
+          "title": "Bing Webmaster Misses Me",
+          "imageUrl": null
+        },
+        {
+          "id": "https://social.emucafe.org/?p=539",
+          "author": "Nicholas A. Ferrell",
+          "description": "I am using the Classic Editor here at The Emu Café Social, in large part because some of the IndieWeb plugins I am using require it instead of Gutenberg. I agree with this take by Mr. Baty in a vacuum that  the classic editor is better for writing than Gutenberg. However, I use Gutenberg over […]",
+          "link": "https://social.emucafe.org/naferrell/wp-editors-vs-markdown/",
+          "publishedOn": "2023-11-28T20:56:02.000Z",
+          "wordCount": null,
+          "title": "WordPress Classic Editor",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=534",
           "author": "Nicholas A. Ferrell",
           "description": "The Gothamist published an article on the push to ban street vendors from the magisterial Brooklyn Bridge. I am 100% in support of banning street vendors from the Bridge, but I will focus on another point in the report. See the following quote: But vendors said there are not many legal spots where they can […]",
@@ -384,6 +414,16 @@
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/37",
+          "author": null,
+          "description": "When interpreting older songs, I try to find the darker side of these often up-tempo major key classics; often a love song is just a brush stroke away from being transformed into something menacing.\nVery interesting take that you demonstrate through the performance. Question: Can you think of any examples of folk songs that jump out to you where the songwriter intended for the song to change depending on how the vocalist interprets it?\n#Music #FolkMusic",
+          "link": "https://memos.emucafe.org/m/37",
+          "publishedOn": "2023-11-29T00:39:02.000Z",
+          "wordCount": 21,
+          "title": "> When interpreting older songs, I try to find the darker side of these often up-tempo major key cla...",
+          "imageUrl": null
+        },
         {
           "id": "https://memos.emucafe.org/m/36",
           "author": null,

@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-11-28T20:12:00.824Z</updated>
+    <updated>2023-11-29T14:10:22.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bing Webmaster Misses Me]]></title>
+        <id>https://social.emucafe.org/?p=551</id>
+        <link href="https://social.emucafe.org/naferrell/bing-webmaster-misses-me/"/>
+        <updated>2023-11-29T13:45:13.000Z</updated>
+        <summary type="html"><![CDATA[I received an email from the Bing Webmaster Team: We hope this message finds you well! We've noticed it's been a while since you last visited Bing Webmaster Tools, and we've genuinely missed having you around! Webmaster Tools has undergone some exciting updates and improvements recently, and we think you'll be pleased with the enhancements […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On JRPG Hidden Items and NPCs]]></title>
+        <id>https://thenewleafjournal.com/?p=21695</id>
+        <link href="https://thenewleafjournal.com/on-jrpg-hidden-items-and-npcs/"/>
+        <updated>2023-11-29T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[To hide items and make chatty NPCs or to make "hidden items" glow and one-line robot NPCs.
+Possibly related posts...
+
+The Enigmatic Life and Death of Emperor Otho
+Anime Recommendations of the Decade (2011-20)
+Ranking My Big Impression Video Games
+The al|together and Insani Visual Novel Translations
+ACE Academy - Visual Novel Review
+The Best of Anime in 2022: Year in Review
+The Angel Next Door Spoils Me Rotten - Anime Review
+History of Thanksgiving Proclamations in the Philippines
+Justin and Justina review 2022 at the NLJ]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[> When interpreting older songs, I try to find the darker side of these often up-tempo major key cla...]]></title>
+        <id>https://memos.emucafe.org/m/37</id>
+        <link href="https://memos.emucafe.org/m/37"/>
+        <updated>2023-11-29T00:39:02.000Z</updated>
+        <summary type="html"><![CDATA[When interpreting older songs, I try to find the darker side of these often up-tempo major key classics; often a love song is just a brush stroke away from being transformed into something menacing.
+Very interesting take that you demonstrate through the performance. Question: Can you think of any examples of folk songs that jump out to you where the songwriter intended for the song to change depending on how the vocalist interprets it?
+#Music #FolkMusic]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Classic Editor]]></title>
+        <id>https://social.emucafe.org/?p=539</id>
+        <link href="https://social.emucafe.org/naferrell/wp-editors-vs-markdown/"/>
+        <updated>2023-11-28T20:56:02.000Z</updated>
+        <summary type="html"><![CDATA[I am using the Classic Editor here at The Emu Café Social, in large part because some of the IndieWeb plugins I am using require it instead of Gutenberg. I agree with this take by Mr. Baty in a vacuum that  the classic editor is better for writing than Gutenberg. However, I use Gutenberg over […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alien Street Vendors and Unauthorized Employment]]></title>
         <id>https://social.emucafe.org/?p=534</id>
