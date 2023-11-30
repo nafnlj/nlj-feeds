@@ -23,6 +23,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21702",
+          "author": "Nicholas A. Ferrell",
+          "description": "Justin of our Justin and Justina duo looks behind a particularly inane protest to wonder what happened to that Ronald McDonald guy.\nPossibly related posts...\n\nJustin and Justina review 2022 at the NLJ\nJustin & Justina: The Most-Read New Leaf Journal…\nThe Enigmatic Life and Death of Emperor Otho\nJustin & Justina: Most-Read NLJ Content of 2020\nJustin & Justina 〜 4th of July Grill Sacrifices to…\nAnime Recommendations of the Decade (2011-20)\nThe Quince Shortage - Justin and Justina\nACE Academy - Visual Novel Review\nCollected Justin and Justina Dialogues",
+          "link": "https://thenewleafjournal.com/what-happened-to-ronald-mcdonald/",
+          "publishedOn": "2023-11-30T14:30:00.000Z",
+          "wordCount": 2091,
+          "title": "What Happened to Ronald McDonald?",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21695",
           "author": "Nicholas A. Ferrell",
           "description": "To hide items and make chatty NPCs or to make \"hidden items\" glow and one-line robot NPCs.\nPossibly related posts...\n\nThe Enigmatic Life and Death of Emperor Otho\nAnime Recommendations of the Decade (2011-20)\nRanking My Big Impression Video Games\nThe al|together and Insani Visual Novel Translations\nACE Academy - Visual Novel Review\nThe Best of Anime in 2022: Year in Review\nThe Angel Next Door Spoils Me Rotten - Anime Review\nHistory of Thanksgiving Proclamations in the Philippines\nJustin and Justina review 2022 at the NLJ",
@@ -234,6 +244,16 @@
       "feedUrl": "https://social.emucafe.org/feed",
       "siteUrl": "https://social.emucafe.org",
       "articles": [
+        {
+          "id": "https://social.emucafe.org/?p=555",
+          "author": "Nicholas A. Ferrell",
+          "description": "Sports Illusrated, fresh off an AI article controversy, selected Colorado Buffaloes college football coach Dion Sanders as its Sportsperson of the Year. Mr. Sanders took over as head coach at Colorado after the football team went 1-11 in 2022. Sports Illustrated noted that the team improved greatly in Coach Sanders’ first season: As for the […]",
+          "link": "https://social.emucafe.org/naferrell/sanders-si-sportsman-of-the-year/",
+          "publishedOn": "2023-11-30T17:42:59.000Z",
+          "wordCount": null,
+          "title": "SI Selects Dion Sanders as Sportsperson of the Year",
+          "imageUrl": null
+        },
         {
           "id": "https://social.emucafe.org/?p=551",
           "author": "Nicholas A. Ferrell",
@@ -537,6 +557,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111500790469460907",
+          "author": null,
+          "description": "A poem for those of us who needed a second to remember whether today is the last day of November.\nhttps://thenewleafjournal.com/the-days-of-the-month-poem/\n#poem #poetry #childrenspoem #november",
+          "link": "https://linuxrocks.online/@nafnlj/111500790469460907",
+          "publishedOn": "2023-11-30T17:57:22.000Z",
+          "wordCount": 123,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111494462827519336",
           "author": null,
