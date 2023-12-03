@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-02T20:10:36.645Z</updated>
+    <updated>2023-12-03T14:09:01.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bing Ban Repo Update]]></title>
+        <id>https://social.emucafe.org/?p=560</id>
+        <link href="https://social.emucafe.org/naferrell/bing-ban-repo-update1/"/>
+        <updated>2023-12-03T01:39:08.000Z</updated>
+        <summary type="html"><![CDATA[I started a GitHub repository for Bing ban stories when The New Leaf Journal ran into a Bing ban. While my project is no longer banned by Bing, I am still maintaining the repository. Today, I added a (now-resolved) Bing ban story from Mr. Andrew Ward regarding his portfolio and blog site.]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CLXIII 〜 McNewsletter 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/163/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/163/"/>
+        <updated>2023-12-02T22:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 163rd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, N.A. Ferrell. Below, I have our six newest articles (one of our more varied collections), 21 links from around the web, links from our own archive, and brief news and notes from the week that was.
+Speaking of the week that was...
+Leaves from the week that was
+I published six new articles since mailing the Newsletter 162.
+1783 NY Evacuation Day Song
+A short follow-up to my history of Evacuation Day.
+NBA MVPs and MVP Teammates
+Fun stats and notes on NBA MVPs who played with other NBA MVPs.
+5 Years Without Breaking My Coffee Glass
+No…]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111506102101616313</id>
