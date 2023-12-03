@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-03T14:09:01.308Z</updated>
+    <updated>2023-12-03T20:11:00.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bush Clinton Playground in Red Hook]]></title>
+        <id>https://thenewleafjournal.com/?p=21726</id>
+        <link href="https://thenewleafjournal.com/bush-clinton-playground-in-red-hook/"/>
+        <updated>2023-12-03T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Bush Clinton Playground is named for one failed presidential candidate, but that is not why the name is memorable.
+Possibly related posts...
+
+A Walk Across the Hamilton Avenue Footbridge
+Biden, Lincoln, and Counting Back From the President's Birth
+Dangers of Eating Red Hook Fish and Eels
+Photos of a pigeon eating berries
+Red Shift Visual Novel Review
+The Over-Filled Red Truck in Red Hook, Brooklyn
+Another Hamilton Avenue Footbridge View
+Ohio Makes a BQE-Related Pitch for NYC Businesses
+The Dead End Sign in Red Hook, Brooklyn]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bing Ban Repo Update]]></title>
         <id>https://social.emucafe.org/?p=560</id>
