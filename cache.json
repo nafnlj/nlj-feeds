@@ -23,6 +23,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21730",
+          "author": "Nicholas A. Ferrell",
+          "description": "The story of a Bonsai tree sent from Mississippi to New York City with a great number of Styrofoam peanuts.\nPossibly related posts...\n\nThe Pine Tree Lovers of Takasago\nThe Fallen Tree in Brooklyn Heights\nThe Plum Tree Blossoms Always in the Springtime\nAn Unclear and Indistinct Idea of a Truth Tree\nA Brave Little Tree Grows in Manhattan\nWhen President Coolidge Spared a Raccoon From…\nSaw-whet? The Rockefeller Christmas Tree Owl\nEvergreen Carroll Gardens Christmas Tree\nA Rather Dry Christmas Tree in Brooklyn Heights in April",
+          "link": "https://thenewleafjournal.com/unpacking-a-mississippi-bonsai-tree/",
+          "publishedOn": "2023-12-04T13:15:00.000Z",
+          "wordCount": 2065,
+          "title": "Unpacking a Mississippi Bonsai Tree",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/12/bonsaibox1-nlj.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21726",
           "author": "Nicholas A. Ferrell",
           "description": "The Bush Clinton Playground is named for one failed presidential candidate, but that is not why the name is memorable.\nPossibly related posts...\n\nA Walk Across the Hamilton Avenue Footbridge\nBiden, Lincoln, and Counting Back From the President's Birth\nDangers of Eating Red Hook Fish and Eels\nPhotos of a pigeon eating berries\nRed Shift Visual Novel Review\nThe Over-Filled Red Truck in Red Hook, Brooklyn\nAnother Hamilton Avenue Footbridge View\nOhio Makes a BQE-Related Pitch for NYC Businesses\nThe Dead End Sign in Red Hook, Brooklyn",
@@ -450,16 +460,6 @@
           "wordCount": 2372,
           "title": "Newsletter Leaf Journal CLX 〜 Upgrading from 59 to 60 〜",
           "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter%20Leaf%20Journal%20CLX%20%E3%80%9C%20Upgrading%20from%2059%20to%2060%20%E3%80%9C&author=The%20Newsletter%20Leaf%20Journal&date=2023-11-11&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/159/",
-          "author": null,
-          "description": "Welcome to the 159th edition of The Newsletter Leaf Journal, the official newsletter of the perenially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.\nAs always? I should say except for last week.\nTwo factors caused a lapse in New Leaf Journal publishing. Firstly, middling health commencing on October 24. Secondly, I had a decent amount of work for my law job to do while I was feeling sluggish. As a result, I did not publish any articles. Because I had no articles to share and I still had work to do last weekend, I let October 28 pass without a newsletter. While I have a few article drafts in the pipeline, I still have not published a new piece since October …",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/159/",
-          "publishedOn": "2023-11-05T00:50:18.000Z",
-          "wordCount": 2596,
-          "title": "Newsletter Leaf Journal CLIX 〜 Returning to our scheduled programming 〜",
-          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-subject?subject=Newsletter%20Leaf%20Journal%20CLIX%20%E3%80%9C%20Returning%20to%20our%20scheduled%20programming%20%E3%80%9C&author=The%20Newsletter%20Leaf%20Journal&date=2023-11-05&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
         }
       ]
     },
@@ -759,7 +759,18 @@
       "title": "Victor V. Gurbo",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA",
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Fnocqokpa_M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Fnocqokpa_M",
+          "publishedOn": "2023-12-04T00:28:24.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo \"Christmas & You (Home Recording, Version 1)\" Music Video",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-03T20:11:00.289Z</updated>
+    <updated>2023-12-04T14:10:45.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unpacking a Mississippi Bonsai Tree]]></title>
+        <id>https://thenewleafjournal.com/?p=21730</id>
+        <link href="https://thenewleafjournal.com/unpacking-a-mississippi-bonsai-tree/"/>
+        <updated>2023-12-04T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The story of a Bonsai tree sent from Mississippi to New York City with a great number of Styrofoam peanuts.
+Possibly related posts...
+
+The Pine Tree Lovers of Takasago
+The Fallen Tree in Brooklyn Heights
+The Plum Tree Blossoms Always in the Springtime
+An Unclear and Indistinct Idea of a Truth Tree
+A Brave Little Tree Grows in Manhattan
+When President Coolidge Spared a Raccoon From…
+Saw-whet? The Rockefeller Christmas Tree Owl
+Evergreen Carroll Gardens Christmas Tree
+A Rather Dry Christmas Tree in Brooklyn Heights in April]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo "Christmas & You (Home Recording, Version 1)" Music Video]]></title>
+        <id>https://www.youtube.com/watch?v=Fnocqokpa_M</id>
+        <link href="https://www.youtube.com/watch?v=Fnocqokpa_M"/>
+        <updated>2023-12-04T00:28:24.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bush Clinton Playground in Red Hook]]></title>
         <id>https://thenewleafjournal.com/?p=21726</id>
@@ -971,18 +1001,6 @@ Oldest Golfers to Contend for Majors Between the…
 The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CLIX 〜 Returning to our scheduled programming 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/159/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/159/"/>
-        <updated>2023-11-05T00:50:18.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 159th edition of The Newsletter Leaf Journal, the official newsletter of the perenially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.
-As always? I should say except for last week.
-Two factors caused a lapse in New Leaf Journal publishing. Firstly, middling health commencing on October 24. Secondly, I had a decent amount of work for my law job to do while I was feeling sluggish. As a result, I did not publish any articles. Because I had no articles to share and I still had work to do last weekend, I let October 28 pass without a newsletter. While I have a few article drafts in the pipeline, I still have not published a new piece since October …]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>
