@@ -245,6 +245,26 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=576",
+          "author": "Nicholas A. Ferrell",
+          "description": "Simple Mobile Tools is a suite of free and open source android apps designed to replace Google’s default apps. However, “free and open source” will likely be a thing of the past after Simple Mobile Tools was acquired by ZippoApps. I used a few Simple Mobile apps back when I wrote a review of F-Droid […]",
+          "link": "https://social.emucafe.org/naferrell/simple-mobile-tolls-alternatives/",
+          "publishedOn": "2023-12-06T17:07:37.000Z",
+          "wordCount": null,
+          "title": "Simple Mobile Tools Alternatives",
+          "imageUrl": null
+        },
+        {
+          "id": "https://social.emucafe.org/?p=571",
+          "author": "Nicholas A. Ferrell",
+          "description": "I never thought about why manhole covers were round before reading this detailed history of manhole covers in New York City. That they are round “so they won’t fall into the manhole … if you insert [them] at an angle or vertically” makes sense. Maybe I never thought about it because I have never been […]",
+          "link": "https://social.emucafe.org/naferrell/on-round-manhole-covers/",
+          "publishedOn": "2023-12-06T15:49:54.000Z",
+          "wordCount": null,
+          "title": "Why manhole covers are round",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=567",
           "author": "Nicholas A. Ferrell",
           "description": "I primarily use feeds to stay on top of interesting authors and websites. I seldom need to deal with newsletters because almost everything I follow (including a few Substack and Buttondown newsletters and the newsletter for Tablet Magazine) also have RSS feeds. But there are a few exceptions, notably some of the Real Clear network […]",
@@ -478,6 +498,16 @@
       "siteUrl": "https://newleafannex.emucafe.org/",
       "articles": [
         {
+          "id": "https://newleafannex.emucafe.org/foss-simple-mobile-tools-alternatives/",
+          "author": null,
+          "description": "Simple Mobile Tools is a suite of free and open source android apps designed to replace Google’s default apps. However, “free and open source” will likely be a thing of the past after Simple Mobile Tools was acquired by ZippoApps. I used a few Simple Mobile apps back when I wrote a review of F-Droid apps in 2021, but I was fortunately not using any at the time of the ZippoApps news. One of the main contributors to Simple Mobile Tools who was not involved in the decision to sell the suite to an adware company forked the project. The fork looks like a good option for people who want to keep using the Simple Mobile Tools suite. Since I was not using any of the apps, I thought I would note what I use instead. Before continuing, do note that my phone runs LineageOS and I do not use any closed s…",
+          "link": "https://newleafannex.emucafe.org/foss-simple-mobile-tools-alternatives/",
+          "publishedOn": "2023-12-06T17:17:27.616Z",
+          "wordCount": 1169,
+          "title": "Open Source Simple Mobile Tools Alternatives",
+          "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
+        },
+        {
           "id": "https://newleafannex.emucafe.org/trying-open-library-as-a-reading-tracker/",
           "author": null,
           "description": "I am interested in alternatives to big tech software and services. It was for that reason that I switched to Linux in 2020. While I am not big on social media, I use Mastodon, Pixelfed, Minds, and NOSTR to help promote my writing on my self-hosted WordPress projects. I have had an interest in open source alternatives to Goodreads. There are a few interesting ActivityPub powered projects, but they are not quite what I am looking for. At the moment, I am trying Open Library. You can see my fresh profile and current reading.\nI like it thus far. Once you know where everything is, it is easy to navigate and organize books. I also like LibraryThing (not open source), but that is more geared toward collection management than reading tracking. My top request for Open Library is RSS/ATOM support. I maintain a static site with all of my feeds (including this site) and would like to be able to drop an Open Library feed in there without having to be creative. Libreture (for storing and managing DRM-free ebooks) and Inventaire (for cataloguing and trading physical ebooks) both produce feeds for user profiles. Alas, that seems to still be a missing feature for Open Library and LibraryThing. I could see others being disappointed with Open Library's relative lack of social functionality, but I think that may be more of a feature than a bug.",
@@ -510,6 +540,16 @@
       "feedUrl": "https://pixelfed.social/users/nafnlj.atom",
       "siteUrl": "https://pixelfed.social/nafnlj",
       "articles": [
+        {
+          "id": "https://pixelfed.social/p/nafnlj/638086270948333344",
+          "author": null,
+          "description": "I came across a certain Bush Clinton Playground in Red Hook, Brooklyn (NYC) a few years ago and was amused by the name. When I walked by last week, I decided to take a photo and turn it into an article. Despite the fact that the name invokes our 41st, 42nd, and 43rd Presidents, those with a cursory knowledge of New York City history will know that the \"Clinton\" here is DeWitt Clinton, who served as Mayor of NYC, Governor of NY (following his father George on Governor) and was the Federalist nominee for President in 1812 (he lost fairly narrowly to James Madison). What about Bush? I was not sure who Bush Street was named after, and I learned that New York City is also not quite sure.<br />\n<br />\nArticle:<br />\n<a href=\"https://thenewleafjournal.com/bush-clinton-playground-in-red-hook/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/bush-clinton-playground-in-red-hook/</a><br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/nyc?src=hash\" title=\"#nyc\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#nyc</a> <a href=\"https://pixelfed.social/discover/tags/brooklyn?src=hash\" title=\"#brooklyn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklyn</a> <a href=\"https://pixelfed.social/discover/tags/redhook?src=hash\" title=\"#redhook\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#redhook</a> <a href=\"https://pixelfed.social/discover/tags/playground?src=hash\" title=\"#playground\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#playground</a> <a href=\"https://pixelfed.social/discover/tags/sign?src=hash\" title=\"#sign\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#sign</a> <a href=\"https://pixelfed.social/discover/tags/nycparks?src=hash\" title=\"#nycparks\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#nycparks</a> <a href=\"https://pixelfed.social/discover/tags/bush?src=hash\" title=\"#bush\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#bush</a> <a href=\"https://pixelfed.social/discover/tags/clinton?src=hash\" title=\"#clinton\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#clinton</a> <a href=\"https://pixelfed.social/discover/tags/pixel3axl?src=hash\" title=\"#pixel3axl\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pixel3axl</a> <a href=\"https://pixelfed.social/discover/tags/thenewleafjournal?src=hash\" title=\"#thenewleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#thenewleafjournal</a> <a href=\"https://pixelfed.social/discover/tags/newleafjournal?src=hash\" title=\"#newleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#newleafjournal</a>",
+          "link": "https://pixelfed.social/p/nafnlj/638086270948333344",
+          "publishedOn": "2023-12-06T18:47:02.000Z",
+          "wordCount": null,
+          "title": "I came across a certain Bush Clinton Playground in Red Hook, Brooklyn (NYC) a few years ago and was amused by the name. When I walked by last week, I decided to take a photo and turn it into an article. Despite the fact that the name invokes our 41st, 42nd, and 43rd Presidents, those with a cursory knowledge of New York City history will know that the \"Clinton\" here is DeWitt Clinton, who served as Mayor of NYC, Governor of NY (following his father George on Governor) and was the Federalist nominee for President in 1812 (he lost fairly narrowly to James Madison). What about Bush? I was not sure who Bush Street was named after, and I learned that New York City is also not quite sure.\n\nArticle:\nhttps://thenewleafjournal.com/bush-clinton-playground-in-red-hook/\n\n#nyc #brooklyn #redhook #playground #sign #nycparks #bush #clinton #pixel3axl #thenewleafjournal #newleafjournal",
+          "imageUrl": null
+        },
         {
           "id": "https://pixelfed.social/p/nafnlj/637685051408643150",
           "author": null,
@@ -567,6 +607,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111534629488637390",
+          "author": null,
+          "description": "I read about an adware company purchasing the open source Simple Mobile Tools apps for Android. I was not using any of the apps at the moment (I used a few in the past), so I decided to offer some suggestions for alternatives that I use on my own device (I run LineageOS 20 on my phone). My recommendations are admittedly limited by my set up and phone usage, but I think I have a few good ones.\nhttps://social.emucafe.org/naferrell/simple-mobile-tolls-alternatives/\n#android #lineageos #simplemobiletools #apps #opensource",
+          "link": "https://linuxrocks.online/@nafnlj/111534629488637390",
+          "publishedOn": "2023-12-06T17:23:04.000Z",
+          "wordCount": 123,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111528636138599902",
           "author": null,
