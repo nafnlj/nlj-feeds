@@ -245,6 +245,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=581",
+          "author": "Nicholas A. Ferrell",
+          "description": "I use YYDevelopment’s free (including of cost) and open source WordPress plugin, Show Pages ID, both here and on The New Leaf Journal. I received a dismissible banner on my plugin page asking for a WordPress review. What about an on-site review? Show Pages ID is a very simple plugin that adds a field to the WordPress admin screen […]",
+          "link": "https://social.emucafe.org/naferrell/review-of-show-pages-id-for-wordpress/",
+          "publishedOn": "2023-12-07T15:59:41.000Z",
+          "wordCount": null,
+          "title": "Review of Show Pages ID for WordPress",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=579",
           "author": "Nicholas A. Ferrell",
           "description": "The law office I work for uses Dropbox. I use Dropbox in a browser profile I set aside for work instead of the local app. I just noticed today that when I upload a file, a little gray box appears in the bottom right corner of the screen showing the upload progress. When the upload […]",

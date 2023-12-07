@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-07T14:10:45.511Z</updated>
+    <updated>2023-12-07T20:12:05.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Review of Show Pages ID for WordPress]]></title>
+        <id>https://social.emucafe.org/?p=581</id>
+        <link href="https://social.emucafe.org/naferrell/review-of-show-pages-id-for-wordpress/"/>
+        <updated>2023-12-07T15:59:41.000Z</updated>
+        <summary type="html"><![CDATA[I use YYDevelopment’s free (including of cost) and open source WordPress plugin, Show Pages ID, both here and on The New Leaf Journal. I received a dismissible banner on my plugin page asking for a WordPress review. What about an on-site review? Show Pages ID is a very simple plugin that adds a field to the WordPress admin screen […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Default Apps as of December 2023]]></title>
         <id>https://thenewleafjournal.com/?p=21763</id>
