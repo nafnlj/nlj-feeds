@@ -23,6 +23,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21763",
+          "author": "Nicholas A. Ferrell",
+          "description": "I join the cool kids in posting a list of my \"default apps\" for computers and mobile devices as of December 7, 2023.\nPossibly related posts...\n\nReview of /e/ - An Android Alternative For Mobile Phones\nRecommended F-Droid FOSS Apps For Android-Based…\nJustin and Justina review 2022 at the NLJ\nReviewing Keikai Launcher (Android)\nInstalling and Running Bodhi Linux on a 2007 MacBook\nFeeds and Read-It-Later for Online Reading\nInstalling Ubuntu Touch on a Google Nexus 7 (2013)\nJustin & Justina: The Most-Read New Leaf Journal…\nInstalling GrapheneOS on a Google Pixel 6a",
+          "link": "https://thenewleafjournal.com/my-default-apps-as-of-december-2023/",
+          "publishedOn": "2023-12-07T13:30:00.000Z",
+          "wordCount": 3571,
+          "title": "My Default Apps as of December 2023",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/12/obtainium-screenshot.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21730",
           "author": "Nicholas A. Ferrell",
           "description": "The story of a Bonsai tree sent from Mississippi to New York City with a great number of Styrofoam peanuts.\nPossibly related posts...\n\nThe Pine Tree Lovers of Takasago\nThe Fallen Tree in Brooklyn Heights\nThe Plum Tree Blossoms Always in the Springtime\nAn Unclear and Indistinct Idea of a Truth Tree\nA Brave Little Tree Grows in Manhattan\nWhen President Coolidge Spared a Raccoon From…\nSaw-whet? The Rockefeller Christmas Tree Owl\nEvergreen Carroll Gardens Christmas Tree\nA Rather Dry Christmas Tree in Brooklyn Heights in April",
@@ -191,16 +201,6 @@
           "wordCount": 1627,
           "title": "Brooklyn Heights Halloween Scarecrow",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/11/halloween-scarecrrow-ghost-nlj.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=21532",
-          "author": "Nicholas A. Ferrell",
-          "description": "A Carroll Gardens household puts a Halloween snake skeleton decoration to good use on their front lawn.\nPossibly related posts...\n\nA Walk Across the Hamilton Avenue Footbridge\nFlying 12-Foot Witch in Carroll Gardens\nJustin & Justina 〜 4th of July Grill Sacrifices to…\nA Trip Across Brooklyn's Summit Street Bridge\nHistoric Districts and Looming Tall Buildings\nFlexible Hose Halloween Snake Creature\nHalloween Cooking and Decorating Tips From 1913\nBalancing Bear Topiary in Carroll Gardens\nAmerican Beauty Pasta Mural in Brooklyn",
-          "link": "https://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/",
-          "publishedOn": "2023-11-07T13:49:36.000Z",
-          "wordCount": 1696,
-          "title": "Carroll Gardens Halloween Snake Skeleton",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/11/halloween-snake-skeleton-nlj.jpg"
         }
       ]
     },
@@ -244,6 +244,16 @@
       "feedUrl": "https://social.emucafe.org/feed",
       "siteUrl": "https://social.emucafe.org",
       "articles": [
+        {
+          "id": "https://social.emucafe.org/?p=579",
+          "author": "Nicholas A. Ferrell",
+          "description": "The law office I work for uses Dropbox. I use Dropbox in a browser profile I set aside for work instead of the local app. I just noticed today that when I upload a file, a little gray box appears in the bottom right corner of the screen showing the upload progress. When the upload […]",
+          "link": "https://social.emucafe.org/naferrell/dropbox-balloons/",
+          "publishedOn": "2023-12-06T20:12:51.000Z",
+          "wordCount": null,
+          "title": "Dropbox Balloons",
+          "imageUrl": null
+        },
         {
           "id": "https://social.emucafe.org/?p=576",
           "author": "Nicholas A. Ferrell",
@@ -383,16 +393,6 @@
           "wordCount": 727,
           "title": "Kodi Segfault on Fedora 40",
           "imageUrl": "https://social.emucafe.org/wp-content/uploads/2023/09/cropped-emucafesocial_icon-1.jpg"
-        },
-        {
-          "id": "https://social.emucafe.org/?p=496",
-          "author": "Nicholas A. Ferrell",
-          "description": "From Mr. Heinrik Karlsson’s “A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox” Having idiosyncratic interests that grow in complexity means that if you pursue them too far you will end up obsessed with things that no one else around you cares […]",
-          "link": "https://social.emucafe.org/naferrell/on-idiosyncratic-blogging-interests/",
-          "publishedOn": "2023-11-07T14:19:48.000Z",
-          "wordCount": null,
-          "title": "On idiosyncratic blogging interests",
-          "imageUrl": null
         }
       ]
     },
@@ -588,16 +588,6 @@
           "publishedOn": "2023-11-08T17:57:29.000Z",
           "wordCount": null,
           "title": "A friendly Halloween ghost scarecrow seen in America's first suburb, the New York City neighborhood of Brooklyn Heights.\n\nArticle:\nhttps://thenewleafjournal.com/brooklyn-heights-halloween-scarecrow/\n\n#nyc #brooklyn #brooklynheights #halloween #ghost #scarecrow #brickwall #pixel3axl #thenewleafjournal #newleafjournal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pixelfed.social/p/nafnlj/627504407558655689",
-          "author": null,
-          "description": "Seen in Carroll Gardens, Brooklyn, a Halloween snake decoration protecting flowers on a front lawn.<br />\n<br />\nI covered this find over at The New Leaf Journal with an additional photo:<br />\n<br />\n<a href=\"https://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/</a><br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/halloween?src=hash\" title=\"#halloween\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#halloween</a> <a href=\"https://pixelfed.social/discover/tags/brooklyn?src=hash\" title=\"#brooklyn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklyn</a> <a href=\"https://pixelfed.social/discover/tags/nyc?src=hash\" title=\"#nyc\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#nyc</a> <a href=\"https://pixelfed.social/discover/tags/carrollgardens?src=hash\" title=\"#carrollgardens\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#carrollgardens</a> <a href=\"https://pixelfed.social/discover/tags/snake?src=hash\" title=\"#snake\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#snake</a> <a href=\"https://pixelfed.social/discover/tags/skeleton?src=hash\" title=\"#skeleton\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#skeleton</a> <a href=\"https://pixelfed.social/discover/tags/flowers?src=hash\" title=\"#flowers\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#flowers</a> <a href=\"https://pixelfed.social/discover/tags/lawn?src=hash\" title=\"#lawn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#lawn</a> <a href=\"https://pixelfed.social/discover/tags/sign?src=hash\" title=\"#sign\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#sign</a> <a href=\"https://pixelfed.social/discover/tags/pixel3axl?src=hash\" title=\"#pixel3axl\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pixel3axl</a>",
-          "link": "https://pixelfed.social/p/nafnlj/627504407558655689",
-          "publishedOn": "2023-11-07T13:58:29.000Z",
-          "wordCount": null,
-          "title": "Seen in Carroll Gardens, Brooklyn, a Halloween snake decoration protecting flowers on a front lawn.\n\nI covered this find over at The New Leaf Journal with an additional photo:\n\nhttps://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/\n\n#halloween #brooklyn #nyc #carrollgardens #snake #skeleton #flowers #lawn #sign #pixel3axl",
           "imageUrl": null
         }
       ]

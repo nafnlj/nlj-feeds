@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-06T20:12:15.548Z</updated>
+    <updated>2023-12-07T14:10:45.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My Default Apps as of December 2023]]></title>
+        <id>https://thenewleafjournal.com/?p=21763</id>
+        <link href="https://thenewleafjournal.com/my-default-apps-as-of-december-2023/"/>
+        <updated>2023-12-07T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I join the cool kids in posting a list of my "default apps" for computers and mobile devices as of December 7, 2023.
+Possibly related posts...
+
+Review of /e/ - An Android Alternative For Mobile Phones
+Recommended F-Droid FOSS Apps For Android-Based…
+Justin and Justina review 2022 at the NLJ
+Reviewing Keikai Launcher (Android)
+Installing and Running Bodhi Linux on a 2007 MacBook
+Feeds and Read-It-Later for Online Reading
+Installing Ubuntu Touch on a Google Nexus 7 (2013)
+Justin & Justina: The Most-Read New Leaf Journal…
+Installing GrapheneOS on a Google Pixel 6a]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dropbox Balloons]]></title>
+        <id>https://social.emucafe.org/?p=579</id>
+        <link href="https://social.emucafe.org/naferrell/dropbox-balloons/"/>
+        <updated>2023-12-06T20:12:51.000Z</updated>
+        <summary type="html"><![CDATA[The law office I work for uses Dropbox. I use Dropbox in a browser profile I set aside for work instead of the local app. I just noticed today that when I upload a file, a little gray box appears in the bottom right corner of the screen showing the upload progress. When the upload […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I came across a certain Bush Clinton Playground in Red Hook, Brooklyn (NYC) a few years ago and was amused by the name. When I walked by last week, I decided to take a photo and turn it into an article. Despite the fact that the name invokes our 41st, 42nd, and 43rd Presidents, those with a cursory knowledge of New York City history will know that the "Clinton" here is DeWitt Clinton, who served as Mayor of NYC, Governor of NY (following his father George on Governor) and was the Federalist nominee for President in 1812 (he lost fairly narrowly to James Madison). What about Bush? I was not sure who Bush Street was named after, and I learned that New York City is also not quite sure.
 
@@ -955,59 +986,6 @@ Return of the Happy Halloween Daycare Ghost
 The Happy Halloween Ghost
 The Wicked Car of the Gowanus - Car with Hat
 Carroll Gardens Halloween Snake Skeleton]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On idiosyncratic blogging interests]]></title>
-        <id>https://social.emucafe.org/?p=496</id>
-        <link href="https://social.emucafe.org/naferrell/on-idiosyncratic-blogging-interests/"/>
-        <updated>2023-11-07T14:19:48.000Z</updated>
-        <summary type="html"><![CDATA[From Mr. Heinrik Karlsson’s “A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox” Having idiosyncratic interests that grow in complexity means that if you pursue them too far you will end up obsessed with things that no one else around you cares […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seen in Carroll Gardens, Brooklyn, a Halloween snake decoration protecting flowers on a front lawn.
-
-I covered this find over at The New Leaf Journal with an additional photo:
-
-https://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/
-
-#halloween #brooklyn #nyc #carrollgardens #snake #skeleton #flowers #lawn #sign #pixel3axl]]></title>
-        <id>https://pixelfed.social/p/nafnlj/627504407558655689</id>
-        <link href="https://pixelfed.social/p/nafnlj/627504407558655689"/>
-        <updated>2023-11-07T13:58:29.000Z</updated>
-        <summary type="html"><![CDATA[Seen in Carroll Gardens, Brooklyn, a Halloween snake decoration protecting flowers on a front lawn.<br />
-<br />
-I covered this find over at The New Leaf Journal with an additional photo:<br />
-<br />
-<a href="https://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/</a><br />
-<br />
-<a href="https://pixelfed.social/discover/tags/halloween?src=hash" title="#halloween" class="u-url hashtag" rel="external nofollow noopener">#halloween</a> <a href="https://pixelfed.social/discover/tags/brooklyn?src=hash" title="#brooklyn" class="u-url hashtag" rel="external nofollow noopener">#brooklyn</a> <a href="https://pixelfed.social/discover/tags/nyc?src=hash" title="#nyc" class="u-url hashtag" rel="external nofollow noopener">#nyc</a> <a href="https://pixelfed.social/discover/tags/carrollgardens?src=hash" title="#carrollgardens" class="u-url hashtag" rel="external nofollow noopener">#carrollgardens</a> <a href="https://pixelfed.social/discover/tags/snake?src=hash" title="#snake" class="u-url hashtag" rel="external nofollow noopener">#snake</a> <a href="https://pixelfed.social/discover/tags/skeleton?src=hash" title="#skeleton" class="u-url hashtag" rel="external nofollow noopener">#skeleton</a> <a href="https://pixelfed.social/discover/tags/flowers?src=hash" title="#flowers" class="u-url hashtag" rel="external nofollow noopener">#flowers</a> <a href="https://pixelfed.social/discover/tags/lawn?src=hash" title="#lawn" class="u-url hashtag" rel="external nofollow noopener">#lawn</a> <a href="https://pixelfed.social/discover/tags/sign?src=hash" title="#sign" class="u-url hashtag" rel="external nofollow noopener">#sign</a> <a href="https://pixelfed.social/discover/tags/pixel3axl?src=hash" title="#pixel3axl" class="u-url hashtag" rel="external nofollow noopener">#pixel3axl</a>]]></summary>
-        <author>
-            <name>nafnlj on Pixelfed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carroll Gardens Halloween Snake Skeleton]]></title>
-        <id>https://thenewleafjournal.com/?p=21532</id>
-        <link href="https://thenewleafjournal.com/carroll-gardens-halloween-snake-skeleton/"/>
-        <updated>2023-11-07T13:49:36.000Z</updated>
-        <summary type="html"><![CDATA[A Carroll Gardens household puts a Halloween snake skeleton decoration to good use on their front lawn.
-Possibly related posts...
-
-A Walk Across the Hamilton Avenue Footbridge
-Flying 12-Foot Witch in Carroll Gardens
-Justin & Justina 〜 4th of July Grill Sacrifices to…
-A Trip Across Brooklyn's Summit Street Bridge
-Historic Districts and Looming Tall Buildings
-Flexible Hose Halloween Snake Creature
-Halloween Cooking and Decorating Tips From 1913
-Balancing Bear Topiary in Carroll Gardens
-American Beauty Pasta Mural in Brooklyn]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
