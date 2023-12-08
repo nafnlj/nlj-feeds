@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-07T20:12:05.876Z</updated>
+    <updated>2023-12-08T14:10:31.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -955,47 +955,6 @@ https://thenewleafjournal.com/eisenhowers-1954-veterans-day-proclamation/
         <link href="https://social.emucafe.org/naferrell/kodi-segfault-on-fedora-40/"/>
         <updated>2023-11-09T16:32:22.000Z</updated>
         <summary type="html"><![CDATA[I use a low-end Beelink mini-PC as a TV box (this will be a New Leaf Journal article eventually). I run Fedora on the mini PC and switch between GNOME and Kodi sessions depending on what I am doing. Yesterday, I upgraded from Fedora 39 to Fedora 40. The upgrade went smoothly. Everything appeared to […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A friendly Halloween ghost scarecrow seen in America's first suburb, the New York City neighborhood of Brooklyn Heights.
-
-Article:
-https://thenewleafjournal.com/brooklyn-heights-halloween-scarecrow/
-
-#nyc #brooklyn #brooklynheights #halloween #ghost #scarecrow #brickwall #pixel3axl #thenewleafjournal #newleafjournal]]></title>
-        <id>https://pixelfed.social/p/nafnlj/627926942328104814</id>
-        <link href="https://pixelfed.social/p/nafnlj/627926942328104814"/>
-        <updated>2023-11-08T17:57:29.000Z</updated>
-        <summary type="html"><![CDATA[A friendly Halloween ghost scarecrow seen in America's first suburb, the New York City neighborhood of Brooklyn Heights.<br />
-<br />
-Article:<br />
-<a href="https://thenewleafjournal.com/brooklyn-heights-halloween-scarecrow/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/brooklyn-heights-halloween-scarecrow/</a><br />
-<br />
-<a href="https://pixelfed.social/discover/tags/nyc?src=hash" title="#nyc" class="u-url hashtag" rel="external nofollow noopener">#nyc</a> <a href="https://pixelfed.social/discover/tags/brooklyn?src=hash" title="#brooklyn" class="u-url hashtag" rel="external nofollow noopener">#brooklyn</a> <a href="https://pixelfed.social/discover/tags/brooklynheights?src=hash" title="#brooklynheights" class="u-url hashtag" rel="external nofollow noopener">#brooklynheights</a> <a href="https://pixelfed.social/discover/tags/halloween?src=hash" title="#halloween" class="u-url hashtag" rel="external nofollow noopener">#halloween</a> <a href="https://pixelfed.social/discover/tags/ghost?src=hash" title="#ghost" class="u-url hashtag" rel="external nofollow noopener">#ghost</a> <a href="https://pixelfed.social/discover/tags/scarecrow?src=hash" title="#scarecrow" class="u-url hashtag" rel="external nofollow noopener">#scarecrow</a> <a href="https://pixelfed.social/discover/tags/brickwall?src=hash" title="#brickwall" class="u-url hashtag" rel="external nofollow noopener">#brickwall</a> <a href="https://pixelfed.social/discover/tags/pixel3axl?src=hash" title="#pixel3axl" class="u-url hashtag" rel="external nofollow noopener">#pixel3axl</a> <a href="https://pixelfed.social/discover/tags/thenewleafjournal?src=hash" title="#thenewleafjournal" class="u-url hashtag" rel="external nofollow noopener">#thenewleafjournal</a> <a href="https://pixelfed.social/discover/tags/newleafjournal?src=hash" title="#newleafjournal" class="u-url hashtag" rel="external nofollow noopener">#newleafjournal</a>]]></summary>
-        <author>
-            <name>nafnlj on Pixelfed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brooklyn Heights Halloween Scarecrow]]></title>
-        <id>https://thenewleafjournal.com/?p=21548</id>
-        <link href="https://thenewleafjournal.com/brooklyn-heights-halloween-scarecrow/"/>
-        <updated>2023-11-08T17:53:46.000Z</updated>
-        <summary type="html"><![CDATA[A friendly Halloween ghost scarecrow seen in Brooklyn Heights, New York.
-Possibly related posts...
-
-Economical Halloween Scarecrows
-Halloween Cooking and Decorating Tips From 1913
-The Trick-Or-Treating Halloween Daycare Ghost
-Flying 12-Foot Witch in Carroll Gardens
-A Trick-Or-Treating Halloween Ghost Among Gourds in…
-Return of the Happy Halloween Daycare Ghost
-The Happy Halloween Ghost
-The Wicked Car of the Gowanus - Car with Hat
-Carroll Gardens Halloween Snake Skeleton]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
