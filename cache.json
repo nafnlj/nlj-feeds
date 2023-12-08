@@ -235,6 +235,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=595",
+          "author": "Nicholas A. Ferrell",
+          "description": "I was inspired to create an article listing my default apps by a project to collect default app posts on Hemispheric Views. I wrote my default apps article and then made a pull request to have the article included in the Hemispheric Views project. The curator merged my pull request within two hours. I am […]",
+          "link": "https://social.emucafe.org/naferrell/joining-hemispheric-views-app-defaults/",
+          "publishedOn": "2023-12-08T19:09:35.000Z",
+          "wordCount": 953,
+          "title": "Joining Hemispheric Views App Defaults",
+          "imageUrl": "https://social.emucafe.org/wp-content/uploads/2023/09/cropped-emucafesocial_icon-1.jpg"
+        },
+        {
           "id": "https://social.emucafe.org/?p=581",
           "author": "Nicholas A. Ferrell",
           "description": "I use YYDevelopment’s free (including of cost) and open source WordPress plugin, Show Pages ID, both here and on The New Leaf Journal. I received a dismissible banner on my plugin page asking for a WordPress review. What about an on-site review? Show Pages ID is a very simple plugin that adds a field to the WordPress admin screen […]",
@@ -455,6 +465,26 @@
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
         {
+          "id": "https://memos.emucafe.org/m/39",
+          "author": null,
+          "description": "The first issue is resolved. I do not have an immediate use-case for Micropub at the moment so I will look into that again later if need be. I suspect the issue has to do with page caching (because the issue is always caching).\n#WordPress #IndieWeb #Caching #emucafesocial",
+          "link": "https://memos.emucafe.org/m/39",
+          "publishedOn": "2023-12-08T18:02:43.000Z",
+          "wordCount": 21,
+          "title": "The first issue is resolved. I do not have an immediate use-case for Micropub at the moment so I wil...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://memos.emucafe.org/m/38",
+          "author": null,
+          "description": "While installing EndeavourOS on a mini PC yesterday, I ran into an error at 13% complete which forced install to fail. The issue was likely tied to a failure to download updates (computer did not have onboard wi-fi, so I was using a cheap Panda Wireless dongle which only supports 2.4 connections). When I tried to go through the installer again, automatic disk partitioning was not available. Solution: Rebooted and went back into live environment and installed offline (no issue since I wanted KDE Plasma). Installed with no issue.\n#EndeavourOS #Calimares #Linux",
+          "link": "https://memos.emucafe.org/m/38",
+          "publishedOn": "2023-12-08T17:44:26.000Z",
+          "wordCount": 21,
+          "title": "While installing EndeavourOS on a mini PC yesterday, I ran into an error at 13% complete which force...",
+          "imageUrl": null
+        },
+        {
           "id": "https://memos.emucafe.org/m/37",
           "author": null,
           "description": "When interpreting older songs, I try to find the darker side of these often up-tempo major key classics; often a love song is just a brush stroke away from being transformed into something menacing.\nVery interesting take that you demonstrate through the performance. Question: Can you think of any examples of folk songs that jump out to you where the songwriter intended for the song to change depending on how the vocalist interprets it?\n#Music #FolkMusic",
@@ -587,6 +617,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111546014756687512",
+          "author": null,
+          "description": "I saw that many webmasters were posting their \"default apps,\" so I decided to join the fun with a list separating default apps for desktop (I run EndeavourOS primarily) and mobile (primarily LineageOS).\nhttps://thenewleafjournal.com/my-default-apps-as-of-december-2023/\n#DefaultApps #OpenSource #Linux #LineageOS #EndeavourOS",
+          "link": "https://linuxrocks.online/@nafnlj/111546014756687512",
+          "publishedOn": "2023-12-08T17:38:29.000Z",
+          "wordCount": 123,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111534629488637390",
           "author": null,
