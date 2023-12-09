@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-09T14:09:08.487Z</updated>
+    <updated>2023-12-09T20:10:55.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CLXIV 〜 Newslettero 64 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/164/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/164/"/>
+        <updated>2023-12-09T18:23:10.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 164th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the editor of The New Leaf Journal, Nicholas A. Ferrell. Our second newsletter of December 2023 brings three new articles, news from our other project, links from around the web, and other interesting notes from the week that was.
+Leaves from the week that was
+I published three new articles at The New Leaf Journal since last sending a newsletter...
+Bush Clinton Playground in Red Hook
+The best-named playground in New York City.  
+Unpacking a Mississippi Bonsai Tree
+All the Styrofoam peanuts you could ever want.  
+My Default Apps as of December 2023
+Inspired by others, I created a list of my de…]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foreverlikeith List of Blogrolls and Webrings]]></title>
+        <id>https://social.emucafe.org/?p=597</id>
+        <link href="https://social.emucafe.org/naferrell/foreverlikeith-blogs-and-webrings/"/>
+        <updated>2023-12-09T18:06:20.000Z</updated>
+        <summary type="html"><![CDATA[Blogger foreverkeith.is put together a very good list of webrings and similar collections of personal websites and blogs. I recall having come across it before, but I had previously missed that I am cited as a contributor for my New Leaf Journal article on the idea of a “social” media consisting of independent personal websites. […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Joining Hemispheric Views App Defaults]]></title>
         <id>https://social.emucafe.org/?p=595</id>

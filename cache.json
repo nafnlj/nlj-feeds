@@ -235,6 +235,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=597",
+          "author": "Nicholas A. Ferrell",
+          "description": "Blogger foreverkeith.is put together a very good list of webrings and similar collections of personal websites and blogs. I recall having come across it before, but I had previously missed that I am cited as a contributor for my New Leaf Journal article on the idea of a “social” media consisting of independent personal websites. […]",
+          "link": "https://social.emucafe.org/naferrell/foreverlikeith-blogs-and-webrings/",
+          "publishedOn": "2023-12-09T18:06:20.000Z",
+          "wordCount": null,
+          "title": "Foreverlikeith List of Blogrolls and Webrings",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=595",
           "author": "Nicholas A. Ferrell",
           "description": "I was inspired to create an article listing my default apps by a project to collect default app posts on Hemispheric Views. I wrote my default apps article and then made a pull request to have the article included in the Hemispheric Views project. The curator merged my pull request within two hours. I am […]",
@@ -401,6 +411,16 @@
       "feedUrl": "https://buttondown.email/newsletterleafjournal/rss",
       "siteUrl": "https://buttondown.email/newsletterleafjournal",
       "articles": [
+        {
+          "id": "https://buttondown.email/newsletterleafjournal/archive/164/",
+          "author": null,
+          "description": "Welcome to the 164th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the editor of The New Leaf Journal, Nicholas A. Ferrell. Our second newsletter of December 2023 brings three new articles, news from our other project, links from around the web, and other interesting notes from the week that was.\nLeaves from the week that was\nI published three new articles at The New Leaf Journal since last sending a newsletter...\nBush Clinton Playground in Red Hook\nThe best-named playground in New York City.  \nUnpacking a Mississippi Bonsai Tree\nAll the Styrofoam peanuts you could ever want.  \nMy Default Apps as of December 2023\nInspired by others, I created a list of my de…",
+          "link": "https://buttondown.email/newsletterleafjournal/archive/164/",
+          "publishedOn": "2023-12-09T18:23:10.000Z",
+          "wordCount": 2508,
+          "title": "Newsletter Leaf Journal CLXIV 〜 Newslettero 64 〜",
+          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-subject?subject=Newsletter%20Leaf%20Journal%20CLXIV%20%E3%80%9C%20Newslettero%2064%20%E3%80%9C&author=The%20Newsletter%20Leaf%20Journal&date=2023-12-09&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
+        },
         {
           "id": "https://buttondown.email/newsletterleafjournal/archive/163/",
           "author": null,
