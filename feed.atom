@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-08T20:12:04.156Z</updated>
+    <updated>2023-12-09T14:09:08.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -989,16 +989,6 @@ https://thenewleafjournal.com/eisenhowers-1954-veterans-day-proclamation/
         <link href="https://social.emucafe.org/naferrell/ominous-news-for-a-game-company/"/>
         <updated>2023-11-11T00:59:04.000Z</updated>
         <summary type="html"><![CDATA[On October 11, 2023, Nintendo Life cited to reports that Disney is looking to purchase a video game company. This sounds very ominous so I am crossing my fingers that they do not buy a company that makes good games. Go for one of the companies that makes those terrible free-to-start mobile games!]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kodi Segfault on Fedora 40]]></title>
-        <id>https://social.emucafe.org/?p=506</id>
-        <link href="https://social.emucafe.org/naferrell/kodi-segfault-on-fedora-40/"/>
-        <updated>2023-11-09T16:32:22.000Z</updated>
-        <summary type="html"><![CDATA[I use a low-end Beelink mini-PC as a TV box (this will be a New Leaf Journal article eventually). I run Fedora on the mini PC and switch between GNOME and Kodi sessions depending on what I am doing. Yesterday, I upgraded from Fedora 39 to Fedora 40. The upgrade went smoothly. Everything appeared to […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>

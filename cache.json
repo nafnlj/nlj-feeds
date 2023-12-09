@@ -393,16 +393,6 @@
           "wordCount": null,
           "title": "Ominous News For a Game Company",
           "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=506",
-          "author": "Nicholas A. Ferrell",
-          "description": "I use a low-end Beelink mini-PC as a TV box (this will be a New Leaf Journal article eventually). I run Fedora on the mini PC and switch between GNOME and Kodi sessions depending on what I am doing. Yesterday, I upgraded from Fedora 39 to Fedora 40. The upgrade went smoothly. Everything appeared to […]",
-          "link": "https://social.emucafe.org/naferrell/kodi-segfault-on-fedora-40/",
-          "publishedOn": "2023-11-09T16:32:22.000Z",
-          "wordCount": 727,
-          "title": "Kodi Segfault on Fedora 40",
-          "imageUrl": "https://social.emucafe.org/wp-content/uploads/2023/09/cropped-emucafesocial_icon-1.jpg"
         }
       ]
     },
