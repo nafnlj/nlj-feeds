@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-09T20:10:55.837Z</updated>
+    <updated>2023-12-10T14:09:36.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Docs for pushing from Gitea to other forges.]]></title>
+        <id>https://memos.emucafe.org/m/40</id>
+        <link href="https://memos.emucafe.org/m/40"/>
+        <updated>2023-12-10T04:09:09.000Z</updated>
+        <summary type="html"><![CDATA[Docs for pushing from Gitea to other forges.
+https://docs.gitea.com/next/usage/repo-mirror
+#Gitea #GitHub #GitLab #Codeberg]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Narcissu (Insani version) VN Review]]></title>
+        <id>https://thenewleafjournal.com/?p=21768</id>
+        <link href="https://thenewleafjournal.com/narcissu-insani-version-vn-review/"/>
+        <updated>2023-12-09T22:06:10.000Z</updated>
+        <summary type="html"><![CDATA[Reviewing the al|together visual novel translation that started it all and eventually made its way to Steam.
+Possibly related posts...
+
+The al|together and Insani Visual Novel Translations
+Crimsoness - Visual Novel Review
+al|together Visual Novel Reviews and Posts
+Flood of Tears - Visual Novel Review
+From the Bottom of the Heart - VN Review
+May Sky - Visual Novel Review
+A Midsummer Day's Resonance - VN Review
+io [Christmas Eve] - Visual Novel Review
+Building ONScripter-Insani on EndeavourOS]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CLXIV 〜 Newslettero 64 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/164/</id>
@@ -22,6 +55,16 @@ My Default Apps as of December 2023
 Inspired by others, I created a list of my de…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foreverliketh List of Blogrolls and Webrings]]></title>
+        <id>https://social.emucafe.org/?p=597</id>
+        <link href="https://social.emucafe.org/naferrell/foreverliketh-blogs-and-webrings/"/>
+        <updated>2023-12-09T18:06:20.000Z</updated>
+        <summary type="html"><![CDATA[Blogger foreverketh.is put together a very good list of webrings and similar collections of personal websites and blogs. I recall having come across it before, but I had previously missed that I am cited as a contributor for my New Leaf Journal article on the idea of a “social” media consisting of independent personal websites. […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
     <entry>
@@ -1009,16 +1052,6 @@ https://thenewleafjournal.com/eisenhowers-1954-veterans-day-proclamation/
 #VeteransDay #Eisenhower #veterans #ushistory #history]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ominous News For a Game Company]]></title>
-        <id>https://social.emucafe.org/?p=510</id>
-        <link href="https://social.emucafe.org/naferrell/ominous-news-for-a-game-company/"/>
-        <updated>2023-11-11T00:59:04.000Z</updated>
-        <summary type="html"><![CDATA[On October 11, 2023, Nintendo Life cited to reports that Disney is looking to purchase a video game company. This sounds very ominous so I am crossing my fingers that they do not buy a company that makes good games. Go for one of the companies that makes those terrible free-to-start mobile games!]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
