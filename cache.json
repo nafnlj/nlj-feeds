@@ -23,6 +23,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21842",
+          "author": "Nicholas A. Ferrell",
+          "description": "I have received many spam emails at The New Leaf Journal... but none top a request for assistance from China's former Defense Minister.\nPossibly related posts...\n\nThe New Leaf Journal Celebrates Its First Birthday\nThe al|together and Insani Visual Novel Translations\nThe Newsletter Leaf Journal at 100\nA 2021 List of Alternative Search Engines and Search…\nJustin & Justina: Most-Read NLJ Content of 2020\nThe New Leaf Journal Newsletter\nOldest Golfers to Contend for Majors Between the…\nRecommended F-Droid FOSS Apps For Android-Based…\nJustin and Justina review 2022 at the NLJ",
+          "link": "https://thenewleafjournal.com/li-shangfu-emails-the-new-leaf-journal/",
+          "publishedOn": "2023-12-11T16:52:34.000Z",
+          "wordCount": 2307,
+          "title": "Li Shangfu(?) Emails The New Leaf Journal",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21768",
           "author": "Nicholas A. Ferrell",
           "description": "Reviewing the al|together visual novel translation that started it all and eventually made its way to Steam.\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nCrimsoness - Visual Novel Review\nal|together Visual Novel Reviews and Posts\nFlood of Tears - Visual Novel Review\nFrom the Bottom of the Heart - VN Review\nMay Sky - Visual Novel Review\nA Midsummer Day's Resonance - VN Review\nio [Christmas Eve] - Visual Novel Review\nBuilding ONScripter-Insani on EndeavourOS",
@@ -234,6 +244,16 @@
       "feedUrl": "https://social.emucafe.org/feed",
       "siteUrl": "https://social.emucafe.org",
       "articles": [
+        {
+          "id": "https://social.emucafe.org/?p=602",
+          "author": "Nicholas A. Ferrell",
+          "description": "An article in Ars Technica reported that Systemd Linux distributions (which describes most distributions these days) will receive a much-desired updated from Windows: The Blue Screen of Death. From the article: Today, version 255 of the Linux systemd project honors that original intent by adding a systemd-bsod component that generates a full-screen display of some […]",
+          "link": "https://social.emucafe.org/naferrell/systemd-bsod-linux/",
+          "publishedOn": "2023-12-11T15:50:18.000Z",
+          "wordCount": null,
+          "title": "BSOD Coming to Linux",
+          "imageUrl": null
+        },
         {
           "id": "https://social.emucafe.org/?p=597",
           "author": "Nicholas A. Ferrell",
@@ -617,6 +637,26 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111562479847118097",
+          "author": null,
+          "description": "For those looking for free options -- BunnyPress Lite by the same developer is available in the WordPress repository and is similar to the paid theme, only lacking additional display patterns and a few features for increasing page loading times that can be replicated in plugins in any event. Note, however, that I have not used BunnyPress Lite since early June 2020.",
+          "link": "https://linuxrocks.online/@nafnlj/111562479847118097",
+          "publishedOn": "2023-12-11T15:25:47.000Z",
+          "wordCount": 123,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111562469449790891",
+          "author": null,
+          "description": "My September 2020 review of The New Leaf Journal's WordPress theme, BunnyPress -- including my discussing how difficult it was to buy since the store page was entirely Japanese. While much has changed at NLJ since 9/2020, including our layout, BunnyPress remains our theme.\nhttps://thenewleafjournal.com/the-bunnypress-chronicles-story-and-review/\n#WordPress #BunnyPress #WordPressThemes",
+          "link": "https://linuxrocks.online/@nafnlj/111562469449790891",
+          "publishedOn": "2023-12-11T15:23:08.000Z",
+          "wordCount": 123,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111546014756687512",
           "author": null,

@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-11T14:11:23.837Z</updated>
+    <updated>2023-12-11T20:12:30.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Li Shangfu(?) Emails The New Leaf Journal]]></title>
+        <id>https://thenewleafjournal.com/?p=21842</id>
+        <link href="https://thenewleafjournal.com/li-shangfu-emails-the-new-leaf-journal/"/>
+        <updated>2023-12-11T16:52:34.000Z</updated>
+        <summary type="html"><![CDATA[I have received many spam emails at The New Leaf Journal... but none top a request for assistance from China's former Defense Minister.
+Possibly related posts...
+
+The New Leaf Journal Celebrates Its First Birthday
+The al|together and Insani Visual Novel Translations
+The Newsletter Leaf Journal at 100
+A 2021 List of Alternative Search Engines and Search…
+Justin & Justina: Most-Read NLJ Content of 2020
+The New Leaf Journal Newsletter
+Oldest Golfers to Contend for Majors Between the…
+Recommended F-Droid FOSS Apps For Android-Based…
+Justin and Justina review 2022 at the NLJ]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BSOD Coming to Linux]]></title>
+        <id>https://social.emucafe.org/?p=602</id>
+        <link href="https://social.emucafe.org/naferrell/systemd-bsod-linux/"/>
+        <updated>2023-12-11T15:50:18.000Z</updated>
+        <summary type="html"><![CDATA[An article in Ars Technica reported that Systemd Linux distributions (which describes most distributions these days) will receive a much-desired updated from Windows: The Blue Screen of Death. From the article: Today, version 255 of the Linux systemd project honors that original intent by adding a systemd-bsod component that generates a full-screen display of some […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111562479847118097</id>
+        <link href="https://linuxrocks.online/@nafnlj/111562479847118097"/>
+        <updated>2023-12-11T15:25:47.000Z</updated>
+        <summary type="html"><![CDATA[For those looking for free options -- BunnyPress Lite by the same developer is available in the WordPress repository and is similar to the paid theme, only lacking additional display patterns and a few features for increasing page loading times that can be replicated in plugins in any event. Note, however, that I have not used BunnyPress Lite since early June 2020.]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111562469449790891</id>
+        <link href="https://linuxrocks.online/@nafnlj/111562469449790891"/>
+        <updated>2023-12-11T15:23:08.000Z</updated>
+        <summary type="html"><![CDATA[My September 2020 review of The New Leaf Journal's WordPress theme, BunnyPress -- including my discussing how difficult it was to buy since the store page was entirely Japanese. While much has changed at NLJ since 9/2020, including our layout, BunnyPress remains our theme.
+https://thenewleafjournal.com/the-bunnypress-chronicles-story-and-review/
+#WordPress #BunnyPress #WordPressThemes]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Docs for pushing from Gitea to other forges.]]></title>
         <id>https://memos.emucafe.org/m/40</id>
