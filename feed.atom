@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-11T20:12:30.508Z</updated>
+    <updated>2023-12-12T14:10:34.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Adding EOIR BIA Decisions to Zotero]]></title>
+        <id>https://thenewleafjournal.com/?p=21845</id>
+        <link href="https://thenewleafjournal.com/adding-eoir-bia-decisions-to-zotero/"/>
+        <updated>2023-12-12T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A short guide for immigration law followers to adding Board of Immigration Appeals precedent decisions to Zotero.
+Possibly related posts...
+
+Analyzing BIA Decision in Matter of Salama
+Matter of Man, 12 I&N Dec. 305 (BIA 1967) - BIA Hong…
+My heroic broken link report to U.S. DOJ
+The Matter of Great Wall - But Not Those Walls
+Noncitizen Nationals as Immigrant Visa Petitioners
+Immigration Issues in NYPD Chinese Agent Case
+Golf and Immigration: Matter of Masters
+"A Strange Admixture of Contentions" - Study of a Phrase
+My Default Apps as of December 2023]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo "Christmas & You" Music Video, feat. Johanna Telander, Katie Chambers, Mark Caserta]]></title>
+        <id>https://www.youtube.com/watch?v=A1iknvSpRkc</id>
+        <link href="https://www.youtube.com/watch?v=A1iknvSpRkc"/>
+        <updated>2023-12-12T03:13:56.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MealMaster Udon Recipe]]></title>
+        <id>https://social.emucafe.org/?p=610</id>
+        <link href="https://social.emucafe.org/naferrell/mealmaster-udon-recipe/"/>
+        <updated>2023-12-11T21:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Yukinu over at Yukinu blog posted a simple and tasty looking 5am udon recipe. I approve with the qualification that I would opt for unsalted chicken broth (if I am adding soy sauce) and that I am not sure if I am ready for udon at 5 AM (I usually prefer hot cereal for breakfast). […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Li Shangfu(?) Emails The New Leaf Journal]]></title>
         <id>https://thenewleafjournal.com/?p=21842</id>
@@ -1033,18 +1073,6 @@ Playing Through Cancer in Silence: Shawn Respert's NBA Story
 CUNY Un-Persons A Successful Alum]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111399062803809661</id>
-        <link href="https://linuxrocks.online/@nafnlj/111399062803809661"/>
-        <updated>2023-11-12T18:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Re-printing "Pumpkin Pie," a seasonal early 20th century children's poem by Mary Mapes Dodge.
-https://thenewleafjournal.com/pumpkin-pie-a-childrens-poem-by-mary-mapes-dodge/
-#poem #poetry #pumpkin #pumpkinpie #autumn #thanksgiving]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
