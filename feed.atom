@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-12T14:10:34.584Z</updated>
+    <updated>2023-12-12T20:11:59.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111568673625604266</id>
+        <link href="https://linuxrocks.online/@nafnlj/111568673625604266"/>
+        <updated>2023-12-12T17:40:56.000Z</updated>
+        <summary type="html"><![CDATA[I think I am the only person to ever use the open source RetroBoy camera app for Android (available on F-Droid) to photograph at falcon at Brooklyn Bridge Park. Am I absolutely certain? No, but I am close to certain.
+https://thenewleafjournal.com/falcon-photos-with-retroboy-camera-app/
+#RetroBoy #Android #Fdroid #Falcon #NYC #BrooklynBridgePark]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So long, E3]]></title>
+        <id>https://social.emucafe.org/?p=614</id>
+        <link href="https://social.emucafe.org/naferrell/so-long-e3/"/>
+        <updated>2023-12-12T17:35:55.000Z</updated>
+        <summary type="html"><![CDATA[I read many video game magazines when I was a kid. Back in my day, E3, which typically took place in May or June, was the major video game expo and a major event in the magazines. I used to look forward to E3 coverage. Over the years, I stopped reading video game magazines and, […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adding EOIR BIA Decisions to Zotero]]></title>
         <id>https://thenewleafjournal.com/?p=21845</id>

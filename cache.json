@@ -255,6 +255,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=614",
+          "author": "Nicholas A. Ferrell",
+          "description": "I read many video game magazines when I was a kid. Back in my day, E3, which typically took place in May or June, was the major video game expo and a major event in the magazines. I used to look forward to E3 coverage. Over the years, I stopped reading video game magazines and, […]",
+          "link": "https://social.emucafe.org/naferrell/so-long-e3/",
+          "publishedOn": "2023-12-12T17:35:55.000Z",
+          "wordCount": 747,
+          "title": "So long, E3",
+          "imageUrl": "https://social.emucafe.org/wp-content/uploads/2023/09/cropped-emucafesocial_icon-1.jpg"
+        },
+        {
           "id": "https://social.emucafe.org/?p=610",
           "author": "Nicholas A. Ferrell",
           "description": "Yukinu over at Yukinu blog posted a simple and tasty looking 5am udon recipe. I approve with the qualification that I would opt for unsalted chicken broth (if I am adding soy sauce) and that I am not sure if I am ready for udon at 5 AM (I usually prefer hot cereal for breakfast). […]",
@@ -657,6 +667,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111568673625604266",
+          "author": null,
+          "description": "I think I am the only person to ever use the open source RetroBoy camera app for Android (available on F-Droid) to photograph at falcon at Brooklyn Bridge Park. Am I absolutely certain? No, but I am close to certain.\nhttps://thenewleafjournal.com/falcon-photos-with-retroboy-camera-app/\n#RetroBoy #Android #Fdroid #Falcon #NYC #BrooklynBridgePark",
+          "link": "https://linuxrocks.online/@nafnlj/111568673625604266",
+          "publishedOn": "2023-12-12T17:40:56.000Z",
+          "wordCount": 126,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111562479847118097",
           "author": null,
