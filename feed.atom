@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-13T14:10:49.390Z</updated>
+    <updated>2023-12-13T20:11:57.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111574411445474385</id>
+        <link href="https://linuxrocks.online/@nafnlj/111574411445474385"/>
+        <updated>2023-12-13T18:00:09.000Z</updated>
+        <summary type="html"><![CDATA[I wrote about a Mondrian theme for KDE Plasma back in early 2021. I used it until I switched from Plasma to XFCE for my workstation in the summer of 2021. However, things come full circle. While I still use XFCE on my workstation, I use Plasma on a mini PC I designated for PC usage and have added some pieces of the Mondrian themeto my set-up.
+https://thenewleafjournal.com/reviewing-the-mondrian-theme-for-kde-plasma/
+#KDE #KDEPlasma #Mondrian #Desktop #Aesthetics]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Internal and External Linking]]></title>
+        <id>https://thenewleafjournal.com/?p=21853</id>
+        <link href="https://thenewleafjournal.com/on-internal-and-external-linking/"/>
+        <updated>2023-12-13T17:49:13.000Z</updated>
+        <summary type="html"><![CDATA[I concur with an argument in favor of external linking while taking a different perspective to argue in favor of humane internal linking.
+Possibly related posts...
+
+The Enigmatic Life and Death of Emperor Otho
+1883 Opening of the Brooklyn Bridge
+Should the Pistons have drafted Carmelo?
+Anime Recommendations of the Decade (2011-20)
+ACE Academy - Visual Novel Review
+The al|together and Insani Visual Novel Translations
+The Best of Anime in 2022: Year in Review
+The Angel Next Door Spoils Me Rotten - Anime Review
+The Poetry of Charlotte Becker - Early Twentieth…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feeds for Following Over X and Mastodon]]></title>
+        <id>https://social.emucafe.org/?p=622</id>
+        <link href="https://social.emucafe.org/naferrell/feeds-over-x-and-mastodon/"/>
+        <updated>2023-12-13T16:48:46.000Z</updated>
+        <summary type="html"><![CDATA[I came across an interesting passage by blogger Facundo Olano in his blog post about creating a personal feed reader to follow good and meaningful writing from around the web (see the source code for his interesting feed reader project). He assessed his prior usage of Twitter (now “X”) and Mastodon and realized that he […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Review of My Tablet – My Computer]]></title>
+        <id>https://social.emucafe.org/?p=618</id>
+        <link href="https://social.emucafe.org/naferrell/my-tablet-my-computer-review/"/>
+        <updated>2023-12-13T16:22:17.000Z</updated>
+        <summary type="html"><![CDATA[I came across a free ebook by Roger Carter on Smashwords about using an Android tablet as a computer (see My Tablet – My Computer). The book is short, running just over 5,000 words. While I do not personally need to use an Android (LineageOS in my case) tablet as a computer (not to mention […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111568673625604266</id>

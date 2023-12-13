@@ -23,6 +23,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21853",
+          "author": "Nicholas A. Ferrell",
+          "description": "I concur with an argument in favor of external linking while taking a different perspective to argue in favor of humane internal linking.\nPossibly related posts...\n\nThe Enigmatic Life and Death of Emperor Otho\n1883 Opening of the Brooklyn Bridge\nShould the Pistons have drafted Carmelo?\nAnime Recommendations of the Decade (2011-20)\nACE Academy - Visual Novel Review\nThe al|together and Insani Visual Novel Translations\nThe Best of Anime in 2022: Year in Review\nThe Angel Next Door Spoils Me Rotten - Anime Review\nThe Poetry of Charlotte Becker - Early Twentieth…",
+          "link": "https://thenewleafjournal.com/on-internal-and-external-linking/",
+          "publishedOn": "2023-12-13T17:49:13.000Z",
+          "wordCount": 3076,
+          "title": "On Internal and External Linking",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21845",
           "author": "Nicholas A. Ferrell",
           "description": "A short guide for immigration law followers to adding Board of Immigration Appeals precedent decisions to Zotero.\nPossibly related posts...\n\nAnalyzing BIA Decision in Matter of Salama\nMatter of Man, 12 I&N Dec. 305 (BIA 1967) - BIA Hong…\nMy heroic broken link report to U.S. DOJ\nThe Matter of Great Wall - But Not Those Walls\nNoncitizen Nationals as Immigrant Visa Petitioners\nImmigration Issues in NYPD Chinese Agent Case\nGolf and Immigration: Matter of Masters\n\"A Strange Admixture of Contentions\" - Study of a Phrase\nMy Default Apps as of December 2023",
@@ -254,6 +264,26 @@
       "feedUrl": "https://social.emucafe.org/feed",
       "siteUrl": "https://social.emucafe.org",
       "articles": [
+        {
+          "id": "https://social.emucafe.org/?p=622",
+          "author": "Nicholas A. Ferrell",
+          "description": "I came across an interesting passage by blogger Facundo Olano in his blog post about creating a personal feed reader to follow good and meaningful writing from around the web (see the source code for his interesting feed reader project). He assessed his prior usage of Twitter (now “X”) and Mastodon and realized that he […]",
+          "link": "https://social.emucafe.org/naferrell/feeds-over-x-and-mastodon/",
+          "publishedOn": "2023-12-13T16:48:46.000Z",
+          "wordCount": null,
+          "title": "Feeds for Following Over X and Mastodon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://social.emucafe.org/?p=618",
+          "author": "Nicholas A. Ferrell",
+          "description": "I came across a free ebook by Roger Carter on Smashwords about using an Android tablet as a computer (see My Tablet – My Computer). The book is short, running just over 5,000 words. While I do not personally need to use an Android (LineageOS in my case) tablet as a computer (not to mention […]",
+          "link": "https://social.emucafe.org/naferrell/my-tablet-my-computer-review/",
+          "publishedOn": "2023-12-13T16:22:17.000Z",
+          "wordCount": null,
+          "title": "Quick Review of My Tablet – My Computer",
+          "imageUrl": null
+        },
         {
           "id": "https://social.emucafe.org/?p=614",
           "author": "Nicholas A. Ferrell",
@@ -667,6 +697,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111574411445474385",
+          "author": null,
+          "description": "I wrote about a Mondrian theme for KDE Plasma back in early 2021. I used it until I switched from Plasma to XFCE for my workstation in the summer of 2021. However, things come full circle. While I still use XFCE on my workstation, I use Plasma on a mini PC I designated for PC usage and have added some pieces of the Mondrian themeto my set-up.\nhttps://thenewleafjournal.com/reviewing-the-mondrian-theme-for-kde-plasma/\n#KDE #KDEPlasma #Mondrian #Desktop #Aesthetics",
+          "link": "https://linuxrocks.online/@nafnlj/111574411445474385",
+          "publishedOn": "2023-12-13T18:00:09.000Z",
+          "wordCount": 124,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111568673625604266",
           "author": null,
