@@ -244,6 +244,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=627",
+          "author": "Nicholas A. Ferrell",
+          "description": "I am working on cleaning up a few anime series that I missed throughout the year in preparation for my year in review. As part of the project, I quickly went through The Dreaming Boy is a Realist (light novel titles…) on HiDive (I had neglected HiDive for a bit because there’s no unofficial Kodi […]",
+          "link": "https://social.emucafe.org/naferrell/dreaming-boy-is-a-realist-op-ed/",
+          "publishedOn": "2023-12-14T17:18:40.000Z",
+          "wordCount": null,
+          "title": "Solid OP and ED in The Dreaming Boy is a Realist",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=622",
           "author": "Nicholas A. Ferrell",
           "description": "I came across an interesting passage by blogger Facundo Olano in his blog post about creating a personal feed reader to follow good and meaningful writing from around the web (see the source code for his interesting feed reader project). He assessed his prior usage of Twitter (now “X”) and Mastodon and realized that he […]",
@@ -513,6 +523,16 @@
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/41",
+          "author": null,
+          "description": "Hostinger guide to WP Cron. Considering looking into changing my set-up after a minor issue with missed jobs for ActivityPub on Emu Cafe Social:\nhttps://www.hostinger.com/tutorials/how-to-setup-and-manage-a-wordpress-cron-job\nSee also WordPress Codex guide:\nhttps://developer.wordpress.org/plugins/cron/hooking-wp-cron-into-the-system-task-scheduler/\n#WordPress #Cron #Linux",
+          "link": "https://memos.emucafe.org/m/41",
+          "publishedOn": "2023-12-14T18:26:17.000Z",
+          "wordCount": 21,
+          "title": "Hostinger guide to WP Cron. Considering looking into changing my set-up after a minor issue with mis...",
+          "imageUrl": null
+        },
         {
           "id": "https://memos.emucafe.org/m/40",
           "author": null,

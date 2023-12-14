@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-14T14:10:38.031Z</updated>
+    <updated>2023-12-14T20:11:57.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hostinger guide to WP Cron. Considering looking into changing my set-up after a minor issue with mis...]]></title>
+        <id>https://memos.emucafe.org/m/41</id>
+        <link href="https://memos.emucafe.org/m/41"/>
+        <updated>2023-12-14T18:26:17.000Z</updated>
+        <summary type="html"><![CDATA[Hostinger guide to WP Cron. Considering looking into changing my set-up after a minor issue with missed jobs for ActivityPub on Emu Cafe Social:
+https://www.hostinger.com/tutorials/how-to-setup-and-manage-a-wordpress-cron-job
+See also WordPress Codex guide:
+https://developer.wordpress.org/plugins/cron/hooking-wp-cron-into-the-system-task-scheduler/
+#WordPress #Cron #Linux]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solid OP and ED in The Dreaming Boy is a Realist]]></title>
+        <id>https://social.emucafe.org/?p=627</id>
+        <link href="https://social.emucafe.org/naferrell/dreaming-boy-is-a-realist-op-ed/"/>
+        <updated>2023-12-14T17:18:40.000Z</updated>
+        <summary type="html"><![CDATA[I am working on cleaning up a few anime series that I missed throughout the year in preparation for my year in review. As part of the project, I quickly went through The Dreaming Boy is a Realist (light novel titles…) on HiDive (I had neglected HiDive for a bit because there’s no unofficial Kodi […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victor V. Gurbo "Christmas & You" Version 2, feat. Johanna Telander, Katie Chambers, & Mark Caserta]]></title>
         <id>https://www.youtube.com/watch?v=8e_wYxhKv3g</id>
