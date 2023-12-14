@@ -211,16 +211,6 @@
           "wordCount": 2458,
           "title": "Hair Color in The Apothecary Diaries Anime",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/11/apothecary-diaries-1.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=21558",
-          "author": "Nicholas A. Ferrell",
-          "description": "Texas A&M's decision to pay Coach Jimbo Fisher $76.8 million to not coach the school's football team raises questions about its priorities as an institution.\nPossibly related posts...\n\nCollege Football Coach Salaries and Buyouts and…\nShould the Pistons have drafted Carmelo?\nThe Japanese Citizenship Requirement for Sumo Stablemasters\n1997 Otis Thorpe trade and the 2003 NBA Draft\nSega of Japan's Yukawa Dreamcast Commercials\nBrown hair and dress codes in Ippon Again!\nImagination in Pokémon Red and Blue\nPlaying Through Cancer in Silence: Shawn Respert's NBA Story\nCUNY Un-Persons A Successful Alum",
-          "link": "https://thenewleafjournal.com/on-coach-jimbo-fishers-buyout/",
-          "publishedOn": "2023-11-14T17:52:20.000Z",
-          "wordCount": 2859,
-          "title": "On Coach Jimbo Fisher’s Buyout",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
         }
       ]
     },
@@ -246,18 +236,7 @@
       "title": "Collections | The New Leaf Journal",
       "feedUrl": "https://thenewleafjournal.com/collection/feed",
       "siteUrl": "https://thenewleafjournal.com",
-      "articles": [
-        {
-          "id": "https://thenewleafjournal.com/?post_type=collection&p=21572",
-          "author": "Nicholas A. Ferrell",
-          "description": "I have published a growing collection of articles on hair color in Japanese anime, manga, and games (usually visual novels). My […]",
-          "link": "https://thenewleafjournal.com/collection/hair-color-in-japanese-anime-manga-and-games/",
-          "publishedOn": "2023-11-14T18:58:17.000Z",
-          "wordCount": null,
-          "title": "Hair Color in Japanese Anime, Manga, and Games",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Emu Café Social",
@@ -866,26 +845,6 @@
           "wordCount": 121,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/111410641536063115",
-          "author": null,
-          "description": "It has been a rough year for search engines I reviewed.  Peekier went offline and turned into a Kagi redirect last February.  But again, my review lives on.\nhttps://thenewleafjournal.com/peekier-search-engine-review/\n#peekier #searchengine",
-          "link": "https://linuxrocks.online/@nafnlj/111410641536063115",
-          "publishedOn": "2023-11-14T19:51:18.000Z",
-          "wordCount": 122,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/111410637206705043",
-          "author": null,
-          "description": "Elephind, a newspaper search engine that I used for a number of projects, has been taken offline. For those who are curious about what it looked like, my review lives on.\nhttps://thenewleafjournal.com/reviewing-elephind-a-powerful-newspaper-search-engine/\n#elephind #searchengine",
-          "link": "https://linuxrocks.online/@nafnlj/111410637206705043",
-          "publishedOn": "2023-11-14T19:50:12.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -900,6 +859,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA",
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8e_wYxhKv3g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8e_wYxhKv3g",
+          "publishedOn": "2023-12-14T05:00:09.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo \"Christmas & You\" Version 2, feat. Johanna Telander, Katie Chambers, & Mark Caserta",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=A1iknvSpRkc",
           "author": null,
