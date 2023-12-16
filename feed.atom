@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-15T20:11:50.412Z</updated>
+    <updated>2023-12-16T14:10:20.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1060,28 +1060,6 @@ Fallen Inflatable Thanksgiving Turkey
 Justin and Justina review 2022 at the NLJ]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NLJ Takes Me To Grenada]]></title>
-        <id>https://social.emucafe.org/?p=519</id>
-        <link href="https://social.emucafe.org/naferrell/nlj-takes-me-to-grenada/"/>
-        <updated>2023-11-16T16:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Running The New Leaf Journal takes me interesting places. For example, it has taken me to Grenada over the last few days. Not literally, mind you. I am not much of a traveling guy (nor am I a big fan of planes or other vehicles). I am researching Thanksgiving in Grenada for what promises to […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111421097733714388</id>
-        <link href="https://linuxrocks.online/@nafnlj/111421097733714388"/>
-        <updated>2023-11-16T16:10:27.000Z</updated>
-        <summary type="html"><![CDATA[Last year, I published a history of Thanksgiving proclamations in the Philippines from the U.S. colonial era through the first President Marcos's significantly changed take on the holiday.
-https://thenewleafjournal.com/history-of-thanksgiving-proclamations-in-the-philippines/
-#thanksgiving #philippines #history #ushistory #holiday]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
