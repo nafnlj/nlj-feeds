@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-17T20:11:09.524Z</updated>
+    <updated>2023-12-18T14:10:54.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1021,35 +1021,6 @@ Added Victor V. Gurbo's Memos Feed]]></summary>
 #ProjectGutenberg #law #ReadingList]]></summary>
         <author>
             <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CLXI 〜 Newslettergiving 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/161/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/161/"/>
-        <updated>2023-11-18T17:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 161st edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. We have a solid week of publishing, so I look forward to sharing our new articles, links from around the web, and other news and notes to hold you over through Thanksgiving.  
-Leaves from the week that was
-I published five new articles since mailing newsletter 160.  
-"I Voted" Sticker Appears in Pocket
-I am going with the "magic" explanation.  
-On Coach Jimbo Fisher's Buyout
-I could not pass on the opportunity to write about Texas A&M paying a man $76.8 million to not coach its football team.  
-Hair Color in t…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111432618767569543</id>
-        <link href="https://linuxrocks.online/@nafnlj/111432618767569543"/>
-        <updated>2023-11-18T17:00:24.000Z</updated>
-        <summary type="html"><![CDATA[I dare say Newsletter 161 is one of my finer newsletter efforts. Links to our 5 newest articles, 21 links from around the web, and a Thanksgiving-themed walk through our archives. Come for the new New Leaf Journal content, stay for external links to articles about birds looking at birds.
-https://buttondown.email/newsletterleafjournal/archive/161/
-#newsletter #buttondown #links #aroundtheweb #thanksgiving]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
