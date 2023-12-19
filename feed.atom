@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-18T20:11:51.991Z</updated>
+    <updated>2023-12-19T14:10:23.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -985,16 +985,6 @@ Justin & Justina: The Most-Read New Leaf Journal…
 Productivity Window Shopping and Backlogs
 Applying Coolidge's Remarks on the Home to the Digital Home
 The Nice Boat 〜 A Look Back at the School Days Anime]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bing De-Indexing Article Cited To On Blue Dwarf]]></title>
-        <id>https://social.emucafe.org/?p=527</id>
-        <link href="https://social.emucafe.org/naferrell/bing-de-indexing-article-cited-to-on-blue-dwarf/"/>
-        <updated>2023-11-19T16:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Back in 2022, I wrote an article on the importance of being in good standing with Microsoft Bing for reaching searchers who prefer privacy-friendly search solutions. While Bing itself is far from privacy-friendly, many alternatives such as DuckDuckGo, Qwant, Ecosia, and Swisscows use Bing’s search index. That particular article was inspired by a post on […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
