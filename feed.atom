@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-21T14:10:12.195Z</updated>
+    <updated>2023-12-21T20:11:11.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Seen at the Marina in Brooklyn Park... and I see what they did there... S-cape.
+
+Article with context about the area:
+https://thenewleafjournal.com/a-boat-named-s-cape/
+
+#NYC #Brooklyn #BrooklynBridgePark #Marina #Yacht #Pun #Boat #pixel3axl #newleafjournal #thenewleafjournal]]></title>
+        <id>https://pixelfed.social/p/nafnlj/643517454040879425</id>
+        <link href="https://pixelfed.social/p/nafnlj/643517454040879425"/>
+        <updated>2023-12-21T18:28:37.000Z</updated>
+        <summary type="html"><![CDATA[Seen at the Marina in Brooklyn Park... and I see what they did there... S-cape.<br />
+<br />
+Article with context about the area:<br />
+<a href="https://thenewleafjournal.com/a-boat-named-s-cape/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/a-boat-named-s-cape/</a><br />
+<br />
+<a href="https://pixelfed.social/discover/tags/NYC?src=hash" title="#NYC" class="u-url hashtag" rel="external nofollow noopener">#NYC</a> <a href="https://pixelfed.social/discover/tags/Brooklyn?src=hash" title="#Brooklyn" class="u-url hashtag" rel="external nofollow noopener">#Brooklyn</a> <a href="https://pixelfed.social/discover/tags/BrooklynBridgePark?src=hash" title="#BrooklynBridgePark" class="u-url hashtag" rel="external nofollow noopener">#BrooklynBridgePark</a> <a href="https://pixelfed.social/discover/tags/Marina?src=hash" title="#Marina" class="u-url hashtag" rel="external nofollow noopener">#Marina</a> <a href="https://pixelfed.social/discover/tags/Yacht?src=hash" title="#Yacht" class="u-url hashtag" rel="external nofollow noopener">#Yacht</a> <a href="https://pixelfed.social/discover/tags/Pun?src=hash" title="#Pun" class="u-url hashtag" rel="external nofollow noopener">#Pun</a> <a href="https://pixelfed.social/discover/tags/Boat?src=hash" title="#Boat" class="u-url hashtag" rel="external nofollow noopener">#Boat</a> <a href="https://pixelfed.social/discover/tags/pixel3axl?src=hash" title="#pixel3axl" class="u-url hashtag" rel="external nofollow noopener">#pixel3axl</a> <a href="https://pixelfed.social/discover/tags/newleafjournal?src=hash" title="#newleafjournal" class="u-url hashtag" rel="external nofollow noopener">#newleafjournal</a> <a href="https://pixelfed.social/discover/tags/thenewleafjournal?src=hash" title="#thenewleafjournal" class="u-url hashtag" rel="external nofollow noopener">#thenewleafjournal</a>]]></summary>
+        <author>
+            <name>nafnlj on Pixelfed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111619768681306960</id>
+        <link href="https://linuxrocks.online/@nafnlj/111619768681306960"/>
+        <updated>2023-12-21T18:15:05.000Z</updated>
+        <summary type="html"><![CDATA[I hope all the people who went all in on a Christmas Tree before finishing their Thanksgiving leftovers are hanging in there...
+https://thenewleafjournal.com/on-buying-christmas-trees-in-november/
+#ChristmasTree #Christmas #Thanksgiving]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Inflatable Chimney Santa]]></title>
+        <id>https://thenewleafjournal.com/?p=21879</id>
+        <link href="https://thenewleafjournal.com/dynamic-inflatable-chimney-santa/"/>
+        <updated>2023-12-21T17:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Santa emerges from a chimney in brownstone Brooklyn: A photo story in 3 acts.
+Possibly related posts...
+
+An Inquiry Into the Nature of Santa Claus
+Make it Christmas With a Santa Hat
+Santa Claus's Delivery Van Seen in Brooklyn
+Reviewing Three Boutique Guitar Strings
+On Barry Bonds' IBBs in 2006 and 2007
+Justin & Justina 〜 A Christmas Present Struggle
+A Christmas Menagerie On a Lawn in Gowanus
+The Holiday Inflatable Dragon in Brooklyn
+Inflatable Thanksgiving Turkey With Pilgrim Hat]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make it Christmas With a Santa Hat]]></title>
+        <id>https://thenewleafjournal.com/?p=21868</id>
+        <link href="https://thenewleafjournal.com/make-it-christmas-with-a-santa-hat/"/>
+        <updated>2023-12-21T17:47:22.000Z</updated>
+        <summary type="html"><![CDATA[A dialogue on how (almost) any holiday decoration or lawn ornament can aspire to Christmas with a Santa hat.
+Possibly related posts...
+
+An Inquiry Into the Nature of Santa Claus
+Dynamic Inflatable Chimney Santa
+io [Christmas Eve] - Visual Novel Review
+Plain Song Christmas Special - VN Review
+A Christmas Menagerie On a Lawn in Gowanus
+Santa Claus's Delivery Van Seen in Brooklyn
+Justin & Justina 〜 A Christmas Present Struggle
+Reviewing Three Boutique Guitar Strings
+The Inflatable Christmas Dragon of Gowanus]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Boat Named “S-cape”]]></title>
         <id>https://thenewleafjournal.com/?p=21859</id>
