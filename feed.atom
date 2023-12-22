@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-21T20:11:11.887Z</updated>
+    <updated>2023-12-22T14:10:21.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Moonshine – Visual Novel Review]]></title>
+        <id>https://thenewleafjournal.com/?p=21890</id>
+        <link href="https://thenewleafjournal.com/moonshine-visual-novel-review/"/>
+        <updated>2023-12-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Reviewing one of the more unique and polished al|together visual novel translation projects, Moonshine.
+Possibly related posts...
+
+The al|together and Insani Visual Novel Translations
+May Sky - Visual Novel Review
+Narcissu (Insani version) VN Review
+From the Bottom of the Heart - VN Review
+The Mystery of Sōseki and Tsuki ga Kirei
+The Letter (Tegami) - Visual Novel Review
+Crimsoness - Visual Novel Review
+A Midsummer Day's Resonance - VN Review
+Running Yuuki!Novel Ver of Tegami on Linux]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seen at the Marina in Brooklyn Park... and I see what they did there... S-cape.
 
