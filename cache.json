@@ -503,6 +503,16 @@
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
         {
+          "id": "https://memos.emucafe.org/m/42",
+          "author": null,
+          "description": "Restarting Pipewire:\n\nsystemctl --user restart pipewire pipewire-pulse\nsystemctl --user daemon-reload\nSource: https://forums.fedoraforum.org/showthread.php?326248-Just-upgraded-pipewire-and-want-to-reload-it-without-rebooting&s=58ca81ba2d4b8adaf9adedf8214b6d9f&p=1848593#post1848593\n\n#Pipewire #Linux #Troubleshooting",
+          "link": "https://memos.emucafe.org/m/42",
+          "publishedOn": "2023-12-23T01:35:15.000Z",
+          "wordCount": 21,
+          "title": "Restarting Pipewire:",
+          "imageUrl": "https://www.usememos.com/logo.png"
+        },
+        {
           "id": "https://memos.emucafe.org/m/41",
           "author": null,
           "description": "Hostinger guide to WP Cron. Considering looking into changing my set-up after a minor issue with missed jobs for ActivityPub on Emu Cafe Social:\nhttps://www.hostinger.com/tutorials/how-to-setup-and-manage-a-wordpress-cron-job\nSee also WordPress Codex guide:\nhttps://developer.wordpress.org/plugins/cron/hooking-wp-cron-into-the-system-task-scheduler/\n#WordPress #Cron #Linux",
@@ -667,16 +677,6 @@
           "wordCount": null,
           "title": "Not to brag, but Amazon is telling me that it has been more than 5 years since I last broke my Hario v60 coffee glass.  Not a big deal.  As I said, I don't like to brag.\n\nStory Link: https://thenewleafjournal.com/5-years-without-breaking-my-coffee-glass/\n\n#coffee #coffeeglass #glass #hario #hariov60 #amazon #newleafjournal #thenewleafjournal",
           "imageUrl": null
-        },
-        {
-          "id": "https://pixelfed.social/p/nafnlj/633433641589780990",
-          "author": null,
-          "description": "Happy Thanksgiving! Inflatable turkey seen in front of a grocery store in the Brooklyn NYC neighborhood of Carroll Gardens.<br />\n<br />\nArticle:<br />\n<a href=\"https://thenewleafjournal.com/inflatable-thanksgiving-turkey-with-pilgrim-hat/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/inflatable-thanksgiving-turkey-with-pilgrim-hat/</a><br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/nyc?src=hash\" title=\"#nyc\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#nyc</a> <a href=\"https://pixelfed.social/discover/tags/brooklyn?src=hash\" title=\"#brooklyn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklyn</a> <a href=\"https://pixelfed.social/discover/tags/carrollgardens?src=hash\" title=\"#carrollgardens\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#carrollgardens</a> <a href=\"https://pixelfed.social/discover/tags/thanksgiving?src=hash\" title=\"#thanksgiving\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#thanksgiving</a> <a href=\"https://pixelfed.social/discover/tags/inflatable?src=hash\" title=\"#inflatable\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#inflatable</a> <a href=\"https://pixelfed.social/discover/tags/turkey?src=hash\" title=\"#turkey\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#turkey</a> <a href=\"https://pixelfed.social/discover/tags/pumpkin?src=hash\" title=\"#pumpkin\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pumpkin</a> <a href=\"https://pixelfed.social/discover/tags/pixel3axl?src=hash\" title=\"#pixel3axl\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pixel3axl</a> <a href=\"https://pixelfed.social/discover/tags/newleafjournal?src=hash\" title=\"#newleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#newleafjournal</a> <a href=\"https://pixelfed.social/discover/tags/thenewleafjournal?src=hash\" title=\"#thenewleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#thenewleafjournal</a>",
-          "link": "https://pixelfed.social/p/nafnlj/633433641589780990",
-          "publishedOn": "2023-11-23T22:39:08.000Z",
-          "wordCount": null,
-          "title": "Happy Thanksgiving! Inflatable turkey seen in front of a grocery store in the Brooklyn NYC neighborhood of Carroll Gardens.\n\nArticle:\nhttps://thenewleafjournal.com/inflatable-thanksgiving-turkey-with-pilgrim-hat/\n\n#nyc #brooklyn #carrollgardens #thanksgiving #inflatable #turkey #pumpkin #pixel3axl #newleafjournal #thenewleafjournal",
-          "imageUrl": null
         }
       ]
     },
@@ -838,6 +838,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh75kjruoE7BVeRFSGTM7pA",
       "siteUrl": "https://www.youtube.com/channel/UCh75kjruoE7BVeRFSGTM7pA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=iR5LmCb5HUg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iR5LmCb5HUg",
+          "publishedOn": "2023-12-23T01:44:18.000Z",
+          "wordCount": null,
+          "title": "Victor V. Gurbo & Mark Caserta \"Frosty the Snowman (Home Recording)\" 2020 Blues Version",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8e_wYxhKv3g",
           "author": null,
