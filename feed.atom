@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-25T14:09:54.055Z</updated>
+    <updated>2023-12-25T20:11:09.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Merry Christmas – Openclipart Santa Owl]]></title>
+        <id>https://social.emucafe.org/?p=640</id>
+        <link href="https://social.emucafe.org/naferrell/oca-santa-owl/"/>
+        <updated>2023-12-25T16:43:03.000Z</updated>
+        <summary type="html"><![CDATA[I enjoy some of the fun public domain images on Openclipart. For Christmas 2022, I shared a “cat Christmas tree” over at The New Leaf Journal. This year, I will use my new social posting site (it seems more conducive for the purpose) to share a fun Openclipart Christmas owl posted by Openclipart artist Michal […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gowanus Green Car With Christmas Presents]]></title>
         <id>https://thenewleafjournal.com/?p=21984</id>
