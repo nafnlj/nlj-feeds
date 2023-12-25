@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=21984",
+          "author": "Nicholas A. Ferrell",
+          "description": "Once clad in a witch's hat for Halloween, an endearing green car in Gowanus is now bearing Christmas presents.\nPossibly related posts...\n\nThe Wicked Car of the Gowanus - Car with Hat\nRudolph the Red-Nosed Car with Antlers\nio [Christmas Eve] - Visual Novel Review\nPlain Song Christmas Special - VN Review\nA Christmas Menagerie On a Lawn in Gowanus\nMake it Christmas With a Santa Hat\n\"Uncle Susan is a Wolf\" - A Graffiti Photo and…\nThe New Leaf Journal Celebrates Its First Birthday\nThe Inflatable Christmas Dragon of Gowanus",
+          "link": "https://thenewleafjournal.com/gowanus-green-car-with-christmas-presents/",
+          "publishedOn": "2023-12-24T22:28:05.000Z",
+          "wordCount": 1918,
+          "title": "Gowanus Green Car With Christmas Presents",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/12/gowanus-car-with-presents-side-nlj.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21968",
           "author": "Victor V. Gurbo",
           "description": "Victor V. Gurbo shares two recordings of his original holiday song, Christmas & You.\nPossibly related posts...\n\nThe Enigmatic Life and Death of Emperor Otho\nAnime Recommendations of the Decade (2011-20)\nThe al|together and Insani Visual Novel Translations\nACE Academy - Visual Novel Review\nThe Best of Anime in 2022: Year in Review\nThe Angel Next Door Spoils Me Rotten - Anime Review\nTwo Independence Day-Themed Pokémon Battles: Ferrell…\nJustin and Justina review 2022 at the NLJ\nFour May Issues of The Nursery Magazine (1873-81)",
@@ -200,26 +210,6 @@
           "wordCount": 4803,
           "title": "NBA MVPs and MVP Teammates",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=21668",
-          "author": "Nicholas A. Ferrell",
-          "description": "\"The toast is, \"Freedom's favorite son, \nHealth, peace, and joy to Washington!\"\nPossibly related posts...\n\nHistory of New York's Evacuation Day\nPlain Song - Visual Novel Review\nPlain Song Christmas Special - VN Review\nJustin and Justina review 2022 at the NLJ\nHistory of Thanksgiving Proclamations in the Philippines\nMost Important Dylan Songs By Half-Decade\nFamiliar song in Angel Next Door anime\n\"Mondrian\" - Victor V. Gurbo on his Original Song\nThe al|together and Insani Visual Novel Translations",
-          "link": "https://thenewleafjournal.com/1783-ny-evacuation-day-song/",
-          "publishedOn": "2023-11-25T22:01:11.000Z",
-          "wordCount": 1973,
-          "title": "1783 NY Evacuation Day Song",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/11/washington-procession-evacuation-day-loc2.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=21621",
-          "author": "Nicholas A. Ferrell",
-          "description": "A detailed history of New York City's Evacuation Day, a former holiday that landed on November 25 and was second only to Independence Day in NYC's patriotic pantheon.\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nThe New Leaf Journal Celebrates Its First Birthday\nA 2021 List of Alternative Search Engines and Search…\nJustin & Justina: Most-Read NLJ Content of 2020\nOldest Golfers to Contend for Majors Between the…\nAnna Jarvis and the Origin of Mother's Day in the…\n1883 Opening of the Brooklyn Bridge\nThe Enigmatic Life and Death of Emperor Otho\nWinds of New Beginnings: Pokémon Gold & Silver",
-          "link": "https://thenewleafjournal.com/history-of-new-yorks-evacuation-day/",
-          "publishedOn": "2023-11-25T16:49:07.000Z",
-          "wordCount": 7486,
-          "title": "History of New York’s Evacuation Day",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/11/van-arsdale-loc-evacuation-day.jpg"
         }
       ]
     },
@@ -508,16 +498,6 @@
           "wordCount": 2171,
           "title": "Newsletter Leaf Journal CLXIII 〜 McNewsletter 〜",
           "imageUrl": "https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/162/",
-          "author": null,
-          "description": "Welcome to the 162nd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell.\nToday's newsletter falls on New York City's Evacuation Day. What is Evacuation Day? You can learn about it in a link in our Leaves from the week that was section below. While I usually limit this humble newsletter to articles published from the previous Saturday to the Friday preceding the newsletter, I made an exception for New York City's patriotic holiday. Other than this exception, you will find your favorite (I hope) regularly scheduled newsletter sections below.\nLeaves from the week that was\nI published …",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/162/",
-          "publishedOn": "2023-11-25T18:55:54.000Z",
-          "wordCount": 2437,
-          "title": "Newsletter Leaf Journal CLXII 〜 Happy Evacuation Day! 〜",
-          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-newsletter?subject=Newsletter%20Leaf%20Journal%20CLXII%20%E3%80%9C%20Happy%20Evacuation%20Day!%20%E3%80%9C&author=The%20Newsletter%20Leaf%20Journal&date=2023-11-25&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
         }
       ]
     },
@@ -659,6 +639,16 @@
       "siteUrl": "https://pixelfed.social/nafnlj",
       "articles": [
         {
+          "id": "https://pixelfed.social/p/nafnlj/644640615770151186",
+          "author": null,
+          "description": "The ultimate test of my theory that a Santa hat can make just about anything Christmas. Not Tux (surely that penguin is Tux), but the gentleman just behind Tux.<br />\n<br />\nSanta hat dialogue:<br />\n<a href=\"https://thenewleafjournal.com/make-it-christmas-with-a-santa-hat/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/make-it-christmas-with-a-santa-hat/</a><br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/NYC?src=hash\" title=\"#NYC\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#NYC</a> <a href=\"https://pixelfed.social/discover/tags/Brooklyn?src=hash\" title=\"#Brooklyn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Brooklyn</a> <a href=\"https://pixelfed.social/discover/tags/BoerumHill?src=hash\" title=\"#BoerumHill\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#BoerumHill</a> <a href=\"https://pixelfed.social/discover/tags/Christmas?src=hash\" title=\"#Christmas\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Christmas</a> <a href=\"https://pixelfed.social/discover/tags/ChristmasDecorations?src=hash\" title=\"#ChristmasDecorations\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#ChristmasDecorations</a> <a href=\"https://pixelfed.social/discover/tags/Penguin?src=hash\" title=\"#Penguin\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Penguin</a> <a href=\"https://pixelfed.social/discover/tags/Tux?src=hash\" title=\"#Tux\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Tux</a> <a href=\"https://pixelfed.social/discover/tags/TerracottaSoldier?src=hash\" title=\"#TerracottaSoldier\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#TerracottaSoldier</a> <a href=\"https://pixelfed.social/discover/tags/Brownstones?src=hash\" title=\"#Brownstones\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Brownstones</a> <a href=\"https://pixelfed.social/discover/tags/BrownstoneBrooklyn?src=hash\" title=\"#BrownstoneBrooklyn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#BrownstoneBrooklyn</a> <a href=\"https://pixelfed.social/discover/tags/TheNewLeafJournal?src=hash\" title=\"#TheNewLeafJournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#TheNewLeafJournal</a> <a href=\"https://pixelfed.social/discover/tags/NewLeafJournal?src=hash\" title=\"#NewLeafJournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#NewLeafJournal</a> <a href=\"https://pixelfed.social/discover/tags/Pixel3aXL?src=hash\" title=\"#Pixel3aXL\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Pixel3aXL</a>",
+          "link": "https://pixelfed.social/p/nafnlj/644640615770151186",
+          "publishedOn": "2023-12-24T20:51:39.000Z",
+          "wordCount": null,
+          "title": "The ultimate test of my theory that a Santa hat can make just about anything Christmas. Not Tux (surely that penguin is Tux), but the gentleman just behind Tux.\n\nSanta hat dialogue:\nhttps://thenewleafjournal.com/make-it-christmas-with-a-santa-hat/\n\n#NYC #Brooklyn #BoerumHill #Christmas #ChristmasDecorations #Penguin #Tux #TerracottaSoldier #Brownstones #BrownstoneBrooklyn #TheNewLeafJournal #NewLeafJournal #Pixel3aXL",
+          "imageUrl": null
+        },
+        {
           "id": "https://pixelfed.social/p/nafnlj/644596641601324556",
           "author": null,
           "description": "Cardinals are somewhat Christmas-y for a variety of reasons, but I still ordinarily associate them with warmer months (from my New York perspective). However, if you put a Santa hat on a cardinal -- it is clearly and beyond doubt Christmas-y.<br />\n<br />\nDialogue discussion:<br />\n<a href=\"https://thenewleafjournal.com/make-it-christmas-with-a-santa-hat/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/make-it-christmas-with-a-santa-hat/</a><br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/NYC?src=hash\" title=\"#NYC\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#NYC</a> <a href=\"https://pixelfed.social/discover/tags/Brooklyn?src=hash\" title=\"#Brooklyn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Brooklyn</a> <a href=\"https://pixelfed.social/discover/tags/BoerumHill?src=hash\" title=\"#BoerumHill\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#BoerumHill</a> <a href=\"https://pixelfed.social/discover/tags/Cardinal?src=hash\" title=\"#Cardinal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Cardinal</a> <a href=\"https://pixelfed.social/discover/tags/Bird?src=hash\" title=\"#Bird\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Bird</a> <a href=\"https://pixelfed.social/discover/tags/ChristmasDecorations?src=hash\" title=\"#ChristmasDecorations\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#ChristmasDecorations</a> <a href=\"https://pixelfed.social/discover/tags/LawnOrnament?src=hash\" title=\"#LawnOrnament\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#LawnOrnament</a> <a href=\"https://pixelfed.social/discover/tags/SantaHat?src=hash\" title=\"#SantaHat\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#SantaHat</a> <a href=\"https://pixelfed.social/discover/tags/Christmas?src=hash\" title=\"#Christmas\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Christmas</a> <a href=\"https://pixelfed.social/discover/tags/Pixel3aXL?src=hash\" title=\"#Pixel3aXL\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Pixel3aXL</a> <a href=\"https://pixelfed.social/discover/tags/NewLeafJournal?src=hash\" title=\"#NewLeafJournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#NewLeafJournal</a> <a href=\"https://pixelfed.social/discover/tags/TheNewLeafJournal?src=hash\" title=\"#TheNewLeafJournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#TheNewLeafJournal</a>",
@@ -745,6 +735,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111631404521614129",
+          "author": null,
+          "description": "Investigating Santa Claus with the help of a 1913 children's short story by Maud McKnight Lindsay.\nhttps://thenewleafjournal.com/an-inquiry-into-the-nature-of-santa-claus/\n#Christmas #ChristmasStory #SantaClaus #ChildrensLiterature",
+          "link": "https://linuxrocks.online/@nafnlj/111631404521614129",
+          "publishedOn": "2023-12-23T19:34:14.000Z",
+          "wordCount": 123,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111625219173244992",
           "author": null,
@@ -871,16 +871,6 @@
           "description": "My post on a 1913 magazine collection of reader-submitted breakfast, lunch, and dinner menus from the 50 states. I singled out several for looking good (to me). However, I do have some concerns about the AMOUNT of food...\nhttps://thenewleafjournal.com/american-breakfast-lunch-and-dinner-home-menus-from-1913/\n#Cooking #Recipes #OldRecipes #ProjectGutenberg",
           "link": "https://linuxrocks.online/@nafnlj/111483061144518241",
           "publishedOn": "2023-11-27T14:48:34.000Z",
-          "wordCount": 120,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/111472249286678661",
-          "author": null,
-          "description": "Fresh off the presses, my long, detailed history of a former official New York City holiday that landed on November 25: Evacuation Day. It commemorated the evacuation, or final departure, of the British military from Manhattan on November 25, 1783, which was followed by the entry of the U.S. military led by a certain General George Washington.\nhttps://thenewleafjournal.com/history-of-new-yorks-evacuation-day/\n#nyc #history #EvacuationDay #GeorgeWashington #holiday",
-          "link": "https://linuxrocks.online/@nafnlj/111472249286678661",
-          "publishedOn": "2023-11-25T16:58:58.000Z",
           "wordCount": 120,
           "title": "Untitled",
           "imageUrl": null
