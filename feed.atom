@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-26T14:09:46.158Z</updated>
+    <updated>2023-12-26T20:11:17.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Snapchat Referral to NLJ]]></title>
+        <id>https://social.emucafe.org/?p=647</id>
+        <link href="https://social.emucafe.org/naferrell/snapchat-referral-to-nlj/"/>
+        <updated>2023-12-26T16:35:05.000Z</updated>
+        <summary type="html"><![CDATA[My privacy-friendly local page-counting solution for WordPress, Koko Analytics, picked up a referral from snapchat.com over at The New Leaf Journal. Snapchat? Really. I thought this was for sending photos. No no, don’t correct me. I am happy living in ignorance. I will just go on living under my assumption that Snapchat is not the […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111647541748964834</id>
+        <link href="https://linuxrocks.online/@nafnlj/111647541748964834"/>
+        <updated>2023-12-26T15:58:08.000Z</updated>
+        <summary type="html"><![CDATA[My short notes on figuring out how to properly enter administrative precedent decisions of the Board of Immigration Appeals into Zotero.
+https://thenewleafjournal.com/adding-eoir-bia-decisions-to-zotero/
+#Zotero #Law #USImmigrationLaw #BoardOfImmigrationAppeals #USDOJ]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merry Christmas – Openclipart Santa Owl]]></title>
         <id>https://social.emucafe.org/?p=640</id>
