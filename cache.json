@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=22022",
+          "author": "Nicholas A. Ferrell",
+          "description": "Inspired by a series of recent blog posts, I offer a proposed set of best practices for media review scoring systems.\nPossibly related posts...\n\nThe Angel Next Door Spoils Me Rotten - Anime Review\nThe al|together and Insani Visual Novel Translations\nThe New Leaf Journal Celebrates Its First Birthday\nNew Leaf Journal Third Birthday Reader\nal|together Visual Novel Reviews and Posts\nJustin and Justina review 2022 at the NLJ\nACE Academy - Visual Novel Review\nJustin & Justina: The Most-Read New Leaf Journal…\nKaori After Story - Visual Novel Review",
+          "link": "https://thenewleafjournal.com/on-review-scoring-systems/",
+          "publishedOn": "2023-12-27T16:38:18.000Z",
+          "wordCount": 4975,
+          "title": "On Review Scoring Systems",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/12/nihon-review-scatterplot-nlj.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=21984",
           "author": "Nicholas A. Ferrell",
           "description": "Once clad in a witch's hat for Halloween, an endearing green car in Gowanus is now bearing Christmas presents.\nPossibly related posts...\n\nThe Wicked Car of the Gowanus - Car with Hat\nRudolph the Red-Nosed Car with Antlers\nio [Christmas Eve] - Visual Novel Review\nPlain Song Christmas Special - VN Review\nA Christmas Menagerie On a Lawn in Gowanus\nMake it Christmas With a Santa Hat\n\"Uncle Susan is a Wolf\" - A Graffiti Photo and…\nThe New Leaf Journal Celebrates Its First Birthday\nThe Inflatable Christmas Dragon of Gowanus",
@@ -232,6 +242,16 @@
       "feedUrl": "https://social.emucafe.org/feed",
       "siteUrl": "https://social.emucafe.org",
       "articles": [
+        {
+          "id": "https://social.emucafe.org/?p=650",
+          "author": "Nicholas A. Ferrell",
+          "description": "I checked by 404 logs over at The New Leaf Journal. I found an interesting user agent among the myriad web crawlers: PoorlyConfiguredWebCrawler I appreciate that the crawler advertises that it is not well configured. You get the feeling that whoever released the poor thing on the internet is asking us to not be too […]",
+          "link": "https://social.emucafe.org/naferrell/poorlyconfiguredwebcrawler-in-logs/",
+          "publishedOn": "2023-12-27T18:29:59.000Z",
+          "wordCount": null,
+          "title": "PoorlyConfiguredWebCrawler in Logs",
+          "imageUrl": null
+        },
         {
           "id": "https://social.emucafe.org/?p=647",
           "author": "Nicholas A. Ferrell",
@@ -745,6 +765,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111653700859975671",
+          "author": null,
+          "description": "Back in January 2022, I wrote a dialogue (using fictional characters) explaining why I was moving the NLJ off Bluehost shared hosting to a small VPS server.  Nostalgic, and in terms of site performance... definitely turned out to be the correct decision.\nhttps://thenewleafjournal.com/slow-leaf-journal-outgrowing-cheap-hosting/\n#WordPress #WebHosting #VPS #Bluehost #Dialogue",
+          "link": "https://linuxrocks.online/@nafnlj/111653700859975671",
+          "publishedOn": "2023-12-27T18:04:29.000Z",
+          "wordCount": 124,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111647541748964834",
           "author": null,
