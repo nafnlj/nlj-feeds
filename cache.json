@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=22031",
+          "author": "Nicholas A. Ferrell",
+          "description": "With season 2 of The Dangers in My Heart just around the corner, I review season 1 of the middle school romance with an antisocial boy and a popular model.\nPossibly related posts...\n\nHeights in “The Dangers in My Heart” Anime\nHeight differences in anime romances\nThe al|together and Insani Visual Novel Translations\nThe Best of Anime in 2022: Year in Review\nOn Review Scoring Systems\nThe Best Anime Series of 2021\nThe New Leaf Journal Celebrates Its First Birthday\nNew Leaf Journal Third Birthday Reader\nThe Angel Next Door Spoils Me Rotten - Anime Review",
+          "link": "https://thenewleafjournal.com/the-dangers-in-my-heart-s1-review/",
+          "publishedOn": "2023-12-28T12:37:00.000Z",
+          "wordCount": 5441,
+          "title": "The Dangers in My Heart S1 Anime Review",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/12/dangers-in-my-heart-kyotaro-murder-dictionary.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=22022",
           "author": "Nicholas A. Ferrell",
           "description": "Inspired by a series of recent blog posts, I offer a proposed set of best practices for media review scoring systems.\nPossibly related posts...\n\nThe Angel Next Door Spoils Me Rotten - Anime Review\nThe al|together and Insani Visual Novel Translations\nThe New Leaf Journal Celebrates Its First Birthday\nNew Leaf Journal Third Birthday Reader\nal|together Visual Novel Reviews and Posts\nJustin and Justina review 2022 at the NLJ\nACE Academy - Visual Novel Review\nJustin & Justina: The Most-Read New Leaf Journal…\nKaori After Story - Visual Novel Review",
@@ -200,16 +210,6 @@
           "wordCount": 2383,
           "title": "On JRPG Hidden Items and NPCs",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=21689",
-          "author": "Nicholas A. Ferrell",
-          "description": "I use a Hario v60 coffee dripper (02 size) to make pour-over coffee. I have a 15 oz Hario v60 coffee […]\nPossibly related posts...\n\nPersona 4, Coffee, and Children\n\"Coffee Fruit Punch\" - A Cookbook Abomination\nRescuing a Ladybug On My Television\nAmerican Breakfast, Lunch, and Dinner Home Menus From 1913\nHot Coffee on Summer Walks\nTiki paralogue trick in Fire Emblem Engage\nWelcome to The Emu Café\nRecommended F-Droid FOSS Apps For Android-Based…\n\"Technological Imbecile\" Retweeted by President",
-          "link": "https://thenewleafjournal.com/5-years-without-breaking-my-coffee-glass/",
-          "publishedOn": "2023-11-28T13:45:00.000Z",
-          "wordCount": 2105,
-          "title": "5 Years Without Breaking My Coffee Glass",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/11/hario-glass-5-years-nlj.jpg"
         }
       ]
     },
@@ -461,26 +461,6 @@
           "wordCount": null,
           "title": "Bing Webmaster Misses Me",
           "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=539",
-          "author": "Nicholas A. Ferrell",
-          "description": "I am using the Classic Editor here at The Emu Café Social, in large part because some of the IndieWeb plugins I am using require it instead of Gutenberg. I agree with this take by Mr. Baty in a vacuum that  the classic editor is better for writing than Gutenberg. However, I use Gutenberg over […]",
-          "link": "https://social.emucafe.org/naferrell/wp-editors-vs-markdown/",
-          "publishedOn": "2023-11-28T20:56:02.000Z",
-          "wordCount": null,
-          "title": "WordPress Classic Editor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=534",
-          "author": "Nicholas A. Ferrell",
-          "description": "The Gothamist published an article on the push to ban street vendors from the magisterial Brooklyn Bridge. I am 100% in support of banning street vendors from the Bridge, but I will focus on another point in the report. See the following quote: But vendors said there are not many legal spots where they can […]",
-          "link": "https://social.emucafe.org/naferrell/alien-street-vendor-unauthorized-employment/",
-          "publishedOn": "2023-11-28T17:21:56.000Z",
-          "wordCount": null,
-          "title": "Alien Street Vendors and Unauthorized Employment",
-          "imageUrl": null
         }
       ]
     },
@@ -591,26 +571,6 @@
           "wordCount": 21,
           "title": "While installing EndeavourOS on a mini PC yesterday, I ran into an error at 13% complete which force...",
           "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/37",
-          "author": null,
-          "description": "When interpreting older songs, I try to find the darker side of these often up-tempo major key classics; often a love song is just a brush stroke away from being transformed into something menacing.\nVery interesting take that you demonstrate through the performance. Question: Can you think of any examples of folk songs that jump out to you where the songwriter intended for the song to change depending on how the vocalist interprets it?\n#Music #FolkMusic",
-          "link": "https://memos.emucafe.org/m/37",
-          "publishedOn": "2023-11-29T00:39:02.000Z",
-          "wordCount": 21,
-          "title": "> When interpreting older songs, I try to find the darker side of these often up-tempo major key cla...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/36",
-          "author": null,
-          "description": "I discovered that empty first like in alt text field for image in WordPress causes image to always be aligned left, regardless of other settings.\n#WordPress",
-          "link": "https://memos.emucafe.org/m/36",
-          "publishedOn": "2023-11-28T15:25:56.000Z",
-          "wordCount": 21,
-          "title": "I discovered that empty first like in alt text field for image in WordPress causes image to always b...",
-          "imageUrl": null
         }
       ]
     },
@@ -643,16 +603,6 @@
           "publishedOn": "2023-11-29T02:55:21.718Z",
           "wordCount": 644,
           "title": "Trying Open Library as a Reading Tracker",
-          "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
-        },
-        {
-          "id": "https://newleafannex.emucafe.org/new-custom-bearblog-domain/",
-          "author": null,
-          "description": "I published my previous Bearblog post (it has been a while) back in the middle of the spring anime season (see post). The year is coming to an end. Despite my having written in that post that there was no clear anime of the year front-runner as of the middle of the spring season, my current front-runner for anime of the year (expect my New Leaf Journal year in review at the end of December or early January) is from that very spring season (see my 2022 review).\nBut I digress.\nSince last posting here, I acquired the emucafe.org domain to use for my new social publishing site. Because I paid the small fee for extra Bearblog features, I figured that I may as well use it here too. Thus, my new main domain here is newleafannex.emucafe.org. For anyone considering using their own domain with Bearblog, I will say that the set-up process works exactly as advertised in the docs.",
-          "link": "https://newleafannex.emucafe.org/new-custom-bearblog-domain/",
-          "publishedOn": "2023-11-28T15:44:15.794Z",
-          "wordCount": 566,
-          "title": "New Custom Bearblog Domain",
           "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
         }
       ]
@@ -746,16 +696,6 @@
           "publishedOn": "2023-12-05T16:12:43.000Z",
           "wordCount": null,
           "title": "A friend sent me a bonsai. The bonsai was packaged and shipped from a nursery in Mississippi. Despite being a small bonsai, it came in a big box. What accounted for the box size? Well... (Note these were not all the Styrofoam peanuts.)\n\nArticle with the full story and photographs of the healthy bonsai:\nhttps://thenewleafjournal.com/unpacking-a-mississippi-bonsai-tree/\n\n#recyclingbin #trashbin #Styrofoam #StyrofoamPeanuts #Packaging #Unboxing #Bonsai #BonsaiTree #Leaf #newleafjournal #thenewleafjournal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pixelfed.social/p/nafnlj/635129201670710614",
-          "author": null,
-          "description": "Not to brag, but Amazon is telling me that it has been more than 5 years since I last broke my Hario v60 coffee glass.  Not a big deal.  As I said, I don't like to brag.<br />\n<br />\nStory Link: <a href=\"https://thenewleafjournal.com/5-years-without-breaking-my-coffee-glass/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/5-years-without-breaking-my-coffee-glass/</a><br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/coffee?src=hash\" title=\"#coffee\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#coffee</a> <a href=\"https://pixelfed.social/discover/tags/coffeeglass?src=hash\" title=\"#coffeeglass\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#coffeeglass</a> <a href=\"https://pixelfed.social/discover/tags/glass?src=hash\" title=\"#glass\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#glass</a> <a href=\"https://pixelfed.social/discover/tags/hario?src=hash\" title=\"#hario\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#hario</a> <a href=\"https://pixelfed.social/discover/tags/hariov60?src=hash\" title=\"#hariov60\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#hariov60</a> <a href=\"https://pixelfed.social/discover/tags/amazon?src=hash\" title=\"#amazon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#amazon</a> <a href=\"https://pixelfed.social/discover/tags/newleafjournal?src=hash\" title=\"#newleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#newleafjournal</a> <a href=\"https://pixelfed.social/discover/tags/thenewleafjournal?src=hash\" title=\"#thenewleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#thenewleafjournal</a>",
-          "link": "https://pixelfed.social/p/nafnlj/635129201670710614",
-          "publishedOn": "2023-11-28T14:56:41.000Z",
-          "wordCount": null,
-          "title": "Not to brag, but Amazon is telling me that it has been more than 5 years since I last broke my Hario v60 coffee glass.  Not a big deal.  As I said, I don't like to brag.\n\nStory Link: https://thenewleafjournal.com/5-years-without-breaking-my-coffee-glass/\n\n#coffee #coffeeglass #glass #hario #hariov60 #amazon #newleafjournal #thenewleafjournal",
           "imageUrl": null
         }
       ]
