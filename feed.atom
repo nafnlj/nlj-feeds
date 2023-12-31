@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-31T14:09:13.901Z</updated>
+    <updated>2023-12-31T20:10:54.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111676440485905346</id>
+        <link href="https://linuxrocks.online/@nafnlj/111676440485905346"/>
+        <updated>2023-12-31T18:27:28.000Z</updated>
+        <summary type="html"><![CDATA[My final newsletter of the year includes links to a week's worth of new articles and short posts, 21 links from around the web, and news and notes about what I am working on as we look ahead to 2024.
+https://buttondown.email/newsletterleafjournal/archive/167/
+#newsletter #buttondown #blogging #anime #reviewsystems]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CLXVII 〜 Top-tier new year 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/167/</id>
