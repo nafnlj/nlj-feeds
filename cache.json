@@ -12,6 +12,26 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=22084",
+          "author": "Nicholas A. Ferrell",
+          "description": "Justin and Justina review the 54 most-visited articles at The New Leaf Journal in 2023.\nPossibly related posts...\n\nThe New Leaf Journal Celebrates Its First Birthday\nThe al|together and Insani Visual Novel Translations\nThe Newsletter Leaf Journal at 100\nShould the Pistons have drafted Carmelo?\nJustin & Justina: Most-Read NLJ Content of 2020\nThe story of our Bing blacklisting\nJustin and Justina review 2022 at the NLJ\nA 2021 List of Alternative Search Engines and Search…\nOldest Golfers to Contend for Majors Between the…",
+          "link": "https://thenewleafjournal.com/new-leaf-journal-year-in-review-2023/",
+          "publishedOn": "2024-01-01T05:54:19.000Z",
+          "wordCount": 8318,
+          "title": "New Leaf Journal Year-In-Review: 2023",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
+          "id": "https://thenewleafjournal.com/?p=22088",
+          "author": "Nicholas A. Ferrell",
+          "description": "What better way to spend New Year's weekend than to catch up on The New Leaf Journal's fresh December 2023 content?\nPossibly related posts...\n\nThe New Leaf Journal Celebrates Its First Birthday\nThe al|together and Insani Visual Novel Translations\nio [Christmas Eve] - Visual Novel Review\nJustin & Justina: Most-Read NLJ Content of 2020\nA 2021 List of Alternative Search Engines and Search…\nOldest Golfers to Contend for Majors Between the…\nThe Newsletter Leaf Journal at 100\nJustin and Justina review 2022 at the NLJ\nHistory of New York's Evacuation Day",
+          "link": "https://thenewleafjournal.com/december-2023-at-the-new-leaf-journal/",
+          "publishedOn": "2024-01-01T03:20:17.000Z",
+          "wordCount": 3492,
+          "title": "December 2023 at The New Leaf Journal",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=22054",
           "author": "Nicholas A. Ferrell",
           "description": "A full and complete review of the first season of Bottom-tier Character Tomozaki, which aired in 2021.\nPossibly related posts...\n\nAnime Recommendations of the Decade (2011-20)\nThe Angel Next Door Spoils Me Rotten - Anime Review\nThe Best Anime Series of 2021\nNew Bottom-Tier Character Tomozaki Anime\nThe Best of Anime in 2022: Year in Review\nLeveling up Yamada-kun at Lv999 to Linux\nACE Academy - Visual Novel Review\nDialogue: Dinosaur fight tier-lists\nThe al|together and Insani Visual Novel Translations",
@@ -411,16 +431,6 @@
           "wordCount": null,
           "title": "[Bookmark] Email newsletters via RSS",
           "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=560",
-          "author": "Nicholas A. Ferrell",
-          "description": "I started a GitHub repository for Bing ban stories when The New Leaf Journal ran into a Bing ban. While my project is no longer banned by Bing, I am still maintaining the repository. Today, I added a (now-resolved) Bing ban story from Mr. Andrew Ward regarding his portfolio and blog site.",
-          "link": "https://social.emucafe.org/naferrell/bing-ban-repo-update1/",
-          "publishedOn": "2023-12-03T01:39:08.000Z",
-          "wordCount": null,
-          "title": "Bing Ban Repo Update",
-          "imageUrl": null
         }
       ]
     },
@@ -468,16 +478,6 @@
           "wordCount": 2508,
           "title": "Newsletter Leaf Journal CLXIV 〜 Newslettero 64 〜",
           "imageUrl": "https://image-generator.buttondown.email/api/emphasize-subject?subject=Newsletter%20Leaf%20Journal%20CLXIV%20%E3%80%9C%20Newslettero%2064%20%E3%80%9C&author=The%20Newsletter%20Leaf%20Journal&date=2023-12-09&img=https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
-        },
-        {
-          "id": "https://buttondown.email/newsletterleafjournal/archive/163/",
-          "author": null,
-          "description": "Welcome to the 163rd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, N.A. Ferrell. Below, I have our six newest articles (one of our more varied collections), 21 links from around the web, links from our own archive, and brief news and notes from the week that was.\nSpeaking of the week that was...\nLeaves from the week that was\nI published six new articles since mailing the Newsletter 162.\n1783 NY Evacuation Day Song\nA short follow-up to my history of Evacuation Day.\nNBA MVPs and MVP Teammates\nFun stats and notes on NBA MVPs who played with other NBA MVPs.\n5 Years Without Breaking My Coffee Glass\nNo…",
-          "link": "https://buttondown.email/newsletterleafjournal/archive/163/",
-          "publishedOn": "2023-12-02T22:28:24.000Z",
-          "wordCount": 2171,
-          "title": "Newsletter Leaf Journal CLXIII 〜 McNewsletter 〜",
-          "imageUrl": "https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
         }
       ]
     },

@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2023-12-31T20:10:54.265Z</updated>
+    <updated>2024-01-01T14:10:04.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Leaf Journal Year-In-Review: 2023]]></title>
+        <id>https://thenewleafjournal.com/?p=22084</id>
+        <link href="https://thenewleafjournal.com/new-leaf-journal-year-in-review-2023/"/>
+        <updated>2024-01-01T05:54:19.000Z</updated>
+        <summary type="html"><![CDATA[Justin and Justina review the 54 most-visited articles at The New Leaf Journal in 2023.
+Possibly related posts...
+
+The New Leaf Journal Celebrates Its First Birthday
+The al|together and Insani Visual Novel Translations
+The Newsletter Leaf Journal at 100
+Should the Pistons have drafted Carmelo?
+Justin & Justina: Most-Read NLJ Content of 2020
+The story of our Bing blacklisting
+Justin and Justina review 2022 at the NLJ
+A 2021 List of Alternative Search Engines and Search…
+Oldest Golfers to Contend for Majors Between the…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[December 2023 at The New Leaf Journal]]></title>
+        <id>https://thenewleafjournal.com/?p=22088</id>
+        <link href="https://thenewleafjournal.com/december-2023-at-the-new-leaf-journal/"/>
+        <updated>2024-01-01T03:20:17.000Z</updated>
+        <summary type="html"><![CDATA[What better way to spend New Year's weekend than to catch up on The New Leaf Journal's fresh December 2023 content?
+Possibly related posts...
+
+The New Leaf Journal Celebrates Its First Birthday
+The al|together and Insani Visual Novel Translations
+io [Christmas Eve] - Visual Novel Review
+Justin & Justina: Most-Read NLJ Content of 2020
+A 2021 List of Alternative Search Engines and Search…
+Oldest Golfers to Contend for Majors Between the…
+The Newsletter Leaf Journal at 100
+Justin and Justina review 2022 at the NLJ
+History of New York's Evacuation Day]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111676440485905346</id>
@@ -1056,35 +1098,6 @@ Ohio Makes a BQE-Related Pitch for NYC Businesses
 The Dead End Sign in Red Hook, Brooklyn]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bing Ban Repo Update]]></title>
-        <id>https://social.emucafe.org/?p=560</id>
-        <link href="https://social.emucafe.org/naferrell/bing-ban-repo-update1/"/>
-        <updated>2023-12-03T01:39:08.000Z</updated>
-        <summary type="html"><![CDATA[I started a GitHub repository for Bing ban stories when The New Leaf Journal ran into a Bing ban. While my project is no longer banned by Bing, I am still maintaining the repository. Today, I added a (now-resolved) Bing ban story from Mr. Andrew Ward regarding his portfolio and blog site.]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CLXIII 〜 McNewsletter 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/163/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/163/"/>
-        <updated>2023-12-02T22:28:24.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 163rd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, N.A. Ferrell. Below, I have our six newest articles (one of our more varied collections), 21 links from around the web, links from our own archive, and brief news and notes from the week that was.
-Speaking of the week that was...
-Leaves from the week that was
-I published six new articles since mailing the Newsletter 162.
-1783 NY Evacuation Day Song
-A short follow-up to my history of Evacuation Day.
-NBA MVPs and MVP Teammates
-Fun stats and notes on NBA MVPs who played with other NBA MVPs.
-5 Years Without Breaking My Coffee Glass
-No…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>
