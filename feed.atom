@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-02T14:10:24.638Z</updated>
+    <updated>2024-01-02T20:11:35.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -963,6 +963,15 @@ Article:<br />
 <a href="https://pixelfed.social/discover/tags/nyc?src=hash" title="#nyc" class="u-url hashtag" rel="external nofollow noopener">#nyc</a> <a href="https://pixelfed.social/discover/tags/brooklyn?src=hash" title="#brooklyn" class="u-url hashtag" rel="external nofollow noopener">#brooklyn</a> <a href="https://pixelfed.social/discover/tags/redhook?src=hash" title="#redhook" class="u-url hashtag" rel="external nofollow noopener">#redhook</a> <a href="https://pixelfed.social/discover/tags/playground?src=hash" title="#playground" class="u-url hashtag" rel="external nofollow noopener">#playground</a> <a href="https://pixelfed.social/discover/tags/sign?src=hash" title="#sign" class="u-url hashtag" rel="external nofollow noopener">#sign</a> <a href="https://pixelfed.social/discover/tags/nycparks?src=hash" title="#nycparks" class="u-url hashtag" rel="external nofollow noopener">#nycparks</a> <a href="https://pixelfed.social/discover/tags/bush?src=hash" title="#bush" class="u-url hashtag" rel="external nofollow noopener">#bush</a> <a href="https://pixelfed.social/discover/tags/clinton?src=hash" title="#clinton" class="u-url hashtag" rel="external nofollow noopener">#clinton</a> <a href="https://pixelfed.social/discover/tags/pixel3axl?src=hash" title="#pixel3axl" class="u-url hashtag" rel="external nofollow noopener">#pixel3axl</a> <a href="https://pixelfed.social/discover/tags/thenewleafjournal?src=hash" title="#thenewleafjournal" class="u-url hashtag" rel="external nofollow noopener">#thenewleafjournal</a> <a href="https://pixelfed.social/discover/tags/newleafjournal?src=hash" title="#newleafjournal" class="u-url hashtag" rel="external nofollow noopener">#newleafjournal</a>]]></summary>
         <author>
             <name>nafnlj on Pixelfed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo "Christmas & You (Home Recording, Version 1)" Music Video]]></title>
+        <id>https://www.youtube.com/watch?v=Fnocqokpa_M</id>
+        <link href="https://www.youtube.com/watch?v=Fnocqokpa_M"/>
+        <updated>2023-12-06T18:00:21.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
         </author>
     </entry>
     <entry>
