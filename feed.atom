@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-02T20:11:35.723Z</updated>
+    <updated>2024-01-03T14:10:10.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -1056,27 +1056,6 @@ https://thenewleafjournal.com/womens-fashion-trends-for-january-1841/
 #History #Fashion #OldMagaziens #Dresses #Philadelphia]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unpacking a Mississippi Bonsai Tree]]></title>
-        <id>https://thenewleafjournal.com/?p=21730</id>
-        <link href="https://thenewleafjournal.com/unpacking-a-mississippi-bonsai-tree/"/>
-        <updated>2023-12-04T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The story of a Bonsai tree sent from Mississippi to New York City with a great number of Styrofoam peanuts.
-Possibly related posts...
-
-The Pine Tree Lovers of Takasago
-The Fallen Tree in Brooklyn Heights
-The Plum Tree Blossoms Always in the Springtime
-An Unclear and Indistinct Idea of a Truth Tree
-A Brave Little Tree Grows in Manhattan
-When President Coolidge Spared a Raccoon From…
-Saw-whet? The Rockefeller Christmas Tree Owl
-Evergreen Carroll Gardens Christmas Tree
-A Rather Dry Christmas Tree in Brooklyn Heights in April]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
