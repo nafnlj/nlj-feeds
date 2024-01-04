@@ -223,6 +223,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=656",
+          "author": "Nicholas A. Ferrell",
+          "description": "I opened Steam because I am purchasing at least one visual novel while it is on sale. Steam prompted me to ask whether I wanted to participate in the Steam hardware survey. I said yes. I did my part to represent EndeavourOS. But what about my specs? OS: EndeavourOS CPU: AMD Ryzen 5 3600 6-Core […]",
+          "link": "https://social.emucafe.org/naferrell/naf-steam-hardware-survey/",
+          "publishedOn": "2024-01-04T00:42:54.000Z",
+          "wordCount": 721,
+          "title": "I just participated in the Steam hardware survey",
+          "imageUrl": "https://social.emucafe.org/wp-content/uploads/2023/09/cropped-emucafesocial_icon-1.jpg"
+        },
+        {
           "id": "https://social.emucafe.org/?p=650",
           "author": "Nicholas A. Ferrell",
           "description": "I checked by 404 logs over at The New Leaf Journal. I found an interesting user agent among the myriad web crawlers: PoorlyConfiguredWebCrawler I appreciate that the crawler advertises that it is not well configured. You get the feeling that whoever released the poor thing on the internet is asking us to not be too […]",
@@ -400,16 +410,6 @@
           "publishedOn": "2023-12-06T15:49:54.000Z",
           "wordCount": null,
           "title": "Why manhole covers are round",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=567",
-          "author": "Nicholas A. Ferrell",
-          "description": "I primarily use feeds to stay on top of interesting authors and websites. I seldom need to deal with newsletters because almost everything I follow (including a few Substack and Buttondown newsletters and the newsletter for Tablet Magazine) also have RSS feeds. But there are a few exceptions, notably some of the Real Clear network […]",
-          "link": "https://social.emucafe.org/naferrell/opentrashmal-to-rss/",
-          "publishedOn": "2023-12-05T17:04:04.000Z",
-          "wordCount": null,
-          "title": "[Bookmark] Email newsletters via RSS",
           "imageUrl": null
         }
       ]
@@ -627,16 +627,6 @@
           "wordCount": null,
           "title": "I came across a certain Bush Clinton Playground in Red Hook, Brooklyn (NYC) a few years ago and was amused by the name. When I walked by last week, I decided to take a photo and turn it into an article. Despite the fact that the name invokes our 41st, 42nd, and 43rd Presidents, those with a cursory knowledge of New York City history will know that the \"Clinton\" here is DeWitt Clinton, who served as Mayor of NYC, Governor of NY (following his father George on Governor) and was the Federalist nominee for President in 1812 (he lost fairly narrowly to James Madison). What about Bush? I was not sure who Bush Street was named after, and I learned that New York City is also not quite sure.\n\nArticle:\nhttps://thenewleafjournal.com/bush-clinton-playground-in-red-hook/\n\n#nyc #brooklyn #redhook #playground #sign #nycparks #bush #clinton #pixel3axl #thenewleafjournal #newleafjournal",
           "imageUrl": null
-        },
-        {
-          "id": "https://pixelfed.social/p/nafnlj/637685051408643150",
-          "author": null,
-          "description": "A friend sent me a bonsai. The bonsai was packaged and shipped from a nursery in Mississippi. Despite being a small bonsai, it came in a big box. What accounted for the box size? Well... (Note these were not all the Styrofoam peanuts.)<br />\n<br />\nArticle with the full story and photographs of the healthy bonsai:<br />\n<a href=\"https://thenewleafjournal.com/unpacking-a-mississippi-bonsai-tree/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/unpacking-a-mississippi-bonsai-tree/</a><br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/recyclingbin?src=hash\" title=\"#recyclingbin\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#recyclingbin</a> <a href=\"https://pixelfed.social/discover/tags/trashbin?src=hash\" title=\"#trashbin\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#trashbin</a> <a href=\"https://pixelfed.social/discover/tags/Styrofoam?src=hash\" title=\"#Styrofoam\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Styrofoam</a> <a href=\"https://pixelfed.social/discover/tags/StyrofoamPeanuts?src=hash\" title=\"#StyrofoamPeanuts\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#StyrofoamPeanuts</a> <a href=\"https://pixelfed.social/discover/tags/Packaging?src=hash\" title=\"#Packaging\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Packaging</a> <a href=\"https://pixelfed.social/discover/tags/Unboxing?src=hash\" title=\"#Unboxing\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Unboxing</a> <a href=\"https://pixelfed.social/discover/tags/Bonsai?src=hash\" title=\"#Bonsai\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Bonsai</a> <a href=\"https://pixelfed.social/discover/tags/BonsaiTree?src=hash\" title=\"#BonsaiTree\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#BonsaiTree</a> <a href=\"https://pixelfed.social/discover/tags/Leaf?src=hash\" title=\"#Leaf\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Leaf</a> <a href=\"https://pixelfed.social/discover/tags/newleafjournal?src=hash\" title=\"#newleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#newleafjournal</a> <a href=\"https://pixelfed.social/discover/tags/thenewleafjournal?src=hash\" title=\"#thenewleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#thenewleafjournal</a>",
-          "link": "https://pixelfed.social/p/nafnlj/637685051408643150",
-          "publishedOn": "2023-12-05T16:12:43.000Z",
-          "wordCount": null,
-          "title": "A friend sent me a bonsai. The bonsai was packaged and shipped from a nursery in Mississippi. Despite being a small bonsai, it came in a big box. What accounted for the box size? Well... (Note these were not all the Styrofoam peanuts.)\n\nArticle with the full story and photographs of the healthy bonsai:\nhttps://thenewleafjournal.com/unpacking-a-mississippi-bonsai-tree/\n\n#recyclingbin #trashbin #Styrofoam #StyrofoamPeanuts #Packaging #Unboxing #Bonsai #BonsaiTree #Leaf #newleafjournal #thenewleafjournal",
-          "imageUrl": null
         }
       ]
     },
@@ -761,16 +751,6 @@
           "description": "I read about an adware company purchasing the open source Simple Mobile Tools apps for Android. I was not using any of the apps at the moment (I used a few in the past), so I decided to offer some suggestions for alternatives that I use on my own device (I run LineageOS 20 on my phone). My recommendations are admittedly limited by my set up and phone usage, but I think I have a few good ones.\nhttps://social.emucafe.org/naferrell/simple-mobile-tolls-alternatives/\n#android #lineageos #simplemobiletools #apps #opensource",
           "link": "https://linuxrocks.online/@nafnlj/111534629488637390",
           "publishedOn": "2023-12-06T17:23:04.000Z",
-          "wordCount": 123,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/111528636138599902",
-          "author": null,
-          "description": "They say it's better late than never. I interpret that to mean it's never too late to catch up on the newest trends in women's fashion (in Philadelphia, Pennsylvania) from January 1841.\nhttps://thenewleafjournal.com/womens-fashion-trends-for-january-1841/\n#History #Fashion #OldMagaziens #Dresses #Philadelphia",
-          "link": "https://linuxrocks.online/@nafnlj/111528636138599902",
-          "publishedOn": "2023-12-05T15:58:53.000Z",
           "wordCount": 123,
           "title": "Untitled",
           "imageUrl": null

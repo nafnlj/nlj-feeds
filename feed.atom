@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-03T20:11:56.588Z</updated>
+    <updated>2024-01-04T14:10:11.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I just participated in the Steam hardware survey]]></title>
+        <id>https://social.emucafe.org/?p=656</id>
+        <link href="https://social.emucafe.org/naferrell/naf-steam-hardware-survey/"/>
+        <updated>2024-01-04T00:42:54.000Z</updated>
+        <summary type="html"><![CDATA[I opened Steam because I am purchasing at least one visual novel while it is on sale. Steam prompted me to ask whether I wanted to participate in the Steam hardware survey. I said yes. I did my part to represent EndeavourOS. But what about my specs? OS: EndeavourOS CPU: AMD Ryzen 5 3600 6-Core […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Leaf Journal Year-In-Review: 2023]]></title>
         <id>https://thenewleafjournal.com/?p=22084</id>
@@ -1014,48 +1024,6 @@ https://social.emucafe.org/naferrell/simple-mobile-tolls-alternatives/
         <summary type="html"><![CDATA[I never thought about why manhole covers were round before reading this detailed history of manhole covers in New York City. That they are round “so they won’t fall into the manhole … if you insert [them] at an angle or vertically” makes sense. Maybe I never thought about it because I have never been […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Bookmark] Email newsletters via RSS]]></title>
-        <id>https://social.emucafe.org/?p=567</id>
-        <link href="https://social.emucafe.org/naferrell/opentrashmal-to-rss/"/>
-        <updated>2023-12-05T17:04:04.000Z</updated>
-        <summary type="html"><![CDATA[I primarily use feeds to stay on top of interesting authors and websites. I seldom need to deal with newsletters because almost everything I follow (including a few Substack and Buttondown newsletters and the newsletter for Tablet Magazine) also have RSS feeds. But there are a few exceptions, notably some of the Real Clear network […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A friend sent me a bonsai. The bonsai was packaged and shipped from a nursery in Mississippi. Despite being a small bonsai, it came in a big box. What accounted for the box size? Well... (Note these were not all the Styrofoam peanuts.)
-
-Article with the full story and photographs of the healthy bonsai:
-https://thenewleafjournal.com/unpacking-a-mississippi-bonsai-tree/
-
-#recyclingbin #trashbin #Styrofoam #StyrofoamPeanuts #Packaging #Unboxing #Bonsai #BonsaiTree #Leaf #newleafjournal #thenewleafjournal]]></title>
-        <id>https://pixelfed.social/p/nafnlj/637685051408643150</id>
-        <link href="https://pixelfed.social/p/nafnlj/637685051408643150"/>
-        <updated>2023-12-05T16:12:43.000Z</updated>
-        <summary type="html"><![CDATA[A friend sent me a bonsai. The bonsai was packaged and shipped from a nursery in Mississippi. Despite being a small bonsai, it came in a big box. What accounted for the box size? Well... (Note these were not all the Styrofoam peanuts.)<br />
-<br />
-Article with the full story and photographs of the healthy bonsai:<br />
-<a href="https://thenewleafjournal.com/unpacking-a-mississippi-bonsai-tree/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/unpacking-a-mississippi-bonsai-tree/</a><br />
-<br />
-<a href="https://pixelfed.social/discover/tags/recyclingbin?src=hash" title="#recyclingbin" class="u-url hashtag" rel="external nofollow noopener">#recyclingbin</a> <a href="https://pixelfed.social/discover/tags/trashbin?src=hash" title="#trashbin" class="u-url hashtag" rel="external nofollow noopener">#trashbin</a> <a href="https://pixelfed.social/discover/tags/Styrofoam?src=hash" title="#Styrofoam" class="u-url hashtag" rel="external nofollow noopener">#Styrofoam</a> <a href="https://pixelfed.social/discover/tags/StyrofoamPeanuts?src=hash" title="#StyrofoamPeanuts" class="u-url hashtag" rel="external nofollow noopener">#StyrofoamPeanuts</a> <a href="https://pixelfed.social/discover/tags/Packaging?src=hash" title="#Packaging" class="u-url hashtag" rel="external nofollow noopener">#Packaging</a> <a href="https://pixelfed.social/discover/tags/Unboxing?src=hash" title="#Unboxing" class="u-url hashtag" rel="external nofollow noopener">#Unboxing</a> <a href="https://pixelfed.social/discover/tags/Bonsai?src=hash" title="#Bonsai" class="u-url hashtag" rel="external nofollow noopener">#Bonsai</a> <a href="https://pixelfed.social/discover/tags/BonsaiTree?src=hash" title="#BonsaiTree" class="u-url hashtag" rel="external nofollow noopener">#BonsaiTree</a> <a href="https://pixelfed.social/discover/tags/Leaf?src=hash" title="#Leaf" class="u-url hashtag" rel="external nofollow noopener">#Leaf</a> <a href="https://pixelfed.social/discover/tags/newleafjournal?src=hash" title="#newleafjournal" class="u-url hashtag" rel="external nofollow noopener">#newleafjournal</a> <a href="https://pixelfed.social/discover/tags/thenewleafjournal?src=hash" title="#thenewleafjournal" class="u-url hashtag" rel="external nofollow noopener">#thenewleafjournal</a>]]></summary>
-        <author>
-            <name>nafnlj on Pixelfed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111528636138599902</id>
-        <link href="https://linuxrocks.online/@nafnlj/111528636138599902"/>
-        <updated>2023-12-05T15:58:53.000Z</updated>
-        <summary type="html"><![CDATA[They say it's better late than never. I interpret that to mean it's never too late to catch up on the newest trends in women's fashion (in Philadelphia, Pennsylvania) from January 1841.
-https://thenewleafjournal.com/womens-fashion-trends-for-january-1841/
-#History #Fashion #OldMagaziens #Dresses #Philadelphia]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
