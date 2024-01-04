@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-04T14:10:11.541Z</updated>
+    <updated>2024-01-04T20:11:41.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111698593632071795</id>
+        <link href="https://linuxrocks.online/@nafnlj/111698593632071795"/>
+        <updated>2024-01-04T16:21:18.000Z</updated>
+        <summary type="html"><![CDATA[Presenting the 54 most-visited New Leaf Journal articles of 2023, in dialogue format. For WordPress admins out there, I use Koko Analytics, an open source and entirely local page counting solution for stats.
+https://thenewleafjournal.com/new-leaf-journal-year-in-review-2023/
+#Blogging #WordPress #OpenSource #Links #KokoAnalytics]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I just participated in the Steam hardware survey]]></title>
         <id>https://social.emucafe.org/?p=656</id>
