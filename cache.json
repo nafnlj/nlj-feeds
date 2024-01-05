@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=22105",
+          "author": "Nicholas A. Ferrell",
+          "description": "Addressing an interesting argument that because Lance Armstrong was the best stage racing cyclist in a largely doped field, he would have been the best clean cyclist in a clean field.\nPossibly related posts...\n\nMost-Visited NLJ Articles of 1H 2023\nThe Best of Anime in 2022: Year in Review\nGolf and Immigration: Matter of Masters\nAnime Recommendations of the Decade (2011-20)\nAnalyzing BIA Decision in Matter of Salama\nACE Academy - Visual Novel Review\nBottom-tier Character Tomozaki S1 Anime Review\nNew Leaf Journal Third Birthday Reader\nThe Poor Little Bird - Visual Novel Review",
+          "link": "https://thenewleafjournal.com/cycling-doping-fallacies/",
+          "publishedOn": "2024-01-05T14:05:00.000Z",
+          "wordCount": 7811,
+          "title": "Cycling Doping Fallacies",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2024/01/Lance_Armstrong_2005-tdf.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=22084",
           "author": "Nicholas A. Ferrell",
           "description": "Justin and Justina review the 54 most-visited articles at The New Leaf Journal in 2023.\nPossibly related posts...\n\nThe New Leaf Journal Celebrates Its First Birthday\nThe al|together and Insani Visual Novel Translations\nThe Newsletter Leaf Journal at 100\nShould the Pistons have drafted Carmelo?\nJustin & Justina: Most-Read NLJ Content of 2020\nThe story of our Bing blacklisting\nJustin and Justina review 2022 at the NLJ\nA 2021 List of Alternative Search Engines and Search…\nOldest Golfers to Contend for Majors Between the…",
@@ -381,36 +391,6 @@
           "wordCount": null,
           "title": "Review of Show Pages ID for WordPress",
           "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=579",
-          "author": "Nicholas A. Ferrell",
-          "description": "The law office I work for uses Dropbox. I use Dropbox in a browser profile I set aside for work instead of the local app. I just noticed today that when I upload a file, a little gray box appears in the bottom right corner of the screen showing the upload progress. When the upload […]",
-          "link": "https://social.emucafe.org/naferrell/dropbox-balloons/",
-          "publishedOn": "2023-12-06T20:12:51.000Z",
-          "wordCount": null,
-          "title": "Dropbox Balloons",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=576",
-          "author": "Nicholas A. Ferrell",
-          "description": "Simple Mobile Tools is a suite of free and open source android apps designed to replace Google’s default apps. However, “free and open source” will likely be a thing of the past after Simple Mobile Tools was acquired by ZippoApps. I used a few Simple Mobile apps back when I wrote a review of F-Droid […]",
-          "link": "https://social.emucafe.org/naferrell/simple-mobile-tolls-alternatives/",
-          "publishedOn": "2023-12-06T17:07:37.000Z",
-          "wordCount": null,
-          "title": "Simple Mobile Tools Alternatives",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=571",
-          "author": "Nicholas A. Ferrell",
-          "description": "I never thought about why manhole covers were round before reading this detailed history of manhole covers in New York City. That they are round “so they won’t fall into the manhole … if you insert [them] at an angle or vertically” makes sense. Maybe I never thought about it because I have never been […]",
-          "link": "https://social.emucafe.org/naferrell/on-round-manhole-covers/",
-          "publishedOn": "2023-12-06T15:49:54.000Z",
-          "wordCount": null,
-          "title": "Why manhole covers are round",
-          "imageUrl": null
         }
       ]
     },
@@ -534,18 +514,7 @@
       "title": "The New Leaf Annex",
       "feedUrl": "https://newleafannex.emucafe.org/feed",
       "siteUrl": "https://newleafannex.emucafe.org/",
-      "articles": [
-        {
-          "id": "https://newleafannex.emucafe.org/foss-simple-mobile-tools-alternatives/",
-          "author": null,
-          "description": "Simple Mobile Tools is a suite of free and open source android apps designed to replace Google’s default apps. However, “free and open source” will likely be a thing of the past after Simple Mobile Tools was acquired by ZippoApps. I used a few Simple Mobile apps back when I wrote a review of F-Droid apps in 2021, but I was fortunately not using any at the time of the ZippoApps news. One of the main contributors to Simple Mobile Tools who was not involved in the decision to sell the suite to an adware company forked the project. The fork looks like a good option for people who want to keep using the Simple Mobile Tools suite. Since I was not using any of the apps, I thought I would note what I use instead. Before continuing, do note that my phone runs LineageOS and I do not use any closed s…",
-          "link": "https://newleafannex.emucafe.org/foss-simple-mobile-tools-alternatives/",
-          "publishedOn": "2023-12-06T17:17:27.616Z",
-          "wordCount": 1169,
-          "title": "Open Source Simple Mobile Tools Alternatives",
-          "imageUrl": "https://www.gutenberg.org/files/10726/10726-h/images/fig_23sm.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "N.A. Ferrell",
@@ -616,16 +585,6 @@
           "publishedOn": "2023-12-21T18:28:37.000Z",
           "wordCount": null,
           "title": "Seen at the Marina in Brooklyn Park... and I see what they did there... S-cape.\n\nArticle with context about the area:\nhttps://thenewleafjournal.com/a-boat-named-s-cape/\n\n#NYC #Brooklyn #BrooklynBridgePark #Marina #Yacht #Pun #Boat #pixel3axl #newleafjournal #thenewleafjournal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pixelfed.social/p/nafnlj/638086270948333344",
-          "author": null,
-          "description": "I came across a certain Bush Clinton Playground in Red Hook, Brooklyn (NYC) a few years ago and was amused by the name. When I walked by last week, I decided to take a photo and turn it into an article. Despite the fact that the name invokes our 41st, 42nd, and 43rd Presidents, those with a cursory knowledge of New York City history will know that the \"Clinton\" here is DeWitt Clinton, who served as Mayor of NYC, Governor of NY (following his father George on Governor) and was the Federalist nominee for President in 1812 (he lost fairly narrowly to James Madison). What about Bush? I was not sure who Bush Street was named after, and I learned that New York City is also not quite sure.<br />\n<br />\nArticle:<br />\n<a href=\"https://thenewleafjournal.com/bush-clinton-playground-in-red-hook/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/bush-clinton-playground-in-red-hook/</a><br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/nyc?src=hash\" title=\"#nyc\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#nyc</a> <a href=\"https://pixelfed.social/discover/tags/brooklyn?src=hash\" title=\"#brooklyn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#brooklyn</a> <a href=\"https://pixelfed.social/discover/tags/redhook?src=hash\" title=\"#redhook\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#redhook</a> <a href=\"https://pixelfed.social/discover/tags/playground?src=hash\" title=\"#playground\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#playground</a> <a href=\"https://pixelfed.social/discover/tags/sign?src=hash\" title=\"#sign\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#sign</a> <a href=\"https://pixelfed.social/discover/tags/nycparks?src=hash\" title=\"#nycparks\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#nycparks</a> <a href=\"https://pixelfed.social/discover/tags/bush?src=hash\" title=\"#bush\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#bush</a> <a href=\"https://pixelfed.social/discover/tags/clinton?src=hash\" title=\"#clinton\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#clinton</a> <a href=\"https://pixelfed.social/discover/tags/pixel3axl?src=hash\" title=\"#pixel3axl\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pixel3axl</a> <a href=\"https://pixelfed.social/discover/tags/thenewleafjournal?src=hash\" title=\"#thenewleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#thenewleafjournal</a> <a href=\"https://pixelfed.social/discover/tags/newleafjournal?src=hash\" title=\"#newleafjournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#newleafjournal</a>",
-          "link": "https://pixelfed.social/p/nafnlj/638086270948333344",
-          "publishedOn": "2023-12-06T18:47:02.000Z",
-          "wordCount": null,
-          "title": "I came across a certain Bush Clinton Playground in Red Hook, Brooklyn (NYC) a few years ago and was amused by the name. When I walked by last week, I decided to take a photo and turn it into an article. Despite the fact that the name invokes our 41st, 42nd, and 43rd Presidents, those with a cursory knowledge of New York City history will know that the \"Clinton\" here is DeWitt Clinton, who served as Mayor of NYC, Governor of NY (following his father George on Governor) and was the Federalist nominee for President in 1812 (he lost fairly narrowly to James Madison). What about Bush? I was not sure who Bush Street was named after, and I learned that New York City is also not quite sure.\n\nArticle:\nhttps://thenewleafjournal.com/bush-clinton-playground-in-red-hook/\n\n#nyc #brooklyn #redhook #playground #sign #nycparks #bush #clinton #pixel3axl #thenewleafjournal #newleafjournal",
           "imageUrl": null
         }
       ]
@@ -754,16 +713,6 @@
           "wordCount": 123,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/111534629488637390",
-          "author": null,
-          "description": "I read about an adware company purchasing the open source Simple Mobile Tools apps for Android. I was not using any of the apps at the moment (I used a few in the past), so I decided to offer some suggestions for alternatives that I use on my own device (I run LineageOS 20 on my phone). My recommendations are admittedly limited by my set up and phone usage, but I think I have a few good ones.\nhttps://social.emucafe.org/naferrell/simple-mobile-tolls-alternatives/\n#android #lineageos #simplemobiletools #apps #opensource",
-          "link": "https://linuxrocks.online/@nafnlj/111534629488637390",
-          "publishedOn": "2023-12-06T17:23:04.000Z",
-          "wordCount": 123,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -806,16 +755,6 @@
           "publishedOn": "2023-12-12T03:13:56.000Z",
           "wordCount": null,
           "title": "Victor V. Gurbo \"Christmas & You\" Music Video, feat. Johanna Telander, Katie Chambers, Mark Caserta",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Fnocqokpa_M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Fnocqokpa_M",
-          "publishedOn": "2023-12-06T18:00:21.000Z",
-          "wordCount": null,
-          "title": "Victor V. Gurbo \"Christmas & You (Home Recording, Version 1)\" Music Video",
           "imageUrl": null
         }
       ]
