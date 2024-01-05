@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-05T14:10:32.321Z</updated>
+    <updated>2024-01-05T20:11:36.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Correcting the Yoshi-Dragonite Record]]></title>
+        <id>https://thenewleafjournal.com/?p=22121</id>
+        <link href="https://thenewleafjournal.com/correcting-the-yoshi-dragonite-record/"/>
+        <updated>2024-01-05T18:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Some websites stealth edit. Other websites issue in-article corrections. We issue full article corrections.
+Possibly related posts...
+
+Expert Gamer's 1999 Yoshi in Pokémon April Fools Prank
+Recording a Test New Leaf Journal Pokémon Sword and…
+Dragonair Safari in Pokémon Yellow
+Bill's Secret Garden - A Pokémon Generation 1 Urban Legend
+EGM's 2001 Sega Neptune April Fools Joke
+Yoshi's Story at 25
+April Fools, Sonic and Tails in SSB Melee
+The Mystery of Sōseki and Tsuki ga Kirei
+The Two Decade Mario Party Finally Ends]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bottom-Tier Character Tomozaki 2nd STAGE (Ep 1)]]></title>
+        <id>https://social.emucafe.org/?p=662</id>
+        <link href="https://social.emucafe.org/naferrell/tomozaki-s2-ep1/"/>
+        <updated>2024-01-05T17:30:03.000Z</updated>
+        <summary type="html"><![CDATA[I re-watched the first season of Bottom-Tier Character Tomozaki (after having watched it as a simulcast in 2021) for two reasons. Firstly so I could write a review and secondly so that I could refresh my memory for the second season. I watched the first episode of season 2, titled The best games make reconnaissance […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cycling Doping Fallacies]]></title>
         <id>https://thenewleafjournal.com/?p=22105</id>
