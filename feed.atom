@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-06T20:10:52.485Z</updated>
+    <updated>2024-01-07T14:09:31.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -979,50 +979,6 @@ Inspired by others, I created a list of my de…]]></summary>
         <summary type="html"><![CDATA[Blogger foreverkeith.is put together a very good list of webrings and similar collections of personal websites and blogs. I recall having come across it before, but I had previously missed that I am cited as a contributor for my New Leaf Journal article on the idea of a “social” media consisting of independent personal websites. […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joining Hemispheric Views App Defaults]]></title>
-        <id>https://social.emucafe.org/?p=595</id>
-        <link href="https://social.emucafe.org/naferrell/joining-hemispheric-views-app-defaults/"/>
-        <updated>2023-12-08T19:09:35.000Z</updated>
-        <summary type="html"><![CDATA[I was inspired to create an article listing my default apps by a project to collect default app posts on Hemispheric Views. I wrote my default apps article and then made a pull request to have the article included in the Hemispheric Views project. The curator merged my pull request within two hours. I am […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The first issue is resolved. I do not have an immediate use-case for Micropub at the moment so I wil...]]></title>
-        <id>https://memos.emucafe.org/m/39</id>
-        <link href="https://memos.emucafe.org/m/39"/>
-        <updated>2023-12-08T18:02:43.000Z</updated>
-        <summary type="html"><![CDATA[The first issue is resolved. I do not have an immediate use-case for Micropub at the moment so I will look into that again later if need be. I suspect the issue has to do with page caching (because the issue is always caching).
-#WordPress #IndieWeb #Caching #emucafesocial]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[While installing EndeavourOS on a mini PC yesterday, I ran into an error at 13% complete which force...]]></title>
-        <id>https://memos.emucafe.org/m/38</id>
-        <link href="https://memos.emucafe.org/m/38"/>
-        <updated>2023-12-08T17:44:26.000Z</updated>
-        <summary type="html"><![CDATA[While installing EndeavourOS on a mini PC yesterday, I ran into an error at 13% complete which forced install to fail. The issue was likely tied to a failure to download updates (computer did not have onboard wi-fi, so I was using a cheap Panda Wireless dongle which only supports 2.4 connections). When I tried to go through the installer again, automatic disk partitioning was not available. Solution: Rebooted and went back into live environment and installed offline (no issue since I wanted KDE Plasma). Installed with no issue.
-#EndeavourOS #Calimares #Linux]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111546014756687512</id>
-        <link href="https://linuxrocks.online/@nafnlj/111546014756687512"/>
-        <updated>2023-12-08T17:38:29.000Z</updated>
-        <summary type="html"><![CDATA[I saw that many webmasters were posting their "default apps," so I decided to join the fun with a list separating default apps for desktop (I run EndeavourOS primarily) and mobile (primarily LineageOS).
-https://thenewleafjournal.com/my-default-apps-as-of-december-2023/
-#DefaultApps #OpenSource #Linux #LineageOS #EndeavourOS]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
