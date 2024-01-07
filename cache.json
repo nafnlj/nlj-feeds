@@ -243,6 +243,26 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=677",
+          "author": "Nicholas A. Ferrell",
+          "description": "I published an article on The New Leaf Journal about doping in cycling during (and before) the Armstrong era. I noted in my Saturday newsletter that it unexpectedly blew up (by our standards) within hours of its publication. I was not immediately able to identify the source, but I figured out from our referrals that […]",
+          "link": "https://social.emucafe.org/naferrell/nlj-in-thebrowser/",
+          "publishedOn": "2024-01-07T19:30:18.000Z",
+          "wordCount": 734,
+          "title": "Documenting NLJ Appearance in The Browser",
+          "imageUrl": "https://social.emucafe.org/wp-content/uploads/2023/09/cropped-emucafesocial_icon-1.jpg"
+        },
+        {
+          "id": "https://social.emucafe.org/?p=671",
+          "author": "Nicholas A. Ferrell",
+          "description": "I starred this very insightful comment by Hacker News user marcinzm about search engines. The commenter noted the obvious, that big tech search shows ads because its purpose is to generate revenue through ads. But I appreciated the commenters putting it in terms of means and ends. Ideally, the user wants a search engine to […]",
+          "link": "https://social.emucafe.org/naferrell/search-means-and-ends/",
+          "publishedOn": "2024-01-07T17:56:52.000Z",
+          "wordCount": null,
+          "title": "Search, Means, and Ends",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=667",
           "author": "Nicholas A. Ferrell",
           "description": "This was the first completely new (as in not subsequent season) anime I am trying in the Winter 2024 season. These days, not involving “another world” or “reincarnation” is a good place to start. We have a girl, Himari Momochi, who is an orphan. When she turns 16, she learns her late parents left her […]",
