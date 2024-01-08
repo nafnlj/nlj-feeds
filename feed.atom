@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-08T14:10:53.015Z</updated>
+    <updated>2024-01-08T20:12:08.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On Reports of Instagram in Classrooms]]></title>
+        <id>https://thenewleafjournal.com/?p=22185</id>
+        <link href="https://thenewleafjournal.com/on-reports-of-instagram-in-classrooms/"/>
+        <updated>2024-01-08T19:06:50.000Z</updated>
+        <summary type="html"><![CDATA[This will come as a shock to all of our readers, but I (N.A. Ferrell) do not approve of requiring Instagram usage for school assignments.
+Possibly related posts...
+
+The dangers of adapting school to tech
+The Enigmatic Life and Death of Emperor Otho
+Anime Case Against Japan's Population Loss
+History of the Mario Party Gloves
+The New Leaf Journal Celebrates Its First Birthday
+Searching for the Figure Behind the Blob Dylan Tags…
+New Leaf Journal Third Birthday Reader
+An Early Review of Pixelfed - Instagram Alternative
+April Fools, Sonic and Tails in SSB Melee]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111721138571496169</id>
+        <link href="https://linuxrocks.online/@nafnlj/111721138571496169"/>
+        <updated>2024-01-08T15:54:47.000Z</updated>
+        <summary type="html"><![CDATA[I published my third annual review that was of the year in anime. In the article, I ranked what I think were the six best series of 2023, included notes on 12 additional series, and gave out five category-specific awards. I made sure to get it done close to New Years because I know the whole industry was waiting for this.
+https://thenewleafjournal.com/2023-anime-year-in-review/
+#Anime #AnimeReview]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111716887090945591</id>
@@ -940,18 +973,6 @@ https://thenewleafjournal.com/the-bunnypress-chronicles-story-and-review/
 #WordPress #BunnyPress #WordPressThemes]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docs for pushing from Gitea to other forges.]]></title>
-        <id>https://memos.emucafe.org/m/40</id>
-        <link href="https://memos.emucafe.org/m/40"/>
-        <updated>2023-12-10T04:09:09.000Z</updated>
-        <summary type="html"><![CDATA[Docs for pushing from Gitea to other forges.
-https://docs.gitea.com/next/usage/repo-mirror
-#Gitea #GitHub #GitLab #Codeberg]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
         </author>
     </entry>
 </feed>

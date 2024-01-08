@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=22185",
+          "author": "Nicholas A. Ferrell",
+          "description": "This will come as a shock to all of our readers, but I (N.A. Ferrell) do not approve of requiring Instagram usage for school assignments.\nPossibly related posts...\n\nThe dangers of adapting school to tech\nThe Enigmatic Life and Death of Emperor Otho\nAnime Case Against Japan's Population Loss\nHistory of the Mario Party Gloves\nThe New Leaf Journal Celebrates Its First Birthday\nSearching for the Figure Behind the Blob Dylan Tags…\nNew Leaf Journal Third Birthday Reader\nAn Early Review of Pixelfed - Instagram Alternative\nApril Fools, Sonic and Tails in SSB Melee",
+          "link": "https://thenewleafjournal.com/on-reports-of-instagram-in-classrooms/",
+          "publishedOn": "2024-01-08T19:06:50.000Z",
+          "wordCount": 2569,
+          "title": "On Reports of Instagram in Classrooms",
+          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2024/01/instagram-login-page.jpg"
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=22129",
           "author": "Nicholas A. Ferrell",
           "description": "N.A. Ferrell ranks the top six anime series that concluded in 2023, lists honorable mentions, and gives several category-specific awards.\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nNew Leaf Journal Year-In-Review: 2023\nJustin and Justina review 2022 at the NLJ\nA Dream of Summer - Visual Novel Review\nNew Leaf Journal Third Birthday Reader\nThe New Leaf Journal Celebrates Its First Birthday\nHistory of New York's Evacuation Day\nNarcissu (Insani version) VN Review\nFlood of Tears - Visual Novel Review",
@@ -471,16 +481,6 @@
           "wordCount": 21,
           "title": "Hostinger guide to WP Cron. Considering looking into changing my set-up after a minor issue with mis...",
           "imageUrl": null
-        },
-        {
-          "id": "https://memos.emucafe.org/m/40",
-          "author": null,
-          "description": "Docs for pushing from Gitea to other forges.\nhttps://docs.gitea.com/next/usage/repo-mirror\n#Gitea #GitHub #GitLab #Codeberg",
-          "link": "https://memos.emucafe.org/m/40",
-          "publishedOn": "2023-12-10T04:09:09.000Z",
-          "wordCount": 21,
-          "title": "Docs for pushing from Gitea to other forges.",
-          "imageUrl": null
         }
       ]
     },
@@ -574,6 +574,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111721138571496169",
+          "author": null,
+          "description": "I published my third annual review that was of the year in anime. In the article, I ranked what I think were the six best series of 2023, included notes on 12 additional series, and gave out five category-specific awards. I made sure to get it done close to New Years because I know the whole industry was waiting for this.\nhttps://thenewleafjournal.com/2023-anime-year-in-review/\n#Anime #AnimeReview",
+          "link": "https://linuxrocks.online/@nafnlj/111721138571496169",
+          "publishedOn": "2024-01-08T15:54:47.000Z",
+          "wordCount": 124,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111716887090945591",
           "author": null,
