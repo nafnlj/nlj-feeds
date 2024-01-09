@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-09T14:11:00.856Z</updated>
+    <updated>2024-01-09T20:12:13.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111726978442619446</id>
+        <link href="https://linuxrocks.online/@nafnlj/111726978442619446"/>
+        <updated>2024-01-09T16:39:56.000Z</updated>
+        <summary type="html"><![CDATA[The story of then-President Abraham Lincoln's decision to pardon Frank Judd, the son of Lincoln's Minister to Prussia, sparing him from what would have been execution for desertion.
+https://thenewleafjournal.com/lincoln-spares-frank-r-judd-in-1864-65/
+#AbrahamLincoln #History #USHistory #CivilWar #Desertion]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On Reports of Instagram in Classrooms]]></title>
         <id>https://thenewleafjournal.com/?p=22185</id>
