@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-10T14:10:47.363Z</updated>
+    <updated>2024-01-10T20:12:18.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -913,15 +913,6 @@ Golf and Immigration: Matter of Masters
 My Default Apps as of December 2023]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victor V. Gurbo "Christmas & You" Music Video, feat. Johanna Telander, Katie Chambers, Mark Caserta]]></title>
-        <id>https://www.youtube.com/watch?v=A1iknvSpRkc</id>
-        <link href="https://www.youtube.com/watch?v=A1iknvSpRkc"/>
-        <updated>2023-12-12T03:13:56.000Z</updated>
-        <author>
-            <name>Victor V. Gurbo</name>
         </author>
     </entry>
 </feed>
