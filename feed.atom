@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-10T20:12:18.574Z</updated>
+    <updated>2024-01-11T14:10:40.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -811,6 +811,15 @@ https://developer.wordpress.org/plugins/cron/hooking-wp-cron-into-the-system-tas
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Victor V. Gurbo "Christmas & You" Music Video, feat. Johanna Telander, Katie Chambers, Mark Caserta]]></title>
+        <id>https://www.youtube.com/watch?v=A1iknvSpRkc</id>
+        <link href="https://www.youtube.com/watch?v=A1iknvSpRkc"/>
+        <updated>2023-12-14T05:00:09.000Z</updated>
+        <author>
+            <name>Victor V. Gurbo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Victor V. Gurbo "Christmas & You" Version 2, feat. Johanna Telander, Katie Chambers, & Mark Caserta]]></title>
         <id>https://www.youtube.com/watch?v=8e_wYxhKv3g</id>
         <link href="https://www.youtube.com/watch?v=8e_wYxhKv3g"/>
@@ -868,49 +877,6 @@ The Poetry of Charlotte Becker - Early Twentieth…]]></summary>
         <link href="https://social.emucafe.org/naferrell/my-tablet-my-computer-review/"/>
         <updated>2023-12-13T16:22:17.000Z</updated>
         <summary type="html"><![CDATA[I came across a free ebook by Roger Carter on Smashwords about using an Android tablet as a computer (see My Tablet – My Computer). The book is short, running just over 5,000 words. While I do not personally need to use an Android (LineageOS in my case) tablet as a computer (not to mention […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111568673625604266</id>
-        <link href="https://linuxrocks.online/@nafnlj/111568673625604266"/>
-        <updated>2023-12-12T17:40:56.000Z</updated>
-        <summary type="html"><![CDATA[I think I am the only person to ever use the open source RetroBoy camera app for Android (available on F-Droid) to photograph at falcon at Brooklyn Bridge Park. Am I absolutely certain? No, but I am close to certain.
-https://thenewleafjournal.com/falcon-photos-with-retroboy-camera-app/
-#RetroBoy #Android #Fdroid #Falcon #NYC #BrooklynBridgePark]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So long, E3]]></title>
-        <id>https://social.emucafe.org/?p=614</id>
-        <link href="https://social.emucafe.org/naferrell/so-long-e3/"/>
-        <updated>2023-12-12T17:35:55.000Z</updated>
-        <summary type="html"><![CDATA[I read many video game magazines when I was a kid. Back in my day, E3, which typically took place in May or June, was the major video game expo and a major event in the magazines. I used to look forward to E3 coverage. Over the years, I stopped reading video game magazines and, […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding EOIR BIA Decisions to Zotero]]></title>
-        <id>https://thenewleafjournal.com/?p=21845</id>
-        <link href="https://thenewleafjournal.com/adding-eoir-bia-decisions-to-zotero/"/>
-        <updated>2023-12-12T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A short guide for immigration law followers to adding Board of Immigration Appeals precedent decisions to Zotero.
-Possibly related posts...
-
-Analyzing BIA Decision in Matter of Salama
-Matter of Man, 12 I&N Dec. 305 (BIA 1967) - BIA Hong…
-My heroic broken link report to U.S. DOJ
-The Matter of Great Wall - But Not Those Walls
-Noncitizen Nationals as Immigrant Visa Petitioners
-Immigration Issues in NYPD Chinese Agent Case
-Golf and Immigration: Matter of Masters
-"A Strange Admixture of Contentions" - Study of a Phrase
-My Default Apps as of December 2023]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
