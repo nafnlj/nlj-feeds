@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-12T14:10:53.942Z</updated>
+    <updated>2024-01-12T20:11:51.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -808,24 +808,6 @@ https://developer.wordpress.org/plugins/cron/hooking-wp-cron-into-the-system-tas
         <summary type="html"><![CDATA[I am working on cleaning up a few anime series that I missed throughout the year in preparation for my year in review. As part of the project, I quickly went through The Dreaming Boy is a Realist (light novel titles…) on HiDive (I had neglected HiDive for a bit because there’s no unofficial Kodi […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victor V. Gurbo "Christmas & You" Music Video, feat. Johanna Telander, Katie Chambers, Mark Caserta]]></title>
-        <id>https://www.youtube.com/watch?v=A1iknvSpRkc</id>
-        <link href="https://www.youtube.com/watch?v=A1iknvSpRkc"/>
-        <updated>2023-12-14T05:00:09.000Z</updated>
-        <author>
-            <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victor V. Gurbo "Christmas & You" Version 2, feat. Johanna Telander, Katie Chambers, & Mark Caserta]]></title>
-        <id>https://www.youtube.com/watch?v=8e_wYxhKv3g</id>
-        <link href="https://www.youtube.com/watch?v=8e_wYxhKv3g"/>
-        <updated>2023-12-14T05:00:09.000Z</updated>
-        <author>
-            <name>Victor V. Gurbo</name>
         </author>
     </entry>
 </feed>
