@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-12T20:11:51.215Z</updated>
+    <updated>2024-01-13T14:09:46.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Carroll Gardens Library Renovations]]></title>
+        <id>https://thenewleafjournal.com/?p=22220</id>
+        <link href="https://thenewleafjournal.com/carroll-gardens-library-renovations/"/>
+        <updated>2024-01-12T20:26:25.000Z</updated>
+        <summary type="html"><![CDATA[A short report on reports about the temporary closure of the Carroll Gardens Library with original photographs.
+Possibly related posts...
+
+A Walk Across the Hamilton Avenue Footbridge
+Justin & Justina 〜 4th of July Grill Sacrifices to…
+A Trip Across Brooklyn's Summit Street Bridge
+Historic Districts and Looming Tall Buildings
+Balancing Bear Topiary in Carroll Gardens
+American Beauty Pasta Mural in Brooklyn
+Flying 12-Foot Witch in Carroll Gardens
+The Unfortunate Car in Carroll Gardens
+Evergreen Carroll Gardens Christmas Tree]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111726978442619446</id>
@@ -782,30 +803,6 @@ I spent more of the last week working on New Leaf Journal projects than publishi
         <link href="https://social.emucafe.org/naferrell/deleting-my-around-the-web-links/"/>
         <updated>2023-12-15T04:52:57.000Z</updated>
         <summary type="html"><![CDATA[I send a weekly newsletter attached to The New Leaf Journal called The Newsletter Leaf Journal. Unsurprisingly, I focus on sharing links to my latest articles (including some from here) and news and notes about my projects. However, in the spirit of generosity and sharing external links, I pack each newsletter full of links from […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hostinger guide to WP Cron. Considering looking into changing my set-up after a minor issue with mis...]]></title>
-        <id>https://memos.emucafe.org/m/41</id>
-        <link href="https://memos.emucafe.org/m/41"/>
-        <updated>2023-12-14T18:26:17.000Z</updated>
-        <summary type="html"><![CDATA[Hostinger guide to WP Cron. Considering looking into changing my set-up after a minor issue with missed jobs for ActivityPub on Emu Cafe Social:
-https://www.hostinger.com/tutorials/how-to-setup-and-manage-a-wordpress-cron-job
-See also WordPress Codex guide:
-https://developer.wordpress.org/plugins/cron/hooking-wp-cron-into-the-system-task-scheduler/
-#WordPress #Cron #Linux]]></summary>
-        <author>
-            <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solid OP and ED in The Dreaming Boy is a Realist]]></title>
-        <id>https://social.emucafe.org/?p=627</id>
-        <link href="https://social.emucafe.org/naferrell/dreaming-boy-is-a-realist-op-ed/"/>
-        <updated>2023-12-14T17:18:40.000Z</updated>
-        <summary type="html"><![CDATA[I am working on cleaning up a few anime series that I missed throughout the year in preparation for my year in review. As part of the project, I quickly went through The Dreaming Boy is a Realist (light novel titles…) on HiDive (I had neglected HiDive for a bit because there’s no unofficial Kodi […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
