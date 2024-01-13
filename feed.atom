@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-13T14:09:46.037Z</updated>
+    <updated>2024-01-13T20:11:14.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -795,16 +795,6 @@ Leaves from around the web
 I spent more of the last week working on New Leaf Journal projects than publishing them. While many of my articles are in the work in progress phase, I still managed to deliver four new articles since mailing Newsletter…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deleting My Around The Web Links]]></title>
-        <id>https://social.emucafe.org/?p=630</id>
-        <link href="https://social.emucafe.org/naferrell/deleting-my-around-the-web-links/"/>
-        <updated>2023-12-15T04:52:57.000Z</updated>
-        <summary type="html"><![CDATA[I send a weekly newsletter attached to The New Leaf Journal called The Newsletter Leaf Journal. Unsurprisingly, I focus on sharing links to my latest articles (including some from here) and news and notes about my projects. However, in the spirit of generosity and sharing external links, I pack each newsletter full of links from […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
