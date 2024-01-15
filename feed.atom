@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-14T20:11:42.894Z</updated>
+    <updated>2024-01-15T14:10:56.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -880,18 +880,6 @@ nice.boats Domain Available For Sale
 Bill's Secret Garden - A Pokémon Generation 1 Urban Legend]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CLXV 〜 Lost & not found 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/165/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/165/"/>
-        <updated>2023-12-16T17:38:29.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 165th edition of The Newsletter Leaf Journal, the evergreen newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. I have plenty of content to share with you this week from many new articles and short posts to the story of how the winds of new beginnings blew over my Around the Web backlog. Because I have plenty to share, I cut the introduction short so we can get to the sharing.
-Leaves from around the web
-I spent more of the last week working on New Leaf Journal projects than publishing them. While many of my articles are in the work in progress phase, I still managed to deliver four new articles since mailing Newsletter…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>
