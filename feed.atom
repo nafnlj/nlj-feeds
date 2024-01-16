@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-15T20:11:52.344Z</updated>
+    <updated>2024-01-16T14:10:52.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111761800480840539</id>
+        <link href="https://linuxrocks.online/@nafnlj/111761800480840539"/>
+        <updated>2024-01-15T20:15:38.000Z</updated>
+        <summary type="html"><![CDATA[A 2022 post featuring my photographs of the Freedom Tower, shrouded in fog, from a morning walk across the Brooklyn Bridge.
+https://thenewleafjournal.com/freedom-tower-in-the-fog-from-the-brooklyn-bridge/
+#NYC #Brooklyn #Manhattan #BrooklynBridge #FreedomTower #Fog #Photography]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victor V. Gurbo feat. Mark Caserta "Goodnight Irene" Live at Organic Grill (January 12th, 2024)]]></title>
         <id>https://www.youtube.com/watch?v=XKvEUpJc1Po</id>
@@ -875,27 +887,6 @@ Santa Claus's Delivery Van Seen in Brooklyn
 Justin & Justina 〜 A Christmas Present Struggle
 Reviewing Three Boutique Guitar Strings
 The Inflatable Christmas Dragon of Gowanus]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Boat Named “S-cape”]]></title>
-        <id>https://thenewleafjournal.com/?p=21859</id>
-        <link href="https://thenewleafjournal.com/a-boat-named-s-cape/"/>
-        <updated>2023-12-17T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A photo of S-cape, a private boat seen docked at the Brooklyn Bridge Park Marina on May 31, 2023.
-Possibly related posts...
-
-The Nice Boat 〜 A Look Back at the School Days Anime
-Boat playground seen from Brooklyn Bridge
-Searching for School Days' Nice Boat
-History of New York's Evacuation Day
-Justin and Justina review 2022 at the NLJ
-1883 Opening of the Brooklyn Bridge
-Gulf Stream Boat Sculpture at Brooklyn Bridge Park
-nice.boats Domain Available For Sale
-Bill's Secret Garden - A Pokémon Generation 1 Urban Legend]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
