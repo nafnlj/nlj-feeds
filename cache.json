@@ -234,6 +234,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=684",
+          "author": "Nicholas A. Ferrell",
+          "description": "I did not get around to publishing a review of episode 2 of season 2 of Bottom-tier Character Tomozaki-kun after publishing a brief review of the first episode. The second episode had a dramatic tonal shift — segueing from the social game shenanigans that began in the first episode to bullying. I had some issues […]",
+          "link": "https://social.emucafe.org/naferrell/tomozaki-s2-ep2-bullying/",
+          "publishedOn": "2024-01-17T22:27:53.000Z",
+          "wordCount": null,
+          "title": "Bottom-tier Character Tomozaki-kun and bullying",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=680",
           "author": "Nicholas A. Ferrell",
           "description": "I came across a blog post titled Just Blog by Frank Meeuwsen. This post alerted me to an interesting “birthday” project by WordPress founder Matt Mullenweg. Mr. Mulenwig asked for people to blog for his birthday and link to his post. Ideally, the links should show up as pingbacks on his article. His post said […]",

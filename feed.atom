@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-17T20:11:59.173Z</updated>
+    <updated>2024-01-18T14:10:50.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bottom-tier Character Tomozaki-kun and bullying]]></title>
+        <id>https://social.emucafe.org/?p=684</id>
+        <link href="https://social.emucafe.org/naferrell/tomozaki-s2-ep2-bullying/"/>
+        <updated>2024-01-17T22:27:53.000Z</updated>
+        <summary type="html"><![CDATA[I did not get around to publishing a review of episode 2 of season 2 of Bottom-tier Character Tomozaki-kun after publishing a brief review of the first episode. The second episode had a dramatic tonal shift — segueing from the social game shenanigans that began in the first episode to bullying. I had some issues […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111761800480840539</id>
