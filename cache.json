@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=22279",
+          "author": "Nicholas A. Ferrell",
+          "description": "I review YOGA Image Optimizer, a free and open source GUI image optimization tool, from the context of someone using it to reduce the size of small images for a minimal WordPress blog.\nPossibly related posts...\n\nThe Enigmatic Life and Death of Emperor Otho\nFlood of Tears - Visual Novel Review\n2023 Anime Year in Review\nACE Academy - Visual Novel Review\nInstalling Non-Listed Programs in PlayOnLinux\nA Midsummer Day's Resonance - VN Review\nMay Sky - Visual Novel Review\nFour May Issues of The Nursery Magazine (1873-81)\nThe al|together and Insani Visual Novel Translations",
+          "link": "https://thenewleafjournal.com/reviewing-yoga-image-optimizer/",
+          "publishedOn": "2024-01-19T14:45:00.000Z",
+          "wordCount": null,
+          "title": "Reviewing YOGA Image Optimizer",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=22273",
           "author": "Nicholas A. Ferrell",
           "description": "While I am very much in the pro-video game ownership side of things, I had to call foul on a headline taking a seemingly anti-ownership quote by a Ubisoft executive out of its original context.\nPossibly related posts...\n\nHistory of the Mario Party Gloves\nSearching for the \"Libertarian Moment\"\nLeaving the Phrase \"Reach Out\" in the 90s\nRecording a Test New Leaf Journal Pokémon Sword and…\nThe Last Nintendo Wii Games\nThe Aborted Nintendo-Minnesota Lottery Scheme\nAmbiguous Killer Hallucinogenic Weed Headline\nTwo Independence Day-Themed Pokémon Battles: Ferrell…\nOn Nintendo's Pro-User Cartridge-First Strategy",
@@ -545,6 +555,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111783796578516271",
+          "author": null,
+          "description": "I published a new version of my New Leaf Journal feed directory. It includes links to our RSS/ATOM/JSON feeds with directions for subscribing to narrower subsets of articles and it also includes our less-used feeds (e.g., mf2, TWTXT), static feed aggregator site, and off-site newsletter RSS feed. For those who do not know much about feeds, I also linked to my introduction and several essays on the benefits of feeds.\nhttps://thenewleafjournal.com/new-leaf-journal-feeds/\n#WordPress #RSS #ATOM #JSONFeed #TWTXT #Feeds",
+          "link": "https://linuxrocks.online/@nafnlj/111783796578516271",
+          "publishedOn": "2024-01-19T17:29:32.000Z",
+          "wordCount": 125,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111761800480840539",
           "author": null,

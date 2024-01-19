@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-19T14:10:49.481Z</updated>
+    <updated>2024-01-19T20:11:58.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111783796578516271</id>
+        <link href="https://linuxrocks.online/@nafnlj/111783796578516271"/>
+        <updated>2024-01-19T17:29:32.000Z</updated>
+        <summary type="html"><![CDATA[I published a new version of my New Leaf Journal feed directory. It includes links to our RSS/ATOM/JSON feeds with directions for subscribing to narrower subsets of articles and it also includes our less-used feeds (e.g., mf2, TWTXT), static feed aggregator site, and off-site newsletter RSS feed. For those who do not know much about feeds, I also linked to my introduction and several essays on the benefits of feeds.
+https://thenewleafjournal.com/new-leaf-journal-feeds/
+#WordPress #RSS #ATOM #JSONFeed #TWTXT #Feeds]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reviewing YOGA Image Optimizer]]></title>
+        <id>https://thenewleafjournal.com/?p=22279</id>
+        <link href="https://thenewleafjournal.com/reviewing-yoga-image-optimizer/"/>
+        <updated>2024-01-19T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[I review YOGA Image Optimizer, a free and open source GUI image optimization tool, from the context of someone using it to reduce the size of small images for a minimal WordPress blog.
+Possibly related posts...
+
+The Enigmatic Life and Death of Emperor Otho
+Flood of Tears - Visual Novel Review
+2023 Anime Year in Review
+ACE Academy - Visual Novel Review
+Installing Non-Listed Programs in PlayOnLinux
+A Midsummer Day's Resonance - VN Review
+May Sky - Visual Novel Review
+Four May Issues of The Nursery Magazine (1873-81)
+The al|together and Insani Visual Novel Translations]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google vs HN at the NLJ (1)]]></title>
         <id>https://social.emucafe.org/?p=694</id>
