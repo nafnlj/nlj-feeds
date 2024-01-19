@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-18T20:12:22.947Z</updated>
+    <updated>2024-01-19T14:10:49.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google vs HN at the NLJ (1)]]></title>
+        <id>https://social.emucafe.org/?p=694</id>
+        <link href="https://social.emucafe.org/naferrell/google-vs-hn-at-the-nlj-1/"/>
+        <updated>2024-01-19T02:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Over at The New Leaf Journal, my January 5, 2024 article, which was about drug-enhanced professional cycling results, became the sixth New Leaf Journal article (going back to February 2021) to appear on Hacker News page 1 (only after a stop in The Browser newsletter). It reached as high as 11th on HN and was […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Provocative Out-Of-Context Headlines]]></title>
+        <id>https://thenewleafjournal.com/?p=22273</id>
+        <link href="https://thenewleafjournal.com/provocative-out-of-context-headlines/"/>
+        <updated>2024-01-18T21:21:20.000Z</updated>
+        <summary type="html"><![CDATA[While I am very much in the pro-video game ownership side of things, I had to call foul on a headline taking a seemingly anti-ownership quote by a Ubisoft executive out of its original context.
+Possibly related posts...
+
+History of the Mario Party Gloves
+Searching for the "Libertarian Moment"
+Leaving the Phrase "Reach Out" in the 90s
+Recording a Test New Leaf Journal Pokémon Sword and…
+The Last Nintendo Wii Games
+The Aborted Nintendo-Minnesota Lottery Scheme
+Ambiguous Killer Hallucinogenic Weed Headline
+Two Independence Day-Themed Pokémon Battles: Ferrell…
+On Nintendo's Pro-User Cartridge-First Strategy]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Team Hamas “Protests” NYC Cancer Hospital]]></title>
         <id>https://social.emucafe.org/?p=688</id>
