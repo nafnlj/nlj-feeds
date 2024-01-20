@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-20T14:09:37.308Z</updated>
+    <updated>2024-01-20T20:11:26.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CLXX 〜 Newsletter Optimizer 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/170/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/170/"/>
+        <updated>2024-01-20T18:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 170th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal,Nicholas A. Ferrell. It is highly likely that there will be a live New Leaf Journal article about said keyboard when you read this newsletter, but that is technically an article for next newsletter week. Below, we cover the events of January 13-19 in our typical Newsletter Leaf Journal manner.
+Leaves from the week that was
+I published three new articles since mailing Newsletter 169.  
+Shopping on AI (Sp)Amazon
+Justin and Justina discuss some interesting AI-generated product descriptions seen on Amazon (or Spamazon).  
+Provocative O…]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Logitech Washable Wired Keyboard K310]]></title>
+        <id>https://thenewleafjournal.com/?p=22302</id>
+        <link href="https://thenewleafjournal.com/my-logitech-washable-wired-keyboard-k310/"/>
+        <updated>2024-01-20T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[I review my Logitech Washable K310 keyboard as it approaches its 11th birthday on my computer desk.
+Possibly related posts...
+
+Replacing soundbar and re-configuring universal…
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+The 9.9.99 Computer Bug That Wasn't
+Bing's and DuckDuckGo's CCP Problem
+Internet Explorer to Year of Linux Desktop
+Recommended F-Droid FOSS Apps For Android-Based…
+Reviewing Buddy Simulator 1984 for Switch
+Dasung to release e-ink phone monitor
+Dasung Link Phone E-Ink Monitor Starts at $299]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111783796578516271</id>

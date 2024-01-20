@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=22302",
+          "author": "Nicholas A. Ferrell",
+          "description": "I review my Logitech Washable K310 keyboard as it approaches its 11th birthday on my computer desk.\nPossibly related posts...\n\nReplacing soundbar and re-configuring universal…\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe 9.9.99 Computer Bug That Wasn't\nBing's and DuckDuckGo's CCP Problem\nInternet Explorer to Year of Linux Desktop\nRecommended F-Droid FOSS Apps For Android-Based…\nReviewing Buddy Simulator 1984 for Switch\nDasung to release e-ink phone monitor\nDasung Link Phone E-Ink Monitor Starts at $299",
+          "link": "https://thenewleafjournal.com/my-logitech-washable-wired-keyboard-k310/",
+          "publishedOn": "2024-01-20T18:15:00.000Z",
+          "wordCount": null,
+          "title": "My Logitech Washable Wired Keyboard K310",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=22279",
           "author": "Nicholas A. Ferrell",
           "description": "I review YOGA Image Optimizer, a free and open source GUI image optimization tool, from the context of someone using it to reduce the size of small images for a minimal WordPress blog.\nPossibly related posts...\n\nThe Enigmatic Life and Death of Emperor Otho\nFlood of Tears - Visual Novel Review\n2023 Anime Year in Review\nACE Academy - Visual Novel Review\nInstalling Non-Listed Programs in PlayOnLinux\nA Midsummer Day's Resonance - VN Review\nMay Sky - Visual Novel Review\nFour May Issues of The Nursery Magazine (1873-81)\nThe al|together and Insani Visual Novel Translations",
@@ -370,6 +380,16 @@
       "feedUrl": "https://buttondown.email/newsletterleafjournal/rss",
       "siteUrl": "https://buttondown.email/newsletterleafjournal",
       "articles": [
+        {
+          "id": "https://buttondown.email/newsletterleafjournal/archive/170/",
+          "author": null,
+          "description": "Welcome to the 170th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal,Nicholas A. Ferrell. It is highly likely that there will be a live New Leaf Journal article about said keyboard when you read this newsletter, but that is technically an article for next newsletter week. Below, we cover the events of January 13-19 in our typical Newsletter Leaf Journal manner.\nLeaves from the week that was\nI published three new articles since mailing Newsletter 169.  \nShopping on AI (Sp)Amazon\nJustin and Justina discuss some interesting AI-generated product descriptions seen on Amazon (or Spamazon).  \nProvocative O…",
+          "link": "https://buttondown.email/newsletterleafjournal/archive/170/",
+          "publishedOn": "2024-01-20T18:26:19.000Z",
+          "wordCount": 2505,
+          "title": "Newsletter Leaf Journal CLXX 〜 Newsletter Optimizer 〜",
+          "imageUrl": "https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
+        },
         {
           "id": "https://buttondown.email/newsletterleafjournal/archive/169/",
           "author": null,
