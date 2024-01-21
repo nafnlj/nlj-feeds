@@ -170,36 +170,6 @@
           "wordCount": 3002,
           "title": "Victor V. Gurbo’s “Christmas & You”",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/12/Image_RobertGurbo-nlj-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=21945",
-          "author": "Nicholas A. Ferrell",
-          "description": "A Carroll Gardens home works to make sure that we know how long until Christmas.\nPossibly related posts...\n\nio [Christmas Eve] - Visual Novel Review\nSnowman with One-Eyed Frog Hat - Pure Evil?\nSnowman with Mask 〜 It's the thought that counts\nPlain Song Christmas Special - VN Review\nA Christmas Menagerie On a Lawn in Gowanus\nBrooklyn Snowman and Winter Storm Gail Sights\nReviewing Bob Dylan's \"Shadow Kingdom\" Stream\nKaori After Story - Visual Novel Review\nThe Enigmatic Life and Death of Emperor Otho",
-          "link": "https://thenewleafjournal.com/snowman-christmas-countdown-clock/",
-          "publishedOn": "2023-12-22T17:30:00.000Z",
-          "wordCount": 1769,
-          "title": "Snowman Christmas Countdown Clock",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/12/snowman-countdown-straight-nlj.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=21929",
-          "author": "Nicholas A. Ferrell",
-          "description": "I finally review the only al|together visual novel translation in which the player takes the perspective of a pet cat (Don-kichi, to be precise).\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nFour May Issues of The Nursery Magazine (1873-81)\n\"Fradie-Cat\" - A Children's Poem By Clinton Scollard\nIs my cat deaf, or does she just not give a...?\n\"Winter Quarters\" - An 1882 Poem About a Very Warm…\nI, Too, Saw Dreams Through Air - VN Review\nMIDI sound for games on Arch-based distro\nAt Summer's End vs A Dream of Summer\nMalcontent Openclipart Cat Christmas Tree",
-          "link": "https://thenewleafjournal.com/my-black-cat-visual-novel-review/",
-          "publishedOn": "2023-12-22T14:15:00.000Z",
-          "wordCount": 3973,
-          "title": "My Black Cat – Visual Novel Review",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/12/Screenshot_2023-12-10_14-02-24.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=21890",
-          "author": "Nicholas A. Ferrell",
-          "description": "Reviewing one of the more unique and polished al|together visual novel translation projects, Moonshine.\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nMay Sky - Visual Novel Review\nNarcissu (Insani version) VN Review\nFrom the Bottom of the Heart - VN Review\nThe Mystery of Sōseki and Tsuki ga Kirei\nThe Letter (Tegami) - Visual Novel Review\nCrimsoness - Visual Novel Review\nA Midsummer Day's Resonance - VN Review\nRunning Yuuki!Novel Ver of Tegami on Linux",
-          "link": "https://thenewleafjournal.com/moonshine-visual-novel-review/",
-          "publishedOn": "2023-12-22T14:00:00.000Z",
-          "wordCount": 4640,
-          "title": "Moonshine – Visual Novel Review",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/12/moonshine-title.jpg"
         }
       ]
     },
@@ -442,18 +412,7 @@
       "title": "Emu Café Memos",
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
-      "articles": [
-        {
-          "id": "https://memos.emucafe.org/m/42",
-          "author": null,
-          "description": "Restarting Pipewire:\n\nsystemctl --user restart pipewire pipewire-pulse\nsystemctl --user daemon-reload\nSource: https://forums.fedoraforum.org/showthread.php?326248-Just-upgraded-pipewire-and-want-to-reload-it-without-rebooting&s=58ca81ba2d4b8adaf9adedf8214b6d9f&p=1848593#post1848593\n\n#Pipewire #Linux #Troubleshooting",
-          "link": "https://memos.emucafe.org/m/42",
-          "publishedOn": "2023-12-23T01:35:15.000Z",
-          "wordCount": 21,
-          "title": "Restarting Pipewire:",
-          "imageUrl": "https://www.usememos.com/logo.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Emu Café Memos",
@@ -478,6 +437,16 @@
       "feedUrl": "https://pixelfed.social/users/nafnlj.atom",
       "siteUrl": "https://pixelfed.social/nafnlj",
       "articles": [
+        {
+          "id": "https://pixelfed.social/p/nafnlj/654432111509536240",
+          "author": null,
+          "description": "My Logitech K310 keyboard after a good washing and scrubbing in my kitchen sink. I have been using this as my main desktop keyboard since April 2013 and it is still going strong after countless keystrokes, many cleanings, and one coffee incident. Sadly, Logitech discontinued it several years ago.<br />\n<br />\nMy review:<br />\n<a href=\"https://thenewleafjournal.com/my-logitech-washable-wired-keyboard-k310/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/my-logitech-washable-wired-keyboard-k310/</a><br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/Logitech?src=hash\" title=\"#Logitech\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Logitech</a> <a href=\"https://pixelfed.social/discover/tags/LogitechK310?src=hash\" title=\"#LogitechK310\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#LogitechK310</a> <a href=\"https://pixelfed.social/discover/tags/Keyboard?src=hash\" title=\"#Keyboard\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Keyboard</a> <a href=\"https://pixelfed.social/discover/tags/PhysicalKeyboards?src=hash\" title=\"#PhysicalKeyboards\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#PhysicalKeyboards</a> <a href=\"https://pixelfed.social/discover/tags/WashableKeyboard?src=hash\" title=\"#WashableKeyboard\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#WashableKeyboard</a> <a href=\"https://pixelfed.social/discover/tags/NewLeafJournal?src=hash\" title=\"#NewLeafJournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#NewLeafJournal</a> <a href=\"https://pixelfed.social/discover/tags/TheNewLeafJournal?src=hash\" title=\"#TheNewLeafJournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#TheNewLeafJournal</a> <a href=\"https://pixelfed.social/discover/tags/pixel3axl?src=hash\" title=\"#pixel3axl\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#pixel3axl</a>",
+          "link": "https://pixelfed.social/p/nafnlj/654432111509536240",
+          "publishedOn": "2024-01-20T21:19:34.000Z",
+          "wordCount": null,
+          "title": "My Logitech K310 keyboard after a good washing and scrubbing in my kitchen sink. I have been using this as my main desktop keyboard since April 2013 and it is still going strong after countless keystrokes, many cleanings, and one coffee incident. Sadly, Logitech discontinued it several years ago.\n\nMy review:\nhttps://thenewleafjournal.com/my-logitech-washable-wired-keyboard-k310/\n\n#Logitech #LogitechK310 #Keyboard #PhysicalKeyboards #WashableKeyboard #NewLeafJournal #TheNewLeafJournal #pixel3axl",
+          "imageUrl": null
+        },
         {
           "id": "https://pixelfed.social/p/nafnlj/652194386019766224",
           "author": null,
@@ -526,16 +495,6 @@
           "publishedOn": "2023-12-23T18:17:16.000Z",
           "wordCount": null,
           "title": "It is easy to remember that Christmas is on December 25. But what if you forget what day it is now? One home in Carroll Gardens, Brooklyn, worked to make sure that everyone knows how long until Christmas. (Note that the clock works -- but the red LED does not show in my photo).\n\nArticle with additional photo:\nhttps://thenewleafjournal.com/snowman-christmas-countdown-clock/\n\n#NYC #Brooklyn #CarrollGardens #Christmas #Snowman #ChristmasDecorations #Clock #Countdown #Reef #Pixel3aXL #NewLeafJournal #TheNewLeafJournal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pixelfed.social/p/nafnlj/643848118943907802",
-          "author": null,
-          "description": "An inflatable Santa emerging from (or going into, depending on perspective) an inflatable chimney in three acts. Seen (if I recall correctly) in Boerum Hill, Brooklyn.<br />\n<br />\nArticle:<br />\n<a href=\"https://thenewleafjournal.com/dynamic-inflatable-chimney-santa/\" rel=\"external nofollow noopener\" target=\"_blank\">https://thenewleafjournal.com/dynamic-inflatable-chimney-santa/</a><br />\n<br />\n<a href=\"https://pixelfed.social/discover/tags/NYC?src=hash\" title=\"#NYC\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#NYC</a> <a href=\"https://pixelfed.social/discover/tags/Brooklyn?src=hash\" title=\"#Brooklyn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Brooklyn</a> <a href=\"https://pixelfed.social/discover/tags/BoerumHill?src=hash\" title=\"#BoerumHill\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#BoerumHill</a> <a href=\"https://pixelfed.social/discover/tags/Christmas?src=hash\" title=\"#Christmas\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Christmas</a> <a href=\"https://pixelfed.social/discover/tags/ChristmasDecorations?src=hash\" title=\"#ChristmasDecorations\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#ChristmasDecorations</a> <a href=\"https://pixelfed.social/discover/tags/SantaClaus?src=hash\" title=\"#SantaClaus\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#SantaClaus</a> <a href=\"https://pixelfed.social/discover/tags/Inflatables?src=hash\" title=\"#Inflatables\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Inflatables</a> <a href=\"https://pixelfed.social/discover/tags/Brownstones?src=hash\" title=\"#Brownstones\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#Brownstones</a> <a href=\"https://pixelfed.social/discover/tags/NewLeafJournal?src=hash\" title=\"#NewLeafJournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#NewLeafJournal</a> <a href=\"https://pixelfed.social/discover/tags/TheNewLeafJournal?src=hash\" title=\"#TheNewLeafJournal\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#TheNewLeafJournal</a>",
-          "link": "https://pixelfed.social/p/nafnlj/643848118943907802",
-          "publishedOn": "2023-12-22T16:22:33.000Z",
-          "wordCount": null,
-          "title": "An inflatable Santa emerging from (or going into, depending on perspective) an inflatable chimney in three acts. Seen (if I recall correctly) in Boerum Hill, Brooklyn.\n\nArticle:\nhttps://thenewleafjournal.com/dynamic-inflatable-chimney-santa/\n\n#NYC #Brooklyn #BoerumHill #Christmas #ChristmasDecorations #SantaClaus #Inflatables #Brownstones #NewLeafJournal #TheNewLeafJournal",
           "imageUrl": null
         }
       ]
@@ -644,16 +603,6 @@
           "wordCount": 123,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/111625219173244992",
-          "author": null,
-          "description": "Reprinting and discussing The Christmas Rose, an early twentieth century Christmas short story by Lizzie Deas (I also made a simple PDF version).\nhttps://thenewleafjournal.com/lizzie-deas-the-christmas-rose/\n#Christmas #ChristmasStory #ChristmasRose #Nativity",
-          "link": "https://linuxrocks.online/@nafnlj/111625219173244992",
-          "publishedOn": "2023-12-22T17:21:13.000Z",
-          "wordCount": 122,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -696,16 +645,6 @@
           "publishedOn": "2024-01-14T05:50:49.000Z",
           "wordCount": null,
           "title": "Victor V. Gurbo & Co. \"Parchman Farm Revisited\" Live at The Bowery Electric (November 11th, 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iR5LmCb5HUg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iR5LmCb5HUg",
-          "publishedOn": "2023-12-23T01:44:18.000Z",
-          "wordCount": null,
-          "title": "Victor V. Gurbo & Mark Caserta \"Frosty the Snowman (Home Recording)\" 2020 Blues Version",
           "imageUrl": null
         }
       ]
