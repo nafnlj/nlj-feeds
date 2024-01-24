@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-23T20:12:24.512Z</updated>
+    <updated>2024-01-24T14:11:10.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[al|together Visual Novel Rank Intro]]></title>
+        <id>https://thenewleafjournal.com/?p=22320</id>
+        <link href="https://thenewleafjournal.com/altogether-visual-novel-rank-intro/"/>
+        <updated>2024-01-24T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Back in December 2020, I came up with the idea to review nearly all of the 31 doujin Japanese visual novels […]
+Possibly related posts...
+
+Justin & Justina: The Most-Read New Leaf Journal…
+Justin and Justina review 2022 at the NLJ
+The al|together and Insani Visual Novel Translations
+The New Leaf Journal Celebrates Its First Birthday
+Flood of Tears - Visual Novel Review
+A Midsummer Day's Resonance - VN Review
+New Leaf Journal Year-In-Review: 2023
+A Dream of Summer - Visual Novel Review
+Running Yuuki!Novel Ver of Tegami on Linux]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Survive and Advance” Visual Novel Choices]]></title>
         <id>https://thenewleafjournal.com/?p=22316</id>
@@ -686,16 +707,6 @@ https://thenewleafjournal.com/adding-eoir-bia-decisions-to-zotero/
 #Zotero #Law #USImmigrationLaw #BoardOfImmigrationAppeals #USDOJ]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merry Christmas – Openclipart Santa Owl]]></title>
-        <id>https://social.emucafe.org/?p=640</id>
-        <link href="https://social.emucafe.org/naferrell/oca-santa-owl/"/>
-        <updated>2023-12-25T16:43:03.000Z</updated>
-        <summary type="html"><![CDATA[I enjoy some of the fun public domain images on Openclipart. For Christmas 2022, I shared a “cat Christmas tree” over at The New Leaf Journal. This year, I will use my new social posting site (it seems more conducive for the purpose) to share a fun Openclipart Christmas owl posted by Openclipart artist Michal […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
