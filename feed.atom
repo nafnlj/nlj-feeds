@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-24T20:12:12.605Z</updated>
+    <updated>2024-01-25T14:10:54.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[al|together Visual Novel Ranking (31-21)]]></title>
+        <id>https://thenewleafjournal.com/?p=22325</id>
+        <link href="https://thenewleafjournal.com/altogether-visual-novel-ranking-31-21/"/>
+        <updated>2024-01-25T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The first of three legs of my al|together visual novel ranking covers novels 31-21 on my list.
+Possibly related posts...
+
+The al|together and Insani Visual Novel Translations
+Red Shift Visual Novel Review
+Flood of Tears - Visual Novel Review
+May Sky - Visual Novel Review
+Version history of Aru Fuyu no Monogatari
+Summer, Cicadas, and the Girl - VN Review
+ACE Academy - Visual Novel Review
+Shooting Star Hill - Visual Novel Review
+io [Christmas Eve] - Visual Novel Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[al|together Visual Novel Rank Intro]]></title>
         <id>https://thenewleafjournal.com/?p=22320</id>
@@ -685,28 +706,6 @@ Justin & Justina: The Most-Read New Leaf Journal…
 Kaori After Story - Visual Novel Review]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snapchat Referral to NLJ]]></title>
-        <id>https://social.emucafe.org/?p=647</id>
-        <link href="https://social.emucafe.org/naferrell/snapchat-referral-to-nlj/"/>
-        <updated>2023-12-26T16:35:05.000Z</updated>
-        <summary type="html"><![CDATA[My privacy-friendly local page-counting solution for WordPress, Koko Analytics, picked up a referral from snapchat.com over at The New Leaf Journal. Snapchat? Really. I thought this was for sending photos. No no, don’t correct me. I am happy living in ignorance. I will just go on living under my assumption that Snapchat is not the […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111647541748964834</id>
-        <link href="https://linuxrocks.online/@nafnlj/111647541748964834"/>
-        <updated>2023-12-26T15:58:08.000Z</updated>
-        <summary type="html"><![CDATA[My short notes on figuring out how to properly enter administrative precedent decisions of the Board of Immigration Appeals into Zotero.
-https://thenewleafjournal.com/adding-eoir-bia-decisions-to-zotero/
-#Zotero #Law #USImmigrationLaw #BoardOfImmigrationAppeals #USDOJ]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
