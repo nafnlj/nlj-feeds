@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-25T20:11:29.854Z</updated>
+    <updated>2024-01-26T14:10:03.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On Google Chrome’s New AI Features]]></title>
+        <id>https://thenewleafjournal.com/?p=22336</id>
+        <link href="https://thenewleafjournal.com/on-google-chromes-new-ai-features/"/>
+        <updated>2024-01-26T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I offer my opinion on whether Google's promoting new AI tools with Chrome for drafting forum posts and reviews will contribute to making the internet a better place.
+Possibly related posts...
+
+Query for Bing on blacklisting and ChatGPT
+Amazon Black Hat Seller Scenario
+The New Leaf Journal Celebrates Its First Birthday
+The al|together and Insani Visual Novel Translations
+A 2021 List of Alternative Search Engines and Search…
+Justin & Justina: Most-Read NLJ Content of 2020
+Oldest Golfers to Contend for Majors Between the…
+1883 Opening of the Brooklyn Bridge
+History of New York's Evacuation Day]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[al|together Visual Novel Ranking (31-21)]]></title>
         <id>https://thenewleafjournal.com/?p=22325</id>
@@ -661,49 +682,6 @@ The Best Anime Series of 2021
 The New Leaf Journal Celebrates Its First Birthday
 New Leaf Journal Third Birthday Reader
 The Angel Next Door Spoils Me Rotten - Anime Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PoorlyConfiguredWebCrawler in Logs]]></title>
-        <id>https://social.emucafe.org/?p=650</id>
-        <link href="https://social.emucafe.org/naferrell/poorlyconfiguredwebcrawler-in-logs/"/>
-        <updated>2023-12-27T18:29:59.000Z</updated>
-        <summary type="html"><![CDATA[I checked by 404 logs over at The New Leaf Journal. I found an interesting user agent among the myriad web crawlers: PoorlyConfiguredWebCrawler I appreciate that the crawler advertises that it is not well configured. You get the feeling that whoever released the poor thing on the internet is asking us to not be too […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111653700859975671</id>
-        <link href="https://linuxrocks.online/@nafnlj/111653700859975671"/>
-        <updated>2023-12-27T18:04:29.000Z</updated>
-        <summary type="html"><![CDATA[Back in January 2022, I wrote a dialogue (using fictional characters) explaining why I was moving the NLJ off Bluehost shared hosting to a small VPS server.  Nostalgic, and in terms of site performance... definitely turned out to be the correct decision.
-https://thenewleafjournal.com/slow-leaf-journal-outgrowing-cheap-hosting/
-#WordPress #WebHosting #VPS #Bluehost #Dialogue]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Review Scoring Systems]]></title>
-        <id>https://thenewleafjournal.com/?p=22022</id>
-        <link href="https://thenewleafjournal.com/on-review-scoring-systems/"/>
-        <updated>2023-12-27T16:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Inspired by a series of recent blog posts, I offer a proposed set of best practices for media review scoring systems.
-Possibly related posts...
-
-The Angel Next Door Spoils Me Rotten - Anime Review
-The al|together and Insani Visual Novel Translations
-The New Leaf Journal Celebrates Its First Birthday
-New Leaf Journal Third Birthday Reader
-al|together Visual Novel Reviews and Posts
-Justin and Justina review 2022 at the NLJ
-ACE Academy - Visual Novel Review
-Justin & Justina: The Most-Read New Leaf Journal…
-Kaori After Story - Visual Novel Review]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>

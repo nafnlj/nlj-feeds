@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=22336",
+          "author": "Nicholas A. Ferrell",
+          "description": "I offer my opinion on whether Google's promoting new AI tools with Chrome for drafting forum posts and reviews will contribute to making the internet a better place.\nPossibly related posts...\n\nQuery for Bing on blacklisting and ChatGPT\nAmazon Black Hat Seller Scenario\nThe New Leaf Journal Celebrates Its First Birthday\nThe al|together and Insani Visual Novel Translations\nA 2021 List of Alternative Search Engines and Search…\nJustin & Justina: Most-Read NLJ Content of 2020\nOldest Golfers to Contend for Majors Between the…\n1883 Opening of the Brooklyn Bridge\nHistory of New York's Evacuation Day",
+          "link": "https://thenewleafjournal.com/on-google-chromes-new-ai-features/",
+          "publishedOn": "2024-01-26T14:00:00.000Z",
+          "wordCount": null,
+          "title": "On Google Chrome’s New AI Features",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=22325",
           "author": "Nicholas A. Ferrell",
           "description": "The first of three legs of my al|together visual novel ranking covers novels 31-21 on my list.\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nRed Shift Visual Novel Review\nFlood of Tears - Visual Novel Review\nMay Sky - Visual Novel Review\nVersion history of Aru Fuyu no Monogatari\nSummer, Cicadas, and the Girl - VN Review\nACE Academy - Visual Novel Review\nShooting Star Hill - Visual Novel Review\nio [Christmas Eve] - Visual Novel Review",
@@ -170,16 +180,6 @@
           "wordCount": 5441,
           "title": "The Dangers in My Heart S1 Anime Review",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/12/dangers-in-my-heart-kyotaro-murder-dictionary.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=22022",
-          "author": "Nicholas A. Ferrell",
-          "description": "Inspired by a series of recent blog posts, I offer a proposed set of best practices for media review scoring systems.\nPossibly related posts...\n\nThe Angel Next Door Spoils Me Rotten - Anime Review\nThe al|together and Insani Visual Novel Translations\nThe New Leaf Journal Celebrates Its First Birthday\nNew Leaf Journal Third Birthday Reader\nal|together Visual Novel Reviews and Posts\nJustin and Justina review 2022 at the NLJ\nACE Academy - Visual Novel Review\nJustin & Justina: The Most-Read New Leaf Journal…\nKaori After Story - Visual Novel Review",
-          "link": "https://thenewleafjournal.com/on-review-scoring-systems/",
-          "publishedOn": "2023-12-27T16:38:18.000Z",
-          "wordCount": 4975,
-          "title": "On Review Scoring Systems",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/12/nihon-review-scatterplot-nlj.jpg"
         }
       ]
     },
@@ -312,16 +312,6 @@
           "wordCount": 721,
           "title": "I just participated in the Steam hardware survey",
           "imageUrl": "https://social.emucafe.org/wp-content/uploads/2023/09/cropped-emucafesocial_icon-1.jpg"
-        },
-        {
-          "id": "https://social.emucafe.org/?p=650",
-          "author": "Nicholas A. Ferrell",
-          "description": "I checked by 404 logs over at The New Leaf Journal. I found an interesting user agent among the myriad web crawlers: PoorlyConfiguredWebCrawler I appreciate that the crawler advertises that it is not well configured. You get the feeling that whoever released the poor thing on the internet is asking us to not be too […]",
-          "link": "https://social.emucafe.org/naferrell/poorlyconfiguredwebcrawler-in-logs/",
-          "publishedOn": "2023-12-27T18:29:59.000Z",
-          "wordCount": null,
-          "title": "PoorlyConfiguredWebCrawler in Logs",
-          "imageUrl": null
         }
       ]
     },
@@ -501,16 +491,6 @@
           "link": "https://linuxrocks.online/@nafnlj/111676440485905346",
           "publishedOn": "2023-12-31T18:27:28.000Z",
           "wordCount": 123,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/111653700859975671",
-          "author": null,
-          "description": "Back in January 2022, I wrote a dialogue (using fictional characters) explaining why I was moving the NLJ off Bluehost shared hosting to a small VPS server.  Nostalgic, and in terms of site performance... definitely turned out to be the correct decision.\nhttps://thenewleafjournal.com/slow-leaf-journal-outgrowing-cheap-hosting/\n#WordPress #WebHosting #VPS #Bluehost #Dialogue",
-          "link": "https://linuxrocks.online/@nafnlj/111653700859975671",
-          "publishedOn": "2023-12-27T18:04:29.000Z",
-          "wordCount": 124,
           "title": "Untitled",
           "imageUrl": null
         }
