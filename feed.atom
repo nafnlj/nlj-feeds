@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-27T14:09:33.348Z</updated>
+    <updated>2024-01-27T20:09:48.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CLXXI 〜 Waterproof newsletter 〜]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/171/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/171/"/>
+        <updated>2024-01-27T19:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 171st edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. Speaking of my keyboard...
+Leaves from the week that was
+My Logitech Washable Wired Keyboard K310
+After noting my waterproof keyboard in every newsletter for more than three years, it finally received a full New Leaf Journal article.  
+"Survive and Advance" Visual Novel Choices
+I have used the term "survive and advance" to describe certain visual novel choice structures. In this article, I define my pet visual novel description.  
+al|together Visual Novel Rank Intro
+Introducing my long-advertised final ranking…]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A photograph of the Carroll Gardens branch of the Brooklyn Public Library in Carroll Gardens, Brooklyn. The library was closed for improvements in July 21, 2023 and will remain closed for 18-24 months from that date. I took this photo on August 19, 2023.
+
+Article:
+https://thenewleafjournal.com/carroll-gardens-library-renovations/
+
+#NYC #Brooklyn #CarrollGardens #Library #Columns #ArchedWindow #Pixel3axl #NewLeafJournal #TheNewLeafJournal]]></title>
+        <id>https://pixelfed.social/p/nafnlj/656909055287130095</id>
+        <link href="https://pixelfed.social/p/nafnlj/656909055287130095"/>
+        <updated>2024-01-27T17:22:03.000Z</updated>
+        <summary type="html"><![CDATA[A photograph of the Carroll Gardens branch of the Brooklyn Public Library in Carroll Gardens, Brooklyn. The library was closed for improvements in July 21, 2023 and will remain closed for 18-24 months from that date. I took this photo on August 19, 2023.<br />
+<br />
+Article:<br />
+<a href="https://thenewleafjournal.com/carroll-gardens-library-renovations/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/carroll-gardens-library-renovations/</a><br />
+<br />
+<a href="https://pixelfed.social/discover/tags/NYC?src=hash" title="#NYC" class="u-url hashtag" rel="external nofollow noopener">#NYC</a> <a href="https://pixelfed.social/discover/tags/Brooklyn?src=hash" title="#Brooklyn" class="u-url hashtag" rel="external nofollow noopener">#Brooklyn</a> <a href="https://pixelfed.social/discover/tags/CarrollGardens?src=hash" title="#CarrollGardens" class="u-url hashtag" rel="external nofollow noopener">#CarrollGardens</a> <a href="https://pixelfed.social/discover/tags/Library?src=hash" title="#Library" class="u-url hashtag" rel="external nofollow noopener">#Library</a> <a href="https://pixelfed.social/discover/tags/Columns?src=hash" title="#Columns" class="u-url hashtag" rel="external nofollow noopener">#Columns</a> <a href="https://pixelfed.social/discover/tags/ArchedWindow?src=hash" title="#ArchedWindow" class="u-url hashtag" rel="external nofollow noopener">#ArchedWindow</a> <a href="https://pixelfed.social/discover/tags/Pixel3axl?src=hash" title="#Pixel3axl" class="u-url hashtag" rel="external nofollow noopener">#Pixel3axl</a> <a href="https://pixelfed.social/discover/tags/NewLeafJournal?src=hash" title="#NewLeafJournal" class="u-url hashtag" rel="external nofollow noopener">#NewLeafJournal</a> <a href="https://pixelfed.social/discover/tags/TheNewLeafJournal?src=hash" title="#TheNewLeafJournal" class="u-url hashtag" rel="external nofollow noopener">#TheNewLeafJournal</a>]]></summary>
+        <author>
+            <name>nafnlj on Pixelfed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111829035382320801</id>
+        <link href="https://linuxrocks.online/@nafnlj/111829035382320801"/>
+        <updated>2024-01-27T17:14:21.000Z</updated>
+        <summary type="html"><![CDATA[I have been using a Logitech K310 keyboard since April 2013. The K310's standout feature is that it is washable. Sadly, Logitech discontinued it several years ago -- but mine lives on.
+https://thenewleafjournal.com/my-logitech-washable-wired-keyboard-k310/
+#Keyboard #Logitech]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On Google Chrome’s New AI Features]]></title>
         <id>https://thenewleafjournal.com/?p=22336</id>
