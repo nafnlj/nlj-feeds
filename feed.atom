@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-27T20:09:48.343Z</updated>
+    <updated>2024-01-28T14:08:35.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[al|together Visual Novel Ranking (20-11)]]></title>
+        <id>https://thenewleafjournal.com/?p=22348</id>
+        <link href="https://thenewleafjournal.com/altogether-visual-novel-ranking-20-11/"/>
+        <updated>2024-01-27T22:46:22.000Z</updated>
+        <summary type="html"><![CDATA[The second part of my al|together visual novel ranking covers the ten translations I have ranked 20-11.
+Possibly related posts...
+
+al|together Visual Novel Rank Intro
+al|together Visual Novel Ranking (31-21)
+The al|together and Insani Visual Novel Translations
+Red Shift Visual Novel Review
+Flood of Tears - Visual Novel Review
+May Sky - Visual Novel Review
+Version history of Aru Fuyu no Monogatari
+ACE Academy - Visual Novel Review
+Summer, Cicadas, and the Girl - VN Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CLXXI 〜 Waterproof newsletter 〜]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/171/</id>
@@ -691,27 +712,6 @@ Victor V. Gurbo's "Christmas & You"
 I included links to Victor's two YouTube videos of his recording of his original song, Christmas & You, with last week's new…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bottom-tier Character Tomozaki S1 Anime Review]]></title>
-        <id>https://thenewleafjournal.com/?p=22054</id>
-        <link href="https://thenewleafjournal.com/bottom-tier-character-tomozaki-anime-s1-review/"/>
-        <updated>2023-12-29T22:02:22.000Z</updated>
-        <summary type="html"><![CDATA[A full and complete review of the first season of Bottom-tier Character Tomozaki, which aired in 2021.
-Possibly related posts...
-
-Anime Recommendations of the Decade (2011-20)
-The Angel Next Door Spoils Me Rotten - Anime Review
-The Best Anime Series of 2021
-New Bottom-Tier Character Tomozaki Anime
-The Best of Anime in 2022: Year in Review
-Leveling up Yamada-kun at Lv999 to Linux
-ACE Academy - Visual Novel Review
-Dialogue: Dinosaur fight tier-lists
-The al|together and Insani Visual Novel Translations]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
