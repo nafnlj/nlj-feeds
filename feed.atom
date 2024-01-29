@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-28T20:10:16.826Z</updated>
+    <updated>2024-01-29T14:09:54.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -710,20 +710,6 @@ https://buttondown.email/newsletterleafjournal/archive/167/
 #newsletter #buttondown #blogging #anime #reviewsystems]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CLXVII 〜 Top-tier new year 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/167/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/167/"/>
-        <updated>2023-12-30T21:53:03.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 167th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. We had New Years Eve for the last newsletter of 2022, but we will have to settle for New Years Eve Eve in 2023. But while we missed the holiday this year, I think we nevertheless have some holiday-tier content to bring 2023 to a close.  
-Leaves from the week that was
-We (actual "we" this time) published five new articles since mailing Newsletter 166.  
-Victor V. Gurbo's "Christmas & You"
-I included links to Victor's two YouTube videos of his recording of his original song, Christmas & You, with last week's new…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>
