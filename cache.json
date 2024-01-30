@@ -170,26 +170,6 @@
           "wordCount": 7811,
           "title": "Cycling Doping Fallacies",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2024/01/Lance_Armstrong_2005-tdf.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=22084",
-          "author": "Nicholas A. Ferrell",
-          "description": "Justin and Justina review the 54 most-visited articles at The New Leaf Journal in 2023.\nPossibly related posts...\n\nThe New Leaf Journal Celebrates Its First Birthday\nThe al|together and Insani Visual Novel Translations\nThe Newsletter Leaf Journal at 100\nShould the Pistons have drafted Carmelo?\nJustin & Justina: Most-Read NLJ Content of 2020\nThe story of our Bing blacklisting\nJustin and Justina review 2022 at the NLJ\nA 2021 List of Alternative Search Engines and Search…\nOldest Golfers to Contend for Majors Between the…",
-          "link": "https://thenewleafjournal.com/new-leaf-journal-year-in-review-2023/",
-          "publishedOn": "2024-01-01T05:54:19.000Z",
-          "wordCount": 8318,
-          "title": "New Leaf Journal Year-In-Review: 2023",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=22088",
-          "author": "Nicholas A. Ferrell",
-          "description": "What better way to spend New Year's weekend than to catch up on The New Leaf Journal's fresh December 2023 content?\nPossibly related posts...\n\nThe New Leaf Journal Celebrates Its First Birthday\nThe al|together and Insani Visual Novel Translations\nio [Christmas Eve] - Visual Novel Review\nJustin & Justina: Most-Read NLJ Content of 2020\nA 2021 List of Alternative Search Engines and Search…\nOldest Golfers to Contend for Majors Between the…\nThe Newsletter Leaf Journal at 100\nJustin and Justina review 2022 at the NLJ\nHistory of New York's Evacuation Day",
-          "link": "https://thenewleafjournal.com/december-2023-at-the-new-leaf-journal/",
-          "publishedOn": "2024-01-01T03:20:17.000Z",
-          "wordCount": 3492,
-          "title": "December 2023 at The New Leaf Journal",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2023/01/new-leaf-journal-site-icon-23-ver.jpg"
         }
       ]
     },
@@ -454,6 +434,16 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111845627051408954",
+          "author": null,
+          "description": "I use YOGA Image Optimizer -- an open source GUI tool for optimizing images -- to handle the small images I use on my sites. I decided after using it for more than a year that a review was warranted.\nhttps://thenewleafjournal.com/reviewing-yoga-image-optimizer/\n#OpenSource #YOGAImageOptimizer #Linux #ImageOptimizer #Flatpak",
+          "link": "https://linuxrocks.online/@nafnlj/111845627051408954",
+          "publishedOn": "2024-01-30T15:33:50.000Z",
+          "wordCount": 125,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111834903923120476",
           "author": null,
