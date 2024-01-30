@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-29T20:11:22.518Z</updated>
+    <updated>2024-01-30T14:10:04.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[al|together Visual Novel Ranking (10-1)]]></title>
+        <id>https://thenewleafjournal.com/?p=22365</id>
+        <link href="https://thenewleafjournal.com/altogether-visual-novel-ranking-10-1/"/>
+        <updated>2024-01-30T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[I rank the top 10 visual novel translations to emerge from the 31 pieces translated for the 2005, 2006, and 2008 al|together festivals.
+Possibly related posts...
+
+al|together Visual Novel Rank Intro
+al|together Visual Novel Ranking (20-11)
+al|together Visual Novel Ranking (31-21)
+The al|together and Insani Visual Novel Translations
+Red Shift Visual Novel Review
+Flood of Tears - Visual Novel Review
+May Sky - Visual Novel Review
+Version history of Aru Fuyu no Monogatari
+ACE Academy - Visual Novel Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google vs HN at the NLJ (2)]]></title>
+        <id>https://social.emucafe.org/?p=700</id>
+        <link href="https://social.emucafe.org/naferrell/ii/"/>
+        <updated>2024-01-30T03:35:23.000Z</updated>
+        <summary type="html"><![CDATA[I have been busy with New Leaf Journal and law work as of late, but I return to The Emu Café Social with a fun New Leaf Journal update. As of the afternoon of January 29, 2023, we have more Google referrals at The New Leaf Journal than Hacker News referrals despite our fairly high […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Missing Temu Ads Through Good Internet Usage]]></title>
+        <id>https://thenewleafjournal.com/?p=22360</id>
+        <link href="https://thenewleafjournal.com/missing-temu-ads-through-good-internet-usage/"/>
+        <updated>2024-01-29T20:41:02.000Z</updated>
+        <summary type="html"><![CDATA[I recently learned about some shopping app called Temu. I contemplated my obliviousness and determined that I owe my lack of knowledge to good internet usage.
+Possibly related posts...
+
+An In-Depth Look at Norton Safe Search
+A 2021 List of Alternative Search Engines and Search…
+Comparing DuckDuckGo Lite and Qwant Lite
+2023 Anime Year in Review
+Should the Pistons have drafted Carmelo?
+On Google Chrome's New AI Features
+Substack Notes' Twitter clone war
+Recommended F-Droid FOSS Apps For Android-Based…
+I, Too, Saw Dreams Through Air - VN Review]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111834903923120476</id>
@@ -698,18 +750,6 @@ Justin and Justina review 2022 at the NLJ
 History of New York's Evacuation Day]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111676440485905346</id>
-        <link href="https://linuxrocks.online/@nafnlj/111676440485905346"/>
-        <updated>2023-12-31T18:27:28.000Z</updated>
-        <summary type="html"><![CDATA[My final newsletter of the year includes links to a week's worth of new articles and short posts, 21 links from around the web, and news and notes about what I am working on as we look ahead to 2024.
-https://buttondown.email/newsletterleafjournal/archive/167/
-#newsletter #buttondown #blogging #anime #reviewsystems]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
