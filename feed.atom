@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-30T20:10:41.767Z</updated>
+    <updated>2024-01-31T14:09:47.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tree Style Tab Issue]]></title>
+        <id>https://social.emucafe.org/?p=703</id>
+        <link href="https://social.emucafe.org/naferrell/tree-style-tabs-issue/"/>
+        <updated>2024-01-30T21:39:57.000Z</updated>
+        <summary type="html"><![CDATA[I had been using Tree Style Tab for side-tabs on Firefox along with a userChrome.css file to remove the top bar. I was surprised to find when I opened Firefox this morning that Tree Style Tabs was not working. Instead of checking its GitHub repository, where I would have found the issue, I tried to […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111845627051408954</id>

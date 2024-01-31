@@ -214,6 +214,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=703",
+          "author": "Nicholas A. Ferrell",
+          "description": "I had been using Tree Style Tab for side-tabs on Firefox along with a userChrome.css file to remove the top bar. I was surprised to find when I opened Firefox this morning that Tree Style Tabs was not working. Instead of checking its GitHub repository, where I would have found the issue, I tried to […]",
+          "link": "https://social.emucafe.org/naferrell/tree-style-tabs-issue/",
+          "publishedOn": "2024-01-30T21:39:57.000Z",
+          "wordCount": null,
+          "title": "Tree Style Tab Issue",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=700",
           "author": "Nicholas A. Ferrell",
           "description": "I have been busy with New Leaf Journal and law work as of late, but I return to The Emu Café Social with a fun New Leaf Journal update. As of the afternoon of January 29, 2023, we have more Google referrals at The New Leaf Journal than Hacker News referrals despite our fairly high […]",
