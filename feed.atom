@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-31T14:09:47.297Z</updated>
+    <updated>2024-01-31T20:11:01.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re; First Anime I Watched in 2024]]></title>
+        <id>https://social.emucafe.org/?p=708</id>
+        <link href="https://social.emucafe.org/naferrell/first-anime-of-2024/"/>
+        <updated>2024-01-31T16:49:37.000Z</updated>
+        <summary type="html"><![CDATA[Yomu at the Umai Yomu Anime Blog asked readers to answer the following question:  What anime did you start the new year with? The first anime I watched in 2024 was actually a 2023 series: BanG Dream! It’s MyGo!!!!! Two factors came together to make that 2023 musical melodrama my first anime of the new […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111851469963028485</id>
+        <link href="https://linuxrocks.online/@nafnlj/111851469963028485"/>
+        <updated>2024-01-31T16:19:46.000Z</updated>
+        <summary type="html"><![CDATA[I never had a pet millipede and I do not plan to acquire one. But that did not stop me from writing an article about how to keep YOUR pet millipede from drowning in its own water dish.
+https://thenewleafjournal.com/keep-the-pet-millipede-from-drowning/
+#Pets #Millipedes #Bugs #Dictionary]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tree Style Tab Issue]]></title>
         <id>https://social.emucafe.org/?p=703</id>
