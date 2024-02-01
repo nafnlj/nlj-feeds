@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=22413",
+          "author": "Nicholas A. Ferrell",
+          "description": "Sharing my system for organizing my personal RSS/ATOM feed collection and discussing other systems seen around the web.\nPossibly related posts...\n\nFeeds and Read-It-Later for Online Reading\nAn Introduction to RSS and Other Feed Formats\nAgainst Twitter as a Content Curator\nRSS as a Facebook Alternative\nThe Many Deaths and Rebirths of RSS\nAn Essay on Productivity, Production, and Productive Leisure\nThe Enigmatic Life and Death of Emperor Otho\nThe al|together and Insani Visual Novel Translations\nAnime Recommendations of the Decade (2011-20)",
+          "link": "https://thenewleafjournal.com/organizing-rss-and-atom-feed-sources/",
+          "publishedOn": "2024-02-01T14:15:00.000Z",
+          "wordCount": null,
+          "title": "Organizing RSS and ATOM Feed Sources",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=22440",
           "author": "Nicholas A. Ferrell",
           "description": "January was highlighted by a surprise newsletter share and Hacker News page 1 appearance early in the month, but we also published 17 new articles on many interesting topics.\nPossibly related posts...\n\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal at 100\nThe al|together and Insani Visual Novel Translations\nJustin & Justina: Most-Read NLJ Content of 2020\nA 2021 List of Alternative Search Engines and Search…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nHistory of New York's Evacuation Day\nOldest Golfers to Contend for Majors Between the…",
@@ -223,6 +233,16 @@
       "feedUrl": "https://social.emucafe.org/feed",
       "siteUrl": "https://social.emucafe.org",
       "articles": [
+        {
+          "id": "https://social.emucafe.org/?p=715",
+          "author": "Nicholas A. Ferrell",
+          "description": "I have a social media account on Minds. Minds added ActivityPub support not too long ago. I had been able to follow my Minds account from Mastodon and follow my Mastodon account from Minds. However, posts were not showing up in either case. Today, I was surprised to discover my most recent Minds post in […]",
+          "link": "https://social.emucafe.org/naferrell/minds-to-mastodon/",
+          "publishedOn": "2024-02-01T17:41:05.000Z",
+          "wordCount": null,
+          "title": "Minds to Mastodon",
+          "imageUrl": null
+        },
         {
           "id": "https://social.emucafe.org/?p=708",
           "author": "Nicholas A. Ferrell",
@@ -464,6 +484,26 @@
       "feedUrl": "https://linuxrocks.online/@nafnlj.rss",
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111857217356541274",
+          "author": null,
+          "description": "I recently read that Pokémon Fire Red and Leaf Green turned 20. Sadly, I have no article to commemorate the occasion (although I should play them again), but I covered the 20th anniversary of Pokémon Gold and Sliver's (North American) release in 2020, including my memories of getting Pokémon Gold right when it came out.\nhttps://thenewleafjournal.com/winds-of-new-beginnings-pokemon-gold-silver/\n#Pokémon #PokémonGold #GameBoy #GameBoyColor #VideoGames",
+          "link": "https://linuxrocks.online/@nafnlj/111857217356541274",
+          "publishedOn": "2024-02-01T16:41:24.000Z",
+          "wordCount": 124,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxrocks.online/@nafnlj/111857209874918196",
+          "author": null,
+          "description": "I have been following myself on Minds from Mastodon and Mastodon from Minds for a while now, but posts were not federating. For that reason, I was surprised to see my new Minds post pop up in my timeline. Looks like everything is integrated now...",
+          "link": "https://linuxrocks.online/@nafnlj/111857209874918196",
+          "publishedOn": "2024-02-01T16:39:30.000Z",
+          "wordCount": 123,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://linuxrocks.online/@nafnlj/111851469963028485",
           "author": null,

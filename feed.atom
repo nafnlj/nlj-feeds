@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-01T14:10:21.267Z</updated>
+    <updated>2024-02-01T20:11:00.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minds to Mastodon]]></title>
+        <id>https://social.emucafe.org/?p=715</id>
+        <link href="https://social.emucafe.org/naferrell/minds-to-mastodon/"/>
+        <updated>2024-02-01T17:41:05.000Z</updated>
+        <summary type="html"><![CDATA[I have a social media account on Minds. Minds added ActivityPub support not too long ago. I had been able to follow my Minds account from Mastodon and follow my Mastodon account from Minds. However, posts were not showing up in either case. Today, I was surprised to discover my most recent Minds post in […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111857217356541274</id>
+        <link href="https://linuxrocks.online/@nafnlj/111857217356541274"/>
+        <updated>2024-02-01T16:41:24.000Z</updated>
+        <summary type="html"><![CDATA[I recently read that Pokémon Fire Red and Leaf Green turned 20. Sadly, I have no article to commemorate the occasion (although I should play them again), but I covered the 20th anniversary of Pokémon Gold and Sliver's (North American) release in 2020, including my memories of getting Pokémon Gold right when it came out.
+https://thenewleafjournal.com/winds-of-new-beginnings-pokemon-gold-silver/
+#Pokémon #PokémonGold #GameBoy #GameBoyColor #VideoGames]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111857209874918196</id>
+        <link href="https://linuxrocks.online/@nafnlj/111857209874918196"/>
+        <updated>2024-02-01T16:39:30.000Z</updated>
+        <summary type="html"><![CDATA[I have been following myself on Minds from Mastodon and Mastodon from Minds for a while now, but posts were not federating. For that reason, I was surprised to see my new Minds post pop up in my timeline. Looks like everything is integrated now...]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organizing RSS and ATOM Feed Sources]]></title>
+        <id>https://thenewleafjournal.com/?p=22413</id>
+        <link href="https://thenewleafjournal.com/organizing-rss-and-atom-feed-sources/"/>
+        <updated>2024-02-01T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Sharing my system for organizing my personal RSS/ATOM feed collection and discussing other systems seen around the web.
+Possibly related posts...
+
+Feeds and Read-It-Later for Online Reading
+An Introduction to RSS and Other Feed Formats
+Against Twitter as a Content Curator
+RSS as a Facebook Alternative
+The Many Deaths and Rebirths of RSS
+An Essay on Productivity, Production, and Productive Leisure
+The Enigmatic Life and Death of Emperor Otho
+The al|together and Insani Visual Novel Translations
+Anime Recommendations of the Decade (2011-20)]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[January 2024 at The New Leaf Journal]]></title>
         <id>https://thenewleafjournal.com/?p=22440</id>
