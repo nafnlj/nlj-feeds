@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-01-31T20:11:01.692Z</updated>
+    <updated>2024-02-01T14:10:21.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[January 2024 at The New Leaf Journal]]></title>
+        <id>https://thenewleafjournal.com/?p=22440</id>
+        <link href="https://thenewleafjournal.com/january-2024-at-the-new-leaf-journal/"/>
+        <updated>2024-02-01T04:44:30.000Z</updated>
+        <summary type="html"><![CDATA[January was highlighted by a surprise newsletter share and Hacker News page 1 appearance early in the month, but we also published 17 new articles on many interesting topics.
+Possibly related posts...
+
+The New Leaf Journal Celebrates Its First Birthday
+The Newsletter Leaf Journal at 100
+The al|together and Insani Visual Novel Translations
+Justin & Justina: Most-Read NLJ Content of 2020
+A 2021 List of Alternative Search Engines and Search…
+Justin and Justina review 2022 at the NLJ
+The Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal
+History of New York's Evacuation Day
+Oldest Golfers to Contend for Majors Between the…]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re; First Anime I Watched in 2024]]></title>
         <id>https://social.emucafe.org/?p=708</id>
