@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-02T14:10:03.229Z</updated>
+    <updated>2024-02-02T20:10:40.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Managing GitHub Personal Access Tokens:]]></title>
+        <id>https://memos.emucafe.org/m/EFxaH38zNC5vgBGhLqyoir</id>
+        <link href="https://memos.emucafe.org/m/EFxaH38zNC5vgBGhLqyoir"/>
+        <updated>2024-02-02T20:08:24.000Z</updated>
+        <summary type="html"><![CDATA[Managing GitHub Personal Access Tokens:
+
+
+#GitHub]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharing Links]]></title>
+        <id>https://social.emucafe.org/?p=723</id>
+        <link href="https://social.emucafe.org/naferrell/sharing-links/"/>
+        <updated>2024-02-02T18:23:11.000Z</updated>
+        <summary type="html"><![CDATA[I came across a good post with links to bloggers who share links on Jeremy Keith’s website, adactio.com. I added the adactio links feed along with a few of the link feeds noted in the post to the Links category of my personal feed collection. I may start sharing a few links each day here […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roman Origins of XFCE]]></title>
         <id>https://social.emucafe.org/?p=720</id>

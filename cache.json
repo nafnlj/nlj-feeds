@@ -244,6 +244,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=723",
+          "author": "Nicholas A. Ferrell",
+          "description": "I came across a good post with links to bloggers who share links on Jeremy Keith’s website, adactio.com. I added the adactio links feed along with a few of the link feeds noted in the post to the Links category of my personal feed collection. I may start sharing a few links each day here […]",
+          "link": "https://social.emucafe.org/naferrell/sharing-links/",
+          "publishedOn": "2024-02-02T18:23:11.000Z",
+          "wordCount": null,
+          "title": "Sharing Links",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=720",
           "author": "Nicholas A. Ferrell",
           "description": "I use Xfce as the desktop environment on my workstation. I have read some complaints that Xfce is dated compared to GNOME, KDE Plasma, and other newer and shinier desktop environments, but I disagree. Xfce looks slick with a good theme (the Linux distribution I use, EndeavourOS, comes with a nice Xfce spin out of […]",
@@ -433,6 +443,16 @@
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/EFxaH38zNC5vgBGhLqyoir",
+          "author": null,
+          "description": "Managing GitHub Personal Access Tokens:\n\n\n#GitHub",
+          "link": "https://memos.emucafe.org/m/EFxaH38zNC5vgBGhLqyoir",
+          "publishedOn": "2024-02-02T20:08:24.000Z",
+          "wordCount": 20,
+          "title": "Managing GitHub Personal Access Tokens:",
+          "imageUrl": "/logo.webp"
+        },
         {
           "id": "https://memos.emucafe.org/m/TGiZAajPpd7TaVN3VGjjuT",
           "author": null,
