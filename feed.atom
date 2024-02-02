@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-01T20:11:00.781Z</updated>
+    <updated>2024-02-02T14:10:03.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roman Origins of XFCE]]></title>
+        <id>https://social.emucafe.org/?p=720</id>
+        <link href="https://social.emucafe.org/naferrell/roman-origins-of-xfce/"/>
+        <updated>2024-02-02T13:37:08.000Z</updated>
+        <summary type="html"><![CDATA[I use Xfce as the desktop environment on my workstation. I have read some complaints that Xfce is dated compared to GNOME, KDE Plasma, and other newer and shinier desktop environments, but I disagree. Xfce looks slick with a good theme (the Linux distribution I use, EndeavourOS, comes with a nice Xfce spin out of […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changing Hair Color in “A Sign of Affection”]]></title>
+        <id>https://thenewleafjournal.com/?p=22421</id>
+        <link href="https://thenewleafjournal.com/changing-hair-color-in-a-sign-of-affection/"/>
+        <updated>2024-02-02T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Examining overwhelming circumstantial evidence of Yuki Itose's use of hair dye in the first two episodes of the A Sign of Affection anime adaptation.
+Possibly related posts...
+
+Hair Color in Japanese Anime, Manga, and Games
+Understanding Hair Color in the Kimi ni Todoke Anime Series
+Height differences in anime romances
+The Girl I Like Forgot Her Glasses hair dye
+Hair Color in A Dream of Summer
+The Best of Anime in 2022: Year in Review
+Most-Visited NLJ Articles of 1H 2023
+2023 Anime Year in Review
+Anime Recommendations of the Decade (2011-20)]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Bottom-Tier Character Tomozaki 2nd STAGE" NOTES (Ep 1-5)]]></title>
+        <id>https://memos.emucafe.org/m/TGiZAajPpd7TaVN3VGjjuT</id>
+        <link href="https://memos.emucafe.org/m/TGiZAajPpd7TaVN3VGjjuT"/>
+        <updated>2024-02-02T04:32:04.000Z</updated>
+        <summary type="html"><![CDATA["Bottom-Tier Character Tomozaki 2nd STAGE" NOTES (Ep 1-5)
+
+I will review Tomozaki S2 at the end of the season. These are a few notes on the first five episodes for future reference.
+
+Animation quality in episodes 1 and 5 was solid. Weaker in episodes 2-4 with some instances of off-model characters that we saw in the weaker points of S1.
+Episode 1 was much like the first season with Hinami giving Tomozaki a light-hearted social task to carry out. This opening arc did a good job of showing Tomozaki's growth with respect to Hinami (setting limits on how far he would go in accomplishing his task) and in having friends he could rely on to help him achieve his objectives.
+Opening arc segued into a "bullying arc" wherein Erika Konno, who came off as unpleasant in her small role in season 1 and he…]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Minds to Mastodon]]></title>
         <id>https://social.emucafe.org/?p=715</id>
@@ -816,16 +863,6 @@ https://thenewleafjournal.com/new-leaf-journal-year-in-review-2023/
 #Blogging #WordPress #OpenSource #Links #KokoAnalytics]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I just participated in the Steam hardware survey]]></title>
-        <id>https://social.emucafe.org/?p=656</id>
-        <link href="https://social.emucafe.org/naferrell/naf-steam-hardware-survey/"/>
-        <updated>2024-01-04T00:42:54.000Z</updated>
-        <summary type="html"><![CDATA[I opened Steam because I am purchasing at least one visual novel while it is on sale. Steam prompted me to ask whether I wanted to participate in the Steam hardware survey. I said yes. I did my part to represent EndeavourOS. But what about my specs? OS: EndeavourOS CPU: AMD Ryzen 5 3600 6-Core […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>

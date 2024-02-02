@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=22421",
+          "author": "Nicholas A. Ferrell",
+          "description": "Examining overwhelming circumstantial evidence of Yuki Itose's use of hair dye in the first two episodes of the A Sign of Affection anime adaptation.\nPossibly related posts...\n\nHair Color in Japanese Anime, Manga, and Games\nUnderstanding Hair Color in the Kimi ni Todoke Anime Series\nHeight differences in anime romances\nThe Girl I Like Forgot Her Glasses hair dye\nHair Color in A Dream of Summer\nThe Best of Anime in 2022: Year in Review\nMost-Visited NLJ Articles of 1H 2023\n2023 Anime Year in Review\nAnime Recommendations of the Decade (2011-20)",
+          "link": "https://thenewleafjournal.com/changing-hair-color-in-a-sign-of-affection/",
+          "publishedOn": "2024-02-02T13:30:00.000Z",
+          "wordCount": null,
+          "title": "Changing Hair Color in “A Sign of Affection”",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=22413",
           "author": "Nicholas A. Ferrell",
           "description": "Sharing my system for organizing my personal RSS/ATOM feed collection and discussing other systems seen around the web.\nPossibly related posts...\n\nFeeds and Read-It-Later for Online Reading\nAn Introduction to RSS and Other Feed Formats\nAgainst Twitter as a Content Curator\nRSS as a Facebook Alternative\nThe Many Deaths and Rebirths of RSS\nAn Essay on Productivity, Production, and Productive Leisure\nThe Enigmatic Life and Death of Emperor Otho\nThe al|together and Insani Visual Novel Translations\nAnime Recommendations of the Decade (2011-20)",
@@ -234,6 +244,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=720",
+          "author": "Nicholas A. Ferrell",
+          "description": "I use Xfce as the desktop environment on my workstation. I have read some complaints that Xfce is dated compared to GNOME, KDE Plasma, and other newer and shinier desktop environments, but I disagree. Xfce looks slick with a good theme (the Linux distribution I use, EndeavourOS, comes with a nice Xfce spin out of […]",
+          "link": "https://social.emucafe.org/naferrell/roman-origins-of-xfce/",
+          "publishedOn": "2024-02-02T13:37:08.000Z",
+          "wordCount": 761,
+          "title": "Roman Origins of XFCE",
+          "imageUrl": "https://social.emucafe.org/wp-content/uploads/2023/09/cropped-emucafesocial_icon-1.jpg"
+        },
+        {
           "id": "https://social.emucafe.org/?p=715",
           "author": "Nicholas A. Ferrell",
           "description": "I have a social media account on Minds. Minds added ActivityPub support not too long ago. I had been able to follow my Minds account from Mastodon and follow my Mastodon account from Minds. However, posts were not showing up in either case. Today, I was surprised to discover my most recent Minds post in […]",
@@ -352,16 +372,6 @@
           "wordCount": 1141,
           "title": "Bottom-Tier Character Tomozaki 2nd STAGE (Ep 1)",
           "imageUrl": "https://social.emucafe.org/wp-content/uploads/2023/09/cropped-emucafesocial_icon-1.jpg"
-        },
-        {
-          "id": "https://social.emucafe.org/?p=656",
-          "author": "Nicholas A. Ferrell",
-          "description": "I opened Steam because I am purchasing at least one visual novel while it is on sale. Steam prompted me to ask whether I wanted to participate in the Steam hardware survey. I said yes. I did my part to represent EndeavourOS. But what about my specs? OS: EndeavourOS CPU: AMD Ryzen 5 3600 6-Core […]",
-          "link": "https://social.emucafe.org/naferrell/naf-steam-hardware-survey/",
-          "publishedOn": "2024-01-04T00:42:54.000Z",
-          "wordCount": 721,
-          "title": "I just participated in the Steam hardware survey",
-          "imageUrl": "https://social.emucafe.org/wp-content/uploads/2023/09/cropped-emucafesocial_icon-1.jpg"
         }
       ]
     },
@@ -422,7 +432,18 @@
       "title": "Emu Café Memos",
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/TGiZAajPpd7TaVN3VGjjuT",
+          "author": null,
+          "description": "\"Bottom-Tier Character Tomozaki 2nd STAGE\" NOTES (Ep 1-5)\n\nI will review Tomozaki S2 at the end of the season. These are a few notes on the first five episodes for future reference.\n\nAnimation quality in episodes 1 and 5 was solid. Weaker in episodes 2-4 with some instances of off-model characters that we saw in the weaker points of S1.\nEpisode 1 was much like the first season with Hinami giving Tomozaki a light-hearted social task to carry out. This opening arc did a good job of showing Tomozaki's growth with respect to Hinami (setting limits on how far he would go in accomplishing his task) and in having friends he could rely on to help him achieve his objectives.\nOpening arc segued into a \"bullying arc\" wherein Erika Konno, who came off as unpleasant in her small role in season 1 and he…",
+          "link": "https://memos.emucafe.org/m/TGiZAajPpd7TaVN3VGjjuT",
+          "publishedOn": "2024-02-02T04:32:04.000Z",
+          "wordCount": 20,
+          "title": "\"Bottom-Tier Character Tomozaki 2nd STAGE\" NOTES (Ep 1-5)",
+          "imageUrl": "/logo.webp"
+        }
+      ]
     },
     {
       "title": "Emu Café Memos",
