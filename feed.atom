@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-03T14:08:42.152Z</updated>
+    <updated>2024-02-03T20:11:21.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Leaf Journal CLXXII 〜 No ad newsletter]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/172/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/172/"/>
+        <updated>2024-02-03T18:16:18.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 172nd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof Logitech K310 keyboard of the administrator and editor of The New Leaf Journal, Nicholas A. Ferrell. Last week saw the publication of several big ticket articles that have been in the works for a while, so let's get to our weekly review and other news and notes, including 21 links from around the web.
+Leaves from the week that was
+Let's review our new articles...
+al|together Visual Novel Ranking (20-11)
+Following up my (subjective) ranking of the bottom-11 al|together novels...  
+Missing Temu Ads Through Good Internet Usage
+I decided that my ignorance of an internet advertising…]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minds Hashtags and Mastodon]]></title>
+        <id>https://social.emucafe.org/?p=726</id>
+        <link href="https://social.emucafe.org/naferrell/minds-hashtags-and-mastodon/"/>
+        <updated>2024-02-03T17:43:39.000Z</updated>
+        <summary type="html"><![CDATA[I wrote a post a few days ago about how my Minds posts are now visible from my Mastodon instance. I noted one issue, however. Minds has a praiseworthy set up where users can add hashtags separate from the post. I noted that I liked the set up last year on The New Leaf Journal, […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Managing GitHub Personal Access Tokens:]]></title>
         <id>https://memos.emucafe.org/m/EFxaH38zNC5vgBGhLqyoir</id>
