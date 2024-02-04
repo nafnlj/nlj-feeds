@@ -234,6 +234,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=732",
+          "author": "Nicholas A. Ferrell",
+          "description": "I use side tabs with my Firefox set up. I briefly switched from Tree Style Tab to Sidebery when Tree Style Tab had an update issue. I was impressed with Sidebery and it comes with more power features than Tree Style Tab out of the box (It also does a better job of clearly showing […]",
+          "link": "https://social.emucafe.org/naferrell/return-to-tst/",
+          "publishedOn": "2024-02-04T17:39:07.000Z",
+          "wordCount": null,
+          "title": "Return to Tree Style Tab",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=729",
           "author": "Nicholas A. Ferrell",
           "description": "I inadvertently discovered that WordPress interprets something immediately followed by a “#” in a post as a new tag. Who knew? I learned this when I was indicating numbered rankings in a new article. I decided to forego the “#”.",
