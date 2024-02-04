@@ -12,6 +12,16 @@
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
+          "id": "https://thenewleafjournal.com/?p=22451",
+          "author": "Nicholas A. Ferrell",
+          "description": "I compare my al|together visual novel rankings with the Visual Novel Database average user scores for all 31 pieces.",
+          "link": "https://thenewleafjournal.com/comparing-my-altogether-vn-rank-to-vndb/",
+          "publishedOn": "2024-02-03T21:09:19.000Z",
+          "wordCount": null,
+          "title": "Comparing my al|together VN rank to VNDB",
+          "imageUrl": null
+        },
+        {
           "id": "https://thenewleafjournal.com/?p=22421",
           "author": "Nicholas A. Ferrell",
           "description": "Examining overwhelming circumstantial evidence of Yuki Itose's use of hair dye in the first two episodes of the A Sign of Affection anime adaptation.\nPossibly related posts...\n\nHair Color in Japanese Anime, Manga, and Games\nUnderstanding Hair Color in the Kimi ni Todoke Anime Series\nHeight differences in anime romances\nThe Girl I Like Forgot Her Glasses hair dye\nHair Color in A Dream of Summer\nThe Best of Anime in 2022: Year in Review\nMost-Visited NLJ Articles of 1H 2023\n2023 Anime Year in Review\nAnime Recommendations of the Decade (2011-20)",
@@ -180,26 +190,6 @@
           "wordCount": 11697,
           "title": "2023 Anime Year in Review",
           "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2024/01/oshinoko-twins.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=22121",
-          "author": "Nicholas A. Ferrell",
-          "description": "Some websites stealth edit. Other websites issue in-article corrections. We issue full article corrections.\nPossibly related posts...\n\nExpert Gamer's 1999 Yoshi in Pokémon April Fools Prank\nRecording a Test New Leaf Journal Pokémon Sword and…\nDragonair Safari in Pokémon Yellow\nBill's Secret Garden - A Pokémon Generation 1 Urban Legend\nEGM's 2001 Sega Neptune April Fools Joke\nYoshi's Story at 25\nApril Fools, Sonic and Tails in SSB Melee\nThe Mystery of Sōseki and Tsuki ga Kirei\nThe Two Decade Mario Party Finally Ends",
-          "link": "https://thenewleafjournal.com/correcting-the-yoshi-dragonite-record/",
-          "publishedOn": "2024-01-05T18:09:00.000Z",
-          "wordCount": 2378,
-          "title": "Correcting the Yoshi-Dragonite Record",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2024/01/yoshi-expert-gamer-april-fools.jpg"
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=22105",
-          "author": "Nicholas A. Ferrell",
-          "description": "Addressing an interesting argument that because Lance Armstrong was the best stage racing cyclist in a largely doped field, he would have been the best clean cyclist in a clean field.\nPossibly related posts...\n\nMost-Visited NLJ Articles of 1H 2023\nThe Best of Anime in 2022: Year in Review\nGolf and Immigration: Matter of Masters\nAnime Recommendations of the Decade (2011-20)\nAnalyzing BIA Decision in Matter of Salama\nACE Academy - Visual Novel Review\nBottom-tier Character Tomozaki S1 Anime Review\nNew Leaf Journal Third Birthday Reader\nThe Poor Little Bird - Visual Novel Review",
-          "link": "https://thenewleafjournal.com/cycling-doping-fallacies/",
-          "publishedOn": "2024-01-05T14:05:00.000Z",
-          "wordCount": 7811,
-          "title": "Cycling Doping Fallacies",
-          "imageUrl": "https://thenewleafjournal.com/wp-content/uploads/2024/01/Lance_Armstrong_2005-tdf.jpg"
         }
       ]
     },
@@ -243,6 +233,16 @@
       "feedUrl": "https://social.emucafe.org/feed",
       "siteUrl": "https://social.emucafe.org",
       "articles": [
+        {
+          "id": "https://social.emucafe.org/?p=729",
+          "author": "Nicholas A. Ferrell",
+          "description": "I inadvertently discovered that WordPress interprets something immediately followed by a “#” in a post as a new tag. Who knew? I learned this when I was indicating numbered rankings in a new article. I decided to forego the “#”.",
+          "link": "https://social.emucafe.org/naferrell/wordpress-hashtags/",
+          "publishedOn": "2024-02-03T21:19:24.000Z",
+          "wordCount": null,
+          "title": "WordPress Hashtags",
+          "imageUrl": null
+        },
         {
           "id": "https://social.emucafe.org/?p=726",
           "author": "Nicholas A. Ferrell",
@@ -382,16 +382,6 @@
           "wordCount": null,
           "title": "Strangers of Momochi House (Ep 1)",
           "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=662",
-          "author": "Nicholas A. Ferrell",
-          "description": "I re-watched the first season of Bottom-Tier Character Tomozaki (after having watched it as a simulcast in 2021) for two reasons. Firstly so I could write a review and secondly so that I could refresh my memory for the second season. I watched the first episode of season 2, titled The best games make reconnaissance […]",
-          "link": "https://social.emucafe.org/naferrell/tomozaki-s2-ep1/",
-          "publishedOn": "2024-01-05T17:30:03.000Z",
-          "wordCount": 1141,
-          "title": "Bottom-Tier Character Tomozaki 2nd STAGE (Ep 1)",
-          "imageUrl": "https://social.emucafe.org/wp-content/uploads/2023/09/cropped-emucafesocial_icon-1.jpg"
         }
       ]
     },
@@ -463,6 +453,16 @@
       "feedUrl": "https://memos.emucafe.org/u/2/rss.xml",
       "siteUrl": "https://memos.emucafe.org",
       "articles": [
+        {
+          "id": "https://memos.emucafe.org/m/6pe2zYqpqnSQRWxDxyqoCh",
+          "author": null,
+          "description": "Putting a # before a number (or probably anything) inside a post in WordPress creates a new tag.\n\n#WordPress",
+          "link": "https://memos.emucafe.org/m/6pe2zYqpqnSQRWxDxyqoCh",
+          "publishedOn": "2024-02-03T21:16:09.000Z",
+          "wordCount": 20,
+          "title": "Putting a # before a number (or probably anything) inside a post in WordPress creates a new tag.",
+          "imageUrl": "/logo.webp"
+        },
         {
           "id": "https://memos.emucafe.org/m/EFxaH38zNC5vgBGhLqyoir",
           "author": null,

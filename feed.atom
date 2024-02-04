@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-03T20:11:21.077Z</updated>
+    <updated>2024-02-04T14:08:36.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WordPress Hashtags]]></title>
+        <id>https://social.emucafe.org/?p=729</id>
+        <link href="https://social.emucafe.org/naferrell/wordpress-hashtags/"/>
+        <updated>2024-02-03T21:19:24.000Z</updated>
+        <summary type="html"><![CDATA[I inadvertently discovered that WordPress interprets something immediately followed by a “#” in a post as a new tag. Who knew? I learned this when I was indicating numbered rankings in a new article. I decided to forego the “#”.]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putting a # before a number (or probably anything) inside a post in WordPress creates a new tag.]]></title>
+        <id>https://memos.emucafe.org/m/6pe2zYqpqnSQRWxDxyqoCh</id>
+        <link href="https://memos.emucafe.org/m/6pe2zYqpqnSQRWxDxyqoCh"/>
+        <updated>2024-02-03T21:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Putting a # before a number (or probably anything) inside a post in WordPress creates a new tag.
+
+#WordPress]]></summary>
+        <author>
+            <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing my al|together VN rank to VNDB]]></title>
+        <id>https://thenewleafjournal.com/?p=22451</id>
+        <link href="https://thenewleafjournal.com/comparing-my-altogether-vn-rank-to-vndb/"/>
+        <updated>2024-02-03T21:09:19.000Z</updated>
+        <summary type="html"><![CDATA[I compare my al|together visual novel rankings with the Visual Novel Database average user scores for all 31 pieces.]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Leaf Journal CLXXII 〜 No ad newsletter]]></title>
         <id>https://buttondown.email/newsletterleafjournal/archive/172/</id>
@@ -848,58 +880,6 @@ New Leaf Journal Year-In-Review: 2023
 Our annual year-end r…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Correcting the Yoshi-Dragonite Record]]></title>
-        <id>https://thenewleafjournal.com/?p=22121</id>
-        <link href="https://thenewleafjournal.com/correcting-the-yoshi-dragonite-record/"/>
-        <updated>2024-01-05T18:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Some websites stealth edit. Other websites issue in-article corrections. We issue full article corrections.
-Possibly related posts...
-
-Expert Gamer's 1999 Yoshi in Pokémon April Fools Prank
-Recording a Test New Leaf Journal Pokémon Sword and…
-Dragonair Safari in Pokémon Yellow
-Bill's Secret Garden - A Pokémon Generation 1 Urban Legend
-EGM's 2001 Sega Neptune April Fools Joke
-Yoshi's Story at 25
-April Fools, Sonic and Tails in SSB Melee
-The Mystery of Sōseki and Tsuki ga Kirei
-The Two Decade Mario Party Finally Ends]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bottom-Tier Character Tomozaki 2nd STAGE (Ep 1)]]></title>
-        <id>https://social.emucafe.org/?p=662</id>
-        <link href="https://social.emucafe.org/naferrell/tomozaki-s2-ep1/"/>
-        <updated>2024-01-05T17:30:03.000Z</updated>
-        <summary type="html"><![CDATA[I re-watched the first season of Bottom-Tier Character Tomozaki (after having watched it as a simulcast in 2021) for two reasons. Firstly so I could write a review and secondly so that I could refresh my memory for the second season. I watched the first episode of season 2, titled The best games make reconnaissance […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cycling Doping Fallacies]]></title>
-        <id>https://thenewleafjournal.com/?p=22105</id>
-        <link href="https://thenewleafjournal.com/cycling-doping-fallacies/"/>
-        <updated>2024-01-05T14:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Addressing an interesting argument that because Lance Armstrong was the best stage racing cyclist in a largely doped field, he would have been the best clean cyclist in a clean field.
-Possibly related posts...
-
-Most-Visited NLJ Articles of 1H 2023
-The Best of Anime in 2022: Year in Review
-Golf and Immigration: Matter of Masters
-Anime Recommendations of the Decade (2011-20)
-Analyzing BIA Decision in Matter of Salama
-ACE Academy - Visual Novel Review
-Bottom-tier Character Tomozaki S1 Anime Review
-New Leaf Journal Third Birthday Reader
-The Poor Little Bird - Visual Novel Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
