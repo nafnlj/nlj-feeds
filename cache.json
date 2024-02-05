@@ -4,7 +4,18 @@
       "title": "Recent Commits to nljfeeds:main",
       "feedUrl": "https://github.com/nafnlj/nljfeeds/commits/main.atom",
       "siteUrl": "https://github.com/nafnlj/nljfeeds/commits/main",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://github.com/nafnlj/nljfeeds/commit/908ab502aa8bbe33230ad2158e7d9d86ac2d398d",
+          "author": null,
+          "description": "Update osmosfeed.yaml\n\n- Removed main Emu Cafe Social feed in favor of author feeds only\r\n- Removed Hypothes.is feed\r\n- Added NAF Bluesky feed\r\n- Reorganized feed order",
+          "link": "https://github.com/nafnlj/nljfeeds/commit/908ab502aa8bbe33230ad2158e7d9d86ac2d398d",
+          "publishedOn": "2024-02-05T22:56:48.000Z",
+          "wordCount": 557,
+          "title": "Update osmosfeed.yaml",
+          "imageUrl": "https://opengraph.githubassets.com/ff1b4b038f1a6846d49acb1aa906acb11547232d94f1710e4748cba97be3b0a1/nafnlj/nljfeeds/commit/908ab502aa8bbe33230ad2158e7d9d86ac2d398d"
+        }
+      ]
     },
     {
       "title": "The New Leaf Journal",
@@ -229,193 +240,6 @@
       "articles": []
     },
     {
-      "title": "The Emu Café Social",
-      "feedUrl": "https://social.emucafe.org/feed",
-      "siteUrl": "https://social.emucafe.org",
-      "articles": [
-        {
-          "id": "https://social.emucafe.org/?p=759",
-          "author": "Nicholas A. Ferrell",
-          "description": "If you have a WordPress site, you can subscribe to yourself on Minds and Minds will recognize your WordPress account as a follower. In order to this, you need the ActivityPub and Friends plugins, both available in the regular WordPress plugin repos https://wordpress.org/plugins/activitypub/ https://wordpress.org/plugins/friends/ After both are configured, go into your Friends admin menu and […]",
-          "link": "https://social.emucafe.org/naferrell/follow-minds-from-wp/",
-          "publishedOn": "2024-02-05T17:24:37.000Z",
-          "wordCount": null,
-          "title": "Follow Minds Social From WordPress",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=756",
-          "author": "Nicholas A. Ferrell",
-          "description": "I’m now friends with Nicholas A. Ferrell.",
-          "link": "https://social.emucafe.org/naferrell/",
-          "publishedOn": "2024-02-05T17:10:39.000Z",
-          "wordCount": null,
-          "title": "[Article] I’m now friends with Nicholas A. Ferrell.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=736",
-          "author": "Nicholas A. Ferrell",
-          "description": "I came across an interesting blog post by Evan Sheeran noting that it is easy for to become overwhelmed by new feed articles using an RSS/ATOM Feed Reader. He stated that “[t]he more feeds to which you subscribe, or the more prolific some of the authors are, the more of a commitment opening your feed […]",
-          "link": "https://social.emucafe.org/naferrell/feed-reader-overrun/",
-          "publishedOn": "2024-02-04T20:17:02.000Z",
-          "wordCount": null,
-          "title": "Avoiding Feed Reader Overrun",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=732",
-          "author": "Nicholas A. Ferrell",
-          "description": "I use side tabs with my Firefox set up. I briefly switched from Tree Style Tab to Sidebery when Tree Style Tab had an update issue. I was impressed with Sidebery and it comes with more power features than Tree Style Tab out of the box (It also does a better job of clearly showing […]",
-          "link": "https://social.emucafe.org/naferrell/return-to-tst/",
-          "publishedOn": "2024-02-04T17:39:07.000Z",
-          "wordCount": null,
-          "title": "Return to Tree Style Tab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=729",
-          "author": "Nicholas A. Ferrell",
-          "description": "I inadvertently discovered that WordPress interprets something immediately followed by a “#” in a post as a new tag. Who knew? I learned this when I was indicating numbered rankings in a new article. I decided to forego the “#”.",
-          "link": "https://social.emucafe.org/naferrell/wordpress-hashtags/",
-          "publishedOn": "2024-02-03T21:19:24.000Z",
-          "wordCount": null,
-          "title": "WordPress Hashtags",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=726",
-          "author": "Nicholas A. Ferrell",
-          "description": "I wrote a post a few days ago about how my Minds posts are now visible from my Mastodon instance. I noted one issue, however. Minds has a praiseworthy set up where users can add hashtags separate from the post. I noted that I liked the set up last year on The New Leaf Journal, […]",
-          "link": "https://social.emucafe.org/naferrell/minds-hashtags-and-mastodon/",
-          "publishedOn": "2024-02-03T17:43:39.000Z",
-          "wordCount": null,
-          "title": "Minds Hashtags and Mastodon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=723",
-          "author": "Nicholas A. Ferrell",
-          "description": "I came across a good post with links to bloggers who share links on Jeremy Keith’s website, adactio.com. I added the adactio links feed along with a few of the link feeds noted in the post to the Links category of my personal feed collection. I may start sharing a few links each day here […]",
-          "link": "https://social.emucafe.org/naferrell/sharing-links/",
-          "publishedOn": "2024-02-02T18:23:11.000Z",
-          "wordCount": null,
-          "title": "Sharing Links",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=720",
-          "author": "Nicholas A. Ferrell",
-          "description": "I use Xfce as the desktop environment on my workstation. I have read some complaints that Xfce is dated compared to GNOME, KDE Plasma, and other newer and shinier desktop environments, but I disagree. Xfce looks slick with a good theme (the Linux distribution I use, EndeavourOS, comes with a nice Xfce spin out of […]",
-          "link": "https://social.emucafe.org/naferrell/roman-origins-of-xfce/",
-          "publishedOn": "2024-02-02T13:37:08.000Z",
-          "wordCount": 761,
-          "title": "Roman Origins of XFCE",
-          "imageUrl": "https://social.emucafe.org/wp-content/uploads/2023/09/cropped-emucafesocial_icon-1.jpg"
-        },
-        {
-          "id": "https://social.emucafe.org/?p=715",
-          "author": "Nicholas A. Ferrell",
-          "description": "I have a social media account on Minds. Minds added ActivityPub support not too long ago. I had been able to follow my Minds account from Mastodon and follow my Mastodon account from Minds. However, posts were not showing up in either case. Today, I was surprised to discover my most recent Minds post in […]",
-          "link": "https://social.emucafe.org/naferrell/minds-to-mastodon/",
-          "publishedOn": "2024-02-01T17:41:05.000Z",
-          "wordCount": null,
-          "title": "Minds to Mastodon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=708",
-          "author": "Nicholas A. Ferrell",
-          "description": "Yomu at the Umai Yomu Anime Blog asked readers to answer the following question:  What anime did you start the new year with? The first anime I watched in 2024 was actually a 2023 series: BanG Dream! It’s MyGo!!!!! Two factors came together to make that 2023 musical melodrama my first anime of the new […]",
-          "link": "https://social.emucafe.org/naferrell/first-anime-of-2024/",
-          "publishedOn": "2024-01-31T16:49:37.000Z",
-          "wordCount": 975,
-          "title": "Re; First Anime I Watched in 2024",
-          "imageUrl": "https://social.emucafe.org/wp-content/uploads/2023/09/cropped-emucafesocial_icon-1.jpg"
-        },
-        {
-          "id": "https://social.emucafe.org/?p=703",
-          "author": "Nicholas A. Ferrell",
-          "description": "I had been using Tree Style Tab for side-tabs on Firefox along with a userChrome.css file to remove the top bar. I was surprised to find when I opened Firefox this morning that Tree Style Tabs was not working. Instead of checking its GitHub repository, where I would have found the issue, I tried to […]",
-          "link": "https://social.emucafe.org/naferrell/tree-style-tabs-issue/",
-          "publishedOn": "2024-01-30T21:39:57.000Z",
-          "wordCount": null,
-          "title": "Tree Style Tab Issue",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=700",
-          "author": "Nicholas A. Ferrell",
-          "description": "I have been busy with New Leaf Journal and law work as of late, but I return to The Emu Café Social with a fun New Leaf Journal update. As of the afternoon of January 29, 2023, we have more Google referrals at The New Leaf Journal than Hacker News referrals despite our fairly high […]",
-          "link": "https://social.emucafe.org/naferrell/ii/",
-          "publishedOn": "2024-01-30T03:35:23.000Z",
-          "wordCount": null,
-          "title": "Google vs HN at the NLJ (2)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=694",
-          "author": "Nicholas A. Ferrell",
-          "description": "Over at The New Leaf Journal, my January 5, 2024 article, which was about drug-enhanced professional cycling results, became the sixth New Leaf Journal article (going back to February 2021) to appear on Hacker News page 1 (only after a stop in The Browser newsletter). It reached as high as 11th on HN and was […]",
-          "link": "https://social.emucafe.org/naferrell/google-vs-hn-at-the-nlj-1/",
-          "publishedOn": "2024-01-19T02:59:53.000Z",
-          "wordCount": null,
-          "title": "Google vs HN at the NLJ (1)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=688",
-          "author": "Nicholas A. Ferrell",
-          "description": "Pro-Hamas protesters spent January 15, 2024 loudly protesting outside of Memorial Sloan Kettering Cancer Center in Manhattan, yelling that the cancer hospital is complicit in the so-called “genocide” in Gaza, or even “supporting” it. Far be it from me to offer any sort of advice to supporters of a foreign terrorist organization, but in light […]",
-          "link": "https://social.emucafe.org/naferrell/team-hamas-nyc-hospital/",
-          "publishedOn": "2024-01-18T17:59:19.000Z",
-          "wordCount": null,
-          "title": "Team Hamas “Protests” NYC Cancer Hospital",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=684",
-          "author": "Nicholas A. Ferrell",
-          "description": "I did not get around to publishing a review of episode 2 of season 2 of Bottom-tier Character Tomozaki-kun after publishing a brief review of the first episode. The second episode had a dramatic tonal shift — segueing from the social game shenanigans that began in the first episode to bullying. I had some issues […]",
-          "link": "https://social.emucafe.org/naferrell/tomozaki-s2-ep2-bullying/",
-          "publishedOn": "2024-01-17T22:27:53.000Z",
-          "wordCount": null,
-          "title": "Bottom-tier Character Tomozaki-kun and bullying",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=680",
-          "author": "Nicholas A. Ferrell",
-          "description": "I came across a blog post titled Just Blog by Frank Meeuwsen. This post alerted me to an interesting “birthday” project by WordPress founder Matt Mullenweg. Mr. Mulenwig asked for people to blog for his birthday and link to his post. Ideally, the links should show up as pingbacks on his article. His post said […]",
-          "link": "https://social.emucafe.org/naferrell/just-blogging/",
-          "publishedOn": "2024-01-14T15:52:29.000Z",
-          "wordCount": null,
-          "title": "Just Blogging",
-          "imageUrl": null
-        },
-        {
-          "id": "https://social.emucafe.org/?p=677",
-          "author": "Nicholas A. Ferrell",
-          "description": "I published an article on The New Leaf Journal about doping in cycling during (and before) the Armstrong era. I noted in my Saturday newsletter that it unexpectedly blew up (by our standards) within hours of its publication. I was not immediately able to identify the source, but I figured out from our referrals that […]",
-          "link": "https://social.emucafe.org/naferrell/nlj-in-thebrowser/",
-          "publishedOn": "2024-01-07T19:30:18.000Z",
-          "wordCount": 734,
-          "title": "Documenting NLJ Appearance in The Browser",
-          "imageUrl": "https://social.emucafe.org/wp-content/uploads/2023/09/cropped-emucafesocial_icon-1.jpg"
-        },
-        {
-          "id": "https://social.emucafe.org/?p=671",
-          "author": "Nicholas A. Ferrell",
-          "description": "I starred this very insightful comment by Hacker News user marcinzm about search engines. The commenter noted the obvious, that big tech search shows ads because its purpose is to generate revenue through ads. But I appreciated the commenters putting it in terms of means and ends. Ideally, the user wants a search engine to […]",
-          "link": "https://social.emucafe.org/naferrell/search-means-and-ends/",
-          "publishedOn": "2024-01-07T17:56:52.000Z",
-          "wordCount": null,
-          "title": "Search, Means, and Ends",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "The Newsletter Leaf Journal",
       "feedUrl": "https://buttondown.email/newsletterleafjournal/rss",
       "siteUrl": "https://buttondown.email/newsletterleafjournal",
@@ -461,12 +285,6 @@
           "imageUrl": "https://buttondown-attachments.s3.amazonaws.com/icons/919fb579-e1c4-44f2-a6d6-67b7ab020810.png"
         }
       ]
-    },
-    {
-      "title": "Hacker News - Newest: \"thenewleafjournal\"",
-      "feedUrl": "https://hnrss.org/newest?q=thenewleafjournal",
-      "siteUrl": "https://news.ycombinator.com/newest",
-      "articles": []
     },
     {
       "title": "Emu Café Memos",
@@ -678,9 +496,9 @@
       ]
     },
     {
-      "title": "Hypothesis Stream",
-      "feedUrl": "https://hypothes.is/stream.atom?user=nafnlj",
-      "siteUrl": "https://hypothes.is/stream",
+      "title": "@naferrell.com - N.A. Ferrell",
+      "feedUrl": "https://bsky.app/profile/did:plc:544v4vawzakh3a2ohbvpz3gq/rss",
+      "siteUrl": "https://bsky.app/profile/naferrell.com",
       "articles": []
     },
     {
@@ -719,6 +537,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Hacker News - Newest: \"thenewleafjournal\"",
+      "feedUrl": "https://hnrss.org/newest?q=thenewleafjournal",
+      "siteUrl": "https://news.ycombinator.com/newest",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

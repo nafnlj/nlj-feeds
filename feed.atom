@@ -2,28 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-05T20:11:47.141Z</updated>
+    <updated>2024-02-05T22:57:09.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Follow Minds Social From WordPress]]></title>
-        <id>https://social.emucafe.org/?p=759</id>
-        <link href="https://social.emucafe.org/naferrell/follow-minds-from-wp/"/>
-        <updated>2024-02-05T17:24:37.000Z</updated>
-        <summary type="html"><![CDATA[If you have a WordPress site, you can subscribe to yourself on Minds and Minds will recognize your WordPress account as a follower. In order to this, you need the ActivityPub and Friends plugins, both available in the regular WordPress plugin repos https://wordpress.org/plugins/activitypub/ https://wordpress.org/plugins/friends/ After both are configured, go into your Friends admin menu and […]]]></summary>
+        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
+        <id>https://github.com/nafnlj/nljfeeds/commit/908ab502aa8bbe33230ad2158e7d9d86ac2d398d</id>
+        <link href="https://github.com/nafnlj/nljfeeds/commit/908ab502aa8bbe33230ad2158e7d9d86ac2d398d"/>
+        <updated>2024-02-05T22:56:48.000Z</updated>
+        <summary type="html"><![CDATA[Update osmosfeed.yaml
+
+- Removed main Emu Cafe Social feed in favor of author feeds only
+- Removed Hypothes.is feed
+- Added NAF Bluesky feed
+- Reorganized feed order]]></summary>
         <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Article] I’m now friends with Nicholas A. Ferrell.]]></title>
-        <id>https://social.emucafe.org/?p=756</id>
-        <link href="https://social.emucafe.org/naferrell/"/>
-        <updated>2024-02-05T17:10:39.000Z</updated>
-        <summary type="html"><![CDATA[I’m now friends with Nicholas A. Ferrell.]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
+            <name>Recent Commits to nljfeeds:main</name>
         </author>
     </entry>
     <entry>
@@ -32,36 +27,6 @@
         <link href="https://thenewleafjournal.com/itsuomis-hair-color-in-a-sign-of-affection/"/>
         <updated>2024-02-05T13:05:00.000Z</updated>
         <summary type="html"><![CDATA[I am watching an ongoing shoujo romance anime called A Sign of Affection. After I watched the fourth episode, I published […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoiding Feed Reader Overrun]]></title>
-        <id>https://social.emucafe.org/?p=736</id>
-        <link href="https://social.emucafe.org/naferrell/feed-reader-overrun/"/>
-        <updated>2024-02-04T20:17:02.000Z</updated>
-        <summary type="html"><![CDATA[I came across an interesting blog post by Evan Sheeran noting that it is easy for to become overwhelmed by new feed articles using an RSS/ATOM Feed Reader. He stated that “[t]he more feeds to which you subscribe, or the more prolific some of the authors are, the more of a commitment opening your feed […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Return to Tree Style Tab]]></title>
-        <id>https://social.emucafe.org/?p=732</id>
-        <link href="https://social.emucafe.org/naferrell/return-to-tst/"/>
-        <updated>2024-02-04T17:39:07.000Z</updated>
-        <summary type="html"><![CDATA[I use side tabs with my Firefox set up. I briefly switched from Tree Style Tab to Sidebery when Tree Style Tab had an update issue. I was impressed with Sidebery and it comes with more power features than Tree Style Tab out of the box (It also does a better job of clearly showing […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Hashtags]]></title>
-        <id>https://social.emucafe.org/?p=729</id>
-        <link href="https://social.emucafe.org/naferrell/wordpress-hashtags/"/>
-        <updated>2024-02-03T21:19:24.000Z</updated>
-        <summary type="html"><![CDATA[I inadvertently discovered that WordPress interprets something immediately followed by a “#” in a post as a new tag. Who knew? I learned this when I was indicating numbered rankings in a new article. I decided to forego the “#”.]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
@@ -105,16 +70,6 @@ I decided that my ignorance of an internet advertising…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Minds Hashtags and Mastodon]]></title>
-        <id>https://social.emucafe.org/?p=726</id>
-        <link href="https://social.emucafe.org/naferrell/minds-hashtags-and-mastodon/"/>
-        <updated>2024-02-03T17:43:39.000Z</updated>
-        <summary type="html"><![CDATA[I wrote a post a few days ago about how my Minds posts are now visible from my Mastodon instance. I noted one issue, however. Minds has a praiseworthy set up where users can add hashtags separate from the post. I noted that I liked the set up last year on The New Leaf Journal, […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Managing GitHub Personal Access Tokens:]]></title>
         <id>https://memos.emucafe.org/m/EFxaH38zNC5vgBGhLqyoir</id>
         <link href="https://memos.emucafe.org/m/EFxaH38zNC5vgBGhLqyoir"/>
@@ -125,26 +80,6 @@ I decided that my ignorance of an internet advertising…]]></summary>
 #GitHub]]></summary>
         <author>
             <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharing Links]]></title>
-        <id>https://social.emucafe.org/?p=723</id>
-        <link href="https://social.emucafe.org/naferrell/sharing-links/"/>
-        <updated>2024-02-02T18:23:11.000Z</updated>
-        <summary type="html"><![CDATA[I came across a good post with links to bloggers who share links on Jeremy Keith’s website, adactio.com. I added the adactio links feed along with a few of the link feeds noted in the post to the Links category of my personal feed collection. I may start sharing a few links each day here […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roman Origins of XFCE]]></title>
-        <id>https://social.emucafe.org/?p=720</id>
-        <link href="https://social.emucafe.org/naferrell/roman-origins-of-xfce/"/>
-        <updated>2024-02-02T13:37:08.000Z</updated>
-        <summary type="html"><![CDATA[I use Xfce as the desktop environment on my workstation. I have read some complaints that Xfce is dated compared to GNOME, KDE Plasma, and other newer and shinier desktop environments, but I disagree. Xfce looks slick with a good theme (the Linux distribution I use, EndeavourOS, comes with a nice Xfce spin out of […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
     <entry>
@@ -182,16 +117,6 @@ Episode 1 was much like the first season with Hinami giving Tomozaki a light-hea
 Opening arc segued into a "bullying arc" wherein Erika Konno, who came off as unpleasant in her small role in season 1 and he…]]></summary>
         <author>
             <name>Emu Café Memos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minds to Mastodon]]></title>
-        <id>https://social.emucafe.org/?p=715</id>
-        <link href="https://social.emucafe.org/naferrell/minds-to-mastodon/"/>
-        <updated>2024-02-01T17:41:05.000Z</updated>
-        <summary type="html"><![CDATA[I have a social media account on Minds. Minds added ActivityPub support not too long ago. I had been able to follow my Minds account from Mastodon and follow my Mastodon account from Minds. However, posts were not showing up in either case. Today, I was surprised to discover my most recent Minds post in […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
     <entry>
@@ -259,16 +184,6 @@ Oldest Golfers to Contend for Majors Between the…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re; First Anime I Watched in 2024]]></title>
-        <id>https://social.emucafe.org/?p=708</id>
-        <link href="https://social.emucafe.org/naferrell/first-anime-of-2024/"/>
-        <updated>2024-01-31T16:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Yomu at the Umai Yomu Anime Blog asked readers to answer the following question:  What anime did you start the new year with? The first anime I watched in 2024 was actually a 2023 series: BanG Dream! It’s MyGo!!!!! Two factors came together to make that 2023 musical melodrama my first anime of the new […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111851469963028485</id>
         <link href="https://linuxrocks.online/@nafnlj/111851469963028485"/>
@@ -278,16 +193,6 @@ https://thenewleafjournal.com/keep-the-pet-millipede-from-drowning/
 #Pets #Millipedes #Bugs #Dictionary]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tree Style Tab Issue]]></title>
-        <id>https://social.emucafe.org/?p=703</id>
-        <link href="https://social.emucafe.org/naferrell/tree-style-tabs-issue/"/>
-        <updated>2024-01-30T21:39:57.000Z</updated>
-        <summary type="html"><![CDATA[I had been using Tree Style Tab for side-tabs on Firefox along with a userChrome.css file to remove the top bar. I was surprised to find when I opened Firefox this morning that Tree Style Tabs was not working. Instead of checking its GitHub repository, where I would have found the issue, I tried to […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
     <entry>
@@ -319,16 +224,6 @@ Flood of Tears - Visual Novel Review
 May Sky - Visual Novel Review
 Version history of Aru Fuyu no Monogatari
 ACE Academy - Visual Novel Review]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google vs HN at the NLJ (2)]]></title>
-        <id>https://social.emucafe.org/?p=700</id>
-        <link href="https://social.emucafe.org/naferrell/ii/"/>
-        <updated>2024-01-30T03:35:23.000Z</updated>
-        <summary type="html"><![CDATA[I have been busy with New Leaf Journal and law work as of late, but I return to The Emu Café Social with a fun New Leaf Journal update. As of the afternoon of January 29, 2023, we have more Google referrals at The New Leaf Journal than Hacker News referrals despite our fairly high […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
@@ -610,16 +505,6 @@ The al|together and Insani Visual Novel Translations]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google vs HN at the NLJ (1)]]></title>
-        <id>https://social.emucafe.org/?p=694</id>
-        <link href="https://social.emucafe.org/naferrell/google-vs-hn-at-the-nlj-1/"/>
-        <updated>2024-01-19T02:59:53.000Z</updated>
-        <summary type="html"><![CDATA[Over at The New Leaf Journal, my January 5, 2024 article, which was about drug-enhanced professional cycling results, became the sixth New Leaf Journal article (going back to February 2021) to appear on Hacker News page 1 (only after a stop in The Browser newsletter). It reached as high as 11th on HN and was […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Provocative Out-Of-Context Headlines]]></title>
         <id>https://thenewleafjournal.com/?p=22273</id>
         <link href="https://thenewleafjournal.com/provocative-out-of-context-headlines/"/>
@@ -636,26 +521,6 @@ The Aborted Nintendo-Minnesota Lottery Scheme
 Ambiguous Killer Hallucinogenic Weed Headline
 Two Independence Day-Themed Pokémon Battles: Ferrell…
 On Nintendo's Pro-User Cartridge-First Strategy]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Team Hamas “Protests” NYC Cancer Hospital]]></title>
-        <id>https://social.emucafe.org/?p=688</id>
-        <link href="https://social.emucafe.org/naferrell/team-hamas-nyc-hospital/"/>
-        <updated>2024-01-18T17:59:19.000Z</updated>
-        <summary type="html"><![CDATA[Pro-Hamas protesters spent January 15, 2024 loudly protesting outside of Memorial Sloan Kettering Cancer Center in Manhattan, yelling that the cancer hospital is complicit in the so-called “genocide” in Gaza, or even “supporting” it. Far be it from me to offer any sort of advice to supporters of a foreign terrorist organization, but in light […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bottom-tier Character Tomozaki-kun and bullying]]></title>
-        <id>https://social.emucafe.org/?p=684</id>
-        <link href="https://social.emucafe.org/naferrell/tomozaki-s2-ep2-bullying/"/>
-        <updated>2024-01-17T22:27:53.000Z</updated>
-        <summary type="html"><![CDATA[I did not get around to publishing a review of episode 2 of season 2 of Bottom-tier Character Tomozaki-kun after publishing a brief review of the first episode. The second episode had a dramatic tonal shift — segueing from the social game shenanigans that began in the first episode to bullying. I had some issues […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
@@ -750,16 +615,6 @@ The al|together and Insani Visual Novel Translations
 Justin & Justina: The Most-Read New Leaf Journal…
 100 Articles and Counting at The New Leaf Journal
 Searching for the "Libertarian Moment"]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just Blogging]]></title>
-        <id>https://social.emucafe.org/?p=680</id>
-        <link href="https://social.emucafe.org/naferrell/just-blogging/"/>
-        <updated>2024-01-14T15:52:29.000Z</updated>
-        <summary type="html"><![CDATA[I came across a blog post titled Just Blog by Frank Meeuwsen. This post alerted me to an interesting “birthday” project by WordPress founder Matt Mullenweg. Mr. Mulenwig asked for people to blog for his birthday and link to his post. Ideally, the links should show up as pingbacks on his article. His post said […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
         </author>
@@ -863,26 +718,6 @@ https://thenewleafjournal.com/the-pigeon-on-a-limb/
 #Pigeon #Bird #NYC #Brooklyn #Photography]]></summary>
         <author>
             <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Documenting NLJ Appearance in The Browser]]></title>
-        <id>https://social.emucafe.org/?p=677</id>
-        <link href="https://social.emucafe.org/naferrell/nlj-in-thebrowser/"/>
-        <updated>2024-01-07T19:30:18.000Z</updated>
-        <summary type="html"><![CDATA[I published an article on The New Leaf Journal about doping in cycling during (and before) the Armstrong era. I noted in my Saturday newsletter that it unexpectedly blew up (by our standards) within hours of its publication. I was not immediately able to identify the source, but I figured out from our referrals that […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Search, Means, and Ends]]></title>
-        <id>https://social.emucafe.org/?p=671</id>
-        <link href="https://social.emucafe.org/naferrell/search-means-and-ends/"/>
-        <updated>2024-01-07T17:56:52.000Z</updated>
-        <summary type="html"><![CDATA[I starred this very insightful comment by Hacker News user marcinzm about search engines. The commenter noted the obvious, that big tech search shows ads because its purpose is to generate revenue through ads. But I appreciated the commenters putting it in terms of means and ends. Ideally, the user wants a search engine to […]]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
         </author>
     </entry>
 </feed>
