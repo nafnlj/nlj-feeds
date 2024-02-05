@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-05T14:10:05.934Z</updated>
+    <updated>2024-02-05T20:11:47.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Follow Minds Social From WordPress]]></title>
+        <id>https://social.emucafe.org/?p=759</id>
+        <link href="https://social.emucafe.org/naferrell/follow-minds-from-wp/"/>
+        <updated>2024-02-05T17:24:37.000Z</updated>
+        <summary type="html"><![CDATA[If you have a WordPress site, you can subscribe to yourself on Minds and Minds will recognize your WordPress account as a follower. In order to this, you need the ActivityPub and Friends plugins, both available in the regular WordPress plugin repos https://wordpress.org/plugins/activitypub/ https://wordpress.org/plugins/friends/ After both are configured, go into your Friends admin menu and […]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Article] I’m now friends with Nicholas A. Ferrell.]]></title>
+        <id>https://social.emucafe.org/?p=756</id>
+        <link href="https://social.emucafe.org/naferrell/"/>
+        <updated>2024-02-05T17:10:39.000Z</updated>
+        <summary type="html"><![CDATA[I’m now friends with Nicholas A. Ferrell.]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Itsuomi’s Hair Color in A Sign of Affection]]></title>
         <id>https://thenewleafjournal.com/?p=22470</id>

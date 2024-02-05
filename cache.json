@@ -234,6 +234,26 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/?p=759",
+          "author": "Nicholas A. Ferrell",
+          "description": "If you have a WordPress site, you can subscribe to yourself on Minds and Minds will recognize your WordPress account as a follower. In order to this, you need the ActivityPub and Friends plugins, both available in the regular WordPress plugin repos https://wordpress.org/plugins/activitypub/ https://wordpress.org/plugins/friends/ After both are configured, go into your Friends admin menu and […]",
+          "link": "https://social.emucafe.org/naferrell/follow-minds-from-wp/",
+          "publishedOn": "2024-02-05T17:24:37.000Z",
+          "wordCount": null,
+          "title": "Follow Minds Social From WordPress",
+          "imageUrl": null
+        },
+        {
+          "id": "https://social.emucafe.org/?p=756",
+          "author": "Nicholas A. Ferrell",
+          "description": "I’m now friends with Nicholas A. Ferrell.",
+          "link": "https://social.emucafe.org/naferrell/",
+          "publishedOn": "2024-02-05T17:10:39.000Z",
+          "wordCount": null,
+          "title": "[Article] I’m now friends with Nicholas A. Ferrell.",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/?p=736",
           "author": "Nicholas A. Ferrell",
           "description": "I came across an interesting blog post by Evan Sheeran noting that it is easy for to become overwhelmed by new feed articles using an RSS/ATOM Feed Reader. He stated that “[t]he more feeds to which you subscribe, or the more prolific some of the authors are, the more of a commitment opening your feed […]",
