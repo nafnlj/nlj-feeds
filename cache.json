@@ -482,16 +482,6 @@
           "wordCount": 124,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxrocks.online/@nafnlj/111716887090945591",
-          "author": null,
-          "description": "A 2021 post about my 2020 photo of a pigeon on a limb looking for a snack... and a reminder that pigeons are heavier than sparrows.\nhttps://thenewleafjournal.com/the-pigeon-on-a-limb/\n#Pigeon #Bird #NYC #Brooklyn #Photography",
-          "link": "https://linuxrocks.online/@nafnlj/111716887090945591",
-          "publishedOn": "2024-01-07T21:53:34.000Z",
-          "wordCount": 127,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -499,7 +489,18 @@
       "title": "@naferrell.com - N.A. Ferrell",
       "feedUrl": "https://bsky.app/profile/did:plc:544v4vawzakh3a2ohbvpz3gq/rss",
       "siteUrl": "https://bsky.app/profile/naferrell.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "at://did:plc:544v4vawzakh3a2ohbvpz3gq/app.bsky.feed.post/3kkpdn7sqkg2f",
+          "author": null,
+          "description": "Before doing anything on Bluesky, I connected my account to one of my domains. Then I installed a WordPress plugin to one of my sites to connect for cross posting. It took me longer than I would like to admit to figure out that the instant domain was .social, not .app.",
+          "link": "https://bsky.app/profile/naferrell.com/post/3kkpdn7sqkg2f",
+          "publishedOn": "2024-02-05T22:58:00.000Z",
+          "wordCount": 537,
+          "title": "Untitled",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Victor V. Gurbo",

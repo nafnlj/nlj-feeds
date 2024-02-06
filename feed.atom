@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-05T22:57:09.804Z</updated>
+    <updated>2024-02-06T14:10:28.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>at://did:plc:544v4vawzakh3a2ohbvpz3gq/app.bsky.feed.post/3kkpdn7sqkg2f</id>
+        <link href="https://bsky.app/profile/naferrell.com/post/3kkpdn7sqkg2f"/>
+        <updated>2024-02-05T22:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Before doing anything on Bluesky, I connected my account to one of my domains. Then I installed a WordPress plugin to one of my sites to connect for cross posting. It took me longer than I would like to admit to figure out that the instant domain was .social, not .app.]]></summary>
+        <author>
+            <name>@naferrell.com - N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
         <id>https://github.com/nafnlj/nljfeeds/commit/908ab502aa8bbe33230ad2158e7d9d86ac2d398d</id>
@@ -704,18 +714,6 @@ April Fools, Sonic and Tails in SSB Melee]]></summary>
         <summary type="html"><![CDATA[I published my third annual review that was of the year in anime. In the article, I ranked what I think were the six best series of 2023, included notes on 12 additional series, and gave out five category-specific awards. I made sure to get it done close to New Years because I know the whole industry was waiting for this.
 https://thenewleafjournal.com/2023-anime-year-in-review/
 #Anime #AnimeReview]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111716887090945591</id>
-        <link href="https://linuxrocks.online/@nafnlj/111716887090945591"/>
-        <updated>2024-01-07T21:53:34.000Z</updated>
-        <summary type="html"><![CDATA[A 2021 post about my 2020 photo of a pigeon on a limb looking for a snack... and a reminder that pigeons are heavier than sparrows.
-https://thenewleafjournal.com/the-pigeon-on-a-limb/
-#Pigeon #Bird #NYC #Brooklyn #Photography]]></summary>
         <author>
             <name>N.A. Ferrell</name>
         </author>
