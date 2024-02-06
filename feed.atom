@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-06T14:10:28.257Z</updated>
+    <updated>2024-02-06T20:11:19.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>at://did:plc:544v4vawzakh3a2ohbvpz3gq/app.bsky.feed.post/3kkr4i77nio2n</id>
+        <link href="https://bsky.app/profile/naferrell.com/post/3kkr4i77nio2n"/>
+        <updated>2024-02-06T15:55:00.000Z</updated>
+        <summary type="html"><![CDATA[From 2021: My DuckDuckGo query for "freedom tower birds" returned top results that were very much at odds with one another. Unfortunately, neither of the results was the specific new (at the time) article that I was trying to pull up.
+
+https://thenewleafjournal.com/duckduckgo-presents-both-sides-of-the-freedom-tower-songbird-debate/]]></summary>
+        <author>
+            <name>@naferrell.com - N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111885303556740014</id>
+        <link href="https://linuxrocks.online/@nafnlj/111885303556740014"/>
+        <updated>2024-02-06T15:44:06.000Z</updated>
+        <summary type="html"><![CDATA[I read an article that described NBA Hall of Famer Tim Duncan as having been born "overseas." While Duncan was not born in one of the 50 states, he was born in the U.S. Virgin Islands -- which is a U.S. territory.  In my essay, I make the case that Duncan should not be described as having been born "overseas" in the sense the term is most commonly understood.
+https://thenewleafjournal.com/espn-states-tim-duncan-was-born-overseas/
+#NBA #Sports #Citizenship #Nationality #Semantics]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>at://did:plc:544v4vawzakh3a2ohbvpz3gq/app.bsky.feed.post/3kkpdn7sqkg2f</id>
