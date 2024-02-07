@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-06T20:11:19.370Z</updated>
+    <updated>2024-02-07T14:10:06.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Photograph of Manhattan from close to the Manhattan pedestrian walkway entrance/exit of the Brooklyn Bridge. I wrote a short post praising NYC and the NYPD for actually following through on clearing vendors and other impediments from the walkway -- making for a pleasant walk despite there being a good number of people.
+
+https://social.emucafe.org/naferrell/clear-brooklyn-bridge
+
+#NYC #Manhattan #ManhattanSkyline #BrooklynBridge #FreedomTower #PaceUniversity #Pixel3aXL #EmuCafeSocial]]></title>
+        <id>https://pixelfed.social/p/nafnlj/660603597384049943</id>
+        <link href="https://pixelfed.social/p/nafnlj/660603597384049943"/>
+        <updated>2024-02-06T22:02:51.000Z</updated>
+        <summary type="html"><![CDATA[Photograph of Manhattan from close to the Manhattan pedestrian walkway entrance/exit of the Brooklyn Bridge. I wrote a short post praising NYC and the NYPD for actually following through on clearing vendors and other impediments from the walkway -- making for a pleasant walk despite there being a good number of people.<br />
+<br />
+<a href="https://social.emucafe.org/naferrell/clear-brooklyn-bridge" rel="external nofollow noopener" target="_blank">https://social.emucafe.org/naferrell/clear-brooklyn-bridge</a><br />
+<br />
+<a href="https://pixelfed.social/discover/tags/NYC?src=hash" title="#NYC" class="u-url hashtag" rel="external nofollow noopener">#NYC</a> <a href="https://pixelfed.social/discover/tags/Manhattan?src=hash" title="#Manhattan" class="u-url hashtag" rel="external nofollow noopener">#Manhattan</a> <a href="https://pixelfed.social/discover/tags/ManhattanSkyline?src=hash" title="#ManhattanSkyline" class="u-url hashtag" rel="external nofollow noopener">#ManhattanSkyline</a> <a href="https://pixelfed.social/discover/tags/BrooklynBridge?src=hash" title="#BrooklynBridge" class="u-url hashtag" rel="external nofollow noopener">#BrooklynBridge</a> <a href="https://pixelfed.social/discover/tags/FreedomTower?src=hash" title="#FreedomTower" class="u-url hashtag" rel="external nofollow noopener">#FreedomTower</a> <a href="https://pixelfed.social/discover/tags/PaceUniversity?src=hash" title="#PaceUniversity" class="u-url hashtag" rel="external nofollow noopener">#PaceUniversity</a> <a href="https://pixelfed.social/discover/tags/Pixel3aXL?src=hash" title="#Pixel3aXL" class="u-url hashtag" rel="external nofollow noopener">#Pixel3aXL</a> <a href="https://pixelfed.social/discover/tags/EmuCafeSocial?src=hash" title="#EmuCafeSocial" class="u-url hashtag" rel="external nofollow noopener">#EmuCafeSocial</a>]]></summary>
+        <author>
+            <name>nafnlj on Pixelfed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>at://did:plc:544v4vawzakh3a2ohbvpz3gq/app.bsky.feed.post/3kkr4i77nio2n</id>
@@ -705,39 +723,6 @@ Evergreen Carroll Gardens Christmas Tree]]></summary>
         <summary type="html"><![CDATA[The story of then-President Abraham Lincoln's decision to pardon Frank Judd, the son of Lincoln's Minister to Prussia, sparing him from what would have been execution for desertion.
 https://thenewleafjournal.com/lincoln-spares-frank-r-judd-in-1864-65/
 #AbrahamLincoln #History #USHistory #CivilWar #Desertion]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Reports of Instagram in Classrooms]]></title>
-        <id>https://thenewleafjournal.com/?p=22185</id>
-        <link href="https://thenewleafjournal.com/on-reports-of-instagram-in-classrooms/"/>
-        <updated>2024-01-08T19:06:50.000Z</updated>
-        <summary type="html"><![CDATA[This will come as a shock to all of our readers, but I (N.A. Ferrell) do not approve of requiring Instagram usage for school assignments.
-Possibly related posts...
-
-The dangers of adapting school to tech
-The Enigmatic Life and Death of Emperor Otho
-Anime Case Against Japan's Population Loss
-History of the Mario Party Gloves
-The New Leaf Journal Celebrates Its First Birthday
-Searching for the Figure Behind the Blob Dylan Tags…
-New Leaf Journal Third Birthday Reader
-An Early Review of Pixelfed - Instagram Alternative
-April Fools, Sonic and Tails in SSB Melee]]></summary>
-        <author>
-            <name>Nicholas A. Ferrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111721138571496169</id>
-        <link href="https://linuxrocks.online/@nafnlj/111721138571496169"/>
-        <updated>2024-01-08T15:54:47.000Z</updated>
-        <summary type="html"><![CDATA[I published my third annual review that was of the year in anime. In the article, I ranked what I think were the six best series of 2023, included notes on 12 additional series, and gave out five category-specific awards. I made sure to get it done close to New Years because I know the whole industry was waiting for this.
-https://thenewleafjournal.com/2023-anime-year-in-review/
-#Anime #AnimeReview]]></summary>
         <author>
             <name>N.A. Ferrell</name>
         </author>
