@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-07T14:10:06.086Z</updated>
+    <updated>2024-02-07T20:10:45.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>at://did:plc:544v4vawzakh3a2ohbvpz3gq/app.bsky.feed.post/3kktof33my52i</id>
+        <link href="https://bsky.app/profile/naferrell.com/post/3kktof33my52i"/>
+        <updated>2024-02-07T16:21:00.000Z</updated>
+        <summary type="html"><![CDATA[I wrote a short article on the ongoing renovations of the Carroll Gardens Branch of the Brooklyn Public Library with my photos of the now (temporarily) closed building.
+
+https://thenewleafjournal.com/carroll-gardens-library-renovations/]]></summary>
+        <author>
+            <name>@naferrell.com - N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111891105195786269</id>
+        <link href="https://linuxrocks.online/@nafnlj/111891105195786269"/>
+        <updated>2024-02-07T16:19:32.000Z</updated>
+        <summary type="html"><![CDATA[I use the term "survive and advance" to describe a specific type of visual novel choice structure. In a late January article, I explained what inspired my use of the term (March Madness) and how I define it in the visual novel context.
+https://thenewleafjournal.com/survive-and-advance-visual-novel-choices/
+#VisualNovels #VideoGames #VisualNovelChoices #Sports #NCAABasketball]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Photograph of Manhattan from close to the Manhattan pedestrian walkway entrance/exit of the Brooklyn Bridge. I wrote a short post praising NYC and the NYPD for actually following through on clearing vendors and other impediments from the walkway -- making for a pleasant walk despite there being a good number of people.
 
