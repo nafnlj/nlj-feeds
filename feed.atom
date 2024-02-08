@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-07T20:10:45.605Z</updated>
+    <updated>2024-02-08T01:49:48.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Update osmosfeed.yaml]]></title>
+        <id>https://github.com/nafnlj/nljfeeds/commit/1c292bb004efc9899969a2958e1bca228f665d74</id>
+        <link href="https://github.com/nafnlj/nljfeeds/commit/1c292bb004efc9899969a2958e1bca228f665d74"/>
+        <updated>2024-02-08T01:49:24.000Z</updated>
+        <summary type="html"><![CDATA[Update osmosfeed.yaml
+
+Added /feed/atom to ECS feeds. You'll be surprised to learn that Osmosfeed needs a FEED URL.]]></summary>
+        <author>
+            <name>Recent Commits to nljfeeds:main</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You never know what you will find while walking around in Brooklyn, New York. For example, here is a discovery from an October 14, 2022 walk -- an unopened gallon of Poland Spring water. It came with the "Free H2O" label lest anyone would have mistaken it for being lost instead of free.
+
+Article:
+https://thenewleafjournal.com/free-h2o-seen-in-brooklyn/
+
+Tags:
+#NYC #Brooklyn #PolandSpring #Gallon #Water #Free #Anecdote #NewLeafJournal #TheNewLeafJournal #Teracube2e]]></title>
+        <id>https://pixelfed.social/p/nafnlj/660942461021799834</id>
+        <link href="https://pixelfed.social/p/nafnlj/660942461021799834"/>
+        <updated>2024-02-07T20:29:22.000Z</updated>
+        <summary type="html"><![CDATA[You never know what you will find while walking around in Brooklyn, New York. For example, here is a discovery from an October 14, 2022 walk -- an unopened gallon of Poland Spring water. It came with the "Free H2O" label lest anyone would have mistaken it for being lost instead of free.<br />
+<br />
+Article:<br />
+<a href="https://thenewleafjournal.com/free-h2o-seen-in-brooklyn/" rel="external nofollow noopener" target="_blank">https://thenewleafjournal.com/free-h2o-seen-in-brooklyn/</a><br />
+<br />
+Tags:<br />
+<a href="https://pixelfed.social/discover/tags/NYC?src=hash" title="#NYC" class="u-url hashtag" rel="external nofollow noopener">#NYC</a> <a href="https://pixelfed.social/discover/tags/Brooklyn?src=hash" title="#Brooklyn" class="u-url hashtag" rel="external nofollow noopener">#Brooklyn</a> <a href="https://pixelfed.social/discover/tags/PolandSpring?src=hash" title="#PolandSpring" class="u-url hashtag" rel="external nofollow noopener">#PolandSpring</a> <a href="https://pixelfed.social/discover/tags/Gallon?src=hash" title="#Gallon" class="u-url hashtag" rel="external nofollow noopener">#Gallon</a> <a href="https://pixelfed.social/discover/tags/Water?src=hash" title="#Water" class="u-url hashtag" rel="external nofollow noopener">#Water</a> <a href="https://pixelfed.social/discover/tags/Free?src=hash" title="#Free" class="u-url hashtag" rel="external nofollow noopener">#Free</a> <a href="https://pixelfed.social/discover/tags/Anecdote?src=hash" title="#Anecdote" class="u-url hashtag" rel="external nofollow noopener">#Anecdote</a> <a href="https://pixelfed.social/discover/tags/NewLeafJournal?src=hash" title="#NewLeafJournal" class="u-url hashtag" rel="external nofollow noopener">#NewLeafJournal</a> <a href="https://pixelfed.social/discover/tags/TheNewLeafJournal?src=hash" title="#TheNewLeafJournal" class="u-url hashtag" rel="external nofollow noopener">#TheNewLeafJournal</a> <a href="https://pixelfed.social/discover/tags/Teracube2e?src=hash" title="#Teracube2e" class="u-url hashtag" rel="external nofollow noopener">#Teracube2e</a>]]></summary>
+        <author>
+            <name>nafnlj on Pixelfed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free H2O Seen in Brooklyn]]></title>
+        <id>https://thenewleafjournal.com/?p=22511</id>
+        <link href="https://thenewleafjournal.com/free-h2o-seen-in-brooklyn/"/>
+        <updated>2024-02-07T20:22:27.000Z</updated>
+        <summary type="html"><![CDATA[You can find many free things left outside in Brooklyn, New York. This includes free furniture, free books, and, apparently, free gallons of Poland Spring water.]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What&#8217;s an Anime You Fell Asleep To?]]></title>
+        <id>https://social.emucafe.org/naferrell/sleep-inducing-anime/</id>
+        <link href="https://social.emucafe.org/naferrell/sleep-inducing-anime/"/>
+        <updated>2024-02-07T17:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Yomu of the Umai Yomu Anime Blog posted a new writing prompt: &#8220;What&#8217;s an anime that you&#8217;ve fallen asleep to?&#8221; Let us see Yomu&#8217;s response: Strangely enough, I’ve never fallen asleep to an anime, even when including re-watching series where I’d already have an idea of what was going to happen and there was less [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>at://did:plc:544v4vawzakh3a2ohbvpz3gq/app.bsky.feed.post/3kktof33my52i</id>
@@ -28,6 +82,16 @@ https://thenewleafjournal.com/survive-and-advance-visual-novel-choices/
 #VisualNovels #VideoGames #VisualNovelChoices #Sports #NCAABasketball]]></summary>
         <author>
             <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brooklyn Bridge Clear of Vendors]]></title>
+        <id>https://social.emucafe.org/naferrell/clear-brooklyn-bridge/</id>
+        <link href="https://social.emucafe.org/naferrell/clear-brooklyn-bridge/"/>
+        <updated>2024-02-06T22:03:09.000Z</updated>
+        <summary type="html"><![CDATA[I walked across the Brooklyn Bridge for the first time since New York City evicted all of the vendors and panhandlers a few weeks ago. I fully supported clearing the Bridge for pedestrians just like I previously supported removing the bike lane from the walkway. However, I was skeptical that New York City would follow [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
         </author>
     </entry>
     <entry>
@@ -73,6 +137,36 @@ https://thenewleafjournal.com/espn-states-tim-duncan-was-born-overseas/
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Last Bluesky Invites]]></title>
+        <id>https://social.emucafe.org/naferrell/the-last-bluesky-invites/</id>
+        <link href="https://social.emucafe.org/naferrell/the-last-bluesky-invites/"/>
+        <updated>2024-02-06T15:32:44.000Z</updated>
+        <summary type="html"><![CDATA[I decided to request an invite to Bluesky a couple of weeks ago when I saw that it allowed for using one&#8217;s own domain as a handle and had RSS support. I finally received my invite on February 4. I made my account, set it up with my domain, and added my Bluesky RSS feed [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unpausing Virtual Credit Cards]]></title>
+        <id>https://social.emucafe.org/naferrell/unpausing-virtual-credit-cards/</id>
+        <link href="https://social.emucafe.org/naferrell/unpausing-virtual-credit-cards/"/>
+        <updated>2024-02-05T23:52:54.000Z</updated>
+        <summary type="html"><![CDATA[I use privacy.com to generate virtual credit cards (one of my few closed source &#8220;apps&#8221;). I usually pause cards that I am not using at the moment but will probably use again in the future. Fun fact: If you set up a card for a scheduled payment but forget to unpause the card, the payment [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Email to &#8220;Info&#8221;]]></title>
+        <id>https://social.emucafe.org/naferrell/an-email-to-info/</id>
+        <link href="https://social.emucafe.org/naferrell/an-email-to-info/"/>
+        <updated>2024-02-05T23:35:21.000Z</updated>
+        <summary type="html"><![CDATA[I maintain two emails over at The New Leaf Journal. My site administrator email is info [at] newleafjournal. It largely exists to receive spam emails. A certain gentleman purportedly from Qatar Energy sent me the following email: Dearest info, I am [REDACTED], Manager of Finance and Accounts, at Qatar Energy. I have $100m for Investment. [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>at://did:plc:544v4vawzakh3a2ohbvpz3gq/app.bsky.feed.post/3kkpdn7sqkg2f</id>
         <link href="https://bsky.app/profile/naferrell.com/post/3kkpdn7sqkg2f"/>
@@ -98,6 +192,26 @@ https://thenewleafjournal.com/espn-states-tim-duncan-was-born-overseas/
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Follow Minds Social From WordPress]]></title>
+        <id>https://social.emucafe.org/naferrell/follow-minds-from-wp/</id>
+        <link href="https://social.emucafe.org/naferrell/follow-minds-from-wp/"/>
+        <updated>2024-02-05T17:24:37.000Z</updated>
+        <summary type="html"><![CDATA[If you have a WordPress site, you can subscribe to yourself on Minds and Minds will recognize your WordPress account as a follower. In order to this, you need the ActivityPub and Friends plugins, both available in the regular WordPress plugin repos https://wordpress.org/plugins/activitypub/ https://wordpress.org/plugins/friends/ After both are configured, go into your Friends admin menu and [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Article] I&#8217;m now friends with Nicholas A. Ferrell.]]></title>
+        <id>https://social.emucafe.org/naferrell/</id>
+        <link href="https://social.emucafe.org/naferrell/"/>
+        <updated>2024-02-05T17:10:39.000Z</updated>
+        <summary type="html"><![CDATA[I&#8217;m now friends with Nicholas A. Ferrell.]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Itsuomi’s Hair Color in A Sign of Affection]]></title>
         <id>https://thenewleafjournal.com/?p=22470</id>
         <link href="https://thenewleafjournal.com/itsuomis-hair-color-in-a-sign-of-affection/"/>
@@ -105,6 +219,36 @@ https://thenewleafjournal.com/espn-states-tim-duncan-was-born-overseas/
         <summary type="html"><![CDATA[I am watching an ongoing shoujo romance anime called A Sign of Affection. After I watched the fourth episode, I published […]]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoiding Feed Reader Overrun]]></title>
+        <id>https://social.emucafe.org/naferrell/feed-reader-overrun/</id>
+        <link href="https://social.emucafe.org/naferrell/feed-reader-overrun/"/>
+        <updated>2024-02-04T20:17:02.000Z</updated>
+        <summary type="html"><![CDATA[I came across an interesting blog post by Evan Sheeran noting that it is easy for to become overwhelmed by new feed articles using an RSS/ATOM Feed Reader. He stated that &#8220;[t]he more feeds to which you subscribe, or the more prolific some of the authors are, the more of a commitment opening your feed [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Return to Tree Style Tab]]></title>
+        <id>https://social.emucafe.org/naferrell/return-to-tst/</id>
+        <link href="https://social.emucafe.org/naferrell/return-to-tst/"/>
+        <updated>2024-02-04T17:39:07.000Z</updated>
+        <summary type="html"><![CDATA[I use side tabs with my Firefox set up. I briefly switched from Tree Style Tab to Sidebery when Tree Style Tab had an update issue. I was impressed with Sidebery and it comes with more power features than Tree Style Tab out of the box (It also does a better job of clearly showing [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Hashtags]]></title>
+        <id>https://social.emucafe.org/naferrell/wordpress-hashtags/</id>
+        <link href="https://social.emucafe.org/naferrell/wordpress-hashtags/"/>
+        <updated>2024-02-03T21:19:24.000Z</updated>
+        <summary type="html"><![CDATA[I inadvertently discovered that WordPress interprets something immediately followed by a &#8220;#&#8221; in a post as a new tag. Who knew? I learned this when I was indicating numbered rankings in a new article. I decided to forego the &#8220;#&#8221;.]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
         </author>
     </entry>
     <entry>
@@ -146,6 +290,16 @@ I decided that my ignorance of an internet advertising…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Minds Hashtags and Mastodon]]></title>
+        <id>https://social.emucafe.org/naferrell/minds-hashtags-and-mastodon/</id>
+        <link href="https://social.emucafe.org/naferrell/minds-hashtags-and-mastodon/"/>
+        <updated>2024-02-03T17:43:39.000Z</updated>
+        <summary type="html"><![CDATA[I wrote a post a few days ago about how my Minds posts are now visible from my Mastodon instance. I noted one issue, however. Minds has a praiseworthy set up where users can add hashtags separate from the post. I noted that I liked the set up last year on The New Leaf Journal, [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Managing GitHub Personal Access Tokens:]]></title>
         <id>https://memos.emucafe.org/m/EFxaH38zNC5vgBGhLqyoir</id>
         <link href="https://memos.emucafe.org/m/EFxaH38zNC5vgBGhLqyoir"/>
@@ -156,6 +310,26 @@ I decided that my ignorance of an internet advertising…]]></summary>
 #GitHub]]></summary>
         <author>
             <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharing Links]]></title>
+        <id>https://social.emucafe.org/naferrell/sharing-links/</id>
+        <link href="https://social.emucafe.org/naferrell/sharing-links/"/>
+        <updated>2024-02-02T18:23:11.000Z</updated>
+        <summary type="html"><![CDATA[I came across a good post with links to bloggers who share links on Jeremy Keith&#8217;s website, adactio.com. I added the adactio links feed along with a few of the link feeds noted in the post to the Links category of my personal feed collection. I may start sharing a few links each day here [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roman Origins of XFCE]]></title>
+        <id>https://social.emucafe.org/naferrell/roman-origins-of-xfce/</id>
+        <link href="https://social.emucafe.org/naferrell/roman-origins-of-xfce/"/>
+        <updated>2024-02-02T13:37:08.000Z</updated>
+        <summary type="html"><![CDATA[I use Xfce as the desktop environment on my workstation. I have read some complaints that Xfce is dated compared to GNOME, KDE Plasma, and other newer and shinier desktop environments, but I disagree. Xfce looks slick with a good theme (the Linux distribution I use, EndeavourOS, comes with a nice Xfce spin out of [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
         </author>
     </entry>
     <entry>
@@ -193,6 +367,16 @@ Episode 1 was much like the first season with Hinami giving Tomozaki a light-hea
 Opening arc segued into a "bullying arc" wherein Erika Konno, who came off as unpleasant in her small role in season 1 and he…]]></summary>
         <author>
             <name>Emu Café Memos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minds to Mastodon]]></title>
+        <id>https://social.emucafe.org/naferrell/minds-to-mastodon/</id>
+        <link href="https://social.emucafe.org/naferrell/minds-to-mastodon/"/>
+        <updated>2024-02-01T17:41:05.000Z</updated>
+        <summary type="html"><![CDATA[I have a social media account on Minds. Minds added ActivityPub support not too long ago. I had been able to follow my Minds account from Mastodon and follow my Mastodon account from Minds. However, posts were not showing up in either case. Today, I was surprised to discover my most recent Minds post in [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
         </author>
     </entry>
     <entry>
@@ -260,6 +444,16 @@ Oldest Golfers to Contend for Majors Between the…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[First Anime I Watched in 2024]]></title>
+        <id>https://social.emucafe.org/naferrell/first-anime-of-2024/</id>
+        <link href="https://social.emucafe.org/naferrell/first-anime-of-2024/"/>
+        <updated>2024-01-31T16:49:37.000Z</updated>
+        <summary type="html"><![CDATA[Yomu at the Umai Yomu Anime Blog asked readers to answer the following question:  What anime did you start the new year with? The first anime I watched in 2024 was actually a 2023 series: BanG Dream! It’s MyGo!!!!! Two factors came together to make that 2023 musical melodrama my first anime of the new [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://linuxrocks.online/@nafnlj/111851469963028485</id>
         <link href="https://linuxrocks.online/@nafnlj/111851469963028485"/>
@@ -269,6 +463,16 @@ https://thenewleafjournal.com/keep-the-pet-millipede-from-drowning/
 #Pets #Millipedes #Bugs #Dictionary]]></summary>
         <author>
             <name>N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tree Style Tab Issue]]></title>
+        <id>https://social.emucafe.org/naferrell/tree-style-tabs-issue/</id>
+        <link href="https://social.emucafe.org/naferrell/tree-style-tabs-issue/"/>
+        <updated>2024-01-30T21:39:57.000Z</updated>
+        <summary type="html"><![CDATA[I had been using Tree Style Tab for side-tabs on Firefox along with a userChrome.css file to remove the top bar. I was surprised to find when I opened Firefox this morning that Tree Style Tabs was not working. Instead of checking its GitHub repository, where I would have found the issue, I tried to [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
         </author>
     </entry>
     <entry>
@@ -302,6 +506,16 @@ Version history of Aru Fuyu no Monogatari
 ACE Academy - Visual Novel Review]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google vs HN at the NLJ (2)]]></title>
+        <id>https://social.emucafe.org/naferrell/ii/</id>
+        <link href="https://social.emucafe.org/naferrell/ii/"/>
+        <updated>2024-01-30T03:35:23.000Z</updated>
+        <summary type="html"><![CDATA[I have been busy with New Leaf Journal and law work as of late, but I return to The Emu Café Social with a fun New Leaf Journal update. As of the afternoon of January 29, 2023, we have more Google referrals at The New Leaf Journal than Hacker News referrals despite our fairly high [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
         </author>
     </entry>
     <entry>
@@ -581,6 +795,16 @@ The al|together and Insani Visual Novel Translations]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google vs HN at the NLJ (1)]]></title>
+        <id>https://social.emucafe.org/naferrell/google-vs-hn-at-the-nlj-1/</id>
+        <link href="https://social.emucafe.org/naferrell/google-vs-hn-at-the-nlj-1/"/>
+        <updated>2024-01-19T02:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Over at The New Leaf Journal, my January 5, 2024 article, which was about drug-enhanced professional cycling results, became the sixth New Leaf Journal article (going back to February 2021) to appear on Hacker News page 1 (only after a stop in The Browser newsletter). It reached as high as 11th on HN and was [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Provocative Out-Of-Context Headlines]]></title>
         <id>https://thenewleafjournal.com/?p=22273</id>
         <link href="https://thenewleafjournal.com/provocative-out-of-context-headlines/"/>
@@ -599,6 +823,26 @@ Two Independence Day-Themed Pokémon Battles: Ferrell…
 On Nintendo's Pro-User Cartridge-First Strategy]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Team Hamas &#8220;Protests&#8221; NYC Cancer Hospital]]></title>
+        <id>https://social.emucafe.org/naferrell/team-hamas-nyc-hospital/</id>
+        <link href="https://social.emucafe.org/naferrell/team-hamas-nyc-hospital/"/>
+        <updated>2024-01-18T17:59:19.000Z</updated>
+        <summary type="html"><![CDATA[Pro-Hamas protesters spent January 15, 2024 loudly protesting outside of Memorial Sloan Kettering Cancer Center in Manhattan, yelling that the cancer hospital is complicit in the so-called &#8220;genocide&#8221; in Gaza, or even &#8220;supporting&#8221; it. Far be it from me to offer any sort of advice to supporters of a foreign terrorist organization, but in light [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bottom-tier Character Tomozaki-kun and bullying]]></title>
+        <id>https://social.emucafe.org/naferrell/tomozaki-s2-ep2-bullying/</id>
+        <link href="https://social.emucafe.org/naferrell/tomozaki-s2-ep2-bullying/"/>
+        <updated>2024-01-17T22:27:53.000Z</updated>
+        <summary type="html"><![CDATA[I did not get around to publishing a review of episode 2 of season 2 of Bottom-tier Character Tomozaki-kun after publishing a brief review of the first episode. The second episode had a dramatic tonal shift &#8212; segueing from the social game shenanigans that began in the first episode to bullying. I had some issues [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
         </author>
     </entry>
     <entry>
@@ -693,6 +937,16 @@ Justin & Justina: The Most-Read New Leaf Journal…
 Searching for the "Libertarian Moment"]]></summary>
         <author>
             <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just Blogging]]></title>
+        <id>https://social.emucafe.org/naferrell/just-blogging/</id>
+        <link href="https://social.emucafe.org/naferrell/just-blogging/"/>
+        <updated>2024-01-14T15:52:29.000Z</updated>
+        <summary type="html"><![CDATA[I came across a blog post titled Just Blog by Frank Meeuwsen. This post alerted me to an interesting &#8220;birthday&#8221; project by WordPress founder Matt Mullenweg. Mr. Mulenwig asked for people to blog for his birthday and link to his post. Ideally, the links should show up as pingbacks on his article. His post said [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
         </author>
     </entry>
     <entry>
