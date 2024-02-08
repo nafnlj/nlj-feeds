@@ -6,6 +6,16 @@
       "siteUrl": "https://github.com/nafnlj/nljfeeds/commits/main",
       "articles": [
         {
+          "id": "https://github.com/nafnlj/nljfeeds/commit/16592470cfa118b0234e7d73515ef3383973c8fc",
+          "author": null,
+          "description": "Update update-feed.yaml\n\nForce update",
+          "link": "https://github.com/nafnlj/nljfeeds/commit/16592470cfa118b0234e7d73515ef3383973c8fc",
+          "publishedOn": "2024-02-08T01:50:46.000Z",
+          "wordCount": 377,
+          "title": "Update update-feed.yaml",
+          "imageUrl": "https://opengraph.githubassets.com/c1b908063b4abd0b48b87e3ef843f641b1655e3e1d6379d542e7a25d76ac49f1/nafnlj/nljfeeds/commit/16592470cfa118b0234e7d73515ef3383973c8fc"
+        },
+        {
           "id": "https://github.com/nafnlj/nljfeeds/commit/1c292bb004efc9899969a2958e1bca228f665d74",
           "author": null,
           "description": "Update osmosfeed.yaml\n\nAdded /feed/atom to ECS feeds. You'll be surprised to learn that Osmosfeed needs a FEED URL.",
