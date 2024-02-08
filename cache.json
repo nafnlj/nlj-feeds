@@ -241,6 +241,16 @@
       "siteUrl": "https://social.emucafe.org",
       "articles": [
         {
+          "id": "https://social.emucafe.org/naferrell/sr-awards-nba-tables/",
+          "author": null,
+          "description": "I have not followed the NBA closely since 2016. However, I am working on a few article projects for The New Leaf Journal focusing on interesting NBA points, primarily from when I followed the league closely (1997-2016). See, for example, my pair of articles from last year on the Detroit Pistons&#8217; 2003 NBA Draft and [&#8230;]",
+          "link": "https://social.emucafe.org/naferrell/sr-awards-nba-tables/",
+          "publishedOn": "2024-02-08T16:46:22.000Z",
+          "wordCount": null,
+          "title": "Basketball Reference Adds Awards to Main Player Tables",
+          "imageUrl": null
+        },
+        {
           "id": "https://social.emucafe.org/naferrell/sleep-inducing-anime/",
           "author": null,
           "description": "Yomu of the Umai Yomu Anime Blog posted a new writing prompt: &#8220;What&#8217;s an anime that you&#8217;ve fallen asleep to?&#8221; Let us see Yomu&#8217;s response: Strangely enough, I’ve never fallen asleep to an anime, even when including re-watching series where I’d already have an idea of what was going to happen and there was less [&#8230;]",
@@ -623,6 +633,16 @@
       "siteUrl": "https://linuxrocks.online/@nafnlj",
       "articles": [
         {
+          "id": "https://linuxrocks.online/@nafnlj/111896703793707311",
+          "author": null,
+          "description": "Back in 2022, I wrote a guide to making a web browser search engine shortcut for DuckDuckGo and Brave timers (e.g., \"5 minute timer)\nhttps://thenewleafjournal.com/brave-and-duckduckgo-timer-search-shortcuts/\n#Timer #Firefox #Chromium #BraveSearch #DuckDuckGo",
+          "link": "https://linuxrocks.online/@nafnlj/111896703793707311",
+          "publishedOn": "2024-02-08T16:03:19.000Z",
+          "wordCount": 126,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxrocks.online/@nafnlj/111891105195786269",
           "author": null,
           "description": "I use the term \"survive and advance\" to describe a specific type of visual novel choice structure. In a late January article, I explained what inspired my use of the term (March Madness) and how I define it in the visual novel context.\nhttps://thenewleafjournal.com/survive-and-advance-visual-novel-choices/\n#VisualNovels #VideoGames #VisualNovelChoices #Sports #NCAABasketball",
@@ -729,6 +749,16 @@
       "feedUrl": "https://bsky.app/profile/did:plc:544v4vawzakh3a2ohbvpz3gq/rss",
       "siteUrl": "https://bsky.app/profile/naferrell.com",
       "articles": [
+        {
+          "id": "at://did:plc:544v4vawzakh3a2ohbvpz3gq/app.bsky.feed.post/3kkw5xypy4425",
+          "author": null,
+          "description": "2022: I took a look at EnBizCard, a free and open source web app for creating a static digital business card page. The result can be hosted as a static site -- but I followed the instructions to incorporate my business card into my WordPress site.\n\nhttps://thenewleafjournal.com/enbizcard-review-foss-digital-business-cards/",
+          "link": "https://bsky.app/profile/naferrell.com/post/3kkw5xypy4425",
+          "publishedOn": "2024-02-08T16:05:00.000Z",
+          "wordCount": 578,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "at://did:plc:544v4vawzakh3a2ohbvpz3gq/app.bsky.feed.post/3kktof33my52i",
           "author": null,

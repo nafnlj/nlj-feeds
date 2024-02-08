@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-08T14:09:36.590Z</updated>
+    <updated>2024-02-08T20:10:42.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Basketball Reference Adds Awards to Main Player Tables]]></title>
+        <id>https://social.emucafe.org/naferrell/sr-awards-nba-tables/</id>
+        <link href="https://social.emucafe.org/naferrell/sr-awards-nba-tables/"/>
+        <updated>2024-02-08T16:46:22.000Z</updated>
+        <summary type="html"><![CDATA[I have not followed the NBA closely since 2016. However, I am working on a few article projects for The New Leaf Journal focusing on interesting NBA points, primarily from when I followed the league closely (1997-2016). See, for example, my pair of articles from last year on the Detroit Pistons&#8217; 2003 NBA Draft and [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>at://did:plc:544v4vawzakh3a2ohbvpz3gq/app.bsky.feed.post/3kkw5xypy4425</id>
+        <link href="https://bsky.app/profile/naferrell.com/post/3kkw5xypy4425"/>
+        <updated>2024-02-08T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[2022: I took a look at EnBizCard, a free and open source web app for creating a static digital business card page. The result can be hosted as a static site -- but I followed the instructions to incorporate my business card into my WordPress site.
+
+https://thenewleafjournal.com/enbizcard-review-foss-digital-business-cards/]]></summary>
+        <author>
+            <name>@naferrell.com - N.A. Ferrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://linuxrocks.online/@nafnlj/111896703793707311</id>
+        <link href="https://linuxrocks.online/@nafnlj/111896703793707311"/>
+        <updated>2024-02-08T16:03:19.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2022, I wrote a guide to making a web browser search engine shortcut for DuckDuckGo and Brave timers (e.g., "5 minute timer)
+https://thenewleafjournal.com/brave-and-duckduckgo-timer-search-shortcuts/
+#Timer #Firefox #Chromium #BraveSearch #DuckDuckGo]]></summary>
+        <author>
+            <name>N.A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Outline Guide to Persona 3 FES The Answer]]></title>
         <id>https://thenewleafjournal.com/?p=22517</id>
