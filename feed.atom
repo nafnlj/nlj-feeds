@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-08T01:54:51.295Z</updated>
+    <updated>2024-02-08T14:09:36.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Outline Guide to Persona 3 FES The Answer]]></title>
+        <id>https://thenewleafjournal.com/?p=22517</id>
+        <link href="https://thenewleafjournal.com/outline-guide-to-persona-3-fes-the-answer/"/>
+        <updated>2024-02-08T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I share an old outline party composition guide that I wrote for Persona 3 FES's The Answer epilogue back in 2011 or 2012.]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update update-feed.yaml]]></title>
         <id>https://github.com/nafnlj/nljfeeds/commit/6d4a7549b01c51d18557305fcd8d5f7ce2397dcd</id>
@@ -802,18 +812,6 @@ I published three new articles since mailing Newsletter 168.
 My third annual New Leaf Journal review of the year that was about anime, and it features my ranking of the top six series of 2024, notes on additional series, and category-specific awards. You can either use my article to find something to watch or as a prompt to become angry bec…]]></summary>
         <author>
             <name>The Newsletter Leaf Journal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://linuxrocks.online/@nafnlj/111726978442619446</id>
-        <link href="https://linuxrocks.online/@nafnlj/111726978442619446"/>
-        <updated>2024-01-09T16:39:56.000Z</updated>
-        <summary type="html"><![CDATA[The story of then-President Abraham Lincoln's decision to pardon Frank Judd, the son of Lincoln's Minister to Prussia, sparing him from what would have been execution for desertion.
-https://thenewleafjournal.com/lincoln-spares-frank-r-judd-in-1864-65/
-#AbrahamLincoln #History #USHistory #CivilWar #Desertion]]></summary>
-        <author>
-            <name>N.A. Ferrell</name>
         </author>
     </entry>
 </feed>
