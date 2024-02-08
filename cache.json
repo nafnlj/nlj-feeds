@@ -6,6 +6,26 @@
       "siteUrl": "https://github.com/nafnlj/nljfeeds/commits/main",
       "articles": [
         {
+          "id": "https://github.com/nafnlj/nljfeeds/commit/6d4a7549b01c51d18557305fcd8d5f7ce2397dcd",
+          "author": null,
+          "description": "Update update-feed.yaml\n\nForce update",
+          "link": "https://github.com/nafnlj/nljfeeds/commit/6d4a7549b01c51d18557305fcd8d5f7ce2397dcd",
+          "publishedOn": "2024-02-08T01:54:28.000Z",
+          "wordCount": 377,
+          "title": "Update update-feed.yaml",
+          "imageUrl": "https://opengraph.githubassets.com/cc168160bc10af20611731f34f778ad5aee08e974c2a3b40bb0a346d894131fd/nafnlj/nljfeeds/commit/6d4a7549b01c51d18557305fcd8d5f7ce2397dcd"
+        },
+        {
+          "id": "https://github.com/nafnlj/nljfeeds/commit/213aa75e8a7600a141ac75cb0834f8c353b12b1b",
+          "author": null,
+          "description": "Update osmosfeed.yaml\n\nSwitched from main NLJ feed to author NLJ feeds so that aggregator will show the author of each post.",
+          "link": "https://github.com/nafnlj/nljfeeds/commit/213aa75e8a7600a141ac75cb0834f8c353b12b1b",
+          "publishedOn": "2024-02-08T01:54:13.000Z",
+          "wordCount": 492,
+          "title": "Update osmosfeed.yaml",
+          "imageUrl": "https://opengraph.githubassets.com/425f602b70321d63f666238af5057d14e9de96b4b25bb3c4b9461a62ff97f4da/nafnlj/nljfeeds/commit/213aa75e8a7600a141ac75cb0834f8c353b12b1b"
+        },
+        {
           "id": "https://github.com/nafnlj/nljfeeds/commit/16592470cfa118b0234e7d73515ef3383973c8fc",
           "author": null,
           "description": "Update update-feed.yaml\n\nForce update",
@@ -38,8 +58,8 @@
       ]
     },
     {
-      "title": "The New Leaf Journal",
-      "feedUrl": "https://thenewleafjournal.com/feed",
+      "title": "Author: Nicholas A. Ferrell | The New Leaf Journal",
+      "feedUrl": "https://thenewleafjournal.com/author/naferrell/feed",
       "siteUrl": "https://thenewleafjournal.com",
       "articles": [
         {
@@ -55,7 +75,7 @@
         {
           "id": "https://thenewleafjournal.com/?p=22470",
           "author": "Nicholas A. Ferrell",
-          "description": "I am watching an ongoing shoujo romance anime called A Sign of Affection. After I watched the fourth episode, I published […]",
+          "description": "Episode 5 of the A Sign of Affection anime adaptation provided definitive proof that one of the two main characters, Itsuomi Nagi, has been dying his hair. I examine the evidence.",
           "link": "https://thenewleafjournal.com/itsuomis-hair-color-in-a-sign-of-affection/",
           "publishedOn": "2024-02-05T13:05:00.000Z",
           "wordCount": null,
@@ -75,7 +95,7 @@
         {
           "id": "https://thenewleafjournal.com/?p=22421",
           "author": "Nicholas A. Ferrell",
-          "description": "Examining overwhelming circumstantial evidence of Yuki Itose's use of hair dye in the first two episodes of the A Sign of Affection anime adaptation.\nPossibly related posts...\n\nHair Color in Japanese Anime, Manga, and Games\nUnderstanding Hair Color in the Kimi ni Todoke Anime Series\nHeight differences in anime romances\nThe Girl I Like Forgot Her Glasses hair dye\nHair Color in A Dream of Summer\nThe Best of Anime in 2022: Year in Review\nMost-Visited NLJ Articles of 1H 2023\n2023 Anime Year in Review\nAnime Recommendations of the Decade (2011-20)",
+          "description": "Examining overwhelming circumstantial evidence of Yuki Itose's use of hair dye in the first two episodes of the A Sign of Affection anime adaptation.",
           "link": "https://thenewleafjournal.com/changing-hair-color-in-a-sign-of-affection/",
           "publishedOn": "2024-02-02T13:30:00.000Z",
           "wordCount": null,
@@ -85,7 +105,7 @@
         {
           "id": "https://thenewleafjournal.com/?p=22413",
           "author": "Nicholas A. Ferrell",
-          "description": "Sharing my system for organizing my personal RSS/ATOM feed collection and discussing other systems seen around the web.\nPossibly related posts...\n\nFeeds and Read-It-Later for Online Reading\nAn Introduction to RSS and Other Feed Formats\nAgainst Twitter as a Content Curator\nRSS as a Facebook Alternative\nThe Many Deaths and Rebirths of RSS\nAn Essay on Productivity, Production, and Productive Leisure\nThe Enigmatic Life and Death of Emperor Otho\nThe al|together and Insani Visual Novel Translations\nAnime Recommendations of the Decade (2011-20)",
+          "description": "Sharing my system for organizing my personal RSS/ATOM feed collection and discussing other systems seen around the web.",
           "link": "https://thenewleafjournal.com/organizing-rss-and-atom-feed-sources/",
           "publishedOn": "2024-02-01T14:15:00.000Z",
           "wordCount": null,
@@ -95,7 +115,7 @@
         {
           "id": "https://thenewleafjournal.com/?p=22440",
           "author": "Nicholas A. Ferrell",
-          "description": "January was highlighted by a surprise newsletter share and Hacker News page 1 appearance early in the month, but we also published 17 new articles on many interesting topics.\nPossibly related posts...\n\nThe New Leaf Journal Celebrates Its First Birthday\nThe Newsletter Leaf Journal at 100\nThe al|together and Insani Visual Novel Translations\nJustin & Justina: Most-Read NLJ Content of 2020\nA 2021 List of Alternative Search Engines and Search…\nJustin and Justina review 2022 at the NLJ\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nHistory of New York's Evacuation Day\nOldest Golfers to Contend for Majors Between the…",
+          "description": "January was highlighted by a surprise newsletter share and Hacker News page 1 appearance early in the month, but we also published 17 new articles on many interesting topics.",
           "link": "https://thenewleafjournal.com/january-2024-at-the-new-leaf-journal/",
           "publishedOn": "2024-02-01T04:44:30.000Z",
           "wordCount": null,
@@ -105,7 +125,7 @@
         {
           "id": "https://thenewleafjournal.com/?p=22365",
           "author": "Nicholas A. Ferrell",
-          "description": "I rank the top 10 visual novel translations to emerge from the 31 pieces translated for the 2005, 2006, and 2008 al|together festivals.\nPossibly related posts...\n\nal|together Visual Novel Rank Intro\nal|together Visual Novel Ranking (20-11)\nal|together Visual Novel Ranking (31-21)\nThe al|together and Insani Visual Novel Translations\nRed Shift Visual Novel Review\nFlood of Tears - Visual Novel Review\nMay Sky - Visual Novel Review\nVersion history of Aru Fuyu no Monogatari\nACE Academy - Visual Novel Review",
+          "description": "I rank the top 10 visual novel translations to emerge from the 31 pieces translated for the 2005, 2006, and 2008 al|together festivals.",
           "link": "https://thenewleafjournal.com/altogether-visual-novel-ranking-10-1/",
           "publishedOn": "2024-01-30T12:45:00.000Z",
           "wordCount": null,
@@ -115,7 +135,7 @@
         {
           "id": "https://thenewleafjournal.com/?p=22360",
           "author": "Nicholas A. Ferrell",
-          "description": "I recently learned about some shopping app called Temu. I contemplated my obliviousness and determined that I owe my lack of knowledge to good internet usage.\nPossibly related posts...\n\nAn In-Depth Look at Norton Safe Search\nA 2021 List of Alternative Search Engines and Search…\nComparing DuckDuckGo Lite and Qwant Lite\n2023 Anime Year in Review\nShould the Pistons have drafted Carmelo?\nOn Google Chrome's New AI Features\nSubstack Notes' Twitter clone war\nRecommended F-Droid FOSS Apps For Android-Based…\nI, Too, Saw Dreams Through Air - VN Review",
+          "description": "I recently learned about some shopping app called Temu. I contemplated my obliviousness and determined that I owe my lack of knowledge to good internet usage.",
           "link": "https://thenewleafjournal.com/missing-temu-ads-through-good-internet-usage/",
           "publishedOn": "2024-01-29T20:41:02.000Z",
           "wordCount": null,
@@ -125,7 +145,7 @@
         {
           "id": "https://thenewleafjournal.com/?p=22348",
           "author": "Nicholas A. Ferrell",
-          "description": "The second part of my al|together visual novel ranking covers the ten translations I have ranked 20-11.\nPossibly related posts...\n\nal|together Visual Novel Rank Intro\nal|together Visual Novel Ranking (31-21)\nThe al|together and Insani Visual Novel Translations\nRed Shift Visual Novel Review\nFlood of Tears - Visual Novel Review\nMay Sky - Visual Novel Review\nVersion history of Aru Fuyu no Monogatari\nACE Academy - Visual Novel Review\nSummer, Cicadas, and the Girl - VN Review",
+          "description": "The second part of my al|together visual novel ranking covers the ten translations I have ranked 20-11.",
           "link": "https://thenewleafjournal.com/altogether-visual-novel-ranking-20-11/",
           "publishedOn": "2024-01-27T22:46:22.000Z",
           "wordCount": null,
@@ -135,7 +155,7 @@
         {
           "id": "https://thenewleafjournal.com/?p=22336",
           "author": "Nicholas A. Ferrell",
-          "description": "I offer my opinion on whether Google's promoting new AI tools with Chrome for drafting forum posts and reviews will contribute to making the internet a better place.\nPossibly related posts...\n\nQuery for Bing on blacklisting and ChatGPT\nAmazon Black Hat Seller Scenario\nThe New Leaf Journal Celebrates Its First Birthday\nThe al|together and Insani Visual Novel Translations\nA 2021 List of Alternative Search Engines and Search…\nJustin & Justina: Most-Read NLJ Content of 2020\nOldest Golfers to Contend for Majors Between the…\n1883 Opening of the Brooklyn Bridge\nHistory of New York's Evacuation Day",
+          "description": "I offer my opinion on whether Google's promoting new AI tools with Chrome for drafting forum posts and reviews will contribute to making the internet a better place.",
           "link": "https://thenewleafjournal.com/on-google-chromes-new-ai-features/",
           "publishedOn": "2024-01-26T14:00:00.000Z",
           "wordCount": null,
@@ -145,7 +165,7 @@
         {
           "id": "https://thenewleafjournal.com/?p=22325",
           "author": "Nicholas A. Ferrell",
-          "description": "The first of three legs of my al|together visual novel ranking covers novels 31-21 on my list.\nPossibly related posts...\n\nThe al|together and Insani Visual Novel Translations\nRed Shift Visual Novel Review\nFlood of Tears - Visual Novel Review\nMay Sky - Visual Novel Review\nVersion history of Aru Fuyu no Monogatari\nSummer, Cicadas, and the Girl - VN Review\nACE Academy - Visual Novel Review\nShooting Star Hill - Visual Novel Review\nio [Christmas Eve] - Visual Novel Review",
+          "description": "The first of three legs of my al|together visual novel ranking covers novels 31-21 on my list.",
           "link": "https://thenewleafjournal.com/altogether-visual-novel-ranking-31-21/",
           "publishedOn": "2024-01-25T13:45:00.000Z",
           "wordCount": null,
@@ -155,74 +175,20 @@
         {
           "id": "https://thenewleafjournal.com/?p=22320",
           "author": "Nicholas A. Ferrell",
-          "description": "Back in December 2020, I came up with the idea to review nearly all of the 31 doujin Japanese visual novels […]\nPossibly related posts...\n\nJustin & Justina: The Most-Read New Leaf Journal…\nJustin and Justina review 2022 at the NLJ\nThe al|together and Insani Visual Novel Translations\nThe New Leaf Journal Celebrates Its First Birthday\nFlood of Tears - Visual Novel Review\nA Midsummer Day's Resonance - VN Review\nNew Leaf Journal Year-In-Review: 2023\nA Dream of Summer - Visual Novel Review\nRunning Yuuki!Novel Ver of Tegami on Linux",
+          "description": "Introduction a 3-part series wherein I will rank the 31 al|together visual novel translations from 31 to 1.",
           "link": "https://thenewleafjournal.com/altogether-visual-novel-rank-intro/",
           "publishedOn": "2024-01-24T13:45:00.000Z",
           "wordCount": null,
           "title": "al|together Visual Novel Rank Intro",
           "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=22316",
-          "author": "Nicholas A. Ferrell",
-          "description": "I apply the term \"survive and advance\" from March Madness to describe a common visual novel choice structure where multiple choices have at least one game over option.\nPossibly related posts...\n\nFlood of Tears - Visual Novel Review\nThe al|together and Insani Visual Novel Translations\nCollage - Visual Novel Review\nNight of the Forget-Me-Nots: VN Review\nShould the Pistons have drafted Carmelo?\nACE Academy - Visual Novel Review\nVisual Novel Review: Bad End\nRed Shift Visual Novel Review\nThe Enigmatic Life and Death of Emperor Otho",
-          "link": "https://thenewleafjournal.com/survive-and-advance-visual-novel-choices/",
-          "publishedOn": "2024-01-23T18:27:49.000Z",
-          "wordCount": null,
-          "title": "“Survive and Advance” Visual Novel Choices",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=22302",
-          "author": "Nicholas A. Ferrell",
-          "description": "I review my Logitech Washable K310 keyboard as it approaches its 11th birthday on my computer desk.\nPossibly related posts...\n\nReplacing soundbar and re-configuring universal…\nThe Newsletter Leaf Journal LXIX 〜 The Move(d) Leaf Journal\nThe 9.9.99 Computer Bug That Wasn't\nBing's and DuckDuckGo's CCP Problem\nInternet Explorer to Year of Linux Desktop\nRecommended F-Droid FOSS Apps For Android-Based…\nReviewing Buddy Simulator 1984 for Switch\nDasung to release e-ink phone monitor\nDasung Link Phone E-Ink Monitor Starts at $299",
-          "link": "https://thenewleafjournal.com/my-logitech-washable-wired-keyboard-k310/",
-          "publishedOn": "2024-01-20T18:15:00.000Z",
-          "wordCount": null,
-          "title": "My Logitech Washable Wired Keyboard K310",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=22279",
-          "author": "Nicholas A. Ferrell",
-          "description": "I review YOGA Image Optimizer, a free and open source GUI image optimization tool, from the context of someone using it to reduce the size of small images for a minimal WordPress blog.\nPossibly related posts...\n\nThe Enigmatic Life and Death of Emperor Otho\nFlood of Tears - Visual Novel Review\n2023 Anime Year in Review\nACE Academy - Visual Novel Review\nInstalling Non-Listed Programs in PlayOnLinux\nA Midsummer Day's Resonance - VN Review\nMay Sky - Visual Novel Review\nFour May Issues of The Nursery Magazine (1873-81)\nThe al|together and Insani Visual Novel Translations",
-          "link": "https://thenewleafjournal.com/reviewing-yoga-image-optimizer/",
-          "publishedOn": "2024-01-19T14:45:00.000Z",
-          "wordCount": null,
-          "title": "Reviewing YOGA Image Optimizer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=22273",
-          "author": "Nicholas A. Ferrell",
-          "description": "While I am very much in the pro-video game ownership side of things, I had to call foul on a headline taking a seemingly anti-ownership quote by a Ubisoft executive out of its original context.\nPossibly related posts...\n\nHistory of the Mario Party Gloves\nSearching for the \"Libertarian Moment\"\nLeaving the Phrase \"Reach Out\" in the 90s\nRecording a Test New Leaf Journal Pokémon Sword and…\nThe Last Nintendo Wii Games\nThe Aborted Nintendo-Minnesota Lottery Scheme\nAmbiguous Killer Hallucinogenic Weed Headline\nTwo Independence Day-Themed Pokémon Battles: Ferrell…\nOn Nintendo's Pro-User Cartridge-First Strategy",
-          "link": "https://thenewleafjournal.com/provocative-out-of-context-headlines/",
-          "publishedOn": "2024-01-18T21:21:20.000Z",
-          "wordCount": null,
-          "title": "Provocative Out-Of-Context Headlines",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=22241",
-          "author": "Nicholas A. Ferrell",
-          "description": "Justin comes across FOPEAS's \"I'm sorry but I cannot fulfill this request it goes against OpenAI use policy. My purpose is to provide helpful and respectful information to users-Brown\" on Amazon and asks Justina for her take on the product.\nPossibly related posts...\n\nThe Enigmatic Life and Death of Emperor Otho\nAnime Recommendations of the Decade (2011-20)\nACE Academy - Visual Novel Review\nThe Best of Anime in 2022: Year in Review\n2023 Anime Year in Review\nThe al|together and Insani Visual Novel Translations\nThe Angel Next Door Spoils Me Rotten - Anime Review\nJustin and Justina review 2022 at the NLJ\nFour May Issues of The Nursery Magazine (1873-81)",
-          "link": "https://thenewleafjournal.com/shopping-on-ai-spamazon/",
-          "publishedOn": "2024-01-14T17:08:15.000Z",
-          "wordCount": null,
-          "title": "Shopping on AI (Sp)Amazon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewleafjournal.com/?p=22220",
-          "author": "Nicholas A. Ferrell",
-          "description": "A short report on reports about the temporary closure of the Carroll Gardens Library with original photographs.\nPossibly related posts...\n\nA Walk Across the Hamilton Avenue Footbridge\nJustin & Justina 〜 4th of July Grill Sacrifices to…\nA Trip Across Brooklyn's Summit Street Bridge\nHistoric Districts and Looming Tall Buildings\nBalancing Bear Topiary in Carroll Gardens\nAmerican Beauty Pasta Mural in Brooklyn\nFlying 12-Foot Witch in Carroll Gardens\nThe Unfortunate Car in Carroll Gardens\nEvergreen Carroll Gardens Christmas Tree",
-          "link": "https://thenewleafjournal.com/carroll-gardens-library-renovations/",
-          "publishedOn": "2024-01-12T20:26:25.000Z",
-          "wordCount": null,
-          "title": "Carroll Gardens Library Renovations",
-          "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Author: Victor V. Gurbo | The New Leaf Journal",
+      "feedUrl": "https://thenewleafjournal.com/author/victorvgurbo/feed",
+      "siteUrl": "https://thenewleafjournal.com",
+      "articles": []
     },
     {
       "title": "Leaflets | The New Leaf Journal",
