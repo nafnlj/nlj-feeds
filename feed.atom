@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-09T14:09:42.324Z</updated>
+    <updated>2024-02-09T20:10:45.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Hat Take on Sudo for Windows]]></title>
+        <id>https://social.emucafe.org/naferrell/apple-hat-take-on-sudo-for-windows/</id>
+        <link href="https://social.emucafe.org/naferrell/apple-hat-take-on-sudo-for-windows/"/>
+        <updated>2024-02-09T17:24:47.000Z</updated>
+        <summary type="html"><![CDATA[Puts on Apple Hat Turns on Apple Hat Opens article about Microsoft adding sudo to Windows &#8220;Looks like Microsoft is ripping off Apple again&#8221; Starts video of Steve Jobs introducing some Apple product in 2005 (For the record, I almost use Arch by the way.  Posted from my desktop PC running EndeavourOS.)]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deleting Yahoo Account]]></title>
+        <id>https://social.emucafe.org/naferrell/deleting-yahoo-account/</id>
+        <link href="https://social.emucafe.org/naferrell/deleting-yahoo-account/"/>
+        <updated>2024-02-09T16:36:23.000Z</updated>
+        <summary type="html"><![CDATA[I had an old Yahoo email account (it was @ymail, I thought that was neat). I think I made the account in 2008 or 2009. Back when I did not know any better, I primarily used Gmail, MSN, and Yahoo Mail, but Yahoo was always third on the priority list. I do not think I [&#8230;]]]></summary>
+        <author>
+            <name>Nicholas A. Ferrell – The Emu Café Social</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Basketball Reference Adds Awards to Main Player Tables]]></title>
         <id>https://social.emucafe.org/naferrell/sr-awards-nba-tables/</id>
