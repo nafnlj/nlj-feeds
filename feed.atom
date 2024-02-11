@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-10T20:10:06.348Z</updated>
+    <updated>2024-02-11T14:09:41.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Leaf Journal CLXXIII 〜 Newsletter of affection]]></title>
+        <id>https://buttondown.email/newsletterleafjournal/archive/173/</id>
+        <link href="https://buttondown.email/newsletterleafjournal/archive/173/"/>
+        <updated>2024-02-10T20:32:49.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the 173rd edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof Logitech K310 keyboard of the editor and administrator of both The New Leaf Journal and its new sister site, The Emu Café Social, Nicholas A. Ferrell. I have plenty of news to share this week, but I am also off to a late start (it is 1:49 PM on Saturday, February 10, as I write this) and it is nice weather out -- so I am going to try to be efficient in putting this newsletter together.
+Let us jump into the content.
+Leaves from the week that was
+I published four new New Leaf Journal articles since mailing Newsletter 172.
+Comparing my al|together VN rank to VNDB (NAF, 2/3)  
+Afte…]]></summary>
+        <author>
+            <name>The Newsletter Leaf Journal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Contributing to Steam-Linux Trends]]></title>
         <id>https://social.emucafe.org/naferrell/steam-linux-trends-124/</id>
