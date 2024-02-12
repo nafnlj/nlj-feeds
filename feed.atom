@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nafnlj.github.io/nljfeeds/index.html</id>
     <title>New Leaf Journal Feeds</title>
-    <updated>2024-02-11T20:11:06.485Z</updated>
+    <updated>2024-02-12T14:09:51.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nafnlj.github.io/nljfeeds/index.html"/>
     <link rel="self" href="https://nafnlj.github.io/nljfeeds/feed.atom"/>
@@ -877,20 +877,6 @@ Searching for the "Libertarian Moment"]]></summary>
         <updated>2024-01-14T05:50:49.000Z</updated>
         <author>
             <name>Victor V. Gurbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter Leaf Journal CLXIX 〜 Ranking hacking 〜]]></title>
-        <id>https://buttondown.email/newsletterleafjournal/archive/169/</id>
-        <link href="https://buttondown.email/newsletterleafjournal/archive/169/"/>
-        <updated>2024-01-14T00:10:43.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 169th edition of The Newsletter Leaf Journal, the official newsletter of the perennially virid online writing magazine, The New Leaf Journal. This newsletter comes to you as always from the waterproof keyboard of the editor of The New Leaf Journal, Nicholas A. Ferrell. I am running a bit behind schedule today, so let us cut straight to your regularly scheduled newsletter content.  
-Leaves from the week that was
-I published three new articles since mailing Newsletter 168.  
-2023 Anime Year in Review
-My third annual New Leaf Journal review of the year that was about anime, and it features my ranking of the top six series of 2024, notes on additional series, and category-specific awards. You can either use my article to find something to watch or as a prompt to become angry bec…]]></summary>
-        <author>
-            <name>The Newsletter Leaf Journal</name>
         </author>
     </entry>
 </feed>
