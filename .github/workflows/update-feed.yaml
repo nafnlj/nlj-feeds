@@ -14,13 +14,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4.2.0
       - name: Setup Node.js environment
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: "20"
       - name: Install dependencies
-        run: npm install
+        run: npm i
       - name: Build the feed
         run: npm run build
       - name: Deploy to GitHub Pages
