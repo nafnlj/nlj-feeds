@@ -5,7 +5,6 @@
 
 cacheUrl: https://nafnlj.github.io/nljfeeds/cache.json
 sources:
-  - href: https://github.com/nafnlj/nljfeeds/commits/main.atom
   - href: https://thenewleafjournal.com/author/naferrell/feed
   - href: https://thenewleafjournal.com/author/victorvgurbo/feed
   - href: https://thenewleafjournal.com/leaf/feed
